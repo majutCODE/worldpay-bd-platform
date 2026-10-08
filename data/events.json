@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08T19:21+00:00",
+ "fetched_at": "2026-10-08T19:47+00:00",
  "failures": [],
  "events": [
   {
@@ -31,6 +31,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/event-covers/d1/3d2ebd99-c43e-4442-aa75-fa1d57b58e07.jpg"
+  },
+  {
+   "title": "The Conspiracies Pub Quiz",
+   "start": "2026-10-12T18:00+00:00",
+   "end": "2026-10-12T20:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/e7vfq25r",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/am/bfffed3e-9fe3-4105-8c03-95c1c9bb3541.jpg"
   },
   {
    "title": "Antidote Office Open Day! ⚡️",
@@ -706,6 +722,38 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/zs/f02573a7-7e13-44f7-a527-3b154c96c7af.jpg"
+  },
+  {
+   "title": "The Jumpers Pub Quiz",
+   "start": "2026-12-14T19:00+00:00",
+   "end": "2026-12-14T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/o12zbni7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
+  },
+  {
+   "title": "The Nativity Pub Quiz",
+   "start": "2026-12-21T19:00+00:00",
+   "end": "2026-12-21T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/zvi12pf7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Impact Amsterdam",
