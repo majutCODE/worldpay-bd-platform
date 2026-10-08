@@ -110,17 +110,29 @@ def luma():
 
 # ---------- AffPapa iGaming events directory (event pages carry schema.org Event data) ----------
 def affpapa():
-    links = []
-    for n in range(1, 6):
-        url = "https://affpapa.com/events/" + (f"pages/{n}/?page={n}" if n > 1 else "")
+    links, year = [], datetime.now(timezone.utc).year
+    # The listing page only shows featured events; the sitemap lists every event page.
+    todo = ["https://affpapa.com/sitemap_index.xml", "https://affpapa.com/sitemap.xml", "https://affpapa.com/wp-sitemap.xml"]
+    seen_maps = set()
+    while todo and len(seen_maps) < 40:
+        sm = todo.pop(0)
+        if sm in seen_maps:
+            continue
+        seen_maps.add(sm)
         try:
-            page = get_text(url)
-        except Exception as e:
-            print(f"  affpapa list {n}: {e}", file=sys.stderr)
-            break
-        for l in re.findall(r'href="(https://affpapa\.com/events/[a-z0-9-]+/)"', page):
-            if l not in links and "/pages/" not in l:
-                links.append(l)
+            xml = get_text(sm, tries=2)
+        except Exception:
+            continue
+        for loc in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml):
+            if loc.endswith(".xml"):
+                if re.search(r"event", loc, re.I):
+                    todo.insert(0, loc)
+            elif re.match(r"https://affpapa\.com/events/[a-z0-9-]+/?$", loc) and loc not in links:
+                yrs = [int(y) for y in re.findall(r"20\d\d", loc)]
+                if not yrs or max(yrs) >= year:
+                    links.append(loc)
+    if not links:
+        raise RuntimeError(f"no event pages found in sitemaps {sorted(seen_maps)}")
     events = []
     for l in links:
         try:
