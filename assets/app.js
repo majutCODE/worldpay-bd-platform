@@ -2,15 +2,14 @@
 // To add a vertical, create verticals/<name>.js that pushes {id, group, title, render(el)} and add a <script> tag.
 (function () {
   const side = document.getElementById("side"), view = document.getElementById("view");
-  const groups = ["Crypto", "Gaming & Lottery", "Prize Draws & Lottery", "Retail", "Travel", "Financial Services"];
+  const groups = ["Crypto", "Gaming & Lottery", "Prize Draws & Lottery"];
 
   function nav() {
     const cur = location.hash.slice(2) || (window.VERTICALS[0] || {}).id;
+    // Only groups with at least one vertical are shown.
     side.innerHTML = groups.map(g => {
       const items = window.VERTICALS.filter(v => v.group === g);
-      return `<h4>${g}</h4>` + (items.length
-        ? items.map(v => `<a href="#/${v.id}" class="${v.id === cur ? "on" : ""}">${v.title}</a>`).join("")
-        : `<div class="soon">Coming soon</div>`);
+      return items.length ? `<h4>${g}</h4>` + items.map(v => `<a href="#/${v.id}" class="${v.id === cur ? "on" : ""}">${v.title}</a>`).join("") : "";
     }).join("");
     const v = window.VERTICALS.find(x => x.id === cur);
     if (v) v.render(view); else view.innerHTML = "<h1>Not found</h1>";
