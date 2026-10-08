@@ -47,6 +47,7 @@ window.VERTICALS = window.VERTICALS || [];
     async render(el) {
       el.innerHTML = `<h1>Lottery licence tracker</h1><p class="sub">Loading…</p>`;
       const D = gcache || (gcache = await fetch("data/gambling.json", { cache: "no-cache" }).then(r => r.json()));
+      await Co.loadPsp();
       const R = D.records.filter(r => r.activities.some(a => LOTTO_ACT.test(a)) || LOTTO_NAME.test(r.company + " " + r.brands.join(" ")))
         .map(r => ({ ...r, kind: kind(r) })).sort((a, b) => String(b.granted).localeCompare(String(a.granted)));
       const regs = D.regulators.filter(g => R.some(r => r.regulator === g.code));
@@ -66,18 +67,20 @@ window.VERTICALS = window.VERTICALS || [];
           sel("ltype", "Remote and land-based", [...new Set(R.map(r => r.licence_type))].sort(), (r, v) => r.licence_type === v),
           sel("b2c", "B2C and B2B", [["b2c", "B2C only"]], r => r.b2c, "b2c"),
           sel("status", "Include inactive", [["active", "Active only"]], r => r.active, "active"),
+          { id: "psp", html: `<select id="psp">${Co.options()}</select>`, test: (r, v) => Co.match(Co.sitesOf(r), v) },
           ...dates("granted"),
         ],
-        head: ["Company", "Regulator", "Lottery type", "Licence", "Date", "Status", "Websites"],
+        head: ["Company", "Regulator", "Lottery type", "Licence", "Date", "Status", "Websites", "Payments"],
         cols: ["company", "b2c", "brands", "regulator", "kind", "licence_type", "activities", "licence_number", "granted", "date_kind", "status", "websites"],
         row: r => `<tr>
-          <td><div class="co">${flagImg(r.hq || r.jurisdiction, cname(r.hq || r.jurisdiction))}<span>${esc(r.company)}${r.b2c ? b2cTag : ""}${r.brands.length ? `<div class="muted small">${esc(r.brands.slice(0, 3).join(", "))}${r.brands.length > 3 ? ` +${r.brands.length - 3}` : ""}</div>` : ""}</span></div></td>
+          <td><div class="co">${flagImg(r.hq || r.jurisdiction, cname(r.hq || r.jurisdiction))}<span>${Co.link(r.company)}${r.b2c ? b2cTag : ""}${r.brands.length ? `<div class="muted small">${esc(r.brands.slice(0, 3).join(", "))}${r.brands.length > 3 ? ` +${r.brands.length - 3}` : ""}</div>` : ""}</span></div></td>
           <td class="small" style="white-space:nowrap">${flagImg(r.jurisdiction, cname(r.jurisdiction))} ${esc(r.regulator)}</td>
           <td class="small">${esc(r.kind)}</td>
           <td class="small"><span class="tag">${esc(r.licence_type)}</span><div class="muted">${esc(r.licence_number)}</div></td>
           <td style="white-space:nowrap">${r.date_kind === "year" && r.granted ? r.granted.slice(0, 4) : fmt(r.granted)}${r.date_kind === "first_seen" && r.granted ? `<div class="muted small">first seen</div>` : ""}</td>
           <td class="small">${r.active ? esc(r.status || "Active") : `<span class="muted">${esc(r.status || "Inactive")}</span>`}</td>
-          <td class="small">${list(r.websites, "websites", link)}</td></tr>`,
+          <td class="small">${list(r.websites, "websites", link)}</td>
+          <td class="small">${r.b2c ? Co.cell(Co.sitesOf(r)) : ""}</td></tr>`,
         foot: `Source: ${regs.map(g => `<a href="${g.url}" target="_blank" rel="noopener">${esc(g.name)}</a>`).join(", ")}. Small society lotteries registered only with local councils are not included. Refreshed ${new Date(D.fetched_at).toLocaleString("en-GB")}.`,
       });
     },

@@ -4,7 +4,8 @@ window.Co = (function () {
   const SOURCES = [
     { file: "data/mica.json", vertical: "Crypto (MiCA)" },
     { file: "data/gambling.json", vertical: "Gambling" },
-    { file: "data/lottery.json", vertical: "Lottery & prize draws" },
+    { file: "data/prizedraws.json", vertical: "Prize draws", map: r => ({ ...r, regulator: r.source === "DCMS" ? "DCMS prize draw code" : "Companies House", jurisdiction: "GB",
+      licence_type: r.signatory ? "Code signatory" : "New company", granted: r.date, licence_number: r.company_number }) },
   ];
   const COMPETITOR = ["Stripe", "Adyen", "Checkout.com", "Nuvei", "Paysafe", "Braintree", "Worldline", "Trust Payments", "Ecommpay", "Praxis", "Truevo",
     "Emerchantpay", "Global Payments", "Shift4", "Rapyd", "Fiserv", "Elavon", "Barclaycard", "Mollie", "Airwallex", "Mangopay", "Square", "SumUp"];
@@ -34,7 +35,7 @@ window.Co = (function () {
     if (all) return all;
     const sets = await Promise.all(SOURCES.map(s => fetch(s.file, { cache: "no-cache" }).then(r => r.ok ? r.json() : null).catch(() => null)));
     all = [];
-    sets.forEach((d, i) => (d && d.records || []).forEach(r => all.push({ ...r, _v: SOURCES[i].vertical, _k: key(r.company), _sites: sitesOf(r) })));
+    sets.forEach((d, i) => (d && d.records || []).forEach(r => all.push({ ...(SOURCES[i].map ? SOURCES[i].map(r) : r), _v: SOURCES[i].vertical, _k: key(r.company), _sites: sitesOf(r) })));
     return all;
   }
 
