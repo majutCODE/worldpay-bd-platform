@@ -2,14 +2,19 @@ name: Refresh MiCA data
 on:
   schedule:
     - cron: "0 6 * * *"
+    - cron: "0 14 * * *"   # second daily run picks up same-day ESMA updates
   workflow_dispatch:
   push:
+    branches: [main]
     paths: ["scripts/fetch_mica.py", ".github/workflows/refresh-mica.yml"]
 permissions:
   contents: write
+  issues: write
+concurrency: refresh-mica
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,6 +24,26 @@ jobs:
       - name: Commit if changed
         run: |
           git config user.name "mica-bot"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/mica.json
-          if git diff --cached --quiet; then echo "No changes"; else git commit -m "Refresh MiCA register data" && git push; fi
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Refresh MiCA register data"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 10; done
+          exit 1
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = "MiCA data refresh failing";
+            const open = await github.rest.issues.listForRepo({ ...context.repo, state: "open", labels: "refresh-failure" });
+            const body = `Run failed: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\nThe site keeps showing the last good data.`;
+            if (open.data.length) await github.rest.issues.createComment({ ...context.repo, issue_number: open.data[0].number, body });
+            else await github.rest.issues.create({ ...context.repo, title, body, labels: ["refresh-failure"] });
+      - name: Close failure issue on success
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const open = await github.rest.issues.listForRepo({ ...context.repo, state: "open", labels: "refresh-failure" });
+            for (const i of open.data) await github.rest.issues.update({ ...context.repo, issue_number: i.number, state: "closed" });

@@ -6,4 +6,6 @@ Static site with one page per Worldpay vertical. First vertical: **Crypto, MiCA 
 - `.github/workflows/refresh-mica.yml` refreshes it daily at 06:00 UTC and commits changes, which redeploys the site.
 - Add a vertical: create `verticals/<name>.js` (see `crypto-mica.js`) and add its `<script>` tag to `index.html`.
 
-Hosting: Cloudflare Pages, connected to this repo. Build command: none. Output directory: `/`.
+Hosting: Vercel, connected to this repo (static, no build step). Each data commit redeploys.
+
+If a refresh fails (download error, too few records, format change), the job keeps the last good data and opens a GitHub issue labelled `refresh-failure`, which emails the repo owner. It closes the issue on the next successful run.
