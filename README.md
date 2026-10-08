@@ -22,3 +22,7 @@ Each regulator is fetched separately: one failing keeps its last good data, the 
 | Malta Gaming Authority | licensee register (JS app, read with headless Chromium) | year from licence number, exact first-seen date for new ones |
 | Gibraltar | gamblingdivision.gov.gi/licence-holders | first seen |
 | Poland Ministry of Finance | gov.pl/web/finanse/legalny-hazard | first seen |
+
+## Events
+
+`scripts/fetch_events.py` builds `data/events.json` (upcoming London and Amsterdam events) from Luma (city feeds, crypto category, search), Meetup search and the AffPapa iGaming events directory. Events are tagged crypto or gaming by keyword and shown on each vertical's Events page. Refreshed by `.github/workflows/refresh-events.yml` at 06:30 and 14:30 UTC; failures open an issue labelled `events-refresh-failure`.

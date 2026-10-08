@@ -14,7 +14,7 @@ window.VERTICALS = window.VERTICALS || [];
       const st = { q: "", city: "", source: "", from: "", to: "" };
       el.innerHTML = `
         <h1>${label} events</h1>
-        <p class="sub">Upcoming ${label.toLowerCase()} events in London and Amsterdam from Luma and Meetup, soonest first.</p>
+        <p class="sub">Upcoming ${label.toLowerCase()} events in London and Amsterdam from Luma, Meetup and AffPapa, soonest first.</p>
         <div class="stats">
           <div class="stat"><b>${R.length}</b><span>Upcoming</span></div>
           <div class="stat"><b>${R.filter(e => e.start <= week).length}</b><span>Next 7 days</span></div>

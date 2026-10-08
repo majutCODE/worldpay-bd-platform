@@ -22,7 +22,7 @@ jobs:
           python-version: "3.12"
       - name: Fetch events
         id: fetch
-        run: DEBUG=1 python scripts/fetch_events.py
+        run: python scripts/fetch_events.py
         continue-on-error: true
       - name: Commit if changed
         run: |
