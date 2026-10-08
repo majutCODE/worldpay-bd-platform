@@ -21,5 +21,3 @@ Each regulator is fetched separately: one failing keeps its last good data, the 
 | Malta Gaming Authority | licensee register (JS app, read with headless Chromium) | year from licence number, exact first-seen date for new ones |
 | Gibraltar | gamblingdivision.gov.gi/licence-holders | first seen |
 | Poland Ministry of Finance | gov.pl/web/finanse/legalny-hazard | first seen |
-| Romania ONJN | onjn.gov.ro/licentiati-clasa-i (via r.jina.ai) | decision + validity dates; site blocks non-EU traffic, currently failing |
-| Bulgaria NRA | not scraped: nra.bg times out from GitHub runners and reader proxies | |

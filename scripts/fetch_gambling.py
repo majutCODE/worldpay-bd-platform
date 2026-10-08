@@ -1,4 +1,4 @@
-"""Fetch gambling licence registers (UK, Malta, Gibraltar, Romania, Poland, Bulgaria) and build data/gambling.json.
+"""Fetch gambling licence registers (UK, Malta, Gibraltar, Poland) and build data/gambling.json.
 
 Each regulator is fetched independently. If one fails, its records from the last good run are kept and the
 failure is reported (exit code 1) so the workflow opens an issue, while the other regulators still update.
@@ -24,9 +24,7 @@ REGULATORS = [
      "url": "https://mgalicenseeregister.mga.org.mt/"},
     {"code": "GGC", "country": "GI", "name": "Gibraltar Gambling Commissioner", "min": 40,
      "url": "https://gamblingdivision.gov.gi/licence-holders", "note": "no grant dates published, date is first seen"},
-    {"code": "ONJN", "country": "RO", "name": "Romania ONJN", "min": 20, "url": "https://onjn.gov.ro/"},
     {"code": "MF", "country": "PL", "name": "Poland Ministry of Finance", "min": 10, "url": "https://www.gov.pl/web/finanse/legalny-hazard", "note": "no grant dates published, date is first seen"},
-    {"code": "NRA", "country": "BG", "name": "Bulgaria NRA", "min": 10, "url": "https://nra.bg/"},
 ]
 
 
@@ -184,55 +182,6 @@ def mga(reg):
     return out
 
 
-# ---------- Romania ONJN: class I licence list (site blocks non-EU traffic, so read it through r.jina.ai) ----------
-ONJN_HQ = (("Malta", "MT"), ("Gibraltar", "GI"), ("Cipru", "CY"), ("Cyprus", "CY"), ("Isle of Man", "IM"), ("Insula Man", "IM"),
-           ("Estonia", "EE"), ("Bulgaria", "BG"), ("Grecia", "GR"), ("Marea Britanie", "GB"), ("Irlanda", "IE"), ("Olanda", "NL"),
-           ("Austria", "AT"), ("Curacao", "CW"), ("Letonia", "LV"), ("Lituania", "LT"))
-
-
-def onjn(reg):
-    page, errs = None, []
-    for src, hdr in (("https://r.jina.ai/https://onjn.gov.ro/licentiati-clasa-i/", {"X-Return-Format": "html"}),
-                     ("https://r.jina.ai/https://onjn.gov.ro/licentiati-clasa-i/", {}),
-                     ("https://onjn.gov.ro/licentiati-clasa-i/", {})):
-        try:
-            page = get(src, tries=3, timeout=120, headers=hdr)
-            break
-        except urllib.error.HTTPError as e:
-            errs.append(f"{src} {e.code}: {e.read()[:200]!r}")
-        except Exception as e:
-            errs.append(f"{src}: {e}")
-    if page is None:
-        raise RuntimeError("; ".join(errs))
-    flat = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>|\|", " ", page)))
-    pat = re.compile(r"Decizia\s*nr\.?\s*(\d+)\s*din\s*(\d{2}\.\d{2}\.\d{4})\s*(?:(\d{2}\.\d{2}\.\d{4})\s*-\s*(\d{2}\.\d{2}\.\d{4}))?", re.I)
-    out, start = [], None
-    matches = list(pat.finditer(flat))
-    for i, m in enumerate(matches):
-        seg = flat[(matches[i - 1].end() if i else max(0, m.start() - 600)):m.start()]
-        if not i:  # skip the table header before the first entry
-            seg = re.split(r"(?i)valabilitate|perioada|nr\.\s*crt\.?", seg)[-1]
-        seg = re.sub(r"^[\s\d.\-]+", "", seg)
-        name = re.split(r",|\s+(?:" + "|".join(k for k, _ in ONJN_HQ) + r"|Rom[aâ]nia|Bucure[sș]ti|Jud\.?|Str\.)\b", seg)[0].strip(" -")
-        if not name or len(name) > 120:
-            continue
-        hq = next((c for k, c in ONJN_HQ if k in seg[:200]), "RO")
-        acts = []
-        for label, rx in (("Fixed-odds betting", r"cot[ăa] fix"), ("Casino", r"Cazinou"), ("Poker", r"Poker"),
-                          ("Pool betting", r"Pariuri mutuale"), ("Bingo", r"Bingo"), ("Lottery", r"Loteri")):
-            if re.search(rx, seg, re.I):
-                acts.append(label)
-        sites = sorted(set(w.lower() for w in re.findall(r"\b(?:www\.)?[a-z0-9-]+(?:\.[a-z0-9-]+)*\.(?:ro|com|net|eu)\b", seg, re.I)) - {"onjn.gov.ro"})
-        out.append(rec(reg, name, hq=hq, licence_type="B2C online", activities=acts, licence_number=f"Decizia {m.group(1)}",
-                       granted=iso(m.group(3) or m.group(2)), expiry=iso(m.group(4) or ""), websites=sites))
-    for r in out:
-        if r["expiry"] and r["expiry"] < TODAY:
-            r["status"], r["active"] = "Expired", False
-    if not out:
-        print(flat[:3000], file=sys.stderr)
-    return out
-
-
 # ---------- Poland: Ministry of Finance "Legalny hazard" page (two tables, no dates) ----------
 MF_SCOPE = {"kasyno online": "Online casino", "gry liczbowe i loterie pieniężne": "Numbers games and lotteries"}
 
@@ -255,7 +204,7 @@ def mf(reg):
             for (name, scope), g in groups.items()]
 
 
-SCRAPERS = {"UKGC": ukgc, "MGA": mga, "GGC": ggc, "ONJN": onjn, "MF": mf}
+SCRAPERS = {"UKGC": ukgc, "MGA": mga, "GGC": ggc, "MF": mf}
 
 
 def key(r):
@@ -275,8 +224,6 @@ def main():
     for reg in REGULATORS:
         old = [r for r in prev_recs if r["regulator"] == reg["code"]]
         fn = SCRAPERS.get(reg["code"])
-        if not fn:
-            continue  # register not reachable from automation yet, see README
         try:
             new = fn(reg)
             if os.environ.get("DEBUG"):

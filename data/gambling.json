@@ -32,12 +32,9 @@
   "UKGC": 3419,
   "MGA": 317,
   "GGC": 68,
-  "ONJN": 0,
   "MF": 20
  },
- "failures": [
-  "ONJN: HTTP Error 403: Forbidden"
- ],
+ "failures": [],
  "records": [
   {
    "company": "Paul Anthony Hertzberg",
