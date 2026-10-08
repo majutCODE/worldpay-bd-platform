@@ -37,3 +37,13 @@ details summary{cursor:pointer;color:var(--accent)}
 @media (max-width:760px){.menu{display:block}.side{position:fixed;top:52px;bottom:0;left:-240px;z-index:4;transition:left .2s}.side.open{left:0}main{padding:16px}}
 .tag.up{background:#e6f4ff;color:#0a4d8c;font-weight:500;margin-top:3px}
 .tag.b2c-B2C{background:#d9f2e4;color:#0b5d33}.tag.b2c-B2C-bank{background:#e8f0ff;color:#1a3f8a}.tag.b2c-B2B{background:#efeeea;color:#5e5d59}
+.colink{color:inherit;text-decoration:none;border-bottom:1px dotted var(--muted)}.colink:hover{color:var(--accent2)}
+.tag.psp{background:#eceae4;color:#3d3c38;margin:1px 0}.tag.psp.comp{background:#fde8d7;color:#8a3b00}.tag.psp.wp{background:#ffe1e5;color:#a1001a}
+.tag.psp.weak{opacity:.6;background:transparent;box-shadow:inset 0 0 0 1px currentColor}
+dialog#profile{border:0;border-radius:10px;padding:0;width:min(760px,calc(100vw - 32px));max-height:calc(100vh - 48px);background:var(--panel);color:var(--ink)}
+dialog#profile::backdrop{background:rgba(20,20,20,.4)}
+.pbody{padding:20px 22px;position:relative}.pbody h2{font:600 22px var(--serif);margin:0 36px 6px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pbody h3{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:18px 0 6px}
+.pbody .x{position:absolute;top:14px;right:14px;border:0;background:none;font-size:18px;cursor:pointer;color:var(--muted)}
+.pbody .btn{display:inline-block;text-decoration:none;margin:0 6px 6px 0}
+.angle{background:var(--chip);border-radius:6px;padding:8px 10px;font-size:13px}
