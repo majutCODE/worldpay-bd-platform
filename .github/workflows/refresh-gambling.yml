@@ -1,0 +1,57 @@
+name: Refresh gambling licence data
+on:
+  schedule:
+    - cron: "15 6 * * *"
+    - cron: "15 14 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, "claude/**"]
+    paths: ["scripts/fetch_gambling.py", ".github/workflows/refresh-gambling.yml"]
+permissions:
+  contents: write
+  issues: write
+concurrency: refresh-gambling
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install headless browser (Malta register is a JS app)
+        run: pip install -q playwright==1.47.0 && python -m playwright install --with-deps chromium > /dev/null
+      - name: Fetch registers
+        id: fetch
+        run: DEBUG=1 python scripts/fetch_gambling.py
+        continue-on-error: true
+      - name: Commit if changed
+        run: |
+          git config user.name "gambling-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/gambling.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Refresh gambling licence data"
+          for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep 10; done
+          exit 1
+      - name: Fail if any register failed
+        if: steps.fetch.outcome == 'failure'
+        run: exit 1
+      - name: Open issue on failure
+        if: failure() && github.ref_name == 'main'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = "Gambling data refresh failing";
+            const open = await github.rest.issues.listForRepo({ ...context.repo, state: "open", labels: "gambling-refresh-failure" });
+            const body = `Run failed: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\nRegisters that failed keep showing their last good data; the others still updated.`;
+            if (open.data.length) await github.rest.issues.createComment({ ...context.repo, issue_number: open.data[0].number, body });
+            else await github.rest.issues.create({ ...context.repo, title, body, labels: ["gambling-refresh-failure"] });
+      - name: Close failure issue on success
+        if: success() && github.ref_name == 'main'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const open = await github.rest.issues.listForRepo({ ...context.repo, state: "open", labels: "gambling-refresh-failure" });
+            for (const i of open.data) await github.rest.issues.update({ ...context.repo, issue_number: i.number, state: "closed" });

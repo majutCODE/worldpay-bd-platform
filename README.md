@@ -9,3 +9,17 @@ Static site with one page per Worldpay vertical. First vertical: **Crypto, MiCA 
 Hosting: Vercel, connected to this repo (static, no build step). Each data commit redeploys.
 
 If a refresh fails (download error, too few records, format change), the job keeps the last good data and opens a GitHub issue labelled `refresh-failure`, which emails the repo owner. It closes the issue on the next successful run.
+
+## Gambling licence tracker
+
+`scripts/fetch_gambling.py` builds `data/gambling.json`; `.github/workflows/refresh-gambling.yml` runs it at 06:15 and 14:15 UTC.
+Each regulator is fetched separately: one failing keeps its last good data, the rest still update, and an issue labelled `gambling-refresh-failure` opens.
+
+| Regulator | Source | Dates |
+|---|---|---|
+| UK Gambling Commission | official CSV downloads | licence start dates |
+| Malta Gaming Authority | licensee register (JS app, read with headless Chromium) | year from licence number, exact first-seen date for new ones |
+| Gibraltar | gamblingdivision.gov.gi/licence-holders | first seen |
+| Poland Ministry of Finance | gov.pl/web/finanse/legalny-hazard | first seen |
+| Romania ONJN | onjn.gov.ro/licentiati-clasa-i (via r.jina.ai) | decision + validity dates; site blocks non-EU traffic, currently failing |
+| Bulgaria NRA | not scraped: nra.bg times out from GitHub runners and reader proxies | |
