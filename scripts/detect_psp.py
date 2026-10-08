@@ -41,7 +41,7 @@ PSPS = [
     ("Praxis", "acquirer", r"praxis(cashier|\.tech)|cashier\.praxis", r"(?i)\bpraxis (tech|cashier)\b"),
     ("Truevo", "acquirer", r"truevo\.(com|eu)", r"(?i)\btruevo\b"),
     ("Emerchantpay", "acquirer", r"emerchantpay\.(com|net)|emspay", r"(?i)\bemerchantpay\b"),
-    ("Global Payments", "acquirer", r"globalpay(ments)?\.com|realexpayments\.com|globaliris", r"(?i)\b(global ?payments|realex)\b"),
+    ("Global Payments", "acquirer", r"globalpay(ments)?\.com|realexpayments\.com|globaliris", r"\bGlobal Payments (Inc|Europe|UK|Ltd|Limited)\b|\b[Rr]ealex\b"),
     ("Shift4", "acquirer", r"shift4\.com", r"(?i)\bshift4\b"),
     ("Rapyd", "acquirer", r"rapyd\.net", r"(?i)\brapyd\b"),
     ("Fiserv", "acquirer", r"fiserv\.com|ipg-online\.com|firstdata\.com|clover\.com", r"(?i)\b(fiserv|first data)\b"),
