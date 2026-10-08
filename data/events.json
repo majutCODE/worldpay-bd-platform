@@ -1,0 +1,741 @@
+{
+ "fetched_at": "2026-10-08T19:21+00:00",
+ "failures": [],
+ "events": [
+  {
+   "title": "Money Movement After Hours",
+   "start": "2026-10-08T18:00+00:00",
+   "end": "2026-10-08T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/y0trjpvd",
+   "source": "Luma",
+   "organiser": "Fuze Finance",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/dm/534de2a6-80a8-4940-a3a0-ee0b83919c7a.png"
+  },
+  {
+   "title": "Build Station Day 4",
+   "start": "2026-10-09T08:00+00:00",
+   "end": "2026-10-09T15:00+00:00",
+   "city": "Amsterdam",
+   "venue": "AI AM",
+   "url": "https://lu.ma/f1e6rc1v",
+   "source": "Luma",
+   "organiser": "Superteam NL",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/d1/3d2ebd99-c43e-4442-aa75-fa1d57b58e07.jpg"
+  },
+  {
+   "title": "Antidote Office Open Day! ⚡️",
+   "start": "2026-10-13T09:30+00:00",
+   "end": "2026-10-13T13:00+00:00",
+   "city": "London",
+   "venue": "Antidote",
+   "url": "https://lu.ma/hfqu8u55",
+   "source": "Luma",
+   "organiser": "Antidote Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/s8/c653eb81-8532-4118-b28a-5ac7b87aa28c.jpg"
+  },
+  {
+   "title": "London Demo Dinner : Hosted by Superteam UK",
+   "start": "2026-10-13T16:30+00:00",
+   "end": "2026-10-13T20:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/London-DemoDinner-2026",
+   "source": "Luma",
+   "organiser": "Superteam",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9o/70e89bde-b285-4b48-83ec-fdb2ad3c40a4.png"
+  },
+  {
+   "title": "AWIC x Grant Thornton x CFAAR: Panel Discussions on UK Digital Asset Regulation & Emerging Industry Topics",
+   "start": "2026-10-14T16:30+00:00",
+   "end": "2026-10-14T20:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/yf5q8n1d",
+   "source": "Luma",
+   "organiser": "AWIC",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/fv/dcf21a71-2dac-440f-b22c-3675ded0630e.png"
+  },
+  {
+   "title": "Solana Demo Day: Colosseum Hackathon",
+   "start": "2026-10-14T17:00+00:00",
+   "end": "2026-10-14T20:00+00:00",
+   "city": "Amsterdam",
+   "venue": "The Brokers Bar",
+   "url": "https://lu.ma/vwqedg55",
+   "source": "Luma",
+   "organiser": "Superteam NL",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/io/55320893-81ee-4caf-99ae-b7c33dd95fa7.jpg"
+  },
+  {
+   "title": "House of Sol Workshop: Why Tokenized RWAs Are Superior: SRI x ioBuilders",
+   "start": "2026-10-15T16:00+00:00",
+   "end": "2026-10-15T17:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HoS-Workshops-ioBuilders",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/c2/2499e7df-fc7a-488d-a3c4-28e778aa2ba3.png"
+  },
+  {
+   "title": "Real-Time Video Agents Hack - LDN",
+   "start": "2026-10-17T07:30+00:00",
+   "end": "2026-10-17T17:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/vastlondon",
+   "source": "Luma",
+   "organiser": "tokens&",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/o8/389e9f54-e4e3-4cd9-9b3d-53ab5a95f972.png"
+  },
+  {
+   "title": "Stablecoins Grow Up: From Crypto Rails to Real-World Money",
+   "start": "2026-10-19T17:30+00:00",
+   "end": "2026-10-19T20:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/56472dr4",
+   "source": "Luma",
+   "organiser": "CryptoMondays London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/p0/d9466d1b-675e-4fda-bd8a-df8d040c82b8.png"
+  },
+  {
+   "title": "CryptoMondays London",
+   "start": "2026-10-19T17:30+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/cryptomondayslondon/events/316648115/",
+   "source": "Meetup",
+   "organiser": "CryptoMondays London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
+  },
+  {
+   "title": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
+   "start": "2026-10-20T17:30+00:00",
+   "end": "2026-10-20T20:30+00:00",
+   "city": "London",
+   "venue": "Encode Hub",
+   "url": "https://lu.ma/encode-mmls",
+   "source": "Luma",
+   "organiser": "Encode Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/pm/c960a4a7-f078-4d3b-a7d6-f1191fa8d355.png"
+  },
+  {
+   "title": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
+   "start": "2026-10-21T14:00+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-london/events/316844031/",
+   "source": "Meetup",
+   "organiser": "LFDT London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
+  },
+  {
+   "title": "GIBLDN26 Rockchain - food drinks and crypto",
+   "start": "2026-10-21T16:00+00:00",
+   "end": "2026-10-21T20:00+00:00",
+   "city": "London",
+   "venue": "COYA City",
+   "url": "https://lu.ma/vv3fj69q",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/66/536b821f-ec8f-4f15-a48a-720600669cc8.png"
+  },
+  {
+   "title": "CWC Explorer Evenings: Crypto & Investing Basics",
+   "start": "2026-10-21T17:30+00:00",
+   "end": "2026-10-21T19:30+00:00",
+   "city": "Amsterdam",
+   "venue": "MINA Gallery & Cafe",
+   "url": "https://lu.ma/1rsengoy",
+   "source": "Luma",
+   "organiser": "Crypto Women Collective",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/jj/3a33c159-e839-4d62-a739-a0fc9a210da5.jpg"
+  },
+  {
+   "title": "House of Sol Workshops: Not All Yield Is Equal: How Your Stake Shapes Solana: SRI x Solana Compass",
+   "start": "2026-10-22T16:00+00:00",
+   "end": "2026-10-22T18:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HoS-Workshops-SolanaCompass",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ls/c4f07d6b-8e59-468d-aa84-e408976592b0.png"
+  },
+  {
+   "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
+   "start": "2026-10-28T18:00+00:00",
+   "end": "2026-10-28T21:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/2ddct6na",
+   "source": "Luma",
+   "organiser": "The W3B Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/zz/7463fd85-a270-4f21-a973-daf9e9350725"
+  },
+  {
+   "title": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+   "start": "2026-10-29T15:00+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-london/events/316859654/",
+   "source": "Meetup",
+   "organiser": "LFDT London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
+  },
+  {
+   "title": "Co-Working Fridays : London Chapter",
+   "start": "2026-10-30T10:00+00:00",
+   "end": "2026-10-30T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/london-oct-30",
+   "source": "Luma",
+   "organiser": "Superteam",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png"
+  },
+  {
+   "title": "Solana Hacker House - London",
+   "start": "2026-11-01T10:00+00:00",
+   "end": "2026-11-12T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/london-hh-26",
+   "source": "Luma",
+   "organiser": "Solana Hacker Houses",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/us/872fe78e-c0aa-4f08-b842-21d764285064.jpg"
+  },
+  {
+   "title": "BFC Symposium Amsterdam",
+   "start": "2026-11-04T11:00+00:00",
+   "end": "2026-11-04T17:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Pakhuis de Zwijger",
+   "url": "https://lu.ma/bfc-ams-26",
+   "source": "Luma",
+   "organiser": "Bitcoin for Corporations",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/wc/37cfaf97-d05c-4374-94b9-5db42776f239.jpg"
+  },
+  {
+   "title": "Socratic seminar BitcoinAmsterdam, November 5, 2026",
+   "start": "2026-11-05T16:30+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/bitdevs-amsterdam/events/316893847/",
+   "source": "Meetup",
+   "organiser": "BitDevs Amsterdam",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
+  },
+  {
+   "title": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
+   "start": "2026-11-05T17:00+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/satoshi-radio-meetup/events/316748938/",
+   "source": "Meetup",
+   "organiser": "Satoshi Radio Meetup",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
+  },
+  {
+   "title": "Media Accelerator & Startup Cohort",
+   "start": "2026-11-05T18:30+00:00",
+   "end": "2026-11-06T19:30+00:00",
+   "city": "Amsterdam",
+   "venue": "Amsterdam",
+   "url": "https://lu.ma/9a0cp8yl",
+   "source": "Luma",
+   "organiser": "Media Accelerator & Startup Cohort",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/ff/3fd694a1-e266-4423-9f51-f2c83844bdc2.jpg"
+  },
+  {
+   "title": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
+   "start": "2026-11-09T16:00+00:00",
+   "end": "2026-11-09T17:00+00:00",
+   "city": "London",
+   "venue": "The Leadenhall Building",
+   "url": "https://lu.ma/cwufkzk1",
+   "source": "Luma",
+   "organiser": "Blockstories Horizon 2026",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ej/ea33fa3e-b2e2-4ca0-9c8c-be4c126b30cc.png"
+  },
+  {
+   "title": "Blockstories Horizon 2026: London Summit 🇬🇧",
+   "start": "2026-11-09T17:00+00:00",
+   "end": "2026-11-09T22:30+00:00",
+   "city": "London",
+   "venue": "The Leadenhall Building",
+   "url": "https://lu.ma/horizonlondonsummit",
+   "source": "Luma",
+   "organiser": "Blockstories Horizon 2026",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vj/db256ecc-f9db-46ea-9645-4e0dc9ecb836.png"
+  },
+  {
+   "title": "Digital Asset Summit London 2026",
+   "start": "2026-11-10T07:00+00:00",
+   "end": "2026-11-11T18:00+00:00",
+   "city": "London",
+   "venue": "London Hilton on Park Lane",
+   "url": "https://lu.ma/daslondon2026",
+   "source": "Luma",
+   "organiser": "DAS 2026 Calendar",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
+  },
+  {
+   "title": "Banking & Payments Dinner by Utila, Cryptio & Velocity",
+   "start": "2026-11-10T18:30+00:00",
+   "end": "2026-11-10T23:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/das-london-dinner",
+   "source": "Luma",
+   "organiser": "Utila",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6k/cb733df7-fae3-4a26-93ef-4e69dd24be68.png"
+  },
+  {
+   "title": "AWIC x DAS London Event",
+   "start": "2026-11-11T09:00+00:00",
+   "end": "2026-11-11T10:00+00:00",
+   "city": "London",
+   "venue": "Norton Rose Fulbright",
+   "url": "https://lu.ma/shdn5h19",
+   "source": "Luma",
+   "organiser": "AWIC",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/wz/58b5a4de-ba04-409f-9f6b-4833a8b61ea1.png"
+  },
+  {
+   "title": "Solana Demo Day | London 2026",
+   "start": "2026-11-12T10:00+00:00",
+   "end": "2026-11-12T18:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/sol-demo-day",
+   "source": "Luma",
+   "organiser": "Solana Foundation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
+  },
+  {
+   "title": "Solana Intelligence Summit",
+   "start": "2026-11-13T10:00+00:00",
+   "end": "2026-11-13T18:00+00:00",
+   "city": "London",
+   "venue": "Somerset House",
+   "url": "https://lu.ma/intelligence-summit",
+   "source": "Luma",
+   "organiser": "Solana Foundation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/eo/c3df31b2-c96d-4223-aff3-e7983c012476.jpg"
+  },
+  {
+   "title": "445 CREW x Solana Breakpoint | Community Run",
+   "start": "2026-11-14T09:15+00:00",
+   "end": "2026-11-14T11:45+00:00",
+   "city": "London",
+   "venue": "Fulham Pier",
+   "url": "https://lu.ma/n6r4k7vb",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/p0/d4a474a1-d588-4bd2-a8a3-b971a9057827.png"
+  },
+  {
+   "title": "Founders & Investors Brunch ✨ Breakpoint - London",
+   "start": "2026-11-15T11:00+00:00",
+   "end": "2026-11-15T14:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/avidk59g",
+   "source": "Luma",
+   "organiser": "fractl -web3's largest investor network",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/3q/cdf8222d-3728-4c80-a5ba-bee192e7c38a.png"
+  },
+  {
+   "title": "Solana Breakpoint 2026",
+   "start": "2026-11-15T16:00+00:00",
+   "end": "2026-11-17T19:00+00:00",
+   "city": "London",
+   "venue": "Olympia",
+   "url": "https://lu.ma/breakpoint2026",
+   "source": "Luma",
+   "organiser": "Solana Breakpoint",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/rp/f80e679e-441f-4cd0-9f62-ffb131cf68bb.png"
+  },
+  {
+   "title": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
+   "start": "2026-11-15T19:00+00:00",
+   "end": "2026-11-15T22:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/hrb0040d",
+   "source": "Luma",
+   "organiser": "BackersStage Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ir/5eeaec44-38e6-4a0c-a016-bf4aea6fa847.png"
+  },
+  {
+   "title": "Solana Breakpoint",
+   "start": "2026-11-15T20:00+00:00",
+   "end": "2026-11-18T21:00+00:00",
+   "city": "London",
+   "venue": "Olympia",
+   "url": "https://lu.ma/uhtrdior",
+   "source": "Luma",
+   "organiser": "DoubleZero Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
+  },
+  {
+   "title": "Solana Governance Talks, London 2026",
+   "start": "2026-11-16T12:30+00:00",
+   "end": "2026-11-16T14:30+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/0rcvc8n9",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/j2/8c283919-7e09-4069-896a-59926d0f0423.png"
+  },
+  {
+   "title": "Impact London",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/x1w8vxqt",
+   "source": "Luma",
+   "organiser": "Finance Loop",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/ob/918da785-fea5-4553-8b29-635b1c667a60.jpg"
+  },
+  {
+   "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
+   "start": "2026-11-16T19:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/aqntywn2",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ue/e09c1b90-34ae-43a5-af76-50f1f5a8d997.png"
+  },
+  {
+   "title": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
+   "start": "2026-11-16T19:30+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "Frameless",
+   "url": "https://lu.ma/frzpha3k",
+   "source": "Luma",
+   "organiser": "Render Network Foundation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/mw/f3d48f0b-960e-453a-965e-a96d92ff2a86.png"
+  },
+  {
+   "title": "Vixio Global Regulatory Awards 2026",
+   "start": "2026-11-18T00:00+00:00",
+   "end": "2026-11-18T00:00+00:00",
+   "city": "London",
+   "venue": "Grand Connaught Rooms",
+   "url": "https://affpapa.com/events/vixio-global-regulatory-awards-2026/",
+   "source": "AffPapa",
+   "organiser": "",
+   "verticals": [
+    "gaming"
+   ],
+   "online": false,
+   "image": ""
+  },
+  {
+   "title": "Blockchain Meets AI",
+   "start": "2026-11-18T16:30+00:00",
+   "end": "2026-11-18T19:30+00:00",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://lu.ma/hovkpcus",
+   "source": "Luma",
+   "organiser": "BCNL Foundation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
+  },
+  {
+   "title": "Rayls Community Meetup: London",
+   "start": "2026-11-18T17:00+00:00",
+   "end": "2026-11-18T19:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yp556lph",
+   "source": "Luma",
+   "organiser": "Rayls Community Meetups",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
+  },
+  {
+   "title": "House of Sol Workshops - SRI x Alchemy",
+   "start": "2026-11-19T17:00+00:00",
+   "end": "2026-11-19T19:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HoS-Workshops-Alchemy",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/zm/d08e94ce-f4f2-4dee-a0e5-b2eb9422dbf5.png"
+  },
+  {
+   "title": "Crypto Dinner - Amsterdam",
+   "start": "2026-11-20T17:30+00:00",
+   "end": "2026-11-20T20:00+00:00",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://lu.ma/dinnerAmsterdam",
+   "source": "Luma",
+   "organiser": "CryptoCanal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png"
+  },
+  {
+   "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
+   "start": "2026-11-27T10:00+00:00",
+   "end": "2026-11-27T12:00+00:00",
+   "city": "London",
+   "venue": "House of Lords",
+   "url": "https://lu.ma/t7lb04mp",
+   "source": "Luma",
+   "organiser": "Business",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/27/d97917a6-b1c0-475e-a49c-27aa1a98ddf6.png"
+  },
+  {
+   "title": "The W3B Club : The 2027 Outlook for Web3: Funding, Infra Trends & Regulatory Roadmaps",
+   "start": "2026-12-09T18:00+00:00",
+   "end": "2026-12-09T21:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/461khtwo",
+   "source": "Luma",
+   "organiser": "The W3B Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/zz/7463fd85-a270-4f21-a973-daf9e9350725"
+  },
+  {
+   "title": "CWC x Sosoul: A Breathwork Evening",
+   "start": "2026-12-09T18:30+00:00",
+   "end": "2026-12-09T21:00+00:00",
+   "city": "Amsterdam",
+   "venue": "SØSOUL Inner Sanctuary",
+   "url": "https://lu.ma/tcj68hdu",
+   "source": "Luma",
+   "organiser": "Crypto Women Collective",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/zs/f02573a7-7e13-44f7-a527-3b154c96c7af.jpg"
+  },
+  {
+   "title": "Impact Amsterdam",
+   "start": "2027-06-01T16:00+00:00",
+   "end": "2027-06-01T19:00+00:00",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://lu.ma/61zo0tr9",
+   "source": "Luma",
+   "organiser": "Finance Loop",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/q6/5cba7646-bf49-4448-a28c-cd40023e1278.jpg"
+  },
+  {
+   "title": "iGB LiVE 2027",
+   "start": "2027-07-07T00:00+00:00",
+   "end": "2027-07-08T00:00+00:00",
+   "city": "London",
+   "venue": "ExCel London",
+   "url": "https://affpapa.com/events/igb-live/",
+   "source": "AffPapa",
+   "organiser": "",
+   "verticals": [
+    "gaming"
+   ],
+   "online": false,
+   "image": ""
+  }
+ ]
+}
