@@ -3,6 +3,7 @@
 Static site with one page per Worldpay vertical. First vertical: **Crypto, MiCA licence tracker**.
 
 - `data/mica.json` is built from the ESMA interim MiCA register by `scripts/fetch_mica.py`.
+- B2C labels for CASPs are set by `classify()` in `scripts/fetch_mica.py` from authorised services. Correct any company in `data/mica_b2c_overrides.json` as `{"<LEI or company name>": "B2C" | "B2C bank" | "B2B"}`.
 - `.github/workflows/refresh-mica.yml` refreshes it daily at 06:00 UTC and commits changes, which redeploys the site.
 - Add a vertical: create `verticals/<name>.js` (see `crypto-mica.js`) and add its `<script>` tag to `index.html`.
 

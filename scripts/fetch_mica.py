@@ -63,7 +63,43 @@ def country(code):
     return "GR" if code == "EL" else code
 
 
+OVERRIDES = OUT.parent / "mica_b2c_overrides.json"
+BANK_RE = re.compile(r"\b(bank|banka|bankas|banca|banco|banque|bancaire|sparkasse|volksbank|raiffeisen\w*|kreditbank|caixa|caisse|cr[eé]dit|kbc|ing|abn amro|rabobank|nordea|bnp|societe generale|soci[eé]t[eé] g[eé]n[eé]rale|unicredit|intesa|commerzbank|dekabank|dz bank|helaba|bayernlb|lbbw|n26|revolut bank)\b|\beg$", re.I)
+
+
+def classify(r, overrides):
+    """B2C label for licensed CASPs, based on the MiCA services they are authorised for.
+    B2C platform: a non-bank authorised to exchange crypto for fiat (customers pay in) or to run trading/brokerage for clients.
+    B2C (bank): a bank offering crypto services to its own retail clients.
+    B2B / institutional: only custody, transfer, advice, portfolio management or placing."""
+    key = r["lei"] or r["company"]
+    if key in overrides:
+        return overrides[key], "manual override"
+    if r["licence_type"] != "CASP":
+        return "", ""
+    sv = " ".join(r["services"]).lower()
+    fiat = "for funds" in sv
+    trading = any(k in sv for k in ("trading platform", "for other crypto", "execution of orders", "reception and transmission"))
+    if not (fiat or trading):
+        return "B2B", "custody/transfer/advisory services only"
+    why = "crypto-for-fiat exchange" if fiat else "trading / order execution for clients"
+    if BANK_RE.search(r["company"]):
+        return "B2C bank", f"bank offering {why}"
+    return "B2C", why
+
+
+def apply_b2c(records):
+    overrides = json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}
+    for r in records:
+        r["b2c"], r["b2c_reason"] = classify(r, overrides)
+
+
 def main():
+    if "--reclassify" in sys.argv:
+        d = json.loads(OUT.read_text())
+        apply_b2c(d["records"])
+        OUT.write_text(json.dumps(d, ensure_ascii=False, indent=1))
+        return
     records, counts = [], {}
     for ltype, fname in SOURCES.items():
         try:
@@ -111,6 +147,7 @@ def main():
             prev = 0
         if prev >= MIN_CASPS and len(records) < prev * (1 - MAX_DROP):
             sys.exit(f"FAIL: records dropped from {prev} to {len(records)}; keeping existing data.")
+    apply_b2c(records)
     records.sort(key=lambda x: (x["authorised"], x["company"]), reverse=True)
     OUT.parent.mkdir(exist_ok=True)
     if OUT.exists():

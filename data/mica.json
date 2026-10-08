@@ -59,7 +59,9 @@
    "website": "https://www.regular.eu/",
    "address": "41 Rue de la Chaussée d'Antin, 75009 Paris, France",
    "comments": "",
-   "last_update": "2028-09-11"
+   "last_update": "2028-09-11",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Raiffeisenbank Rehling eG",
@@ -79,7 +81,9 @@
    "website": "www.raiba-rehling.de",
    "address": "Hauptstraße 6a, 86508 Rehling",
    "comments": "",
-   "last_update": "2026-10-06"
+   "last_update": "2026-10-06",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Raiffeisenbank im Oberland eG",
@@ -99,7 +103,9 @@
    "website": "www.oberlandbank.de",
    "address": "Albert-Schäffenacker-Straße 5, 83646 Bad Tölz",
    "comments": "",
-   "last_update": "2026-09-18"
+   "last_update": "2026-09-18",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Münchner Bank eG",
@@ -119,7 +125,9 @@
    "website": "www.muenchner-bank.de",
    "address": "Richard-Strauss-Straße 82, 81679 München",
    "comments": "",
-   "last_update": "2026-09-22"
+   "last_update": "2026-09-22",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Deutsche Bank Aktiengesellschaft",
@@ -140,7 +148,9 @@
    "website": "www.deutsche-bank.de",
    "address": "Taunusanlage 12, 60325 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-09-11"
+   "last_update": "2026-09-11",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Volksbank Baumberge eG",
@@ -160,7 +170,9 @@
    "website": "www.volksbank-baumberge.de",
    "address": "Lilienbeck 8, 48727 Billerbeck",
    "comments": "",
-   "last_update": "2026-09-03"
+   "last_update": "2026-09-03",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR GenoBank DonauWald eG",
@@ -180,7 +192,9 @@
    "website": "www.vr-genobank.de",
    "address": "Raiffeisenstraße 1, 94234 Viechtach",
    "comments": "",
-   "last_update": "2026-10-06"
+   "last_update": "2026-10-06",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Raiffeisenbank im Fuldaer Land eG",
@@ -200,7 +214,9 @@
    "website": "www.rb-fuldaerland.de",
    "address": "Bahnhofstraße 2, 36137 Großenlüder",
    "comments": "",
-   "last_update": "2026-09-24"
+   "last_update": "2026-09-24",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR Bank Nord eG",
@@ -220,7 +236,9 @@
    "website": "www.vrbanknord.de",
    "address": "Friedrich-Ebert-Straße 9, 24937 Flensburg",
    "comments": "",
-   "last_update": "2026-09-30"
+   "last_update": "2026-09-30",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Noah LV SIA",
@@ -272,7 +290,9 @@
    "website": "https://noah.com/en/eu",
    "address": "Antonijas iela 21, Rīga, LV-1010",
    "comments": "",
-   "last_update": "2026-10-02"
+   "last_update": "2026-10-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Atrya Technologies SIA",
@@ -322,7 +342,9 @@
    "website": "www.hansepay.de",
    "address": "Marijas iela 2A, Riga, Latvia, LV-1050",
    "comments": "",
-   "last_update": "2026-10-02"
+   "last_update": "2026-10-02",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Wiesbadener Volksbank eG",
@@ -342,7 +364,9 @@
    "website": "www.wvb.de",
    "address": "Schillerplatz 4, 65185 Wiesbaden",
    "comments": "",
-   "last_update": "2026-09-17"
+   "last_update": "2026-09-17",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Olpe-Wenden-Drolshagen eG",
@@ -362,7 +386,9 @@
    "website": "https://www.voba-owd.de",
    "address": "Frankfurter Str. 22, 57462 Olpe",
    "comments": "",
-   "last_update": "2026-09-09"
+   "last_update": "2026-09-09",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Vereinigte Volksbank Raiffeisenbank eG, Reinheim",
@@ -382,7 +408,9 @@
    "website": "www.vvrb.de",
    "address": "Darmstädter Straße 62, 64354 Reinheim (Odenwald)",
    "comments": "",
-   "last_update": "2026-09-15"
+   "last_update": "2026-09-15",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR Bank zwischen den Meeren eG",
@@ -402,7 +430,9 @@
    "website": "www.meine-vrbank.de",
    "address": "Großflecken 56-60, 24534 Neumünster",
    "comments": "",
-   "last_update": "2026-09-24"
+   "last_update": "2026-09-24",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VS Digital Europe Ltd.",
@@ -426,7 +456,9 @@
    "website": "https://www.figma.com/design/mQlpK97GfMFNAlXToGX4oq/VSC-Landing?node-id=0-1&t=OZ977XpGYqyBbDWr-1",
    "address": "Level G (Office 1/1544), Quantum House, 75, Triq l-Abate Rigord, Ta' Xbiex, XBX 1120, Malta",
    "comments": "This is a dummy website link. The official link will be provided at a later date.",
-   "last_update": "2026-09-25"
+   "last_update": "2026-09-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Volksbank Göppingen eG",
@@ -446,7 +478,9 @@
    "website": "www.volksbank-goeppingen.de",
    "address": "Poststraße 4, 73033 Göppingen",
    "comments": "",
-   "last_update": "2026-09-16"
+   "last_update": "2026-09-16",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Vereinigte VR Bank eG",
@@ -466,7 +500,9 @@
    "website": "www.vereinigte-vrbk.de",
    "address": "Boldixumer Straße 21, 25938 Wyk auf Föhr",
    "comments": "",
-   "last_update": "2026-09-15"
+   "last_update": "2026-09-15",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Raiffeisenbank Goldener Steig-Dreisessel eG",
@@ -486,7 +522,9 @@
    "website": "https://www.rb-gsd.de",
    "address": "Ringmauerstraße 12, 94065 Waldkirchen",
    "comments": "",
-   "last_update": "2026-09-15"
+   "last_update": "2026-09-15",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Nextrize Invest",
@@ -502,7 +540,9 @@
    "website": "https://nextrize.org|https://trck-oklomin.info",
    "address": "",
    "comments": "None",
-   "last_update": "2026-09-16"
+   "last_update": "2026-09-16",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "FF Digital EOOD",
@@ -535,7 +575,9 @@
    "website": "https://www.ffdigital.eu/",
    "address": "Bulgaria, 1164 Sofia,  Lozenets district, 55 Korab Planina Str.",
    "comments": "",
-   "last_update": "2026-09-24"
+   "last_update": "2026-09-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "VR Bank München Land eG",
@@ -555,7 +597,9 @@
    "website": "www.vr-bank-muenchen-land.de",
    "address": "Bahnhofstraße 24, 82041 Oberhaching",
    "comments": "",
-   "last_update": "2026-09-08"
+   "last_update": "2026-09-08",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Zollernalb eG",
@@ -575,7 +619,9 @@
    "website": "www.volksbank-zollernalb.de",
    "address": "Friedrichstraße 72, 72336 Balingen",
    "comments": "",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "ICONOMI EUROPE, borznoposredniška družba, d.o.o.",
@@ -599,7 +645,9 @@
    "website": "https://www.iconomi.com/",
    "address": "Slovenska cesta 55 1000 Ljubljana Slovenia",
    "comments": "",
-   "last_update": "2026-09-21"
+   "last_update": "2026-09-21",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Volksbank Sauerland eG",
@@ -619,7 +667,9 @@
    "website": "www.vb-sauerland.de",
    "address": "Oststraße 19-23, 57392 Schmallenberg",
    "comments": "",
-   "last_update": "2026-09-02"
+   "last_update": "2026-09-02",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Raiffeisenbank Dachau eG",
@@ -639,7 +689,9 @@
    "website": "www.voba-raiba-dachau.de",
    "address": "Augsburger Straße 33 - 35, 85221 Dachau",
    "comments": "",
-   "last_update": "2026-08-31"
+   "last_update": "2026-08-31",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Deutsche WertpapierService Bank AG",
@@ -660,7 +712,9 @@
    "website": "https://dwpbank.de",
    "address": "Kölner Straße 5, 65760 Eschborn",
    "comments": "",
-   "last_update": "2026-07-30"
+   "last_update": "2026-07-30",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Volksbank Alb eG",
@@ -680,7 +734,9 @@
    "website": "www.voba-alb.de",
    "address": "Hindenburgstraße 3, 89129 Langenau",
    "comments": "",
-   "last_update": "2026-08-27"
+   "last_update": "2026-08-27",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Raiffeisenbank Isar-Loisachtal eG",
@@ -700,7 +756,9 @@
    "website": "www.rileg.de",
    "address": "Am Floßkanal 4, 82515 Wolfratshausen",
    "comments": "",
-   "last_update": "2026-08-27"
+   "last_update": "2026-08-27",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR Bank Ihre Heimatbank eG",
@@ -720,7 +778,9 @@
    "website": "www.vr-heimatbank.de",
    "address": "Schillerstraße 16, 99817 Eisenach",
    "comments": "",
-   "last_update": "2026-08-27"
+   "last_update": "2026-08-27",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "White Mint Financial Company s.r.o.",
@@ -736,7 +796,9 @@
    "website": "https://algosone.ai/",
    "address": "",
    "comments": "The CNB issued a public warning.",
-   "last_update": "2026-09-14"
+   "last_update": "2026-09-14",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GateHub Exchange družba za izvajanje storitev v zvezi s kriptosredstvi d.o.o.",
@@ -788,7 +850,9 @@
    "website": "https://www.gatehub.net/",
    "address": "Zaloška cesta 1 1000 Ljubljana Slovenia",
    "comments": "",
-   "last_update": "2026-09-02"
+   "last_update": "2026-09-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Frankfurter Volksbank Rhein/Main eG",
@@ -808,7 +872,9 @@
    "website": "www.frankfurter-volksbank.de",
    "address": "Börstenstraße 7-11, 60313 Framkfurt am Main",
    "comments": "",
-   "last_update": "2026-08-27"
+   "last_update": "2026-08-27",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Backnang eG",
@@ -828,7 +894,9 @@
    "website": "www.volksbank-backnang.de",
    "address": "Schillerstraße 18, 71522 Backnang",
    "comments": "",
-   "last_update": "2026-08-20"
+   "last_update": "2026-08-20",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR Bank Ried-Überwald eG",
@@ -848,7 +916,9 @@
    "website": "www.raiba-ried.de",
    "address": "Nibelungenstraße 57, 68642 Bürstadt",
    "comments": "",
-   "last_update": "2026-08-20"
+   "last_update": "2026-08-20",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR-Bank Mittelfranken Mitte eG",
@@ -868,7 +938,9 @@
    "website": "www.vr-mfr.de",
    "address": "Promenade 19 -23, 91522 Ansbach",
    "comments": "",
-   "last_update": "2026-08-18"
+   "last_update": "2026-08-18",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Ihre Volksbank eG Neckar Odenwald Main Tauber",
@@ -888,7 +960,9 @@
    "website": "www.ihre-vb.de",
    "address": "Rechte Tauberstraße 1, 97877 Wertheim a Main",
    "comments": "",
-   "last_update": "2026-08-18"
+   "last_update": "2026-08-18",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Euskirchen eG",
@@ -908,7 +982,9 @@
    "website": "www.eu-banking.de",
    "address": "Bahnhofstraße 7, 53879 Euskirchen",
    "comments": "",
-   "last_update": "2026-08-20"
+   "last_update": "2026-08-20",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Raiffeisenbank Schwaben Mitte eG",
@@ -928,7 +1004,9 @@
    "website": "www.rb-schwaben.de",
    "address": "Luitpoldstraße 2, 86381 Krumbach",
    "comments": "",
-   "last_update": "2026-08-13"
+   "last_update": "2026-08-13",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Raiffeisenbank Aidlingen eG",
@@ -948,7 +1026,9 @@
    "website": "www.IhrZiel.de",
    "address": "Hauptstraße 8, 71134 Aidlingen, Württ",
    "comments": "",
-   "last_update": "2026-08-07"
+   "last_update": "2026-08-07",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "PIRAEUS BANK Société Anonyme (S.A.)",
@@ -971,7 +1051,9 @@
    "website": "www.piraeusbank.gr/",
    "address": "4, Amerikis Str., 10564 Athens, Greece",
    "comments": "Together with HCMC",
-   "last_update": "2026-08-08"
+   "last_update": "2026-08-08",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Beilstein-Ilsfeld-Abstatt eG",
@@ -991,7 +1073,9 @@
    "website": "www.vb-bia.de",
    "address": "Hauptstraß3 20, 71717 Beilstein",
    "comments": "",
-   "last_update": "2026-08-06"
+   "last_update": "2026-08-06",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR-Bank Erding eG",
@@ -1011,7 +1095,9 @@
    "website": "www.vr-bank-erding.de",
    "address": "Zollnerstraße 4, 85435 Erding",
    "comments": "",
-   "last_update": "2026-08-04"
+   "last_update": "2026-08-04",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VBU Volksbank im Unterland eG",
@@ -1031,7 +1117,9 @@
    "website": "www.vbu-volksbank.de",
    "address": "Georg-Kohl-Straße 34, 74336 Brackenheim",
    "comments": "",
-   "last_update": "2026-08-03"
+   "last_update": "2026-08-03",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "FINTECH PAYMENTS PSC S.L.",
@@ -1077,7 +1165,9 @@
    "website": "https://cryptopocket.io/",
    "address": "Calle San Juan de Ortega num. 10 esc 1 puerta B local Correoslabs. 28050 Madrid",
    "comments": "",
-   "last_update": "2026-07-31"
+   "last_update": "2026-07-31",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BASQUE PAY S.L.",
@@ -1097,7 +1187,9 @@
    "website": "https://fazilcrypto.com/es/",
    "address": "Calle Villa de Plentzia 42-5 C. 48930 Gexto Vizcaya.",
    "comments": "",
-   "last_update": "2026-08-17"
+   "last_update": "2026-08-17",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "VR-Bank Landau-Mengkofen eG",
@@ -1117,7 +1209,9 @@
    "website": "www.vrbanklm.de",
    "address": "Marienplatz 1, 94405 Landau a. d. Isar",
    "comments": "",
-   "last_update": "2026-07-29"
+   "last_update": "2026-07-29",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Partners Banka, a.s.",
@@ -1137,7 +1231,9 @@
    "website": "https://www.partnersbanka.cz/",
    "address": "Türkova 2319/5b, 149 00 Praha",
    "comments": "",
-   "last_update": "2026-08-04"
+   "last_update": "2026-08-04",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "SHARES FINANCIAL ASSETS SAS",
@@ -1172,7 +1268,9 @@
    "website": "https://www.shares.io/",
    "address": "6 Rue Abel Truchet  - 75017 Paris, France",
    "comments": "",
-   "last_update": "2026-07-28"
+   "last_update": "2026-07-28",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Volksbank eG - Die Gestalterbank",
@@ -1192,7 +1290,9 @@
    "website": "www.gestalterbank.de",
    "address": "Am Riettor 1, 78048 Villingen-Schwenningen",
    "comments": "",
-   "last_update": "2026-07-27"
+   "last_update": "2026-07-27",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Spar- und Kreditbank Rheinstetten eG",
@@ -1212,7 +1312,9 @@
    "website": "www.skb-rheinstetten.de",
    "address": "Badener Straße 3, 76287 Rheinstetten",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Raiffeisenbank Oberbayern Südost eG",
@@ -1232,7 +1334,9 @@
    "website": "www-vrbank-obb-so.de",
    "address": "Münchner Allee 2, 83435 Bad Reichenhall",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "BLOCKCHAIN PROCESS SECURITY (B.P.S.) SAS",
@@ -1257,7 +1361,9 @@
    "website": "https://feel-mining.com/",
    "address": "18 rue de la Tuilerie, 38170 Seyssinet-Pariset, France",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "WOORTON SAS",
@@ -1304,7 +1410,9 @@
    "website": "https://www.woorton.com/",
    "address": "81 Rue Réaumur, 75002 Paris, France",
    "comments": "",
-   "last_update": "2026-07-23"
+   "last_update": "2026-07-23",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bridge Building S.A.",
@@ -1320,7 +1428,9 @@
    "website": "www.bridge.xyz",
    "address": "33, Boulevard Prince Henri, 1724 Luxembourg, Grand Duchy of Luxembourg",
    "comments": "N/A",
-   "last_update": "2026-07-29"
+   "last_update": "2026-07-29",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "XENIOS BLOCKCHAIN GROUP S.A.",
@@ -1348,7 +1458,9 @@
    "website": "www.xeniosblockchaingroup.com",
    "address": "XBG, 4Β, 17 Noemvriou str., 15127, Melissia, Greece",
    "comments": "",
-   "last_update": "2026-07-23"
+   "last_update": "2026-07-23",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Flandenzo",
@@ -1364,7 +1476,9 @@
    "website": "https://flandenzo.com|https://flandenzoia.net|https://flandenzo-it.org|https://flandenzoia.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-07-31"
+   "last_update": "2026-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Corona Fondenza",
@@ -1380,7 +1494,9 @@
    "website": "https://coronafondenza.com|https://corona-fondenza.net",
    "address": "",
    "comments": "None",
-   "last_update": "2026-07-31"
+   "last_update": "2026-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Cervo Rendisco",
@@ -1396,7 +1512,9 @@
    "website": "https://cervorendisco.com|https://cervo-rendisco.com|https://cervo-rendisco.net|https://cervo-rendisco.site|https://cervorendisco-ai.com|https://cervorendiscoia.com|https://cervo-rendiscoia.com|https://cervorendisco-it.click",
    "address": "",
    "comments": "None",
-   "last_update": "2026-07-31"
+   "last_update": "2026-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CAPITAL WALLET GREECE S.A.",
@@ -1426,7 +1544,9 @@
    "website": "www.capitalwallet.com/eu",
    "address": "580, Vouliagmenis ave., 16452, Argiroupoli, Greece",
    "comments": "",
-   "last_update": "2026-07-23"
+   "last_update": "2026-07-23",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "VR-Bank Augsburg-Ostallgäu eG",
@@ -1446,7 +1566,9 @@
    "website": "www.vrbank-augsburg-ostallgaeu.de",
    "address": "Schießgrabenstraße 10, 86150 Augsburg",
    "comments": "",
-   "last_update": "2026-07-21"
+   "last_update": "2026-07-21",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR Bank Schleswig-Holstein Mitte eG",
@@ -1466,7 +1588,9 @@
    "website": "https://www.vrbank-sh-mitte.de",
    "address": "Werner-von-Siemens-Str. 44-48, 24783 Osterrönfeld",
    "comments": "",
-   "last_update": "2026-07-21"
+   "last_update": "2026-07-21",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Digital Assist OOD",
@@ -1486,7 +1610,9 @@
    "website": "https://digitalassist.bg/",
    "address": "Apartment 1, 1st Floor, Entr. A, 13 Pencho Slaveykov Blvd., Sofia 1606, Bulgaria",
    "comments": "",
-   "last_update": "2026-07-21"
+   "last_update": "2026-07-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Altcoins BG EООD",
@@ -1535,7 +1661,9 @@
    "website": "https://altcoins.bg/",
    "address": "Office 1, 1st Floor, 81 Vladislav Varnenchik Blvd., Varna, Bulgaria",
    "comments": "",
-   "last_update": "2026-09-17"
+   "last_update": "2026-09-17",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "PM MTF LTD",
@@ -1587,7 +1715,9 @@
    "website": "https://mtf.perpetuals.com/, http://eu.barriers.com/",
    "address": "21 kasou, 1086 Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "BNY SA/NV",
@@ -1608,7 +1738,9 @@
    "website": "www.bny.com",
    "address": "Anspachlaan 1, 1000 Brussels",
    "comments": "1: The NBB has expressly confimed the completeness of the information file received by BNY SA/NV. This confirmation has been given on 20/07, after which BNY SA/NV, as soon as 27/7 could start to offer its crypto-asset services",
-   "last_update": "2026-07-20"
+   "last_update": "2026-07-20",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Aquilla Nummus Ltd",
@@ -1631,7 +1763,9 @@
    "website": "https://www.aquillanummus.com/",
    "address": "26 Lordou Vyronos, 1096, Nicosia",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "BitPay B.V.",
@@ -1680,7 +1814,9 @@
    "website": "https://www.bitpay.com/",
    "address": "Keizersgracht 520H -\n1017EK  AMSTERDAM -The Netherlands",
    "comments": "",
-   "last_update": "2026-09-21"
+   "last_update": "2026-09-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "JT Technologies GmbH",
@@ -1701,7 +1837,9 @@
    "website": "https://www.justtrade.com/",
    "address": "Hamburger Allee 14, 60486 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-07-14"
+   "last_update": "2026-07-14",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "SG Digital Assets Limited",
@@ -1756,7 +1894,9 @@
    "website": "https://solidgate.com/casp/",
    "address": "Diogenous 1 , Block A, 2nd floor, Office 24, 2404, Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-08-26"
+   "last_update": "2026-08-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Raiffeisenbank Falkenstein-Wörth",
@@ -1776,7 +1916,9 @@
    "website": "www.rbfalkenstein-woerth.de",
    "address": "Dr.-Götz-Str. 1, 93167 Falkenstein",
    "comments": "",
-   "last_update": "2026-07-13"
+   "last_update": "2026-07-13",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Paymonade AG",
@@ -1826,7 +1968,9 @@
    "website": "www.paymonade.tech",
    "address": "Dr. Grass-Strasse 12 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-08-24"
+   "last_update": "2026-08-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "IQANA TECHNOLOGIES S.L.",
@@ -1848,7 +1992,9 @@
    "website": "https://iqana.io/",
    "address": "Calle Aribau numero 18 2-1. 08011 Barcelona.",
    "comments": "",
-   "last_update": "2026-07-10"
+   "last_update": "2026-07-10",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Reversal Investment Group",
@@ -1864,7 +2010,9 @@
    "website": "www.reversalsimgroup.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-07-13"
+   "last_update": "2026-07-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Nodu Digital, SIA",
@@ -1914,7 +2062,9 @@
    "website": "https://nodu.fi",
    "address": "Aspazijas bulvāris 20, Rīga, LV-1050",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Kortex",
@@ -1930,7 +2080,9 @@
    "website": "https://kortexbit.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-07-13"
+   "last_update": "2026-07-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "OSL EU GmbH",
@@ -1982,7 +2134,9 @@
    "website": "https://www.osl.com/eu",
    "address": "Julius-Tandler-Platz 3/Stiege B, Stock 9, 1090 Vienna, Austria",
    "comments": "",
-   "last_update": "2026-07-13"
+   "last_update": "2026-07-13",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FINARY SAS",
@@ -2029,7 +2183,9 @@
    "website": "https://finary.com/en",
    "address": "31 ter Rue Vivienne, 75002 Paris, France",
    "comments": "",
-   "last_update": "2026-07-06"
+   "last_update": "2026-07-06",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Cloverum Finance (CY) Limited",
@@ -2084,7 +2240,9 @@
    "website": "www.cloverum.com",
    "address": "Kypranoros 13, Evi Building, Floor 2, Office 201, 1061 Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "CPS Europe S.A.",
@@ -2136,7 +2294,9 @@
    "website": "https://www.enum8.com/",
    "address": "51 Rue de Strasbourg, L-2561 Luxembourg",
    "comments": "",
-   "last_update": "2026-07-03"
+   "last_update": "2026-07-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Volksbank Schwarzwald-Donau-Neckar eG",
@@ -2156,7 +2316,9 @@
    "website": "www.vbsdn.de",
    "address": "Am Seltenbach 15, 78532 Tuttlingen",
    "comments": "",
-   "last_update": "2026-07-02"
+   "last_update": "2026-07-02",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "SMART VALOR AG",
@@ -2209,7 +2371,9 @@
    "website": "https://smartvalor.com/en/",
    "address": "Birkenweg 6 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-07-03"
+   "last_update": "2026-07-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Donau-Iller-Bank eG",
@@ -2229,7 +2393,9 @@
    "website": "www.donau-iller-bank.de",
    "address": "Pfisterstraße 20, 89584 Ehingen",
    "comments": "",
-   "last_update": "2026-07-01"
+   "last_update": "2026-07-01",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "YOUNG PLATFORM S.P.A.",
@@ -2257,7 +2423,9 @@
    "website": "https://youngplatform.com",
    "address": "Via Cigna, 96/17, TORINO, 10155",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Webull Securities (Europe) B.V.",
@@ -2278,7 +2446,9 @@
    "website": "https://www.webull.eu/",
    "address": "Kraijenhoffstraat 137A - 1018RG Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2026-09-21"
+   "last_update": "2026-09-21",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "SafeLynx Technologies ApS",
@@ -2327,7 +2497,9 @@
    "website": "https://www.safelynx.io/",
    "address": "Kålundsvej 18, 3520 Farum",
    "comments": "",
-   "last_update": "2026-08-10"
+   "last_update": "2026-08-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "PROSEGUR CUSTODIA DE ACTIVOS DIGITALES S.L.U.",
@@ -2349,7 +2521,9 @@
    "website": "www.prosegurcrypto.com",
    "address": "Calle Herberto Gut 12 Madrid 28007",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "MINOS GLOBAL S.L.",
@@ -2374,7 +2548,9 @@
    "website": "https://minos.global",
    "address": "Calle Maudes 51 planta 8 28003 Madrid",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "MEREAU FINANCE SAS",
@@ -2400,7 +2576,9 @@
    "website": "https://crypto-assets-management.com/",
    "address": "35 Rue Jean Jaurès - 92800 Puteaux, France",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "ICEBLOCK SAS",
@@ -2422,7 +2600,9 @@
    "website": "https://www.iceblockinvestments.com/",
    "address": "128 rue de la Boétie - 75008 Paris, France",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "HODLIE S.R.L.",
@@ -2459,7 +2639,9 @@
    "website": "https://hodli.com",
    "address": "Via della Posta, 7, MILANO, 20123",
    "comments": "",
-   "last_update": "2026-07-23"
+   "last_update": "2026-07-23",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "HERCLE S.R.L.",
@@ -2508,7 +2690,9 @@
    "website": "https://www.hercle.financial",
    "address": "Via Andrea Solari, 19, MILANO, 20144",
    "comments": "",
-   "last_update": "2026-07-10"
+   "last_update": "2026-07-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Everest Network Limited",
@@ -2560,7 +2744,9 @@
    "website": "https://www.everest.org/",
    "address": "c/o Regus Tower Business Centre 2nd floor\nTRIQ IT- TORRI\nSWATAR BIRKIRKARA\nBKR 4013\nMalta",
    "comments": "",
-   "last_update": "2026-07-17"
+   "last_update": "2026-07-17",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Digital Currency Services B.V.",
@@ -2582,7 +2768,9 @@
    "website": "https://happycoins.com/",
    "address": "Europalaan 100 - 3526 KS Utrecht - The Netherlands",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bequant Pro Limited",
@@ -2633,7 +2821,9 @@
    "website": "https://bequant.pro/",
    "address": "The Core, Valley Road, Msida, MSD9021, Malta",
    "comments": "",
-   "last_update": "2026-07-01"
+   "last_update": "2026-07-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BCASH SOCIETE ANONYME",
@@ -2653,7 +2843,9 @@
    "website": "www.bcash.eu",
    "address": "84, Dimitrakopoulou str., 11741, Athens, Greece",
    "comments": "",
-   "last_update": "2026-07-01"
+   "last_update": "2026-07-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Altlift s.r.o.",
@@ -2675,7 +2867,9 @@
    "website": "ttps://www.altlift.cz/",
    "address": "Korunní 2569/108, 101 00 Praha",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "APLO SAS",
@@ -2705,7 +2899,9 @@
    "website": "https://www.aplo.io/",
    "address": "15 rue des Halles - 75001 Paris, France",
    "comments": "",
-   "last_update": "2026-09-15"
+   "last_update": "2026-09-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "ZeriaFunding",
@@ -2721,7 +2917,9 @@
    "website": "www.zeriafunding.com",
    "address": "",
    "comments": "The FSMA issued a public warning against ZeriaFunding https://www.fsma.be/en/warnings/beware-unauthorized-crypto-asset-service-providers",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Unlimit Crypto Ltd",
@@ -2747,7 +2945,9 @@
    "website": "www.crypto.unlimit.com",
    "address": "125 Georgiou Griva Digeni, Limassol 3101, Cyprus.",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "TRIA BRIDGE LIMITED (ex Tokenomica Bridge Ltd)",
@@ -2804,7 +3004,9 @@
    "website": "https://triabridge.com/\nhttps://thevault.inc/",
    "address": "Arch. Makariou III & Markou Drakou, 66-68, Mesa Geitonia, 4003, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-09-29"
+   "last_update": "2026-09-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Ripple Payments Europe S.A.",
@@ -2855,7 +3057,9 @@
    "website": "https://ripple.com/",
    "address": "53, Boulevard Royal, L-2449 Ville-Haute Luxembourg",
    "comments": "",
-   "last_update": "2026-07-07"
+   "last_update": "2026-07-07",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "NORWEGIAN BLOCK EXCHANGE AS",
@@ -2911,7 +3115,9 @@
    "website": "https://nbx.com",
    "address": "Arnstein ARnebergs vei 30, 1366 Lysaker, NORWAY",
    "comments": "",
-   "last_update": "2026-07-02"
+   "last_update": "2026-07-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "NOEMON TECH LTD",
@@ -2969,7 +3175,9 @@
    "website": "www.noemon.tech",
    "address": "Kyriakou Matsi 18, Victory Tower, 2nd Floor, 1082, Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Kaiser Partner Privatbank AG",
@@ -3021,7 +3229,9 @@
    "website": "https://kaiserpartner.bank",
    "address": "Herrengasse 23 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Januar ApS",
@@ -3072,7 +3282,9 @@
    "website": "https://www.januar.com/",
    "address": "Gothersgade 14, 4., 1123 København K",
    "comments": "",
-   "last_update": "2026-09-10"
+   "last_update": "2026-09-10",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Global Dynamic Trade",
@@ -3088,7 +3300,9 @@
    "website": "www.globaldynamictrade.org",
    "address": "",
    "comments": "The FSMA issued a public warning against Global Dynamic Trade https://www.fsma.be/en/warnings/beware-unauthorized-crypto-asset-service-providers",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Dxago",
@@ -3104,7 +3318,9 @@
    "website": "www.dxago.com",
    "address": "",
    "comments": "The FSMA issued a public warning against Dxago https://www.fsma.be/en/warnings/beware-unauthorized-crypto-asset-service-providers",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "COMPLYCRYPTO DEPOSITORY EU LIMITED",
@@ -3129,7 +3345,9 @@
    "website": "www.complycrypto.eu",
    "address": "Diagorou 2, ERA HOUSE, 11th Floor, 1097 Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Brilliantscope Trading Limited",
@@ -3185,7 +3403,9 @@
    "website": "https://tothemoon.com",
    "address": "28th Oktovriou 341, Trilogy Limassol Seafront, W505, Phase A, 3106, Limassol , Cyprus",
    "comments": "",
-   "last_update": "2026-07-24"
+   "last_update": "2026-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bridge Building S.A.",
@@ -3237,7 +3457,9 @@
    "website": "www.bridge.xyz",
    "address": "26 Boulevard Royal, L-2449 Luxembourg",
    "comments": "",
-   "last_update": "2026-07-01"
+   "last_update": "2026-07-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bithf Pro",
@@ -3253,7 +3475,9 @@
    "website": "www.bitfpro.org",
    "address": "",
    "comments": "The FSMA issued a public warning against Bithf Pro https://www.fsma.be/en/warnings/beware-unauthorized-crypto-asset-service-providers",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Bank Bit",
@@ -3269,7 +3493,9 @@
    "website": "www.bank-bit.com",
    "address": "",
    "comments": "The FSMA issued a public warning against Bank Bit https://www.fsma.be/en/warnings/beware-unauthorized-crypto-asset-service-providers",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Aurum Foundation",
@@ -3285,7 +3511,9 @@
    "website": "www.aurum.foundation",
    "address": "",
    "comments": "The FSMA issued a public warning against Aurum Foundation https://www.fsma.be/en/warnings/beware-unauthorized-crypto-asset-service-providers",
-   "last_update": "2026-09-07"
+   "last_update": "2026-09-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CF Technologies Ltd",
@@ -3336,7 +3564,9 @@
    "website": "https://xcoins.com/en",
    "address": "Progetta House Level 0, \n62-64 Triq it-Torri, \nBirkirkara, BKR 4011, \nMalta",
    "comments": "",
-   "last_update": "2026-07-02"
+   "last_update": "2026-07-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "wBTCb.cz, s.r.o.",
@@ -3356,7 +3586,9 @@
    "website": "https://bit.plus",
    "address": "Národní 973/41, 110 00 Praha",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "bitFlyer EUROPE S.A.",
@@ -3408,7 +3640,9 @@
    "website": "https://bitflyer.com/en-eu/",
    "address": "121, rue de Hollerich, L-1741 Luxembourg",
    "comments": "",
-   "last_update": "2026-06-29"
+   "last_update": "2026-06-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Sygnum Europe AG",
@@ -3460,7 +3694,9 @@
    "website": "https://www.sygnum.com/eu",
    "address": "Dr. Grass-Strasse 12 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FalconX Limited",
@@ -3512,7 +3748,9 @@
    "website": "https://www.falconx.io/",
    "address": "Trident Park, Notabile Gardens, Nos. 6, Level 4, \nMdina Road, Zone 2, \nCentral Business District, \nBirkirkara, CBD 2010, \nMalta",
    "comments": "",
-   "last_update": "2026-07-01"
+   "last_update": "2026-07-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "CROSSMINT EUROPE S.L.",
@@ -3559,7 +3797,9 @@
    "website": "www.crossmint.com",
    "address": "Calle Villalar 7. Bajo Izda 28001 Madrid",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "CRIPTAN TRADE S.L.",
@@ -3608,7 +3848,9 @@
    "website": "www.criptan.com",
    "address": "Calle Almirante Cadarso 26 46005 Valencia",
    "comments": "",
-   "last_update": "2026-07-09"
+   "last_update": "2026-07-09",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BARE BITCOIN AS",
@@ -3630,7 +3872,9 @@
    "website": "https://barebitcoin.no/",
    "address": "c/o Regus Posthuset Biskop Gunnerus' gate 14A, 0185 Oslo, NORWAY",
    "comments": "",
-   "last_update": "2026-07-03"
+   "last_update": "2026-07-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Zap (Strike) Europe Limited",
@@ -3682,7 +3926,9 @@
    "website": "https://strike.me/en-GB/",
    "address": "171, \nTriq il-Fran, \nValletta, \nVLT1455,\nMalta",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Standard Chartered Luxembourg S.A.",
@@ -3732,7 +3978,9 @@
    "website": "https://www.sc.com/",
    "address": "53, Boulevard Royal, L-2449 Luxembourg",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Myntkaup ehf.",
@@ -3755,7 +4003,9 @@
    "website": "https://myntkaup.is/",
    "address": "Borgartún 27, 105 Reykjavík",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Hodleris SIA",
@@ -3807,7 +4057,9 @@
    "website": "https://hfinance.eu/",
    "address": "Brīvības iela 40-43, Rīga, LV-1050",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FLOWDESK EUROPE SAS",
@@ -3840,7 +4092,9 @@
    "website": "https://www.flowdesk.co/",
    "address": "231 rue Saint-Honoré - 75001 Paris, France",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DekaBank Deutsche Girozentrale",
@@ -3860,7 +4114,9 @@
    "website": "https://www.deka.de/deka-gruppe",
    "address": "Große Gallusstraße 14, 60315 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering crypto-for-fiat exchange"
   },
   {
    "company": "Bleap SIA",
@@ -3910,7 +4166,9 @@
    "website": "https://www.bleap.finance",
    "address": "Roberta Hirša iela 1, Rīga, LV-1045",
    "comments": "",
-   "last_update": "2026-07-14"
+   "last_update": "2026-07-14",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Aplauz NL B.V.",
@@ -3926,7 +4184,9 @@
    "website": "https://weur.io",
    "address": "Keizersgracht 555 - 1017DR Amsterdam",
    "comments": "WEUR white paper",
-   "last_update": "2026-05-26"
+   "last_update": "2026-05-26",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ALPHACAP DIGITAL ASSETS SAS",
@@ -3949,7 +4209,9 @@
    "website": "https://alphacap.fr/",
    "address": "18 rue Jean GIRAUDOUX - 75116 Paris, France",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "XZD316",
@@ -3965,7 +4227,9 @@
    "website": "https://xzd316.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TYT827",
@@ -3981,7 +4245,9 @@
    "website": "https://tyt827.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TRUT88",
@@ -3997,7 +4263,9 @@
    "website": "https://trut88.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SDTG99",
@@ -4013,7 +4281,9 @@
    "website": "https://sdtg99.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SDS323",
@@ -4029,7 +4299,9 @@
    "website": "https://sds323.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "RSD996",
@@ -4045,7 +4317,9 @@
    "website": "https://rsd996.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "RER885",
@@ -4061,7 +4335,9 @@
    "website": "https://rer885.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "REG775",
@@ -4077,7 +4353,9 @@
    "website": "https://reg775.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "KSDF12",
@@ -4093,7 +4371,9 @@
    "website": "https://ksdf12.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "FHF326",
@@ -4109,7 +4389,9 @@
    "website": "https://fhf326.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "EWTD55",
@@ -4125,7 +4407,9 @@
    "website": "https://ewtd55.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DXGE85",
@@ -4141,7 +4425,9 @@
    "website": "https://dxge85.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CRYPTOSMART S.P.A.",
@@ -4166,7 +4452,9 @@
    "website": "https://cryptosmart.it/",
    "address": "Via Bruno Simonucci, 18, PERUGIA, 06135",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "3VK1O5",
@@ -4182,7 +4470,9 @@
    "website": "https://3vk1o5.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Simple Coin s.r.o.",
@@ -4205,7 +4495,9 @@
    "website": "https://www.simplecoin.eu",
    "address": "Bubenečská 184/1, 160 00 Praha",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "OP Digital Services Limited",
@@ -4258,7 +4550,9 @@
    "website": "https://www.openpayd.com/",
    "address": "122-123 PANGEA LEVEL 5, TRIQ SAN GORG, SAN GILJAN, Malta, STJ 3204",
    "comments": "",
-   "last_update": "2026-06-24"
+   "last_update": "2026-06-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Legion Malta Limited",
@@ -4281,7 +4575,9 @@
    "website": "https://legion.cc/",
    "address": "ELITE BUSINESS CENTRE \nTREJQA TA' BOX BOX \nMSIDA \nMSD 1840 \nMalta",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "STOKR S.A.",
@@ -4330,7 +4626,9 @@
    "website": "https://stokr.io/",
    "address": "9 rue du Laboratoire, 1911 Luxembourg",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Ronin EM Ltd",
@@ -4380,7 +4678,9 @@
    "website": "https://em.ron.in/",
    "address": "19 Promachon Eleftherias, Alpha Business Center, Mezzanine, Agios Athanasios, 4103, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-08-04"
+   "last_update": "2026-08-04",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "PAYMIUM SAS",
@@ -4433,7 +4733,9 @@
    "website": "https://www.paymium.com/",
    "address": "73 Rue du Château - 92100 Boulogne-Billancourt, France",
    "comments": "",
-   "last_update": "2026-06-22"
+   "last_update": "2026-06-22",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "MERIA SAS",
@@ -4465,7 +4767,9 @@
    "website": "https://www.meria.com/",
    "address": "7-9-11 Boulevard solidarité - 57070 Metz, France",
    "comments": "",
-   "last_update": "2026-06-22"
+   "last_update": "2026-06-22",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "LEONOD SARL",
@@ -4512,7 +4816,9 @@
    "website": "https://app.bullbitcoin.com/",
    "address": "15 Place Jules Ferry - 69006 Lyon, France",
    "comments": "",
-   "last_update": "2026-06-22"
+   "last_update": "2026-06-22",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bitcoin Suisse (Europe) AG",
@@ -4559,7 +4865,9 @@
    "website": "https://www.bitcoinsuisse.com",
    "address": "Aeulestrasse 74 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-08-24"
+   "last_update": "2026-08-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "AllUnity GmbH",
@@ -4575,7 +4883,9 @@
    "website": "https://allunity.com/",
    "address": "Sandweg 94, 60316 Frankfurt am Main",
    "comments": "EURAU",
-   "last_update": "2026-02-13"
+   "last_update": "2026-02-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AllUnity GmbH",
@@ -4591,7 +4901,9 @@
    "website": "https://allunity.com/",
    "address": "Sandweg 94, 60316 Frankfurt am Main",
    "comments": "CHFAU",
-   "last_update": "2026-02-23"
+   "last_update": "2026-02-23",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AllUnity GmbH",
@@ -4607,7 +4919,9 @@
    "website": "https://allunity.com/",
    "address": "Sandweg 94, 60316 Frankfurt am Main",
    "comments": "SEKAU",
-   "last_update": ""
+   "last_update": "",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AllUnity GmbH",
@@ -4623,7 +4937,9 @@
    "website": "https://allunity.com/",
    "address": "Sandweg 94, 60316 Frankfurt am Main",
    "comments": "CHFAU, V1.2",
-   "last_update": "2026-06-11"
+   "last_update": "2026-06-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AllUnity GmbH",
@@ -4639,7 +4955,9 @@
    "website": "https://allunity.com/",
    "address": "Sandweg 94, 60316 Frankfurt am Main",
    "comments": "USDAU, V.1.0",
-   "last_update": "2026-09-04"
+   "last_update": "2026-09-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AllUnity GmbH",
@@ -4655,7 +4973,9 @@
    "website": "https://allunity.com/",
    "address": "Sandweg 94, 60316 Frankfurt am Main",
    "comments": "SEKAU, V.1.1",
-   "last_update": "2026-09-14"
+   "last_update": "2026-09-14",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Raiffeisebank Auerbach-Freihung eG",
@@ -4675,7 +4995,9 @@
    "website": "www.rb-af.de",
    "address": "Oberer Marktplatz 13, 91275 Ansbach",
    "comments": "",
-   "last_update": "2026-06-19"
+   "last_update": "2026-06-19",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "WB-Shields Innovations GmbH",
@@ -4727,7 +5049,9 @@
    "website": "https://whitebit.eu",
    "address": "Stella-Klein-Löw-Weg 8\n1020 Vienna, Austria",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "SIA AlphaRoute",
@@ -4762,7 +5086,9 @@
    "website": "https://www.kangaexchange.eu/",
    "address": "Tērbatas iela 14 - 3, Rīga, LV-1011",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "RCUBE ASSET MANAGEMENT",
@@ -4788,7 +5114,9 @@
    "website": "https://rcube.com/",
    "address": "9 avenue Franklin Delano Roosevelt - 75008 Paris, France",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Bpifrance Investissement",
@@ -4808,7 +5136,9 @@
    "website": "https://www.bpifrance.fr/",
    "address": "27-31 avenue du Général Leclerc - 94700 Maisons-Alfort, France",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "IN KAPITAL limited liability company for trade and services",
@@ -4828,7 +5158,9 @@
    "website": "https://www.inkapital.hr/",
    "address": "Ninska ulica 23, 10 360 Sesvete (Grad Zagreb),Croatia",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bitblock Ltd. for Services",
@@ -4848,7 +5180,9 @@
    "website": "https://kriptomat.hr/",
    "address": "Ilica 71, 10 000 Zagreb Croatia",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "K33 MARKETS as",
@@ -4874,7 +5208,9 @@
    "website": "https://www.k33.com",
    "address": "Munkedamsveien 45C, 0250 OSLO, NORWAY",
    "comments": "",
-   "last_update": "2026-08-18"
+   "last_update": "2026-08-18",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Hrvatska poštanska banka d.d.",
@@ -4894,7 +5230,9 @@
    "website": "https://www.hpb.hr/",
    "address": "Jurišićeva ulica 4, 10000 Zagreb,Croatia",
    "comments": "The crypto-asset services are limited solely to a Passive Digital Assets (PDA) AIF",
-   "last_update": "2026-07-13"
+   "last_update": "2026-07-13",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "CONIO S.R.L.",
@@ -4919,7 +5257,9 @@
    "website": "www.conio.com",
    "address": "Via Agostino Bertani, 6, MILANO, 20154",
    "comments": "",
-   "last_update": "2026-06-16"
+   "last_update": "2026-06-16",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Lightspark Payments Europe AS",
@@ -4971,7 +5311,9 @@
    "website": "https://eu.lightspark.com/",
    "address": "Pärnu mnt 110, Tallinn, 11313",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Krypto Knight Ltd",
@@ -5026,7 +5368,9 @@
    "website": "www.krypto-knight.com",
    "address": "Vasilissis Freiderikis 20, El Greco House, 2nd Floor, 1066, Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "IP wBTCb solutions, s.r.o.",
@@ -5049,7 +5393,9 @@
    "website": "https://bit.plus",
    "address": "Národní 973/41, 110 00 Praha",
    "comments": "",
-   "last_update": "2026-06-26"
+   "last_update": "2026-06-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "RUFIJI CAPITAL SAS",
@@ -5081,7 +5427,9 @@
    "website": "https://www.rufiji.capital/",
    "address": "66 AVENUE DES CHAMPS ELYSEES - 75008 PARIS, France",
    "comments": "",
-   "last_update": "2026-06-12"
+   "last_update": "2026-06-12",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "KEYROCK FR SAS",
@@ -5133,7 +5481,9 @@
    "website": "https://keyrock.com/",
    "address": "229 rue Saint-Honoré - 75001 Paris, France",
    "comments": "",
-   "last_update": "2026-06-12"
+   "last_update": "2026-06-12",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DUE NETWORK S.L.",
@@ -5183,7 +5533,9 @@
    "website": "http://www.opendue.com/",
    "address": "Paseo de la Castellana 257 Torre Sur 1.  28046  Madrid",
    "comments": "",
-   "last_update": "2026-06-15"
+   "last_update": "2026-06-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "RIV-DIGITAL S.R.L.",
@@ -5205,7 +5557,9 @@
    "website": "https://riv-digital.it",
    "address": "Via Luigi Dalla Via, 3b, SCHIO (VI), 36015",
    "comments": "",
-   "last_update": "2026-06-10"
+   "last_update": "2026-06-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Floin AG",
@@ -5258,7 +5612,9 @@
    "website": "https://floin.com/",
    "address": "Am Schrägen Weg 2 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-09-25"
+   "last_update": "2026-09-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "S.K. DASK KRYPTO LTD",
@@ -5313,7 +5669,9 @@
    "website": "www.daskkrypto.eu",
    "address": "18 Kyriakou Matsi Victorty Tower 3rd Floor 1082 Nicosia Cyprus",
    "comments": "",
-   "last_update": "2026-08-10"
+   "last_update": "2026-08-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "NAGA X",
@@ -5340,7 +5698,9 @@
    "website": "www.nagax.com/eu/",
    "address": "Ariadnis 7, Mouttagiaka, 4531, Limassol, Cyprus - (HQ)",
    "comments": "",
-   "last_update": "2026-07-15"
+   "last_update": "2026-07-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "OLLIV ITALIA S.R.L.",
@@ -5360,7 +5720,9 @@
    "website": "https://coinflip.tech/it-IT",
    "address": "Via Giuseppe Marcora, 11, MILANO, 20121",
    "comments": "",
-   "last_update": "2026-08-28"
+   "last_update": "2026-08-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "AS TWINO Investments",
@@ -5393,7 +5755,9 @@
    "website": "https://www.twino.eu/en",
    "address": "Dzirnavu iela 42, Rīga, LV-1010",
    "comments": "",
-   "last_update": "2026-06-05"
+   "last_update": "2026-06-05",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Volksbank Heiden eG",
@@ -5413,7 +5777,9 @@
    "website": "www.vbheiden.de",
    "address": "Bahnhofstraße 4a, 46359 Heiden",
    "comments": "",
-   "last_update": "2026-06-02"
+   "last_update": "2026-06-02",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "RULEMATCH Europe AG",
@@ -5444,7 +5810,9 @@
    "website": "https://www.rulematch.com/europe",
    "address": "Wuhrstrasse 14 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-06-15"
+   "last_update": "2026-06-15",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "DIGITAL ASSETS Limited liability company for intermediation and services",
@@ -5498,7 +5866,9 @@
    "website": "https://www.bitstore.net/",
    "address": "Hrvatske mornarice 1C, 21 000 Split, Croatia",
    "comments": "",
-   "last_update": "2026-06-03"
+   "last_update": "2026-06-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Stable Mint Ltd.",
@@ -5547,7 +5917,9 @@
    "website": "https://stablemint.io/",
    "address": "Stable mint Ltd\nLevel 2, The 'Fort', Hardrocks Business Park,\nBurmarrad Road, \nNaxxar, NXR 6345, \nMalta",
    "comments": "CASP services are provided under Article 60(4) of MiCA",
-   "last_update": "2026-06-19"
+   "last_update": "2026-06-19",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Olmipay Limited",
@@ -5571,7 +5943,9 @@
    "website": "Olmipay.com  (upcoming)",
    "address": "171, Old Bakery Street, Valletta, VLT 1455, Malta",
    "comments": "",
-   "last_update": "2026-05-29"
+   "last_update": "2026-05-29",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Coinify ApS",
@@ -5623,7 +5997,9 @@
    "website": "https://www.coinify.com/",
    "address": "Vesterbrogade 1C, 5. 1620 København V",
    "comments": "",
-   "last_update": "2026-07-17"
+   "last_update": "2026-07-17",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "\"Trek Technologies\" SIA",
@@ -5675,7 +6051,9 @@
    "website": "https://eu.backpack.exchange/",
    "address": "Brīvības iela 40 - 37, Rīga, LV-1050",
    "comments": "",
-   "last_update": "2026-06-27"
+   "last_update": "2026-06-27",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FIRI AS",
@@ -5730,7 +6108,9 @@
    "website": "https://firi.com/no",
    "address": "Harbitzalléen 5, 0275 OSLO, NORWAY",
    "comments": "",
-   "last_update": "2026-08-21"
+   "last_update": "2026-08-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "QWARKS SAS",
@@ -5755,7 +6135,9 @@
    "website": "https://www.qwarks.fr/",
    "address": "92 Cours Lafayette - 69003 Lyon, France",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "PAYTOP SAS",
@@ -5805,7 +6187,9 @@
    "website": "https://www.paytop.com/",
    "address": "1 rue de Stockholm - 75008 Paris, France",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Neverless SIA",
@@ -5858,7 +6242,9 @@
    "website": "https://neverless.com/",
    "address": "Malduguņu iela 4, Mārupe, Mārupes nov., LV-2167",
    "comments": "",
-   "last_update": "2026-05-25"
+   "last_update": "2026-05-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bison Bank, S.A.",
@@ -5890,7 +6276,9 @@
    "website": "https://bisonbank.com/",
    "address": "Rua Barata Salgueiro, n.º 33, Piso 0, 1250-042 Lisboa",
    "comments": "Bison Bank is a credit institution authorized to operate in Portugal since 2001.\nBison Bank was authorized to provide criptoasset services by Banco de Portugal and Comissão do Mercado de Valores Mobiliários.",
-   "last_update": "2026-05-19"
+   "last_update": "2026-05-19",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering crypto-for-fiat exchange"
   },
   {
    "company": "TÝR MARKETS AS",
@@ -5914,7 +6302,9 @@
    "website": "https://www.tyrmarkets.net/no",
    "address": "Ruseløkkveien 34, 0251, OSLO, NORWAY",
    "comments": "",
-   "last_update": "2026-08-18"
+   "last_update": "2026-08-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "AS LHV Pank",
@@ -5935,7 +6325,9 @@
    "website": "https://www.lhv.ee",
    "address": "Tartu mnt 2, Tallinn, 10145",
    "comments": "",
-   "last_update": "2026-06-02"
+   "last_update": "2026-06-02",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Jgcmgs",
@@ -5951,7 +6343,9 @@
    "website": "https://jgcmgs.co",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GG Digital, a.s.",
@@ -5975,7 +6369,9 @@
    "website": "https://www.goldengate.cz/",
    "address": "Wuchterlova 1607/12, 160 00 Praha",
    "comments": "",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Forte Valbit",
@@ -5991,7 +6387,9 @@
    "website": "https://fortevalbit.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BitGptApp",
@@ -6007,7 +6405,9 @@
    "website": "https://lagrovine.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Raiffeisenbank Kreis Kelheim eG",
@@ -6027,7 +6427,9 @@
    "website": "www.rbkk.de",
    "address": "Kelheimwinzerstraße 140, 93309 Kelheim",
    "comments": "",
-   "last_update": "2026-05-13"
+   "last_update": "2026-05-13",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "KBC Bank NV",
@@ -6049,7 +6451,9 @@
    "website": "www.kbc.com",
    "address": "Havenlaan 2, 1080 Brussels",
    "comments": "",
-   "last_update": "2026-05-13"
+   "last_update": "2026-05-13",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "B2C2 Europe Sarl",
@@ -6099,7 +6503,9 @@
    "website": "https://www.b2c2.com/",
    "address": "33, Boulevard Prince Henri 1724 Luxembourg",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "SIA \"Paybis Europe\"",
@@ -6153,7 +6559,9 @@
    "website": "https://paybis.com/",
    "address": "Brīvības iela 171, Rīga, LV-1012",
    "comments": "",
-   "last_update": "2026-05-28"
+   "last_update": "2026-05-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "COINHOUSE SAS",
@@ -6181,7 +6589,9 @@
    "website": "https://www.coinhouse.com/",
    "address": "14 avenue de l’Opéra - 75001 Paris, France",
    "comments": "",
-   "last_update": "2026-05-07"
+   "last_update": "2026-05-07",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Vermögensbutler GmbH",
@@ -6202,7 +6612,9 @@
    "website": "www.vermoegensbutler.de",
    "address": "Ditzenbrunner Straße 4, 71254 Ditzingen",
    "comments": "",
-   "last_update": "2026-05-12"
+   "last_update": "2026-05-12",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Stream Herplex Nx",
@@ -6218,7 +6630,9 @@
    "website": "https://shaftdwke.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Portafica",
@@ -6234,7 +6648,9 @@
    "website": "https://rowanbarrowty.pro|https://synthiumd.pro|https://florentiad.info|https://designlabyu.top|https://marketpulsehubx.top|https://italinsightpro.top|https://marketpulserf.info|https://travelnetty.pro|https://meridianad.info|https://borealhub.pro|https://clariseline.top|https://truewarmheartedpath.pro|https://truelightbeamd.pro|https://mindsparklety.info|https://spiritsweetbalanceup.top",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Patrimera",
@@ -6250,7 +6666,9 @@
    "website": "https://bircholtless.top|https://econmilanozone88.pro|https://romatrendix.xyz",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Epic Maxalt Neo",
@@ -6266,7 +6684,9 @@
    "website": "https://elapidpcsf.cc",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CHECKSIG S.R.L. SOCIETÀ BENEFIT",
@@ -6290,7 +6710,9 @@
    "website": "WWW.CHECKSIG.COM",
    "address": "Piazza Del Liberty, 8, MILANO, 20121",
    "comments": "",
-   "last_update": "2026-05-06"
+   "last_update": "2026-05-06",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Aziovale",
@@ -6306,7 +6728,9 @@
    "website": "https://fintrendtrackerq.info|https://zenithad.top|https://marketflowgridz.top",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-18"
+   "last_update": "2026-05-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Zzx726",
@@ -6322,7 +6746,9 @@
    "website": "https://zzx726.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Yyt369",
@@ -6338,7 +6764,9 @@
    "website": "https://yyt369.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Yue157",
@@ -6354,7 +6782,9 @@
    "website": "https://yue157.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Sdd316",
@@ -6370,7 +6800,9 @@
    "website": "https://sdd316.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Rtut62",
@@ -6386,7 +6818,9 @@
    "website": "https://rtut62.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Hjk172",
@@ -6402,7 +6836,9 @@
    "website": "https://hjk172.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "EwdS66",
@@ -6418,7 +6854,9 @@
    "website": "https://ewds66.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Etww78",
@@ -6434,7 +6872,9 @@
    "website": "https://etww78.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Erw326",
@@ -6450,7 +6890,9 @@
    "website": "https://erw326.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Asd967",
@@ -6466,7 +6908,9 @@
    "website": "https://asd967.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-05-04"
+   "last_update": "2026-05-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Virtu Financial Ireland Limited",
@@ -6516,7 +6960,9 @@
    "website": "https://www.virtu.com/",
    "address": "North Dock One, Fifth Floor, 91/92 North Wall Quay,  Dublin 1 D01H7V7",
    "comments": "",
-   "last_update": "2026-04-28"
+   "last_update": "2026-04-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DESKOIN SAS",
@@ -6547,7 +6993,9 @@
    "website": "https://www.deskoin.com/",
    "address": "7/9 et 11 Boulevard de la Solidarité - 57070 Metz, France",
    "comments": "",
-   "last_update": "2026-04-28"
+   "last_update": "2026-04-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Belayer ООD",
@@ -6569,7 +7017,9 @@
    "website": "https://www.belayer.bg/",
    "address": "Office 1, 3rd Floor, 7 Industrialna St., Serdika District, Sofia, Bulgaria",
    "comments": "",
-   "last_update": "2026-04-28"
+   "last_update": "2026-04-28",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "BANCA SELLA",
@@ -6590,7 +7040,9 @@
    "website": "www.sella.it",
    "address": "Piazza Gaudenzio Sella 1, BIELLA, 13900",
    "comments": "",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Swissquote Bank Europe SA",
@@ -6640,7 +7092,9 @@
    "website": "https://www.swissquote.com/en-lu/private",
    "address": "2, rue Edward Steichen, L-2540 Luxembourg",
    "comments": "",
-   "last_update": "2026-04-30"
+   "last_update": "2026-04-30",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "WHITE TECH Limited liability company for services",
@@ -6665,7 +7119,9 @@
    "website": "https://whitely.hr/hr",
    "address": "Petrinjska ulica 6, 10 000 Zagreb, Croatia",
    "comments": "",
-   "last_update": "2026-06-03"
+   "last_update": "2026-06-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "CIRCLE INTERNET FINANCIAL EUROPE SAS",
@@ -6714,7 +7170,9 @@
    "website": "https://www.circle.com/en/",
    "address": "4 RUE DE MARIVAUX - 75002 Paris, France",
    "comments": "",
-   "last_update": "2026-04-23"
+   "last_update": "2026-04-23",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Change Securities B.V.",
@@ -6736,7 +7194,9 @@
    "website": "https://www.changeinvest.com/",
    "address": "Westeinde 89 - 2211XS Noordwijkerhout - The Netherlands",
    "comments": "",
-   "last_update": "2026-04-20"
+   "last_update": "2026-04-20",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Validvent Technology GmbH",
@@ -6754,7 +7214,9 @@
    "website": "https://validvent.com",
    "address": "Opernring 1/E/736, 1010 Wien, Austria",
    "comments": "",
-   "last_update": "2026-04-15"
+   "last_update": "2026-04-15",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Quantoz Payments B.V",
@@ -6770,7 +7232,9 @@
    "website": "https://quantoz.com",
    "address": "Europalaan 100 - 3526 KS Utrecht",
    "comments": "RONQ white paper",
-   "last_update": "2026-04-15"
+   "last_update": "2026-04-15",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ELECTROCOIN Ltd for services",
@@ -6821,7 +7285,9 @@
    "website": "https://electrocoin.eu/hr",
    "address": "Ilica 15, 10 000 Zagreb, Croatia",
    "comments": "",
-   "last_update": "2026-06-25"
+   "last_update": "2026-06-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Quantoz Payments B.V",
@@ -6837,7 +7303,9 @@
    "website": "https://quantoz.com",
    "address": "Europalaan 100 - 3526 KS Utrecht",
    "comments": "PLNQ white paper",
-   "last_update": "2026-03-06"
+   "last_update": "2026-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Quantoz Payments B.V",
@@ -6853,7 +7321,9 @@
    "website": "https://quantoz.com",
    "address": "Europalaan 100 - 3526 KS Utrecht",
    "comments": "GBPQ white paper",
-   "last_update": "2026-03-06"
+   "last_update": "2026-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Northstake ApS",
@@ -6904,7 +7374,9 @@
    "website": "www.northstake.dk",
    "address": "Amaliegade 45 st, 1256 København K",
    "comments": "",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "ClearBank Europe N.V.",
@@ -6947,7 +7419,9 @@
    "website": "https://clear.bank/",
    "address": "Stadhouderskade 85 - 1073AT Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2026-04-03"
+   "last_update": "2026-04-03",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Valoranco",
@@ -6963,7 +7437,9 @@
    "website": "https://valoranco.com|https://valoranco.org",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Rango Opularis",
@@ -6979,7 +7455,9 @@
    "website": "https://rangoopularis.net|https://rangoopularis.com|https://rangoopularis-ai.com|https://rango-opularis.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Oxelvian",
@@ -6995,7 +7473,9 @@
    "website": "https://oxelvian.it|https://oxelvian.net|https://oxelvian.io|https://oxelvian.tech|https://oxelvian-it.net",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Kapidex Nx",
@@ -7011,7 +7491,9 @@
    "website": "https://kapidexnx.net|https://kapidexnx",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Frame 2U Avapro",
@@ -7027,7 +7509,9 @@
    "website": "https://frame-2u-avapro.com|https:/frame-2u-avapro.org",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Fortunezza",
@@ -7043,7 +7527,9 @@
    "website": "https://fortunezza.com|https://fortunezza.org",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Eryxavin",
@@ -7059,7 +7545,9 @@
    "website": "https://eryxavin.net|https://eryxavin.org|https://eryxavinit.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Entratezza",
@@ -7075,7 +7563,9 @@
    "website": "https://entratezza.com|https://entratezza-ia.com",
    "address": "",
    "comments": "None",
-   "last_update": "2026-04-07"
+   "last_update": "2026-04-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "KUTXABANK S.A.",
@@ -7097,7 +7587,9 @@
    "website": "https://portal.kutxabank.es/cs/ Satellite/kb/es/particulares",
    "address": "Gran Via 30. 48009 Bilbao.",
    "comments": "",
-   "last_update": "2026-03-27"
+   "last_update": "2026-03-27",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "CAIXABANK S.A.",
@@ -7120,7 +7612,9 @@
    "website": "https://caixabank.es",
    "address": "Pintor Sorolla 2-4. 46002 Valencia",
    "comments": "",
-   "last_update": "2026-03-27"
+   "last_update": "2026-03-27",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "D2X Group N.V.",
@@ -7140,7 +7634,9 @@
    "website": "https://d2x.com/",
    "address": "Ijsbaanpad 2 - 1076CV Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2026-03-26"
+   "last_update": "2026-03-26",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Yuy257",
@@ -7156,7 +7652,9 @@
    "website": "https://yuy257.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Uiu258",
@@ -7172,7 +7670,9 @@
    "website": "https://uiu258.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Rer221",
@@ -7188,7 +7688,9 @@
    "website": "https://rer221.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "M1gqv",
@@ -7204,7 +7706,9 @@
    "website": "https://m1gqv.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Fgd326",
@@ -7220,7 +7724,9 @@
    "website": "https://fgd326.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Dfh226",
@@ -7236,7 +7742,9 @@
    "website": "https://dfh226.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Cdx818",
@@ -7252,7 +7760,9 @@
    "website": "https://cdx818.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AsdD952",
@@ -7268,7 +7778,9 @@
    "website": "https://asd952.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Aes332",
@@ -7284,7 +7796,9 @@
    "website": "https://aes332.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "78Yzb",
@@ -7300,7 +7814,9 @@
    "website": "https://78yzb.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-03-25"
+   "last_update": "2026-03-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Trading.com Markets EU Ltd",
@@ -7354,7 +7870,9 @@
    "website": "www.trading.com/eu",
    "address": "13, Irenes Street, 3042, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-04-03"
+   "last_update": "2026-04-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "J2TX Ltd",
@@ -7409,7 +7927,9 @@
    "website": "www.j2tx.com",
    "address": "Magnum Business Center, 4A, 78 Spyrou Kyprianou Avenue, 3076, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-09-29"
+   "last_update": "2026-09-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Celsion Bank AG",
@@ -7461,7 +7981,9 @@
    "website": "www.celsion-finance.com",
    "address": "Austrasse 77 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-04-15"
+   "last_update": "2026-04-15",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering crypto-for-fiat exchange"
   },
   {
    "company": "BV & P Vermögen AG",
@@ -7482,7 +8004,9 @@
    "website": "www.bvp-vermoegen.de",
    "address": "Edisonstraße 5, 87437 Kempten (Allgäu)",
    "comments": "",
-   "last_update": "2026-03-13"
+   "last_update": "2026-03-13",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "MLP Banking AG",
@@ -7502,7 +8026,9 @@
    "website": "www.mlp.de",
    "address": "Alte Heerstraße 40, 69168 Wiesloch",
    "comments": "",
-   "last_update": "2026-03-11"
+   "last_update": "2026-03-11",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Joh. Berenberg, Gossler & Co. KG",
@@ -7527,7 +8053,9 @@
    "website": "www.berenberg.de",
    "address": "Überseering 28, 22297 Hamburg",
    "comments": "",
-   "last_update": "2026-03-06"
+   "last_update": "2026-03-06",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BLOCKNODES SAS",
@@ -7580,7 +8108,9 @@
    "website": "https://swissborg.com/",
    "address": "29 RUE BLANCHE - 75009 PARIS, France",
    "comments": "",
-   "last_update": "2026-03-05"
+   "last_update": "2026-03-05",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "AnCeKa Vermögensbetreuungs Aktiengesellschaft",
@@ -7602,7 +8132,9 @@
    "website": "www.anceka.de",
    "address": "Schraderstraße 4, 87600 Kaufbeuren",
    "comments": "",
-   "last_update": "2026-03-04"
+   "last_update": "2026-03-04",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Calamatta Cuschieri Investment Services Limited",
@@ -7651,7 +8183,9 @@
    "website": "https://cc.com.mt",
    "address": "Ewropa Business Centre, Triq Dun Karm, Birkirkara, BKR 9034, Malta",
    "comments": "",
-   "last_update": "2026-07-06"
+   "last_update": "2026-07-06",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Scalable Capital Bank GmbH",
@@ -7671,7 +8205,9 @@
    "website": "www.scalable.capital",
    "address": "Seitzstraße 8e, 80538 München",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Noemon Finance Ltd",
@@ -7726,7 +8262,9 @@
    "website": "www.noemon.finance",
    "address": "18 Kyriakou Matsi, Victory Tower, 2nd Floor, Office 201, 1082 Nicosia, Cyprus",
    "comments": "",
-   "last_update": "2026-03-13"
+   "last_update": "2026-03-13",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Pluso a.s.",
@@ -7749,7 +8287,9 @@
    "website": "https://www.pluso.cz/",
    "address": "Politických vězňů 156/21, 266 01 Beroun",
    "comments": "",
-   "last_update": "2026-03-13"
+   "last_update": "2026-03-13",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "MipSoftware s.r.o.",
@@ -7771,7 +8311,9 @@
    "website": "https://coinero.cz",
    "address": "Na příkopě 848/6, 110 00 Praha",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "COINMATE a.s.",
@@ -7823,7 +8365,9 @@
    "website": "https://coinmate.io/cs",
    "address": "Pernerova 697/35, 186 00 Praha",
    "comments": "",
-   "last_update": "2026-06-03"
+   "last_update": "2026-06-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "UAB Micar assets",
@@ -7848,7 +8392,9 @@
    "website": "https://myriadcapital.lt",
    "address": "J. Savickio g. 4-7, Vilnius, 01108, Lithuania",
    "comments": "",
-   "last_update": ""
+   "last_update": "",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Plutos Vermögensverwaltung AG",
@@ -7868,7 +8414,9 @@
    "website": "www.plutos.de",
    "address": "Geleitsstraße 14, 60599 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-02-25"
+   "last_update": "2026-02-25",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Banking Circle S.A.",
@@ -7919,7 +8467,9 @@
    "website": "https://bankingcircle.com/",
    "address": "2, Boulevard de la Foire, L-1528 Luxembourg",
    "comments": "",
-   "last_update": "2026-03-24"
+   "last_update": "2026-03-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "System Pay Services (Malta) Limited",
@@ -7971,7 +8521,9 @@
    "website": "https://bvnk.com/",
    "address": "Ruby Workspaces Office 3 Pendergardens, \nTriq Sant' Andrija, \nSan Giljan, \nSTJ 9023, \nMalta",
    "comments": "",
-   "last_update": "2026-05-13"
+   "last_update": "2026-05-13",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Wyden Capital AG",
@@ -7991,7 +8543,9 @@
    "website": "https://www.wydencapital.com/en/",
    "address": "Industriering 14 - 9491 Ruggell",
    "comments": "",
-   "last_update": "2026-02-25"
+   "last_update": "2026-02-25",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "WEB3 Technology B.V.",
@@ -8043,7 +8597,9 @@
    "website": "https://ari10.com/en\nhttps://ari10.com/en/encashify.eu",
    "address": "Prins Hendrikkade 21E - 1012TL Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2026-07-17"
+   "last_update": "2026-07-17",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "ILAVO GROUP a.s.",
@@ -8070,7 +8626,9 @@
    "website": "https://www.ilavo.cz/cs",
    "address": "Pražákova 1024/66a, 639 00 Brno",
    "comments": "",
-   "last_update": "2026-02-13"
+   "last_update": "2026-02-13",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "MP Developers s.r.o.",
@@ -8120,7 +8678,9 @@
    "website": "www.anycoin.cz;  www.dase.com",
    "address": "Křižíkova 710/30, 186 00 Prague",
    "comments": "",
-   "last_update": "2026-07-01"
+   "last_update": "2026-07-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Invity Finance s.r.o.",
@@ -8151,7 +8711,9 @@
    "website": "www.invity.io",
    "address": "Kundratka 2359/17a, 180 00 Prague",
    "comments": "",
-   "last_update": "2026-09-01"
+   "last_update": "2026-09-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "HEXARQ SAS",
@@ -8176,7 +8738,9 @@
    "website": "https://www.hexarq.com/",
    "address": "7 promenade Germaine Sablon - 75013 Paris, France",
    "comments": "",
-   "last_update": "2026-02-05"
+   "last_update": "2026-02-05",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "AK JENSEN NORWAY AS",
@@ -8199,7 +8763,9 @@
    "website": "https://www.akj.com/",
    "address": "Bolette brygge 1, 0252 OSLO, NORWAY",
    "comments": "",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Damex Digital LTD",
@@ -8251,7 +8817,9 @@
    "website": "www.damex.io",
    "address": "MK Business Centre 115,\nTriq Il- Wied Mt-04\nFloor 2 \nBKR 9022\nMalta",
    "comments": "",
-   "last_update": "2026-06-18"
+   "last_update": "2026-06-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "YUU369",
@@ -8267,7 +8835,9 @@
    "website": "https://yuu369.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TYU105",
@@ -8283,7 +8853,9 @@
    "website": "https://tyu105.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TUU158",
@@ -8299,7 +8871,9 @@
    "website": "https://tuu158.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SDS031",
@@ -8315,7 +8889,9 @@
    "website": "https://sds031.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ISF Institut Deutsch-Schweizer Finanzdienstleistungen GmbH",
@@ -8335,7 +8911,9 @@
    "website": "www.isf-institut.de",
    "address": "Eysseneckstrasse 31, 60322 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-01-28"
+   "last_update": "2026-01-28",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "HGJ258",
@@ -8351,7 +8929,9 @@
    "website": "https://hgj258.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GFF612",
@@ -8367,7 +8947,9 @@
    "website": "https://gff612.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "FHD016",
@@ -8383,7 +8965,9 @@
    "website": "https://fhd016.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ERE316",
@@ -8399,7 +8983,9 @@
    "website": "https://ere316.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DFW222",
@@ -8415,7 +9001,9 @@
    "website": "https://dfw222.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BNG373",
@@ -8431,7 +9019,9 @@
    "website": "https://bng373.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ADAN82",
@@ -8447,7 +9037,9 @@
    "website": "https://adan82.it",
    "address": "",
    "comments": "None",
-   "last_update": "2026-02-02"
+   "last_update": "2026-02-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "FIPTO PI SAS",
@@ -8499,7 +9091,9 @@
    "website": "https://www.fipto.com/",
    "address": "65 RUE DE LA CROIX 92000 - NANTERRE, France",
    "comments": "",
-   "last_update": "2026-01-23"
+   "last_update": "2026-01-23",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Interactive Brokers Ireland Limited",
@@ -8548,7 +9142,9 @@
    "website": "https://www.interactivebrokers.ie",
    "address": "Floors 6 & 7, 91/92 N Wall Quay, North Wall, Dublin, D01 H7V7",
    "comments": "",
-   "last_update": "2026-01-22"
+   "last_update": "2026-01-22",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Penning Financial Services ApS",
@@ -8603,7 +9199,9 @@
    "website": "www.penning.io",
    "address": "Frederiksgaards Allé 16A, st. th, 2720 Vanlose",
    "comments": "",
-   "last_update": "2026-03-04"
+   "last_update": "2026-03-04",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Okazio s.r.o.",
@@ -8656,7 +9254,9 @@
    "website": "https://okazio.sk/",
    "address": "Bottova 2A, 811 09 Bratislava, Slovakia",
    "comments": "",
-   "last_update": "2026-01-16"
+   "last_update": "2026-01-16",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "CONCEDUS GmbH",
@@ -8677,7 +9277,9 @@
    "website": "https://concedus.com/",
    "address": "Ostendstraße 100, 90482 Nürnberg",
    "comments": "",
-   "last_update": "2026-03-19"
+   "last_update": "2026-03-19",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Firefish Europe s.r.o",
@@ -8729,7 +9331,9 @@
    "website": "https://firefish.io/",
    "address": "Na troskách 22, 974 01 Banská Bystrica,Slovakia",
    "comments": "",
-   "last_update": "2026-07-29"
+   "last_update": "2026-07-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank",
@@ -8751,7 +9355,9 @@
    "website": "https://www.dzbank.de",
    "address": "Platz der Republik, 60325 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Bank Frick AG",
@@ -8800,7 +9406,9 @@
    "website": "https://www.bankfrick.li/en",
    "address": "Landstrasse 14 - 9496 Balzers",
    "comments": "",
-   "last_update": "2026-02-24"
+   "last_update": "2026-02-24",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "PELICAN EXCHANGE EUROPE (CY) LTD",
@@ -8852,7 +9460,9 @@
    "website": "www.pelicaneu.com",
    "address": "Agios Zonis 50, Arianthi Court, 2nd floor, 3090, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Alaric Securities OOD",
@@ -8909,7 +9519,9 @@
    "website": "https://alaricsecurities.com/",
    "address": "20 Todor Aleksandrov bul., 1303 Sofia, Bulgaria",
    "comments": "",
-   "last_update": "2026-10-06"
+   "last_update": "2026-10-06",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "wSw PortfolioManagement AG",
@@ -8929,7 +9541,9 @@
    "website": "www.wsw-pm.de",
    "address": "Johann-Georg-Straße 21/22, 10709 Berlin",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Tradevest Markets AG",
@@ -8951,7 +9565,9 @@
    "website": "https://www.tradevest.ai/de",
    "address": "Clemensstraße 2, 80803 München",
    "comments": "",
-   "last_update": "2026-04-01"
+   "last_update": "2026-04-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Tradevest Digital Assets GmbH",
@@ -8972,7 +9588,9 @@
    "website": "www.tradevest.ai",
    "address": "Prannerstr. 15, 80333 München",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "StoneX Digital International Limited",
@@ -9026,7 +9644,9 @@
    "website": "www.stonex.com",
    "address": "3rd Floor, Portview House,Thorncastle Street,Dublin 4,",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "LGT Bank AG",
@@ -9062,7 +9682,9 @@
    "website": "https://www.lgt.com/li-en",
    "address": "Herrengasse 12 - Postfach 85 - 9490 Vaduz",
    "comments": "",
-   "last_update": "2026-01-27"
+   "last_update": "2026-01-27",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "FINTECH SK s. r. o.",
@@ -9112,7 +9734,9 @@
    "website": "https://bitcoinmat.sk",
    "address": "Gen. Svobodu 1, 911 08 Trenčín, Slovakia",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FIDUS Finanz AG",
@@ -9135,7 +9759,9 @@
    "website": "https://fidus-ag.de",
    "address": "August-Schanz-Straße 30-32",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Coinfinity GmbH",
@@ -9162,7 +9788,9 @@
    "website": "https://coinfinity.co",
    "address": "Griesgasse 10, 8020 Graz, Austria",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Sutor Bank GmbH",
@@ -9182,7 +9810,9 @@
    "website": "https://www.sutorbank.de/",
    "address": "Hermannstraße 46, 20095 Hamburg",
    "comments": "",
-   "last_update": "2025-12-18"
+   "last_update": "2025-12-18",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Pionew Ireland Limited",
@@ -9208,7 +9838,9 @@
    "website": "www.webot.com/eu",
    "address": "Office 1C North Valley Business Park Old Mallow Road Cork T23 WN15 IRELAND",
    "comments": "",
-   "last_update": "2025-12-18"
+   "last_update": "2025-12-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Madison Six j. s. a.",
@@ -9262,7 +9894,9 @@
    "website": "https://madisonsix.com/|https://crypto4me.eu",
    "address": "Slávičie údolie 106, 811 02 Bratislava, Slovakia",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Fintegence, s.r.o.",
@@ -9313,7 +9947,9 @@
    "website": "https://cryptovoucher.io/|https://giftmecrypto.io/",
    "address": "Bottova 2A, 811 09 Bratislava, Slovakia",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FUMBI, s.r.o.",
@@ -9364,7 +10000,9 @@
    "website": "https://fumbi.network/sk/",
    "address": "Suché mýto 6, 811 03 Bratislava, Slovakia",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DLT Securities GmbH",
@@ -9414,7 +10052,9 @@
    "website": "www.dlt-finance.com",
    "address": "Schneckenhofstraße 13, 60596 Frankfurt",
    "comments": "",
-   "last_update": "2026-07-31"
+   "last_update": "2026-07-31",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Volksbank Raiffeisenbank Würzburg eG",
@@ -9434,7 +10074,9 @@
    "website": "https://www.vr-bank-wuerzburg.de",
    "address": "Theaterstraße 28, 97070 Würzburg",
    "comments": "",
-   "last_update": "2025-12-17"
+   "last_update": "2025-12-17",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR-Bank Rottal-Inn eG",
@@ -9454,7 +10096,9 @@
    "website": "www.vrbk.de",
    "address": "VR-Bank-Straße 1, 84347 Pfarrkirchen",
    "comments": "",
-   "last_update": "2025-12-16"
+   "last_update": "2025-12-16",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "UAB Decentralized",
@@ -9505,7 +10149,9 @@
    "website": "https://coingate.com",
    "address": "Lvivo g. 37, Vilnius, 09307, Lithuania",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Nuvei Liquidity UAB",
@@ -9556,7 +10202,9 @@
    "website": "https://simplex.com",
    "address": "Lvivo g. 37, Vilnius, 09307, Lithuania",
    "comments": "",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DADAT Krypto GmbH",
@@ -9576,7 +10224,9 @@
    "website": "https://www.dad.at",
    "address": "Franz-Josef-Straße 22, 5020 Salzburg, Austria",
    "comments": "",
-   "last_update": "2025-12-19"
+   "last_update": "2025-12-19",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Confirmo Limited",
@@ -9627,7 +10277,9 @@
    "website": "confirmo.eu",
    "address": "33 Sir John Rogerson's Quay, Dublin 2, Ireland, D02 XK09",
    "comments": "",
-   "last_update": "2025-12-16"
+   "last_update": "2025-12-16",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "XTB Limited",
@@ -9678,7 +10330,9 @@
    "website": "https://www.xtb.com/cy",
    "address": "Pikioni, 10 HIGHSIGHT RENTALS LTD, 3075, Limassol",
    "comments": "",
-   "last_update": "2026-03-13"
+   "last_update": "2026-03-13",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Zodia Custody (Europe) S.A.",
@@ -9728,7 +10382,9 @@
    "website": "https://zodia-custody.com/",
    "address": "2, Place de Paris, L-2314 Luxembourg",
    "comments": "",
-   "last_update": "2025-12-12"
+   "last_update": "2025-12-12",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "VR TeilhaberBank Metropolregion Nürnberg eG",
@@ -9748,7 +10404,9 @@
    "website": "www.vr-teilhaberbank.de",
    "address": "Bahnhofstraße 2, 91413 Neustadt a.d. Aisch",
    "comments": "",
-   "last_update": "2025-12-12"
+   "last_update": "2025-12-12",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "VR Bank Südpfalz eG",
@@ -9768,7 +10426,9 @@
    "website": "www.vrbank-suedpfalz.de",
    "address": "Waffenstraße 15, 76829, Landau in der Pfalz",
    "comments": "",
-   "last_update": "2025-12-12"
+   "last_update": "2025-12-12",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Lucrumiagroup",
@@ -9784,7 +10444,9 @@
    "website": "https://www.lucrumiaofficial.co|https://www.lucrumiamode.co|https://wap.lucrumiaofficial.co|https://wap.lucrumiamode.co",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-16"
+   "last_update": "2025-12-16",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Hannoversche Volksbank eG",
@@ -9804,7 +10466,9 @@
    "website": "https://www.hannoversche-volksbank.de/",
    "address": "Kurt-Schuhmacher-Straße 19, 30159 Hannover",
    "comments": "",
-   "last_update": "2025-12-12"
+   "last_update": "2025-12-12",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "GC Exchange A/S",
@@ -9828,7 +10492,9 @@
    "website": "https://gc.exchange/",
    "address": "Amager Strandvej 390, 2770 Kastrup",
    "comments": "",
-   "last_update": "2026-03-09"
+   "last_update": "2026-03-09",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Druvaxio",
@@ -9844,7 +10510,9 @@
    "website": "https://druvaxio-invest.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-16"
+   "last_update": "2025-12-16",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Westerwald Bank eG Volks- und Raiffeisenbank",
@@ -9864,7 +10532,9 @@
    "website": "www.westerwaldbank.de",
    "address": "Kirchstraße 2-4, 56410 Montabaur",
    "comments": "",
-   "last_update": "2025-12-11"
+   "last_update": "2025-12-11",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "SIA GR8 PAY",
@@ -9880,7 +10550,9 @@
    "website": "https://gr8.money/",
    "address": "Latvia, Malduguņu iela 2, Mārupe, Mārupes nov., LV-2167",
    "comments": "",
-   "last_update": "2026-03-21"
+   "last_update": "2026-03-21",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SIA GR8 PAY",
@@ -9896,7 +10568,9 @@
    "website": "https://gr8.money/",
    "address": "Latvia, Malduguņu iela 2, Mārupe, Mārupes nov., LV-2167",
    "comments": "",
-   "last_update": "2026-03-21"
+   "last_update": "2026-03-21",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Nexdesk SIA",
@@ -9947,7 +10621,9 @@
    "website": "https://nexdesk.io/",
    "address": "Mihaila Tāla iela 1, Rīga, LV-1045",
    "comments": "",
-   "last_update": "2025-12-11"
+   "last_update": "2025-12-11",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Fels wealth GmbH",
@@ -9970,7 +10646,9 @@
    "website": "https://followmymoney.de/",
    "address": "Dieselstraße 2, 65779 Kelkheim (Taunus)",
    "comments": "",
-   "last_update": "2025-12-10"
+   "last_update": "2025-12-10",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "CoinJar Europe Limited",
@@ -10022,7 +10700,9 @@
    "website": "https://www.coinjar.com",
    "address": "6 Mount Street Upper, Dublin 2, Dublin, Ireland",
    "comments": "",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Monflo B.V.",
@@ -10047,7 +10727,9 @@
    "website": "https://www.monflo.com",
    "address": "Prins Willem-Alexandarlaan 301 - 7311SW Apeldoorn - The Netherlands",
    "comments": "",
-   "last_update": "2025-12-04"
+   "last_update": "2025-12-04",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Deutsche WertpapierService Bank AG",
@@ -10067,7 +10749,9 @@
    "website": "https://dwpbank.de",
    "address": "Kölner Straße 5, 65760 Eschborn",
    "comments": "",
-   "last_update": "2026-09-01"
+   "last_update": "2026-09-01",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "COMETH SAS",
@@ -10108,7 +10792,9 @@
    "website": "https://cometh.io/",
    "address": "61-63 RUE DES BELLES FEUILLES - 75016 PARIS, France",
    "comments": "",
-   "last_update": "2025-12-04"
+   "last_update": "2025-12-04",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "SJCJ11",
@@ -10124,7 +10810,9 @@
    "website": "https://sjcj11.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "RYE326",
@@ -10140,7 +10828,9 @@
    "website": "https://rye326.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "RYE036",
@@ -10156,7 +10846,9 @@
    "website": "https://rye026.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Paysafe Payment Solutions Limited.",
@@ -10208,7 +10900,9 @@
    "website": "www.skrill.com\nwww.neteller.com",
    "address": "15 George’s Quay, Dublin D02 VR98",
    "comments": "",
-   "last_update": "2025-12-03"
+   "last_update": "2025-12-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "L88159",
@@ -10224,7 +10918,9 @@
    "website": "https://l88159.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GKJ159",
@@ -10240,7 +10936,9 @@
    "website": "https://gkj159.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GFJ123",
@@ -10256,7 +10954,9 @@
    "website": "https://gfj123.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "FGJ329",
@@ -10272,7 +10972,9 @@
    "website": "https://fgj329.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DSHS82",
@@ -10288,7 +10990,9 @@
    "website": "https://dshs82.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BlockBen SIA",
@@ -10341,7 +11045,9 @@
    "website": "https://blockben.com/en/",
    "address": "Krišjāņa Valdemāra iela 21 - 11, Rīga, LV-1010",
    "comments": "",
-   "last_update": "2025-12-04"
+   "last_update": "2025-12-04",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "03WAKIH",
@@ -10357,7 +11063,9 @@
    "website": "https://03wakih.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "01LUHAR",
@@ -10373,7 +11081,9 @@
    "website": "https://01luhar.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Ramp Swaps (Ireland) Limited",
@@ -10422,7 +11132,9 @@
    "website": "rampnetwork.com",
    "address": "6th Floor, 2 Grand Canal Square, Dublin 2, D02 A342, Ireland.",
    "comments": "",
-   "last_update": "2025-12-02"
+   "last_update": "2025-12-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Kvarn Capital Oy",
@@ -10471,7 +11183,9 @@
    "website": "https://www.kvarnx.com/",
    "address": "Eteläesplanadi 24 A 14\n00130 Helsinki",
    "comments": "Passporting information updated",
-   "last_update": "2026-05-28"
+   "last_update": "2026-05-28",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "ZEUS Anstalt für Vermögensverwaltung",
@@ -10491,7 +11205,9 @@
    "website": "https://www.zeus-management.li/en",
    "address": "Industriestrasse 2 - 9487 Gamprin-Bendern",
    "comments": "",
-   "last_update": "2025-12-02"
+   "last_update": "2025-12-02",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "DekaBank Deutsche Girozentrale",
@@ -10513,7 +11229,9 @@
    "website": "https://www.deka.de/deka-gruppe",
    "address": "Große Gallusstraße 14, 60315 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-12-01"
+   "last_update": "2025-12-01",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "CAPITAL VAULT LTD",
@@ -10567,7 +11285,9 @@
    "website": "www.capital.com",
    "address": "Vasileiou Makedonos 8, KINNIS BUSINESS CENTER, 3rd floor, 3040 Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-07-17"
+   "last_update": "2026-07-17",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Hauck Aufhäuser Digital Custody GmbH",
@@ -10588,7 +11308,9 @@
    "website": "https://www.hal-privatbank.com/asset-servicing/digitale-assets/regulierte-kryptoverwahrung",
    "address": "Kaiserstraße 24, 60311 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-12-03"
+   "last_update": "2025-12-03",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Orcabay finančne storitve d.o.o.",
@@ -10609,7 +11331,9 @@
    "website": "https://orcabay.io/",
    "address": "Stegne 21C 1000 Ljubljana Slovenia",
    "comments": "",
-   "last_update": "2026-08-25"
+   "last_update": "2026-08-25",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "KuCoin EU Exchange GmbH",
@@ -10661,7 +11385,9 @@
    "website": "https://www.kucoin.eu",
    "address": "Am Grünen Prater 2/3. Stock, 1020 Vienna, Austria",
    "comments": "",
-   "last_update": "2025-11-27"
+   "last_update": "2025-11-27",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FIOR Digital GmbH",
@@ -10712,7 +11438,9 @@
    "website": "https://www.21bitcoin.app",
    "address": "Rottweg 66, 5020 Salzburg, Austria",
    "comments": "",
-   "last_update": "2025-11-27"
+   "last_update": "2025-11-27",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "NorthCrypto Oy",
@@ -10734,7 +11462,9 @@
    "website": "https://www.northcrypto.com/",
    "address": "Kristiinankatu 1 B 25\n20100 Turku",
    "comments": "Passporting information updated",
-   "last_update": "2026-06-17"
+   "last_update": "2026-06-17",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Blockrise Capital B.V.",
@@ -10786,7 +11516,9 @@
    "website": "https://www.blockrise.com/en",
    "address": "Blaak 555 (23rd floor) - 3011GB Rotterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-12-10"
+   "last_update": "2025-12-10",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "sino Aktiengesellschaft",
@@ -10806,7 +11538,9 @@
    "website": "https://www.sino.de/",
    "address": "Ernst-Schneider-Platz 1 - 40212 Düsseldorf",
    "comments": "",
-   "last_update": "2025-11-24"
+   "last_update": "2025-11-24",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Payhound Limited",
@@ -10858,7 +11592,9 @@
    "website": "www.payhound.com",
    "address": "Level 0A, Centris Business Gateway II,\nTriq is-Salib tal-Imriehel, Zone 3, Central Business District,\nBirkirkara, CBD 3020,\nMalta",
    "comments": "",
-   "last_update": "2025-12-04"
+   "last_update": "2025-12-04",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Hyphe Markets GmbH",
@@ -10888,7 +11624,9 @@
    "website": "https://hyphe.com/",
    "address": "Hyphe Markets GmbH, D-80538 München",
    "comments": "",
-   "last_update": "2025-11-25"
+   "last_update": "2025-11-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "INCREMENTUM poslovne storitve d.o.o.",
@@ -10912,7 +11650,9 @@
    "website": "https://incrementum.si/",
    "address": "Špruha 19 1236 Trzin Slovenia",
    "comments": "",
-   "last_update": "2026-08-25"
+   "last_update": "2026-08-25",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "RENTA 4 BANCO S.A.",
@@ -10934,7 +11674,9 @@
    "website": "www.r4.com",
    "address": "Paseo de la Habana 74. 28036 Madrid.",
    "comments": "",
-   "last_update": "2025-11-25"
+   "last_update": "2025-11-25",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "IG Europe GmbH",
@@ -10983,7 +11725,9 @@
    "website": "https://www.ig.com/de",
    "address": "Westhafenplatz 1, 60327 Frankfurt",
    "comments": "",
-   "last_update": "2025-12-12"
+   "last_update": "2025-12-12",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "EUWAX AG",
@@ -11003,7 +11747,9 @@
    "website": "www.euwax-ag.de",
    "address": "Börsenstraße 4 - 70174 Stuttgart",
    "comments": "",
-   "last_update": "2025-11-21"
+   "last_update": "2025-11-21",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Bitonic B.V.",
@@ -11055,7 +11801,9 @@
    "website": "https://bitonic.nl/en/",
    "address": "Hoogte Kadijk 143F 8 - 1018BH Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-11-24"
+   "last_update": "2025-11-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Niufo",
@@ -11071,7 +11819,9 @@
    "website": "www.niufo.co",
    "address": "",
    "comments": "None",
-   "last_update": "2025-11-25"
+   "last_update": "2025-11-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Cryptoin24",
@@ -11087,7 +11837,9 @@
    "website": "ttps://cryptoin24.io|https://cryptoin24.com|https://clients.cryptoin24.com|https://trading.cryptoin24.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-11-25"
+   "last_update": "2025-11-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Bitmymoney B.V.",
@@ -11111,7 +11863,9 @@
    "website": "https://www.bitmymoney.com/",
    "address": "Wilhelmina van Pruisenweg - 2595AN Den Haag - The Netherlands",
    "comments": "",
-   "last_update": "2025-11-24"
+   "last_update": "2025-11-24",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "AlphaCapital",
@@ -11127,7 +11881,9 @@
    "website": "https://alpha-capital.finance|https://cfd.alpha-capital.finance",
    "address": "",
    "comments": "None",
-   "last_update": "2025-11-25"
+   "last_update": "2025-11-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Lightyear Europe AS",
@@ -11178,7 +11934,9 @@
    "website": "https://lightyear.com/",
    "address": "Volta tn 1, Tallinn, 10412",
    "comments": "",
-   "last_update": "2025-12-05"
+   "last_update": "2025-12-05",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Newrails, UAB",
@@ -11227,7 +11985,9 @@
    "website": "https://www.newrails.xyz",
    "address": "Švitrigailos g. 11C, 03228, Vilnius, Lithuania",
    "comments": "CASP services are provided under Article 60(4) of MiCA, in relation to own issued EMT called AMBR EURO (EURW)",
-   "last_update": "2026-03-26"
+   "last_update": "2026-03-26",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Push Virtual Assets Ireland Limited",
@@ -11276,7 +12036,9 @@
    "website": "push.co",
    "address": ": 29-30 Fitzwilliam Square, Dublin 2, D02 RF20",
    "comments": "",
-   "last_update": "2025-11-12"
+   "last_update": "2025-11-12",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Huddlestock GmbH",
@@ -11296,7 +12058,9 @@
    "website": "www.huddlestock.com",
    "address": "Isartorplatz 8, 80331 München",
    "comments": "",
-   "last_update": "2025-11-06"
+   "last_update": "2025-11-06",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Volksbank Raiffeisenbank Bayern Mitte eG",
@@ -11316,7 +12080,9 @@
    "website": "www.vr-bayernmitte.de",
    "address": "Südliche Ringstraße 66, 85053 Ingolstadt",
    "comments": "",
-   "last_update": "2025-11-05"
+   "last_update": "2025-11-05",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Volksbank Mittlerer Schwarzwald eG",
@@ -11336,7 +12102,9 @@
    "website": "https://www.voba-msw.de",
    "address": "Vorstadtstrasse 52,77709 Wolfach",
    "comments": "",
-   "last_update": "2025-11-05"
+   "last_update": "2025-11-05",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Coinmerce B.V.",
@@ -11364,7 +12132,9 @@
    "website": "https://coinmerce.io",
    "address": "Beechavenue 140 - 1119PR Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-12-10"
+   "last_update": "2025-12-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bitcoinforme S.L.",
@@ -11419,7 +12189,9 @@
    "website": "bit2me.com",
    "address": "Calle German Bernacer 69. 03203 Alicante.",
    "comments": "",
-   "last_update": "2025-11-03"
+   "last_update": "2025-11-03",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "zerohash europe B.V.",
@@ -11472,7 +12244,9 @@
    "website": "https://zerohash.com/eu",
    "address": "Herengracht 244 3 - 1016 BT Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-12-10"
+   "last_update": "2025-12-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "AMINA (Austria) AG",
@@ -11525,7 +12299,9 @@
    "website": "https://eu.aminagroup.com",
    "address": "Seestrasse 6/13, 6900 Bregenz, Austria",
    "comments": "",
-   "last_update": "2026-05-28"
+   "last_update": "2026-05-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "DonauCapital Wertpapier GmbH",
@@ -11545,7 +12321,9 @@
    "website": "https://www.donaucapital.de",
    "address": "Passauer Str. 5, 94161 Ruderting",
    "comments": "",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "SOCIETE GENERALE - FORGE",
@@ -11594,7 +12372,9 @@
    "website": "https://www.sgforge.com/",
    "address": "17 COURS VALMY - 92800 PUTEAUX, France",
    "comments": "",
-   "last_update": "2025-10-23"
+   "last_update": "2025-10-23",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "RELAI EU SASU",
@@ -11639,7 +12419,9 @@
    "website": "https://relai.app/",
    "address": "61 rue de Lyon - 75012 Paris, France",
    "comments": "",
-   "last_update": "2025-10-23"
+   "last_update": "2025-10-23",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BANQUE DELUBAC ET CIE",
@@ -11693,7 +12475,9 @@
    "website": "https://www.delubac.com/",
    "address": "16 PLACE SALEON-TERRAS - 07160 LE CHEYLARD, France",
    "comments": "",
-   "last_update": "2025-10-23"
+   "last_update": "2025-10-23",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering crypto-for-fiat exchange"
   },
   {
    "company": "WES218",
@@ -11709,7 +12493,9 @@
    "website": "https://wes218.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "RYR888",
@@ -11725,7 +12511,9 @@
    "website": "https://ryr888.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "R4MOX",
@@ -11741,7 +12529,9 @@
    "website": "https://r4mox.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Lang & Schwarz TradeCenter AG & Co. KG",
@@ -11762,7 +12552,9 @@
    "website": "https://www.ls-tc.de/de/",
    "address": "Breite Strasse 34, 40213 Düsseldorf",
    "comments": "",
-   "last_update": "2025-10-22"
+   "last_update": "2025-10-22",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "JMY999",
@@ -11778,7 +12570,9 @@
    "website": "https://jmy999.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GJG258",
@@ -11794,7 +12588,9 @@
    "website": "https://gjg258.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DXZ175",
@@ -11810,7 +12606,9 @@
    "website": "https://dxz175.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DSG158",
@@ -11826,7 +12624,9 @@
    "website": "https://dsg158.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DFH258",
@@ -11842,7 +12642,9 @@
    "website": "https://dfh258.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DFG789",
@@ -11858,7 +12660,9 @@
    "website": "https://dfg789.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CFSD123",
@@ -11874,7 +12678,9 @@
    "website": "https://cfsd123.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-27"
+   "last_update": "2025-10-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Blockchain.com Operations (Malta) Limited",
@@ -11926,7 +12732,9 @@
    "website": "www.blockchain.com",
    "address": "171, Old Bakery Street, Valletta, VLT 1455, Malta",
    "comments": "",
-   "last_update": "2026-08-26"
+   "last_update": "2026-08-26",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Revolut Digital Assets (Europe) Ltd",
@@ -11979,7 +12787,9 @@
    "website": "https://www.revolut.com/en-CY/crypto/",
    "address": "Soho Embassy; Omonoias 13, 3052, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "ZZCoin",
@@ -11995,7 +12805,9 @@
    "website": "https://zzcoingy.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-20"
+   "last_update": "2025-10-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Veltrixmax-invest.com - Ayquozeber.com",
@@ -12011,7 +12823,9 @@
    "website": "https://veltrixmax-invest.com|https://ayquozeber.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-20"
+   "last_update": "2025-10-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Orolonix-invest.com - Cyberirfy.icu",
@@ -12027,7 +12841,9 @@
    "website": "https://orolonix-invest.com|https://cyberirfy.icu",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-20"
+   "last_update": "2025-10-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Ofuyc",
@@ -12043,7 +12859,9 @@
    "website": "www.ofuyc.com|www.ofuyc-32516it.com|www.ofuyc-55337it.com|www.ofuyc-23166it.com|www.ofuyc-33111it.com|www.ofuyc-83255it.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-20"
+   "last_update": "2025-10-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Cryptonow GmbH",
@@ -12095,7 +12913,9 @@
    "website": "https://www.cryptonow.at",
    "address": "Marc-Aurel-Straße 10-12/15a, 1010 Vienna, Austria",
    "comments": "",
-   "last_update": "2026-02-04"
+   "last_update": "2026-02-04",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Stratos Europe Ltd",
@@ -12146,7 +12966,9 @@
    "website": "https://www.tradu.com/eu/",
    "address": "33 NEAS EGKOMIS, NICOSIA, 2409, Cyprus",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "TEROXX DIGITAL ASSET LTD",
@@ -12203,7 +13025,9 @@
    "website": "www.teroxx.com",
    "address": "Kalogreon 4, Nicolaides Sea View City, Floor 4, Office D1, Larnaka, Cyprus",
    "comments": "",
-   "last_update": "2026-05-21"
+   "last_update": "2026-05-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Safello AB",
@@ -12228,7 +13052,9 @@
    "website": "www.safello.com",
    "address": "Box 638 c/o Safello AB, 114 11, Stockholm, Sweden",
    "comments": "",
-   "last_update": "2025-11-12"
+   "last_update": "2025-11-12",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Legend Financial Ireland Limited",
@@ -12278,7 +13104,9 @@
    "website": "www.legendtrading.com",
    "address": "Block 1, Blanchardstown Corporate Park, Ballycoolin Road, Dublin 15, Ireland",
    "comments": "",
-   "last_update": "2025-10-10"
+   "last_update": "2025-10-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "NETWORK CAPITAL LTD",
@@ -12294,7 +13122,9 @@
    "website": "https://network-capital-partners.com|https://web.networkcapital-partnersltd.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-10"
+   "last_update": "2025-10-10",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Lucrumiagroup.co",
@@ -12310,7 +13140,9 @@
    "website": "https://lucrumiagroup.co",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-10"
+   "last_update": "2025-10-10",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Jzmor",
@@ -12326,7 +13158,9 @@
    "website": "www.jzmor.com|www.jzmor-it57659.com|www.jzmor-it33583.com|www.jzmor-it99518.com|www.jzmor-it52337.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-10"
+   "last_update": "2025-10-10",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Dobibo",
@@ -12342,7 +13176,9 @@
    "website": "https://dbbddrb.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-10-10"
+   "last_update": "2025-10-10",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "EU Internet Ventures B.V.",
@@ -12393,7 +13229,9 @@
    "website": "https://banxa.com\nhttps://www.osl-pay.com/",
    "address": "Piet Heinkade 93B - 1019 GM Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2026-07-17"
+   "last_update": "2026-07-17",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "ILIRIKA borzno posredniška hiša d.d.",
@@ -12445,7 +13283,9 @@
    "website": "https://www.ilirika.si/",
    "address": "Slovenska cesta 54A 1000 Ljubljana Slovenia",
    "comments": "",
-   "last_update": "2026-08-25"
+   "last_update": "2026-08-25",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "BLOX B.V.",
@@ -12496,7 +13336,9 @@
    "website": "https://weareblox.com/",
    "address": "Kerkenbos 1025 - 6546 BB Nijmegen - The Netherlands",
    "comments": "",
-   "last_update": "2026-06-29"
+   "last_update": "2026-06-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Gate Technology Limited",
@@ -12549,7 +13391,9 @@
    "website": "www.gate.com/en-eu",
    "address": "The Core, Triq il-Wied ta’ l-Imsida, Msida, MSD9021, Malta",
    "comments": "",
-   "last_update": "2025-10-21"
+   "last_update": "2025-10-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Ynln.com",
@@ -12565,7 +13409,9 @@
    "website": "www.ynln.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-29"
+   "last_update": "2025-09-29",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Spazio Finanziario",
@@ -12581,7 +13427,9 @@
    "website": "www.spaziofinanziario.pro|https://clients.spaziofinanziario.pro",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-29"
+   "last_update": "2025-09-29",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Trading 212 Markets Ltd",
@@ -12633,7 +13481,9 @@
    "website": "www.trading212.com",
    "address": "Agias Fylaxeos, 1, Floor 2, Flat/Office 1, 3025, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2025-09-29"
+   "last_update": "2025-09-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "COLLECT & EXCHANGE CY LTD",
@@ -12685,7 +13535,9 @@
    "website": "https://collectnexchange.cy/",
    "address": "13 Thesalonikis, 3025, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2025-09-29"
+   "last_update": "2025-09-29",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "V-Bank AG",
@@ -12707,7 +13559,9 @@
    "website": "https://www.v-bank.com/",
    "address": "Rosenheimer Straße 116, 81669 München",
    "comments": "",
-   "last_update": "2025-09-19"
+   "last_update": "2025-09-19",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "YTT975",
@@ -12723,7 +13577,9 @@
    "website": "https://ytt975.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "YTH937",
@@ -12739,7 +13595,9 @@
    "website": "https://yth937.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "YQZ585",
@@ -12755,7 +13613,9 @@
    "website": "https://yqz585.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TUT551",
@@ -12771,7 +13631,9 @@
    "website": "https://tut551.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SFS854",
@@ -12787,7 +13649,9 @@
    "website": "https://sfs854.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "MEXC Global",
@@ -12803,7 +13667,9 @@
    "website": "https://www.mexc.com/",
    "address": "",
    "comments": "The AFM issued a public warning against MEXC: https://www.afm.nl/en/sector/actueel/2025/sep/pb-mexc",
-   "last_update": "2025-09-25"
+   "last_update": "2025-09-25",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GRT325",
@@ -12819,7 +13685,9 @@
    "website": "https://grt325.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "EWQ778",
@@ -12835,7 +13703,9 @@
    "website": "https://ewq778.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "C7VIZ",
@@ -12851,7 +13721,9 @@
    "website": "https://c7viz.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AWE818",
@@ -12867,7 +13739,9 @@
    "website": "https://awe818.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "12DEF",
@@ -12883,7 +13757,9 @@
    "website": "https://12def.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-09-18"
+   "last_update": "2025-09-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Lunar Block A/S",
@@ -12906,7 +13782,9 @@
    "website": "https://www.lunar.app/dk/privat/krypto",
    "address": "Hack Kampmanns Plads 10, 8000 Aarhus C",
    "comments": "",
-   "last_update": "2026-03-04"
+   "last_update": "2026-03-04",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Tesseract Investment Oy",
@@ -12955,7 +13833,9 @@
    "website": "https://tesseract.fi",
    "address": "Fredrikinkatu 47\n00100 Helsinki",
    "comments": "",
-   "last_update": "2025-10-20"
+   "last_update": "2025-10-20",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Bittimaatti Oy",
@@ -12975,7 +13855,9 @@
    "website": "https://bittimaatti.fi",
    "address": "Ketjutie 3\n04220 Kerava",
    "comments": "",
-   "last_update": "2025-09-17"
+   "last_update": "2025-09-17",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "FINCTEK UE SAS",
@@ -13006,7 +13888,9 @@
    "website": "https://finctek.com",
    "address": "24 rue d'Aumale - 75009 Paris, France",
    "comments": "",
-   "last_update": "2025-09-11"
+   "last_update": "2025-09-11",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Socios Europe Services Limited",
@@ -13057,7 +13941,9 @@
    "website": "www.socios.com",
    "address": "14 East, Level 7, Triq Tas-Sliema, Gzira, GZR1639, Malta",
    "comments": "",
-   "last_update": "2025-09-11"
+   "last_update": "2025-09-11",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bullish Europe GmbH",
@@ -13110,7 +13996,9 @@
    "website": "https://bullish.com/home-de/",
    "address": "Bockenheimer Anlage 46, 60322 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-09-04"
+   "last_update": "2025-09-04",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Gemini Intergalactic EU Ltd",
@@ -13164,7 +14052,9 @@
    "website": "www.gemini.com",
    "address": "Gemini Intergalactic EU Limited, Office C, Q2, Tigne Point, Sliema, SLM3190, Malta",
    "comments": "",
-   "last_update": "2025-08-21"
+   "last_update": "2025-08-21",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Dietrich & Richter Private Asset Management AG",
@@ -13185,7 +14075,9 @@
    "website": "https://www.drpam.de/",
    "address": "Am Fliegerhorst 12 - 38642 Goslar",
    "comments": "",
-   "last_update": "2025-08-18"
+   "last_update": "2025-08-18",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Smartbroker AG",
@@ -13205,7 +14097,9 @@
    "website": "https://www.smartbrokerplus.de/de-de/",
    "address": "Ritterstraße 11 - 10969 Berlin",
    "comments": "",
-   "last_update": "2025-08-11"
+   "last_update": "2025-08-11",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Tangany GmbH",
@@ -13255,7 +14149,9 @@
    "website": "www.tangany.com",
    "address": "Brienner Straße 53 - 80333 München",
    "comments": "",
-   "last_update": "2026-06-22"
+   "last_update": "2026-06-22",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Bankhaus Scheich Wertpapierspezialist AG",
@@ -13281,7 +14177,9 @@
    "website": "www.bankhaus-scheich.de",
    "address": "Roßmarkt 21 - 60311 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-10-14"
+   "last_update": "2025-10-14",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Fiat Republic Netherlands B.V.",
@@ -13331,7 +14229,9 @@
    "website": "https://fiatrepublic.com/",
    "address": "Strawinskylaan 4117 - room 05-116 - 1077 ZX Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-08-07"
+   "last_update": "2025-08-07",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Decubate B.V.",
@@ -13382,7 +14282,9 @@
    "website": "https://www.decubate.com/ | https://platform.decubate.com/",
    "address": "Boerhaavelaan 40 - 2713 HX Zoetermeer - The Netherlands",
    "comments": "Voluntary request to revoke authorisation by the entity",
-   "last_update": "2026-04-30"
+   "last_update": "2026-04-30",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "YZA335",
@@ -13398,7 +14300,9 @@
    "website": "https://yza335.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "YUI236",
@@ -13414,7 +14318,9 @@
    "website": "https://yui236.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "XUR652",
@@ -13430,7 +14336,9 @@
    "website": "https://xur652.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TNT788",
@@ -13446,7 +14354,9 @@
    "website": "https://tnt788.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "MJU567",
@@ -13462,7 +14372,9 @@
    "website": "https://mju567.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "GDY733",
@@ -13478,7 +14390,9 @@
    "website": "https://gdy733.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DRST78",
@@ -13494,7 +14408,9 @@
    "website": "https://drst78.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BHP536",
@@ -13510,7 +14426,9 @@
    "website": "https://bhp536.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-31"
+   "last_update": "2025-07-31",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "OPEN BANK S.A.",
@@ -13532,7 +14450,9 @@
    "website": "www.openbank.es",
    "address": "Avenida de Cantabria s/n. 28660 Boadilla del Monte (Madrid).",
    "comments": "",
-   "last_update": "2026-05-14"
+   "last_update": "2026-05-14",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Finst B.V.",
@@ -13584,7 +14504,9 @@
    "website": "https://finst.com/",
    "address": "Herengracht 454 - 1017CA Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-07-24"
+   "last_update": "2025-07-24",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "CECABANK S.A.",
@@ -13606,7 +14528,9 @@
    "website": "www.cecabank.es",
    "address": "C/Alcala 27 28014 Madrid.",
    "comments": "",
-   "last_update": "2025-08-07"
+   "last_update": "2025-08-07",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Traders Place GmbH & Co. KGaA",
@@ -13626,7 +14550,9 @@
    "website": "https://tradersplace.de/angebot/uebersicht/kryptowaehrungen",
    "address": "Sägewerkstraße 3 - 83395 Freilassing",
    "comments": "",
-   "last_update": "2025-07-21"
+   "last_update": "2025-07-21",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "COINSHARES ASSET MANAGEMENT",
@@ -13653,7 +14579,9 @@
    "website": "https://coinshares.com/",
    "address": "17 rue de la Banque - 75002 PARIS, France",
    "comments": "",
-   "last_update": "2025-07-17"
+   "last_update": "2025-07-17",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Interersos.it",
@@ -13669,7 +14597,9 @@
    "website": "https://interersos.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-17"
+   "last_update": "2025-07-17",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Cexrqw.com",
@@ -13685,7 +14615,9 @@
    "website": "https://cexrqw.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-17"
+   "last_update": "2025-07-17",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Atomic Wallet",
@@ -13701,7 +14633,9 @@
    "website": "https://atomicwallet.io",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-17"
+   "last_update": "2025-07-17",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ZeroTrillionWorld",
@@ -13717,7 +14651,9 @@
    "website": "https://zerotrillionworld.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ZGV796",
@@ -13733,7 +14669,9 @@
    "website": "https://zgv796.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "TNT882",
@@ -13749,7 +14687,9 @@
    "website": "https://tnt882.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ERY357",
@@ -13765,7 +14705,9 @@
    "website": "https://ery357.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DSS776",
@@ -13781,7 +14723,9 @@
    "website": "https://dss776.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "78DEF",
@@ -13797,7 +14741,9 @@
    "website": "https://78def.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "09pqws",
@@ -13813,7 +14759,9 @@
    "website": "https://09pqws.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-07-11"
+   "last_update": "2025-07-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "METAL GEAR SAS",
@@ -13861,7 +14809,9 @@
    "website": "https://metalgear.xyz/",
    "address": "64 rue des Archives - 75003 Paris, France",
    "comments": "",
-   "last_update": "2025-07-04"
+   "last_update": "2025-07-04",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Baden-Württembergische Wertpapierbörse GmbH",
@@ -13881,7 +14831,9 @@
    "website": "https://www.bsdex.de/de/",
    "address": "Börsenstraße 4 - 70174 Stuttgart",
    "comments": "",
-   "last_update": "2025-07-04"
+   "last_update": "2025-07-04",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Coinmotion Oy",
@@ -13902,7 +14854,9 @@
    "website": "https://coinmotion.com",
    "address": "Kauppakatu 39\n40100 Jyväskylä\nFinland",
    "comments": "",
-   "last_update": "2025-07-16"
+   "last_update": "2025-07-16",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BITSTACK DIGITAL ASSETS SAS",
@@ -13951,7 +14905,9 @@
    "website": "https://bitstack-app.com/",
    "address": "Pépinière Michel Caucik - 100 Impasse des Houillères - Le Pontet - 13590 Meyreuil, France",
    "comments": "",
-   "last_update": "2025-06-30"
+   "last_update": "2025-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bitvavo B.V.",
@@ -14002,7 +14958,9 @@
    "website": "https://bitvavo.com/nl",
    "address": "Keizersgracht 28 - 1016ED Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-06-30"
+   "last_update": "2025-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Amdax B.V.",
@@ -14054,7 +15012,9 @@
    "website": "https://www.amdax.com/nl | https://www.getnovelist.nl/en",
    "address": "Gustav Mahlerplein 45 - 1082MS Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-06-30"
+   "last_update": "2025-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Sxr922",
@@ -14070,7 +15030,9 @@
    "website": "https://sxr922.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-26"
+   "last_update": "2025-06-26",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Payward Global Solutions Limited",
@@ -14091,7 +15053,9 @@
    "website": "https://www.kraken.com/",
    "address": "70 Sir John Rogerson's Quay, Dublin 2, Dublin, Ireland D02 R296",
    "comments": "",
-   "last_update": "2025-06-25"
+   "last_update": "2025-06-25",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Payward Europe Solutions Limited",
@@ -14147,7 +15111,9 @@
    "website": "https://www.kraken.com/",
    "address": "70 Sir John Rogerson's Quay, Dublin 2, Dublin, Ireland D02 R296",
    "comments": "",
-   "last_update": "2025-06-25"
+   "last_update": "2025-06-25",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Gigtaskr",
@@ -14163,7 +15129,9 @@
    "website": "https://gigtaskr.top",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-26"
+   "last_update": "2025-06-26",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Coingridr.top",
@@ -14179,7 +15147,9 @@
    "website": "https://coingridr.top",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-26"
+   "last_update": "2025-06-26",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CACEIS BANK",
@@ -14207,7 +15177,9 @@
    "website": "http://www.caceis.com",
    "address": "89-91 rue Gabriel Péri - 92120 Montrouge, France",
    "comments": "",
-   "last_update": "2025-06-23"
+   "last_update": "2025-06-23",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Coinbase Luxembourg S.A.",
@@ -14262,7 +15234,9 @@
    "website": "https.//coinbase.com",
    "address": "5, Place de la Gare, L-1616 Luxembourg",
    "comments": "",
-   "last_update": "2026-01-22"
+   "last_update": "2026-01-22",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "GOin SAS",
@@ -14313,7 +15287,9 @@
    "website": "https://goin-invest.com",
    "address": "29 rue Marbeuf - 75008 Paris, France",
    "comments": "",
-   "last_update": "2025-06-19"
+   "last_update": "2025-06-19",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BTC Direct Europe B.V.",
@@ -14341,7 +15317,9 @@
    "website": "https://my.btcdirect.eu/",
    "address": "Kerkenbos 1025 - 6546 BB Nijmegen - The Netherlands",
    "comments": "",
-   "last_update": "2026-04-30"
+   "last_update": "2026-04-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Ymg686",
@@ -14357,7 +15335,9 @@
    "website": "https://ymg686.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-13"
+   "last_update": "2025-06-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Skillnexp",
@@ -14373,7 +15353,9 @@
    "website": "https://skillnexp.top",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-13"
+   "last_update": "2025-06-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Sdh878",
@@ -14389,7 +15371,9 @@
    "website": "https://sdh878.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-13"
+   "last_update": "2025-06-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Hct685",
@@ -14405,7 +15389,9 @@
    "website": "https://hct685.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-13"
+   "last_update": "2025-06-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Uyr968|Fwq367",
@@ -14421,7 +15407,9 @@
    "website": "https://uyr968.it|https://fwq367.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Tmxa",
@@ -14437,7 +15425,9 @@
    "website": "https://60yg.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Syk755",
@@ -14453,7 +15443,9 @@
    "website": "www.syk755.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Pxm266",
@@ -14469,7 +15461,9 @@
    "website": "https://pxm266.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Lumex",
@@ -14485,7 +15479,9 @@
    "website": "https://stratoslumex.com|https://stratoslumex.net",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Cfw896",
@@ -14501,7 +15497,9 @@
    "website": "https://cfw896.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Robinhood Europe UAB",
@@ -14552,7 +15550,9 @@
    "website": "https://www.robinhood.com",
    "address": "Konstitucijos st. 21A, 08130, Vilnius, Lithuania",
    "comments": "",
-   "last_update": "2025-06-16"
+   "last_update": "2025-06-16",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Bybit EU GmbH",
@@ -14604,7 +15604,9 @@
    "website": "https://www.bybit.eu",
    "address": "Donau-City-Straße 7, 1220 Vienna, Austria",
    "comments": "",
-   "last_update": "2025-05-28"
+   "last_update": "2025-05-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Acheron Europe B.V.",
@@ -14654,7 +15656,9 @@
    "website": "https://www.acherontrading.com/",
    "address": "Keizersgracht 555 2nd Floor - 1017 DR Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-05-26"
+   "last_update": "2025-05-26",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "DEBLOCK SAS",
@@ -14704,7 +15708,9 @@
    "website": "https://deblock.com/",
    "address": "1 cours du Havre - 75008 Paris, France",
    "comments": "",
-   "last_update": "2025-05-23"
+   "last_update": "2025-05-23",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Interersos-Interesosf",
@@ -14720,7 +15726,9 @@
    "website": "https://interersosf.org|https://interersos.org",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-22"
+   "last_update": "2025-05-22",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Bvoxed",
@@ -14736,7 +15744,9 @@
    "website": "https://bvoxed.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-22"
+   "last_update": "2025-05-22",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BeratCoin",
@@ -14752,7 +15762,9 @@
    "website": "https://btc6688.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-22"
+   "last_update": "2025-05-22",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Baader Bank Aktiengesellschaft",
@@ -14800,7 +15812,9 @@
    "website": "https://www.baaderbank.de/",
    "address": "Weihenstephaner Str. 4 85716 Unterschleißheim",
    "comments": "",
-   "last_update": "2025-05-16"
+   "last_update": "2025-05-16",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "One Trading Exchange B.V.",
@@ -14850,7 +15864,9 @@
    "website": "https://www.onetrading.com",
    "address": "Grote Bickersstraat 74 - 1013 KS Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-05-20"
+   "last_update": "2025-05-20",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Bitstamp Europe S.A.",
@@ -14905,7 +15921,9 @@
    "website": "https://www.bitstamp.net/",
    "address": "40, Avenue Monterey, L-2163 Luxembourg, Luxembourg",
    "comments": "",
-   "last_update": "2025-05-16"
+   "last_update": "2025-05-16",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "N26 Bank SE",
@@ -14932,7 +15950,9 @@
    "website": "N26 – Die erste Onlinebank, die du lieben wirst",
    "address": "Voltairestrasse 8 10179 Berlin",
    "comments": "",
-   "last_update": "2025-05-14"
+   "last_update": "2025-05-14",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "UAB BLUE EMI LT",
@@ -14952,7 +15972,9 @@
    "website": "https://blueemi.com",
    "address": "Antano Tumėno g. 4, 01110, Vilnius, Lithuania",
    "comments": "CASP services are provided under Article 60(4) of MiCA, in relation to own issued EMT called BLUEUR",
-   "last_update": "2026-03-26"
+   "last_update": "2026-03-26",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "BitGo Europe GmbH",
@@ -15006,7 +16028,9 @@
    "website": "https://www.bitgo.de/entities/bitgoeuropegmbh/",
    "address": "Mainzer Landstraße 10, 60325 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-09-02"
+   "last_update": "2025-09-02",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Vivid Money B.V.",
@@ -15056,7 +16080,9 @@
    "website": "https://vivid.money/",
    "address": "Strawinskylaan 4117 - 1077ZX Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2025-07-05"
+   "last_update": "2025-07-05",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Egplus.vip",
@@ -15072,7 +16098,9 @@
    "website": "https://egplus.vip",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-05"
+   "last_update": "2025-05-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Egalite.bond",
@@ -15088,7 +16116,9 @@
    "website": "https://egalite.bond",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-05"
+   "last_update": "2025-05-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Blockbyteq",
@@ -15104,7 +16134,9 @@
    "website": "https://blockbyteq.top",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-05"
+   "last_update": "2025-05-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Arbismart UAB",
@@ -15120,7 +16152,9 @@
    "website": "https://arbismart.com|https://dashboard.arbismart.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-05"
+   "last_update": "2025-05-05",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Trade Republic Bank GmbH",
@@ -15172,7 +16206,9 @@
    "website": "https://traderepublic.com/",
    "address": "Brunnenstraße 19 - 21 10119 Berlin",
    "comments": "",
-   "last_update": "2025-04-24"
+   "last_update": "2025-04-24",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Bitpanda GmbH",
@@ -15227,7 +16263,9 @@
    "website": "https://www.bitpanda.com",
    "address": "Stella-Klein-Löw-Weg 17, 1020 Vienna, Austria",
    "comments": "",
-   "last_update": "2025-04-18"
+   "last_update": "2025-04-18",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Commerzbank Aktiengesellschaft",
@@ -15249,7 +16287,9 @@
    "website": "Commerzbank AG – Investor Relations",
    "address": "Kaiserplatz - 60311 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-10-20"
+   "last_update": "2025-10-20",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "flatexDEGIRO Bank AG",
@@ -15283,7 +16323,9 @@
    "website": "www.flatexdegiro.com/de/flatexdegiro-bank/login",
    "address": "Große Gallusstr. 16-18 - 60312 Frankfurt am Main - Germany",
    "comments": "",
-   "last_update": "2025-04-04"
+   "last_update": "2025-04-04",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "AvianLabs Netherlands B.V.",
@@ -15334,7 +16376,9 @@
    "website": "https://sling.money/",
    "address": "Antonio Vivaldistraat 60 - 1083HP Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2024-04-15"
+   "last_update": "2024-04-15",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "360 Treasury Systems AG",
@@ -15382,7 +16426,9 @@
    "website": "www.360t.com",
    "address": "Grüneburgweg 16-18 - 60322 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-04-10"
+   "last_update": "2025-04-10",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Sdf837",
@@ -15398,7 +16444,9 @@
    "website": "https://sdf837.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-04-03"
+   "last_update": "2025-04-03",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SYBZ",
@@ -15414,7 +16462,9 @@
    "website": "https://sybzgroup.co",
    "address": "",
    "comments": "None",
-   "last_update": "2025-04-03"
+   "last_update": "2025-04-03",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "EUWAX AG",
@@ -15464,7 +16514,9 @@
    "website": "www.euwax-ag.de",
    "address": "Börsenstraße 4 - 70174 Stuttgart",
    "comments": "",
-   "last_update": "2026-04-01"
+   "last_update": "2026-04-01",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Caa871",
@@ -15480,7 +16532,9 @@
    "website": "https://caa871.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-04-03"
+   "last_update": "2025-04-03",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Deroka UAB",
@@ -15496,7 +16550,9 @@
    "website": "https://dtcoin.tech|https://dtwallet.io|https://forcedmarketcap.tech",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-27"
+   "last_update": "2025-03-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DTSocialize Holding PLC",
@@ -15512,7 +16568,9 @@
    "website": "https://dtsmoney.com|https://portal.dtsmoney.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-27"
+   "last_update": "2025-03-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Altarius Asset Management Limited",
@@ -15533,7 +16591,9 @@
    "website": "www.altariusgroup.com",
    "address": "Quad Central, Q3, Level 9, Office B, Triq L-Esportaturi, Central Business District, Birkirkara, CBD1040, Malta",
    "comments": "",
-   "last_update": "2026-07-08"
+   "last_update": "2026-07-08",
+   "b2c": "B2C",
+   "b2c_reason": "trading / order execution for clients"
   },
   {
    "company": "Tradias GmbH",
@@ -15585,7 +16645,9 @@
    "website": "www.tradias.de",
    "address": "Roßmarkt 21 - 60311 Frankfurt am Main",
    "comments": "",
-   "last_update": "2025-04-08"
+   "last_update": "2025-04-08",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Fameexn",
@@ -15601,7 +16663,9 @@
    "website": "https://fameexe.top|https://fameexj.top",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-20"
+   "last_update": "2025-03-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "ArgonInternational",
@@ -15617,7 +16681,9 @@
    "website": "https://argonintgroup.com|https://cfd.argonintgroup.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-20"
+   "last_update": "2025-03-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AKQ",
@@ -15633,7 +16699,9 @@
    "website": "https://akqa715.it|https://AKQ1181.it",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-20"
+   "last_update": "2025-03-20",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Banco Bilbao Vizcaya Argentaria S.A.",
@@ -15655,7 +16723,9 @@
    "website": "www.bbva.es",
    "address": "Plaza San Nicolas 4. 48005 Bilbao (Vizcaya).",
    "comments": "",
-   "last_update": "2026-03-07"
+   "last_update": "2026-03-07",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients"
   },
   {
    "company": "Stock Credit Wallet",
@@ -15671,7 +16741,9 @@
    "website": "https://stockcreditwallet.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-06"
+   "last_update": "2025-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Spazio Finanziario",
@@ -15687,7 +16759,9 @@
    "website": "www.spaziofinanziario.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-06"
+   "last_update": "2025-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Paycraftv.top - Paycraftn.top",
@@ -15703,7 +16777,9 @@
    "website": "https://paycraftv.top|https://paycraftn.top",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-06"
+   "last_update": "2025-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "HTXcoin-az",
@@ -15719,7 +16795,9 @@
    "website": "https://m.htxcoin-az.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-06"
+   "last_update": "2025-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CoinBank Exchange",
@@ -15735,7 +16813,9 @@
    "website": "https://coinbankexchange.icu",
    "address": "",
    "comments": "None",
-   "last_update": "2025-03-06"
+   "last_update": "2025-03-06",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Eurodollar ApS",
@@ -15751,7 +16831,9 @@
    "website": "www.eurodollar.fi",
    "address": "Gammel Kongevej 120, 1. tv, KØBENHAVN ,DK",
    "comments": "",
-   "last_update": ""
+   "last_update": "",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Fameexn",
@@ -15767,7 +16849,9 @@
    "website": "https://fameexn.top|https://fameexn.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-02-18"
+   "last_update": "2025-02-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Dobibo",
@@ -15783,7 +16867,9 @@
    "website": "https://dobibo.com|https://dobibo1.com|https://dobibo2.com",
    "address": "",
    "comments": "None",
-   "last_update": "2025-02-18"
+   "last_update": "2025-02-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "LWEX",
@@ -15799,7 +16885,9 @@
    "website": "https://lwex.com/",
    "address": "",
    "comments": "None",
-   "last_update": "2025-05-30"
+   "last_update": "2025-05-30",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Clearstream Banking S.A.",
@@ -15848,7 +16936,9 @@
    "website": "https://www.clearstream.com/clearstream-en/",
    "address": "42, Avenue J.F. Kennedy, L-1855 Luxembourg, Luxembourg",
    "comments": "Clearstream Banking S.A. has notified the CSSF on 07/02/2025 of its intention to provide custody and administration of crypto-assets on behalf of clients.",
-   "last_update": "2025-06-06"
+   "last_update": "2025-06-06",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Zillion Bits Limited",
@@ -15903,7 +16993,9 @@
    "website": "www.zbx.com",
    "address": "Level 1/I, Centris Business Gateway, Triq Is-Salib tal-Imriehel, Central Business District, Birkirkara, CBD3020, Malta",
    "comments": "",
-   "last_update": "2025-03-28"
+   "last_update": "2025-03-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "OKX Europe Limited",
@@ -15959,7 +17051,9 @@
    "website": "www.okx.com",
    "address": "Piazzetta Business Plaza, Office Number 4, Floor 2,\nTriq Ghar il-Lembi,\nSliema, SLM 1562,\nMalta",
    "comments": "",
-   "last_update": "2025-11-28"
+   "last_update": "2025-11-28",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Foris DAX MT Limited",
@@ -16012,7 +17106,9 @@
    "website": "crypto.com",
    "address": "Level 7, Spinola Park, Triq Mikiel Ang Borg, San Giljan, SPK 1000, Malta",
    "comments": "",
-   "last_update": "2025-02-06"
+   "last_update": "2025-02-06",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BP23 CA Limited",
@@ -16037,7 +17133,9 @@
    "website": "www.bitpanda.com",
    "address": "66, Apt 5, Old Theatre Street, Valletta, VLT 1427, Malta",
    "comments": "",
-   "last_update": "2025-06-05"
+   "last_update": "2025-06-05",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Crypto Finance (Deutschland) GmbH",
@@ -16075,7 +17173,9 @@
    "website": "https://www.crypto-finance.com/germany/de/",
    "address": "Bockenheimer Anlage 46 - 60322 Frankfurt am Main",
    "comments": "",
-   "last_update": "2026-06-19"
+   "last_update": "2026-06-19",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Bitpanda Asset Management GmbH",
@@ -16127,7 +17227,9 @@
    "website": "www.bitpanda.com",
    "address": "Dircksenstraße 4 - 10179 Berlin",
    "comments": "",
-   "last_update": "2025-02-06"
+   "last_update": "2025-02-06",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Boerse Stuttgart Digital Custody GmbH",
@@ -16177,7 +17279,9 @@
    "website": "www.bsdigital.com",
    "address": "Börsenstraße 4 - 70174 Stuttgart",
    "comments": "",
-   "last_update": "2026-04-16"
+   "last_update": "2026-04-16",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "eToro (Europe) Ltd",
@@ -16232,7 +17336,9 @@
    "website": "www.etoro.com",
    "address": "4 Profiti Ilias Street Kanika Business Centre, 7th Floor Germasogia CY-4046, Limassol, Cyprus",
    "comments": "",
-   "last_update": "2025-09-10"
+   "last_update": "2025-09-10",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Zebedee Europe B.V.",
@@ -16283,7 +17389,9 @@
    "website": "https://zbd.gg/",
    "address": "Vijzelstraat 68 - 1017HL Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2024-12-30"
+   "last_update": "2024-12-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "MoonPay Europe B.V.",
@@ -16334,7 +17442,9 @@
    "website": "https://www.moonpay.com/",
    "address": "Herengracht 420 - 1017BZ Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2024-12-30"
+   "last_update": "2024-12-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "Hidden Road Partners CIV NL B.V.",
@@ -16385,7 +17495,9 @@
    "website": "https://hiddenroad.com/",
    "address": "Gustav Mahlerplein 28 - Unit 7.13 - 1082 MA Amsterdam - The Netherlands",
    "comments": "",
-   "last_update": "2024-12-30"
+   "last_update": "2024-12-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange"
   },
   {
    "company": "BitStaete B.V.",
@@ -16405,7 +17517,9 @@
    "website": "https://bitstaete.nl/ | http://www.bitstaete.com/",
    "address": "Haerstraat 125 - 7573 PA Oldenzaal - The Netherlands",
    "comments": "",
-   "last_update": "2024-12-30"
+   "last_update": "2024-12-30",
+   "b2c": "B2B",
+   "b2c_reason": "custody/transfer/advisory services only"
   },
   {
    "company": "Société Générale - Forge",
@@ -16421,7 +17535,9 @@
    "website": "https://www.sgforge.com/",
    "address": "17 Cours Valmy 92800 Puteaux",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item, in accordance with MiCA/ESMA ITS provisionand other MiCA compliant WP\"",
-   "last_update": "2025-08-11"
+   "last_update": "2025-08-11",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "SALVUS",
@@ -16437,7 +17553,9 @@
    "website": "https://schuman.io",
    "address": "9 Rue du Quatre Septembre, 75002 PARIS",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item, in accordance with MiCA/ESMA ITS provisionand other MiCA compliant WP\"",
-   "last_update": "2026-03-23"
+   "last_update": "2026-03-23",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Stable mint Ltd",
@@ -16453,7 +17571,9 @@
    "website": "https://www.stablemint.io/",
    "address": "Trident Park notabile gardens no 2 level 3, Central business district, Birkirkara, Malta",
    "comments": "",
-   "last_update": "2025-03-24"
+   "last_update": "2025-03-24",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Stable mint Ltd",
@@ -16469,7 +17589,9 @@
    "website": "https://www.stablemint.io/",
    "address": "Trident Park notabile gardens no 2 level 3, Central business district, Birkirkara, Malta",
    "comments": "",
-   "last_update": "2025-03-24"
+   "last_update": "2025-03-24",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Société Générale - Forge",
@@ -16485,7 +17607,9 @@
    "website": "https://www.sgforge.com/",
    "address": "17 Cours Valmy 92800 Puteaux",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item, in accordance with MiCA/ESMA ITS provisionand other MiCA compliant WP\"",
-   "last_update": "2025-10-14"
+   "last_update": "2025-10-14",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Circle Internet Financial Europe SAS",
@@ -16501,7 +17625,9 @@
    "website": "https://www.circle.com/fr/",
    "address": "4 Rue de Marivaux 75002 Paris",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item, in accordance with MiCA/ESMA ITS provision and other MiCA compliant WP",
-   "last_update": "2025-12-24"
+   "last_update": "2025-12-24",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Circle Internet Financial Europe SAS",
@@ -16517,7 +17643,9 @@
    "website": "https://www.circle.com/fr/",
    "address": "4 Rue de Marivaux 75002 Paris",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item, in accordance with MiCA/ESMA ITS provisionand other MiCA compliant WP\"",
-   "last_update": "2026-09-15"
+   "last_update": "2026-09-15",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "StablR Ltd",
@@ -16533,7 +17661,9 @@
    "website": "https://www.stablr.com/",
    "address": "Level 1, BusinessLabs, Dun Karm Street, Birkirkara, Malta",
    "comments": "",
-   "last_update": "2025-12-03"
+   "last_update": "2025-12-03",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "StablR Ltd",
@@ -16549,7 +17679,9 @@
    "website": "https://www.stablr.com/",
    "address": "Level 1, BusinessLabs, Dun Karm Street, Birkirkara, Malta",
    "comments": "",
-   "last_update": "2025-12-03"
+   "last_update": "2025-12-03",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Quantoz Payments B.V",
@@ -16565,7 +17697,9 @@
    "website": "https://quantoz.com",
    "address": "Europalaan 100 - 3526 KS Utrecht",
    "comments": "EURQ white paper",
-   "last_update": "2025-03-24"
+   "last_update": "2025-03-24",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Quantoz Payments B.V",
@@ -16581,7 +17715,9 @@
    "website": "https://quantoz.com",
    "address": "Europalaan 100 - 3526 KS Utrecht",
    "comments": "USDQ white paper",
-   "last_update": "2025-03-24"
+   "last_update": "2025-03-24",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Quantoz Payments B.V",
@@ -16597,7 +17733,9 @@
    "website": "https://quantoz.com",
    "address": "Europalaan 100 - 3526 KS Utrecht",
    "comments": "EURD EMT white paper",
-   "last_update": "2025-08-22"
+   "last_update": "2025-08-22",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Paxos Issuance Europe Oy",
@@ -16613,7 +17751,9 @@
    "website": "https://www.paxos.com/eu",
    "address": "Meritullinkatu 1 B 00170 HELSINKI",
    "comments": "",
-   "last_update": "2025-07-04"
+   "last_update": "2025-07-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Paxos Issuance Europe Oy",
@@ -16629,7 +17769,9 @@
    "website": "https://www.paxos.com/eu",
    "address": "Meritullinkatu 1 B 00170 HELSINKI",
    "comments": "",
-   "last_update": "2025-07-04"
+   "last_update": "2025-07-04",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Paxos Issuance Europe Oy",
@@ -16645,7 +17787,9 @@
    "website": "paxos.com/EEA",
    "address": "Meritullinkatu 1 B 00170 HELSINKI Suomi",
    "comments": "Added the functionality to use USDG on X layer blockchain",
-   "last_update": "2025-12-09"
+   "last_update": "2025-12-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Paxos Issuance Europe Oy",
@@ -16661,7 +17805,9 @@
    "website": "https://www.paxos.com/",
    "address": "Meritullinkatu 1 B 00170 HELSINKI Suomi",
    "comments": "machine-readable version made available",
-   "last_update": "2026-04-28"
+   "last_update": "2026-04-28",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "UAB BLUE EMI LT",
@@ -16677,7 +17823,9 @@
    "website": "https://blueemi.com/",
    "address": "Žalgirio str. 92, LT-09303, Vilnius, Republic of Lithuania",
    "comments": "No comments",
-   "last_update": "2025-04-18"
+   "last_update": "2025-04-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "HEURO SAS",
@@ -16693,7 +17841,9 @@
    "website": "https://www.heuro.com/home",
    "address": "1 rue de la bourse, 75002 Paris - France",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item,  in accordance with MiCA/ESMA ITS provisions and other MiCA compliant WP",
-   "last_update": "2026-03-02"
+   "last_update": "2026-03-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Fiat Republic Netherlands",
@@ -16709,7 +17859,9 @@
    "website": "https://fiatrepublic.com/",
    "address": "Strawinskylaan 4117 - room 05-116 - 1077 ZX - Amsterdam",
    "comments": "ENEUR white paper",
-   "last_update": "2024-10-02"
+   "last_update": "2024-10-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Fiat Republic Netherlands",
@@ -16725,7 +17877,9 @@
    "website": "https://fiatrepublic.com/",
    "address": "Strawinskylaan 4117 - room 05-116 - 1077 ZX - Amsterdam",
    "comments": "ENGBP white paper",
-   "last_update": "2024-10-02"
+   "last_update": "2024-10-02",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Fiat Republic Netherlands",
@@ -16741,7 +17895,9 @@
    "website": "https://fiatrepublic.com",
    "address": "Strawinskylaan 4117 - room 05-116 - 1077 ZX - Amsterdam",
    "comments": "ENUSD white paper",
-   "last_update": "2025-03-24"
+   "last_update": "2025-03-24",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "DINARO company for electronic money issuing and payment services Ltd.",
@@ -16757,7 +17913,9 @@
    "website": "www.dinaro.si",
    "address": "Bravničarjeva ulica 13, 1000 Ljubljana, Slovenia",
    "comments": "",
-   "last_update": "2026-08-07"
+   "last_update": "2026-08-07",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Newrails, UAB",
@@ -16773,7 +17931,9 @@
    "website": "https://www.newrails.xyz",
    "address": "Kauno str. 16-305, LT 03212. Vilnius",
    "comments": "No comments",
-   "last_update": "2026-01-13"
+   "last_update": "2026-01-13",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Banking Circle S.A.",
@@ -16789,7 +17949,9 @@
    "website": "https://www.bankingcircle.com/",
    "address": "2 Boulevard de la Foire, L-1528 Luxembourg",
    "comments": "",
-   "last_update": ""
+   "last_update": "",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Monerium ehf",
@@ -16805,7 +17967,9 @@
    "website": "https://monerium.com/",
    "address": "Bjargargotu 1",
    "comments": "",
-   "last_update": "2026-01-09"
+   "last_update": "2026-01-09",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "StaBillon sp. z o.o.",
@@ -16821,7 +17985,9 @@
    "website": "https://stabillon.com",
    "address": "Atlas Tower Aleje Jerozolimskie 123A, 02-017 Warszawa -  Poland",
    "comments": "",
-   "last_update": "2025-09-08"
+   "last_update": "2025-09-08",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AIEU Services Limited S.A.",
@@ -16837,7 +18003,9 @@
    "website": "https://www.bettrsettlementtoken.com",
    "address": "9, rue du Laboratoire, L-1911 Luxembourg, Grand Duchy of Luxembourg",
    "comments": "",
-   "last_update": "2025-12-18"
+   "last_update": "2025-12-18",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AIEU Services Limited S.A.",
@@ -16853,7 +18021,9 @@
    "website": "https://www.bettrsettlementtoken.com",
    "address": "9, rue du Laboratoire, L-1911 Luxembourg, Grand Duchy of Luxembourg",
    "comments": "",
-   "last_update": "2026-08-28"
+   "last_update": "2026-08-28",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "AIEU Services Limited S.A.",
@@ -16869,7 +18039,9 @@
    "website": "https://www.bettrsettlementtoken.com",
    "address": "9, rue du Laboratoire, L-1911 Luxembourg, Grand Duchy of Luxembourg",
    "comments": "",
-   "last_update": "2026-08-28"
+   "last_update": "2026-08-28",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Payment Corporation SE",
@@ -16885,7 +18057,9 @@
    "website": "https://stablelabs.co/",
    "address": "Krizikova 710/30, Karlin, 18600 Prague 8, Czech Republic",
    "comments": "EMT is issued under the limited network exception. It is not offered to the general public, but is used solely within a clearly defined, functionally limited ecosystem.",
-   "last_update": "2025-10-30"
+   "last_update": "2025-10-30",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Payment Corporation SE",
@@ -16901,7 +18075,9 @@
    "website": "https://stablelabs.co/",
    "address": "Krizikova 710/30, Karlin, 18600 Prague 8, Czech Republic",
    "comments": "EMT is issued under the limited network exception. It is not offered to the general public, but is used solely within a clearly defined, functionally limited ecosystem.",
-   "last_update": "2025-10-30"
+   "last_update": "2025-10-30",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Payment Corporation SE",
@@ -16917,7 +18093,9 @@
    "website": "https://stablelabs.co/",
    "address": "Krizikova 710/30, Karlin, 18600 Prague 8, Czech Republic",
    "comments": "EMT is issued under the limited network exception. It is not offered to the general public, but is used solely within a clearly defined, functionally limited ecosystem.",
-   "last_update": "2025-10-30"
+   "last_update": "2025-10-30",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BISON BANK, S.A.",
@@ -16933,7 +18111,9 @@
    "website": "https://bisonbank.com/",
    "address": "Rua Barata Salgueiro, 33, Piso 0, 1250-042 Lisboa",
    "comments": "",
-   "last_update": "2026-03-12"
+   "last_update": "2026-03-12",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "BISON BANK, S.A.",
@@ -16949,7 +18129,9 @@
    "website": "https://bisonbank.com/",
    "address": "Rua Barata Salgueiro, 33, Piso 0, 1250-042 Lisboa",
    "comments": "",
-   "last_update": "2026-03-12"
+   "last_update": "2026-03-12",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "Oddo BHF SCA",
@@ -16965,7 +18147,9 @@
    "website": "https://www.oddo-bhf.com/fr/",
    "address": "12 boulevard de la Madeleine  75009 PARIS",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item,  in accordance with MiCA/ESMA ITS provisions and other MiCA compliant WP",
-   "last_update": "2026-01-27"
+   "last_update": "2026-01-27",
+   "b2c": "",
+   "b2c_reason": ""
   },
   {
    "company": "CACEIS BANK SA",
@@ -16981,7 +18165,9 @@
    "website": "https://www.caceis.com/fr/",
    "address": "89-91 rue Gabriel Peri 92120 Montrouge",
    "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item,  in accordance with MiCA/ESMA ITS provisions and other MiCA compliant WP",
-   "last_update": "2026-06-30"
+   "last_update": "2026-06-30",
+   "b2c": "",
+   "b2c_reason": ""
   }
  ]
 }

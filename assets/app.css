@@ -36,3 +36,4 @@ details summary{cursor:pointer;color:var(--accent)}
 .foot{color:var(--muted);font-size:12px;margin-top:10px}
 @media (max-width:760px){.menu{display:block}.side{position:fixed;top:52px;bottom:0;left:-240px;z-index:4;transition:left .2s}.side.open{left:0}main{padding:16px}}
 .tag.up{background:#e6f4ff;color:#0a4d8c;font-weight:500;margin-top:3px}
+.tag.b2c-B2C{background:#d9f2e4;color:#0b5d33}.tag.b2c-B2C-bank{background:#e8f0ff;color:#1a3f8a}.tag.b2c-B2B{background:#efeeea;color:#5e5d59}
