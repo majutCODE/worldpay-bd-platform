@@ -68,5 +68,6 @@ window.VERTICALS = window.VERTICALS || [];
   window.VERTICALS.push(
     { id: "crypto-events", group: "Crypto", title: "Events", render(el) { render(el, "crypto", "Crypto"); } },
     { id: "gaming-events", group: "Gaming & Lottery", title: "Events", render(el) { render(el, "gaming", "Gaming"); } },
+    { id: "lottery-events", group: "Prize Draws & Lottery", title: "Events", render(el) { render(el, "lottery", "Lottery and prize draw"); } },
   );
 })();

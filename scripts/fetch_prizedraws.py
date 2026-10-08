@@ -28,7 +28,7 @@ CH_TERMS = ["competitions", "comps", "prizes", "giveaways", "giveaway", "raffles
 CH_SIC = {"92000": "Gambling and betting", "93290": "Other amusement and recreation", "47910": "Online retail",
           "82990": "Other business support", "63120": "Web portals"}
 NAME_RX = re.compile(r"\b(comps?|competitions?|prizes?|giveaways?|raffles?|draws?)\b", re.I)
-NOT_RX = re.compile(r"\b(sport|football|golf club|dance|cheer|swim|martial|darts? league|equestrian|horse show|motorsport|racing club|art|design awards?)\b", re.I)
+NOT_RX = re.compile(r"\b(sport|students?|football|golf club|dance|cheer|swim|martial|darts? league|equestrian|horse show|motorsport|racing club|art|design awards?)\b", re.I)
 MAX_DROP = 0.3
 
 
@@ -101,11 +101,11 @@ def ch_search(term, sic, since):
             print("  ch sample html:", re.sub(r"\s+", " ", doc[max(0, i - 600):i + 1500]))
         found = 0
         for tr in re.findall(r"(?is)<tr.*?</tr>", doc):
-            m = re.search(r'href="/company/([A-Z0-9]{8})"', tr)
+            m = re.search(r'href="?/company/([A-Z0-9]{8})', tr)
             if not m:
                 continue
             found += 1
-            cells = [text(c) for c in re.findall(r"(?is)<t[dh][^>]*>(.*?)</t[dh]>", tr)]
+            cells = [text(c) for c in re.findall(r"(?is)<li[^>]*>(.*?)</li>", tr)]
             rows.append((m.group(1), cells, tr))
         if not found or not re.search(r'(?i)rel="next"|Next page|govuk-pagination__next', doc):
             break
@@ -127,12 +127,12 @@ def ch(src):
                 if num in seen:
                     continue
                 seen.add(num)
-                name = text(re.search(r'(?is)href="/company/[A-Z0-9]{8}"[^>]*>(.*?)</a>', tr).group(1))
+                name = text(re.sub(r'(?is)<span class="govuk-visually-hidden">.*?</span>', "", re.search(r'(?is)href="?/company/[A-Z0-9]{8}[^>]*>(.*?)</a>', tr).group(1)))
                 if not NAME_RX.search(name) or NOT_RX.search(name):
                     continue
                 blob = " | ".join(cells)
-                sics = sorted(set(re.findall(r"\b(\d{5})\b", blob)) & set(CH_SIC) | {sic})
-                addr = next((c for c in cells if re.search(r"\b[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}\b", c)), "")
+                sics = sorted(set(re.findall(r"\b(\d{5})\b", next((c for c in cells if c.startswith("SIC")), ""))) & set(CH_SIC) | {sic})
+                addr = next((c for c in cells if re.search(r"\b[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}\b", c) and not c.startswith("SIC")), "")
                 inc = ch_date(blob)
                 out.append(rec("CH", name.title(), company_number=num, incorporated=inc,
                                sic=[f"{s} {CH_SIC[s]}" for s in sics], address=addr, date=inc, date_kind="incorporated"))

@@ -1,4 +1,4 @@
-"""Fetch upcoming crypto and gaming events in London and Amsterdam (Luma, Meetup, AffPapa) into data/events.json."""
+"""Fetch upcoming crypto, gaming and lottery events in London and Amsterdam (Luma, Meetup, AffPapa) into data/events.json."""
 import json, os, re, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -11,9 +11,11 @@ CITIES = {"London": {"luma": "discplace-QCcNk3HXowOR97j", "meetup": "gb--London"
 KEYWORDS = {
     "crypto": r"crypto|web3|blockchain|bitcoin|\bbtc\b|ethereum|\beth\b|solana|stablecoin|defi|\bnft|token|on-?chain|\bdao\b|mica\b|digital assets?|tokeni[sz]|layer ?2|\bzk\b|polygon|cardano|ripple|xrp",
     "gaming": r"igaming|i-gaming|gambling|betting|sportsbook|casino|lotter|prize draw|bookmaker|wager|affiliate.*gaming|gaming (?:compliance|regulat|operator|industry|summit|conference)",
+    "lottery": r"lotter|lotto|prize draw|raffle|sweepstake|competition operator|charity gaming|fundraising lotter",
 }
 SEARCH_TERMS = {"crypto": ["crypto", "web3", "blockchain", "bitcoin", "stablecoin"],
-                "gaming": ["igaming", "gambling", "betting", "casino", "lottery"]}
+                "gaming": ["igaming", "gambling", "betting", "casino", "lottery"],
+                "lottery": ["prize draw", "raffle", "society lottery"]}
 
 
 def get_json(url, tries=4):
