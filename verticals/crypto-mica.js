@@ -2,7 +2,7 @@ window.VERTICALS = window.VERTICALS || [];
 window.VERTICALS.push({
   id: "mica",
   group: "Crypto",
-  title: "MiCA licence tracker",
+  title: "Licences (MiCA)",
   data: null,
   async render(el) {
     el.innerHTML = `<h1>MiCA licence tracker</h1><p class="sub">Loading ESMA register…</p>`;

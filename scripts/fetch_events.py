@@ -1,5 +1,5 @@
-"""Fetch upcoming crypto and gaming events in London and Amsterdam (Luma + Meetup) into data/events.json."""
-import json, re, sys, time, urllib.parse, urllib.request
+"""Fetch upcoming crypto and gaming events in London and Amsterdam (Luma, Meetup, AffPapa) into data/events.json."""
+import json, os, re, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -10,7 +10,7 @@ CITIES = {"London": {"luma": "discplace-QCcNk3HXowOR97j", "meetup": "gb--London"
           "Amsterdam": {"luma": "discplace-FC4SDMUVXiFtMOr", "meetup": "nl--Amsterdam", "country": "NL"}}
 KEYWORDS = {
     "crypto": r"crypto|web3|blockchain|bitcoin|\bbtc\b|ethereum|\beth\b|solana|stablecoin|defi|\bnft|token|on-?chain|\bdao\b|mica\b|digital assets?|tokeni[sz]|layer ?2|\bzk\b|polygon|cardano|ripple|xrp",
-    "gaming": r"igaming|i-gaming|gambling|betting|sportsbook|casino|lotter|prize draw|poker|bookmaker|\bbet\b|wager|affiliate.*gaming|gaming (?:compliance|regulat|operator|industry|summit|conference)",
+    "gaming": r"igaming|i-gaming|gambling|betting|sportsbook|casino|lotter|prize draw|bookmaker|wager|affiliate.*gaming|gaming (?:compliance|regulat|operator|industry|summit|conference)",
 }
 SEARCH_TERMS = {"crypto": ["crypto", "web3", "blockchain", "bitcoin", "stablecoin"],
                 "gaming": ["igaming", "gambling", "betting", "casino", "lottery"]}
@@ -108,6 +108,52 @@ def luma():
     return events
 
 
+# ---------- AffPapa iGaming events directory (event pages carry schema.org Event data) ----------
+def affpapa():
+    links = []
+    for n in range(1, 6):
+        url = "https://affpapa.com/events/" + (f"pages/{n}/?page={n}" if n > 1 else "")
+        try:
+            page = get_text(url)
+        except Exception as e:
+            print(f"  affpapa list {n}: {e}", file=sys.stderr)
+            break
+        for l in re.findall(r'href="(https://affpapa\.com/events/[a-z0-9-]+/)"', page):
+            if l not in links and "/pages/" not in l:
+                links.append(l)
+    events = []
+    for l in links:
+        try:
+            page = get_text(l, tries=2)
+        except Exception:
+            continue
+        data = {}
+        for block in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', page, re.S):
+            try:
+                j = json.loads(block)
+            except ValueError:
+                continue
+            for item in (j.get("@graph", [j]) if isinstance(j, dict) else j):
+                if isinstance(item, dict) and "Event" in str(item.get("@type", "")):
+                    data = item
+        title = data.get("name") or re.sub(r"\s*[|–-].*$", "", (re.search(r"<title>(.*?)</title>", page, re.S) or [None, ""])[1]).strip()
+        loc = json.dumps(data.get("location", ""))
+        start, end = data.get("startDate", ""), data.get("endDate", "")
+        if not start:  # fall back to "12-14 May 2027" style text near the title
+            m = re.search(r"(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s*,?\s*(20\d\d)", re.sub(r"<[^>]+>", " ", page))
+            if m:
+                start = datetime.strptime(f"{m.group(1)} {m.group(3)} {m.group(4)}", "%d %B %Y").strftime("%Y-%m-%dT09:00:00+00:00")
+                end = datetime.strptime(f"{m.group(2) or m.group(1)} {m.group(3)} {m.group(4)}", "%d %B %Y").strftime("%Y-%m-%dT18:00:00+00:00")
+        city = city_of(loc, title)
+        if os.environ.get("DEBUG") and len(events) < 3:
+            print("  affpapa sample", l, title, start, loc[:200])
+        events.append(ev(title=title, start=start, end=end, city=city, venue=(data.get("location") or {}).get("name", "") if isinstance(data.get("location"), dict) else "",
+                         url=l, source="AffPapa", organiser=(data.get("organizer") or {}).get("name", "") if isinstance(data.get("organizer"), dict) else "",
+                         _text=title + " igaming"))
+    print(f"  affpapa: {len(links)} event pages, {sum(bool(e['city']) for e in events)} in London/Amsterdam")
+    return events
+
+
 # ---------- Meetup (event search page embeds Apollo state in __NEXT_DATA__) ----------
 def meetup():
     events = []
@@ -132,7 +178,7 @@ def meetup():
                     events.append(ev(title=v.get("title", ""), start=v.get("dateTime", ""), end=v.get("endTime", ""),
                                      city=city_of(venue.get("city")) or city, venue=venue.get("name", ""),
                                      url=v.get("eventUrl", ""), source="Meetup", organiser=group.get("name", ""),
-                                     online=v.get("eventType") == "ONLINE", _text=" ".join([v.get("title", ""), group.get("name", ""), (v.get("description") or "")[:500]])))
+                                     online=v.get("eventType") == "ONLINE", _text=v.get("title", "")))
     return events
 
 
@@ -146,7 +192,7 @@ def iso_utc(s):
 def main():
     now = datetime.now(timezone.utc).isoformat(timespec="minutes")
     raw, failures = [], []
-    for name, fn in (("Luma", luma), ("Meetup", meetup)):
+    for name, fn in (("Luma", luma), ("Meetup", meetup), ("AffPapa", affpapa)):
         try:
             got = fn()
             print(f"{name}: {len(got)} raw events")
@@ -158,6 +204,8 @@ def main():
     for e in raw:
         e["start"], e["end"] = iso_utc(e["start"]), iso_utc(e["end"])
         e["verticals"] = classify(e.pop("_text", ""), e["title"])
+        if re.search(r"forex|trading workshop|\btrader\b", e["title"], re.I):
+            continue
         if not e["verticals"] or not e["city"] or not e["start"] or (e["end"] or e["start"]) < now:
             continue
         k = (e["title"].lower().strip(), e["start"][:10])
@@ -172,7 +220,7 @@ def main():
             prev = json.loads(OUT.read_text()).get("events", [])
         except ValueError:
             pass
-    if failures and len(failures) == 2:
+    if len(failures) == 3:
         sys.exit("FAIL: all sources failed; keeping existing data. " + "; ".join(failures))
     if prev and len(events) < len([p for p in prev if (p["end"] or p["start"]) >= now]) * 0.5 and failures:
         sys.exit("FAIL: event count halved with a source down; keeping existing data. " + "; ".join(failures))
