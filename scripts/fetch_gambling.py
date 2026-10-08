@@ -207,6 +207,18 @@ def mf(reg):
 SCRAPERS = {"UKGC": ukgc, "MGA": mga, "GGC": ggc, "MF": mf}
 
 
+UK_B2C = re.compile(r"^(Casino|Bingo|General Betting|Pool Betting|Betting Intermediary|Society Lottery|External Lottery Manager)", re.I)
+
+
+def is_b2c(r):
+    """Online platform taking payments from consumers (what Worldpay can acquire)."""
+    if r["regulator"] == "UKGC":
+        return r["licence_type"] == "Remote" and any(UK_B2C.match(a) for a in r["activities"])
+    if r["regulator"] == "MF":
+        return True
+    return r["licence_type"].startswith("B2C") and "land-based" not in r["licence_type"]
+
+
 def key(r):
     return (r["regulator"], r["licence_number"] or r["company"].lower(), r["licence_type"])
 
@@ -242,6 +254,8 @@ def main():
                     # Registers without dates: keep the first date we saw the entry. Entries present at the
                     # first ever run stay undated so they do not show up as "new".
                     r["granted"] = p["granted"] if p else (TODAY if old else "")
+            for r in new:
+                r["b2c"] = is_b2c(r)
             print(f"{reg['code']}: {len(new)} records")
             records += new
             counts[reg["code"]] = len(new)
