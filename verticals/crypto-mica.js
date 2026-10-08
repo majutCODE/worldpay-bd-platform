@@ -13,11 +13,12 @@ window.VERTICALS.push({
     const countries = [...new Set(R.map(r => r.home_state).filter(Boolean))].sort((a, b) => cname(a).localeCompare(cname(b)));
     const types = [...new Set(R.map(r => r.licence_type))];
     const thisMonth = new Date().toISOString().slice(0, 7);
-    const st = { q: "", country: "", type: "", from: "", to: "", sort: "authorised", dir: -1 };
+    const today = new Date().toISOString().slice(0, 10);
+    const st = { q: "", country: "", type: "licensed", from: "", to: "", sort: "authorised", dir: -1 };
 
     el.innerHTML = `
       <h1>MiCA licence tracker</h1>
-      <p class="sub">All MiCA authorisations from the ESMA interim register. Newest first.</p>
+      <p class="sub">All MiCA authorisations from the ESMA interim register, newest first. Non-compliant entities available in the type filter.</p>
       <div class="stats">
         <div class="stat"><b>${R.filter(r => r.licence_type === "CASP").length}</b><span>CASPs authorised</span></div>
         <div class="stat"><b>${R.filter(r => r.licence_type === "EMT").length}</b><span>EMT issuers</span></div>
@@ -28,12 +29,12 @@ window.VERTICALS.push({
       <div class="filters">
         <input type="search" id="q" placeholder="Search company, regulator, service…">
         <select id="country"><option value="">All countries</option>${countries.map(c => `<option value="${c}">${esc(cname(c))}</option>`).join("")}</select>
-        <select id="type"><option value="">All licence types</option>${types.map(t => `<option>${t}</option>`).join("")}</select>
+        <select id="type"><option value="licensed">All licences (CASP, EMT, ART)</option><option value="">Everything incl. non-compliant</option>${types.map(t => `<option>${t}</option>`).join("")}</select>
         <input type="date" id="from" title="Authorised from"><input type="date" id="to" title="Authorised to">
         <button class="btn" id="csv">Export CSV</button>
       </div>
       <div class="tablewrap"><table><thead><tr>
-        <th data-k="company">Company</th><th data-k="licence_type">Type</th><th data-k="authorised">Authorised</th>
+        <th data-k="company">Company</th><th data-k="licence_type">Type</th><th data-k="authorised">Date</th>
         <th data-k="home_state">Home state</th><th data-k="regulator">Regulator</th><th>Services</th><th>Passported to</th><th>Website</th>
       </tr></thead><tbody id="rows"></tbody></table></div>
       <p class="foot" id="foot"></p>`;
@@ -42,7 +43,7 @@ window.VERTICALS.push({
     const filtered = () => {
       const q = st.q.toLowerCase();
       return R.filter(r =>
-        (!st.country || r.home_state === st.country) && (!st.type || r.licence_type === st.type) &&
+        (!st.country || r.home_state === st.country) && (!st.type || (st.type === "licensed" ? r.licence_type !== "Non-compliant" : r.licence_type === st.type)) &&
         (!st.from || r.authorised >= st.from) && (!st.to || r.authorised <= st.to) &&
         (!q || [r.company, r.brand, r.regulator, r.services.join(" "), cname(r.home_state)].join(" ").toLowerCase().includes(q))
       ).sort((a, b) => String(a[st.sort]).localeCompare(String(b[st.sort])) * st.dir);
@@ -53,12 +54,12 @@ window.VERTICALS.push({
       $("rows").innerHTML = rows.map(r => `<tr>
         <td><div class="co">${flagImg(r.home_state, cname(r.home_state))}<span>${esc(r.company)}${r.brand && r.brand !== r.company ? `<div class="muted small">${esc(r.brand)}</div>` : ""}</span></div></td>
         <td><span class="tag ${r.licence_type}">${r.licence_type}</span></td>
-        <td style="white-space:nowrap">${fmt(r.authorised)}</td>
+        <td style="white-space:nowrap">${fmt(r.authorised)}${r.authorised > today ? `<div><span class="tag up">effective soon</span></div>` : ""}${r.licence_type === "Non-compliant" ? `<div class="muted small">warning issued</div>` : ""}</td>
         <td>${esc(cname(r.home_state))}</td>
         <td class="small">${esc(r.regulator)}</td>
-        <td class="small">${r.services.length ? `<details><summary>${r.services.length} service${r.services.length > 1 ? "s" : ""}</summary>${r.services.map(esc).join("<br>")}</details>` : (r.comments ? `<span class="muted">${esc(r.comments.slice(0, 140))}</span>` : "")}</td>
-        <td><div class="pp">${r.passported.map(c => flagImg(c, cname(c))).join("") || '<span class="muted small">None listed</span>'}</div></td>
-        <td class="small">${r.website ? `<a href="${esc(/^https?:/.test(r.website) ? r.website : "https://" + r.website)}" target="_blank" rel="noopener">${esc(r.website.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</a>` : ""}</td>
+        <td class="small">${r.services.length ? `<details><summary>${r.services.length} service${r.services.length > 1 ? "s" : ""}</summary>${r.services.map(esc).join("<br>")}</details>` : (r.comments && !/^(n\/?a|none)$/i.test(r.comments) ? `<span class="muted">${esc(r.comments.slice(0, 140))}</span>` : "")}</td>
+        <td>${r.passported.length >= 10 ? `<details class="small"><summary>${r.passported.length} countries</summary><div class="pp">${r.passported.map(c => flagImg(c, cname(c))).join("")}</div></details>` : `<div class="pp">${r.passported.map(c => flagImg(c, cname(c))).join("") || '<span class="muted small">None listed</span>'}</div>`}</td>
+        <td class="small">${r.website ? ((w) => `<a href="${esc(/^https?:/.test(w) ? w : "https://" + w)}" target="_blank" rel="noopener">${esc(w.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</a>`)(r.website.split(/[|\s;]+/)[0]) : ""}</td>
       </tr>`).join("") || `<tr><td colspan="8" class="muted">No matches</td></tr>`;
       $("foot").innerHTML = `${rows.length} of ${R.length} entries. Source: <a href="${D.source_url}" target="_blank" rel="noopener">${D.source}</a>, refreshed ${new Date(D.fetched_at).toLocaleString("en-GB")}.`;
     };

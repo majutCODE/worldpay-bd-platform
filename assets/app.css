@@ -36,3 +36,4 @@ tr:hover td{background:var(--hover)}
 details summary{cursor:pointer;color:var(--accent)}
 .foot{color:var(--muted);font-size:12px;margin-top:10px}
 @media (max-width:760px){.menu{display:block}.side{position:fixed;top:52px;bottom:0;left:-240px;z-index:4;transition:left .2s}.side.open{left:0}main{padding:16px}}
+.tag.up{background:#e6f4ff;color:#0a4d8c;font-weight:500;margin-top:3px}
