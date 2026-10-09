@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-09T13:32+00:00",
+ "fetched_at": "2026-10-09T19:35+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Build Station Day 4",
-   "start": "2026-10-09T08:00+00:00",
-   "end": "2026-10-09T15:00+00:00",
-   "city": "Amsterdam",
-   "venue": "AI AM",
-   "url": "https://lu.ma/f1e6rc1v",
-   "source": "Luma",
-   "organiser": "Superteam NL",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/d1/3d2ebd99-c43e-4442-aa75-fa1d57b58e07.jpg"
-  },
   {
    "title": "The Conspiracies Pub Quiz",
    "start": "2026-10-12T18:00+00:00",
@@ -259,6 +244,21 @@
    "image": ""
   },
   {
+   "title": "House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito",
+   "start": "2026-10-29T17:00+00:00",
+   "end": "2026-10-29T19:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HoS-Workshops-Jito",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/gw/aa406fd4-abdd-4377-b2bb-0d01b2f4e8db.png"
+  },
+  {
    "title": "Solana Hacker House - London",
    "start": "2026-11-01T10:00+00:00",
    "end": "2026-11-12T20:00+00:00",
@@ -287,6 +287,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/wc/37cfaf97-d05c-4374-94b9-5db42776f239.jpg"
+  },
+  {
+   "title": "The Block Party",
+   "start": "2026-11-05T10:00+00:00",
+   "end": "2026-11-05T12:00+00:00",
+   "city": "Amsterdam",
+   "venue": "SugarFactory",
+   "url": "https://lu.ma/ouq007it",
+   "source": "Luma",
+   "organiser": "Crypto Women Collective",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/j4/ac3f1984-005a-4d75-94e6-40fa03175569.jpg"
   },
   {
    "title": "Socratic seminar BitcoinAmsterdam, November 5, 2026",
@@ -422,6 +437,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
+  },
+  {
+   "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
+   "start": "2026-11-12T13:00+00:00",
+   "end": "2026-11-12T15:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HoS-Workshops-R3",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/hb/a43b6bbb-fc67-4bc6-81b4-430ee54c46dc.png"
   },
   {
    "title": "Solana Intelligence Summit",
