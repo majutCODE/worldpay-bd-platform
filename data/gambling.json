@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08T18:41:28+00:00",
+ "fetched_at": "2026-10-09T13:22:09+00:00",
  "regulators": [
   {
    "code": "UKGC",
@@ -29,7 +29,7 @@
   }
  ],
  "counts": {
-  "UKGC": 3419,
+  "UKGC": 3416,
   "MGA": 317,
   "GGC": 68,
   "MF": 20
@@ -190,12 +190,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre"
+    "Bingo"
    ],
-   "licence_number": "101885-N-342931-002",
+   "licence_number": "101885-A-342932-001",
    "status": "Active",
    "active": true,
    "granted": "2026-09-16",
@@ -212,11 +211,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre"
    ],
-   "licence_number": "101885-A-342932-001",
+   "licence_number": "101885-N-342931-002",
    "status": "Active",
    "active": true,
    "granted": "2026-09-16",
@@ -800,27 +800,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "101165-R-342660-001",
-   "status": "Active",
-   "active": true,
-   "granted": "2026-06-29",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "https://dbthcharity.co.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Doncaster & Bassetlaw Teaching Hospitals Charity",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -835,6 +814,27 @@
     "https://dbthcharity.co.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Doncaster & Bassetlaw Teaching Hospitals Charity",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "101165-R-342660-001",
+   "status": "Active",
+   "active": true,
+   "granted": "2026-06-29",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "https://dbthcharity.co.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Coastfields Leisure Limited",
@@ -1060,11 +1060,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "100973-N-342565-002",
+   "licence_number": "100973-A-342566-001",
    "status": "Active",
    "active": true,
    "granted": "2026-06-12",
@@ -1082,11 +1082,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "100973-A-342566-001",
+   "licence_number": "100973-N-342565-002",
    "status": "Active",
    "active": true,
    "granted": "2026-06-12",
@@ -1379,11 +1379,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "101291-N-342472-002",
+   "licence_number": "101291-A-342473-001",
    "status": "Active",
    "active": true,
    "granted": "2026-05-22",
@@ -1398,11 +1398,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "101291-A-342473-001",
+   "licence_number": "101291-N-342472-002",
    "status": "Active",
    "active": true,
    "granted": "2026-05-22",
@@ -1466,11 +1466,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "100452-N-342422-002",
+   "licence_number": "100452-A-342423-001",
    "status": "Active",
    "active": true,
    "granted": "2026-05-12",
@@ -1487,11 +1487,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "100452-A-342423-001",
+   "licence_number": "100452-N-342422-002",
    "status": "Active",
    "active": true,
    "granted": "2026-05-12",
@@ -1574,11 +1574,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "101085-N-342367-004",
+   "licence_number": "101085-A-342368-002",
    "status": "Active",
    "active": true,
    "granted": "2026-04-30",
@@ -1595,11 +1595,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "101085-A-342368-002",
+   "licence_number": "101085-N-342367-004",
    "status": "Active",
    "active": true,
    "granted": "2026-04-30",
@@ -1699,27 +1699,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "100692-R-342339-001",
-   "status": "Active",
-   "active": true,
-   "granted": "2026-04-23",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "https://oarfish-khaki-s3g5.squarespace.com/"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "The Fans Lottery Foundation Ltd.",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -1734,6 +1713,27 @@
     "https://oarfish-khaki-s3g5.squarespace.com/"
    ],
    "b2c": false
+  },
+  {
+   "company": "The Fans Lottery Foundation Ltd.",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "100692-R-342339-001",
+   "status": "Active",
+   "active": true,
+   "granted": "2026-04-23",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "https://oarfish-khaki-s3g5.squarespace.com/"
+   ],
+   "b2c": true
   },
   {
    "company": "Mark Slater",
@@ -1917,16 +1917,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "101090-N-342226-002",
-   "status": "Active",
-   "active": true,
+   "licence_number": "101090-A-342227-001",
+   "status": "Surrendered",
+   "active": false,
    "granted": "2026-04-08",
    "date_kind": "issued",
-   "expiry": "",
+   "expiry": "2026-05-08",
    "websites": [],
    "b2c": false
   },
@@ -1938,16 +1938,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "101090-A-342227-001",
-   "status": "Surrendered",
-   "active": false,
+   "licence_number": "101090-N-342226-002",
+   "status": "Active",
+   "active": true,
    "granted": "2026-04-08",
    "date_kind": "issued",
-   "expiry": "2026-05-08",
+   "expiry": "",
    "websites": [],
    "b2c": false
   },
@@ -2125,16 +2125,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "100386-N-342181-002",
-   "status": "Active",
-   "active": true,
+   "licence_number": "100386-A-342182-001",
+   "status": "Surrendered",
+   "active": false,
    "granted": "2026-03-20",
    "date_kind": "issued",
-   "expiry": "",
+   "expiry": "2026-03-23",
    "websites": [],
    "b2c": false
   },
@@ -2146,16 +2146,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "100386-A-342182-001",
-   "status": "Surrendered",
-   "active": false,
+   "licence_number": "100386-N-342181-002",
+   "status": "Active",
+   "active": true,
    "granted": "2026-03-20",
    "date_kind": "issued",
-   "expiry": "2026-03-23",
+   "expiry": "",
    "websites": [],
    "b2c": false
   },
@@ -2364,11 +2364,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "067279-R-342054-002",
+   "licence_number": "067279-N-342055-002",
    "status": "Active",
    "active": true,
    "granted": "2026-02-26",
@@ -2385,11 +2385,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "067279-N-342055-002",
+   "licence_number": "067279-R-342054-002",
    "status": "Active",
    "active": true,
    "granted": "2026-02-26",
@@ -2492,11 +2492,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "100629-N-341972-001",
+   "licence_number": "100629-A-341973-001",
    "status": "Active",
    "active": true,
    "granted": "2026-02-16",
@@ -2511,11 +2511,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "100629-A-341973-001",
+   "licence_number": "100629-N-341972-001",
    "status": "Active",
    "active": true,
    "granted": "2026-02-16",
@@ -3080,11 +3080,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "General Betting Standard - No Gaming Machines"
+    "General Betting Standard"
    ],
-   "licence_number": "003036-N-104019-015",
+   "licence_number": "003036-A-305825-009",
    "status": "Active",
    "active": true,
    "granted": "2026-01-02",
@@ -3101,11 +3101,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "General Betting Standard"
+    "General Betting Standard - No Gaming Machines"
    ],
-   "licence_number": "003036-A-305825-009",
+   "licence_number": "003036-N-104019-015",
    "status": "Active",
    "active": true,
    "granted": "2026-01-02",
@@ -3160,11 +3160,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "043538-N-341761-001",
+   "licence_number": "043538-A-341762-001",
    "status": "Active",
    "active": true,
    "granted": "2025-12-22",
@@ -3179,11 +3179,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "043538-A-341762-001",
+   "licence_number": "043538-N-341761-001",
    "status": "Active",
    "active": true,
    "granted": "2025-12-22",
@@ -3583,11 +3583,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "100242-N-341570-004",
+   "licence_number": "100242-A-341571-003",
    "status": "Active",
    "active": true,
    "granted": "2025-11-17",
@@ -3606,11 +3606,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "100242-A-341571-003",
+   "licence_number": "100242-N-341570-004",
    "status": "Active",
    "active": true,
    "granted": "2025-11-17",
@@ -4068,11 +4068,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "067191-N-341306-002",
+   "licence_number": "067191-A-341307-001",
    "status": "Active",
    "active": true,
    "granted": "2025-10-01",
@@ -4089,11 +4089,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "067191-A-341307-001",
+   "licence_number": "067191-N-341306-002",
    "status": "Active",
    "active": true,
    "granted": "2025-10-01",
@@ -4320,11 +4320,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "067336-N-341176-003",
+   "licence_number": "067336-A-341177-002",
    "status": "Active",
    "active": true,
    "granted": "2025-09-04",
@@ -4339,11 +4339,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "067336-A-341177-002",
+   "licence_number": "067336-N-341176-003",
    "status": "Active",
    "active": true,
    "granted": "2025-09-04",
@@ -4504,11 +4504,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "067478-N-341047-002",
+   "licence_number": "067478-A-341048-002",
    "status": "Active",
    "active": true,
    "granted": "2025-08-08",
@@ -4525,11 +4525,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "067478-A-341048-002",
+   "licence_number": "067478-N-341047-002",
    "status": "Active",
    "active": true,
    "granted": "2025-08-08",
@@ -5037,12 +5037,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Gaming Machine General Adult Gaming Centre",
     "General Betting Standard"
    ],
-   "licence_number": "066899-N-340690-002",
+   "licence_number": "066899-A-340691-001",
    "status": "Active",
    "active": true,
    "granted": "2025-06-11",
@@ -5062,11 +5061,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
+    "Gaming Machine General Adult Gaming Centre",
     "General Betting Standard"
    ],
-   "licence_number": "066899-A-340691-001",
+   "licence_number": "066899-N-340690-002",
    "status": "Active",
    "active": true,
    "granted": "2025-06-11",
@@ -5339,27 +5339,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "066163-R-340584-001",
-   "status": "Active",
-   "active": true,
-   "granted": "2025-05-23",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "thefundraisinglottery.joinourlottery.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "The Fundraising Club CIC",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -5374,6 +5353,27 @@
     "thefundraisinglottery.joinourlottery.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "The Fundraising Club CIC",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "066163-R-340584-001",
+   "status": "Active",
+   "active": true,
+   "granted": "2025-05-23",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "thefundraisinglottery.joinourlottery.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Canal & River Trust",
@@ -5526,11 +5526,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "066327-N-340530-002",
+   "licence_number": "066327-A-340531-002",
    "status": "Active",
    "active": true,
    "granted": "2025-05-13",
@@ -5545,11 +5545,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "066327-A-340531-002",
+   "licence_number": "066327-N-340530-002",
    "status": "Active",
    "active": true,
    "granted": "2025-05-13",
@@ -6266,11 +6266,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "065961-N-340210-002",
+   "licence_number": "065961-A-340211-001",
    "status": "Active",
    "active": true,
    "granted": "2025-03-07",
@@ -6287,11 +6287,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "065961-A-340211-001",
+   "licence_number": "065961-N-340210-002",
    "status": "Active",
    "active": true,
    "granted": "2025-03-07",
@@ -6482,11 +6482,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "065668-N-340108-002",
+   "licence_number": "065668-A-340109-002",
    "status": "Surrendered",
    "active": false,
    "granted": "2025-02-17",
@@ -6501,11 +6501,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "065668-A-340109-002",
+   "licence_number": "065668-N-340108-002",
    "status": "Surrendered",
    "active": false,
    "granted": "2025-02-17",
@@ -7283,30 +7283,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "064866-R-339796-003",
-   "status": "Active",
-   "active": true,
-   "granted": "2024-12-10",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.healthlotterycic.org",
-    "www.thehealthlotteryfoundation.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "The Health Lottery Donations CIC",
-   "brands": [
-    "the health lottery foundation"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -7322,6 +7298,30 @@
     "www.thehealthlotteryfoundation.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "The Health Lottery Donations CIC",
+   "brands": [
+    "the health lottery foundation"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "064866-R-339796-003",
+   "status": "Active",
+   "active": true,
+   "granted": "2024-12-10",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.healthlotterycic.org",
+    "www.thehealthlotteryfoundation.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Richmond Atlantic Ltd",
@@ -7441,11 +7441,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "065251-N-339683-003",
+   "licence_number": "065251-A-339684-003",
    "status": "Active",
    "active": true,
    "granted": "2024-11-19",
@@ -7462,11 +7462,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "065251-A-339684-003",
+   "licence_number": "065251-N-339683-003",
    "status": "Active",
    "active": true,
    "granted": "2024-11-19",
@@ -7864,11 +7864,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "065368-N-339413-003",
+   "licence_number": "065368-A-339414-002",
    "status": "Active",
    "active": true,
    "granted": "2024-10-04",
@@ -7887,11 +7887,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "065368-A-339414-002",
+   "licence_number": "065368-N-339413-003",
    "status": "Active",
    "active": true,
    "granted": "2024-10-04",
@@ -8031,11 +8031,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "064849-N-339272-004",
+   "licence_number": "064849-A-339273-002",
    "status": "Active",
    "active": true,
    "granted": "2024-09-12",
@@ -8050,11 +8050,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "064849-A-339273-002",
+   "licence_number": "064849-N-339272-004",
    "status": "Active",
    "active": true,
    "granted": "2024-09-12",
@@ -8410,11 +8410,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "064272-N-339044-004",
+   "licence_number": "064272-A-339045-003",
    "status": "Active",
    "active": true,
    "granted": "2024-07-31",
@@ -8432,11 +8432,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "064272-A-339045-003",
+   "licence_number": "064272-N-339044-004",
    "status": "Active",
    "active": true,
    "granted": "2024-07-31",
@@ -8498,11 +8498,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Gaming Machine Technical Software"
+    "Gaming Machine Technical Full"
    ],
-   "licence_number": "064741-R-338994-002",
+   "licence_number": "064741-N-338995-002",
    "status": "Active",
    "active": true,
    "granted": "2024-07-22",
@@ -8517,11 +8517,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
-    "Gaming Machine Technical Full"
+    "Gaming Machine Technical Software"
    ],
-   "licence_number": "064741-N-338995-002",
+   "licence_number": "064741-R-338994-002",
    "status": "Active",
    "active": true,
    "granted": "2024-07-22",
@@ -9234,11 +9234,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "064025-N-338636-002",
+   "licence_number": "064025-A-338637-002",
    "status": "Active",
    "active": true,
    "granted": "2024-04-23",
@@ -9259,11 +9259,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "064025-A-338637-002",
+   "licence_number": "064025-N-338636-002",
    "status": "Active",
    "active": true,
    "granted": "2024-04-23",
@@ -9308,11 +9308,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "063928-N-338622-001",
+   "licence_number": "063928-A-338623-001",
    "status": "Active",
    "active": true,
    "granted": "2024-04-22",
@@ -9329,11 +9329,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "063928-A-338623-001",
+   "licence_number": "063928-N-338622-001",
    "status": "Active",
    "active": true,
    "granted": "2024-04-22",
@@ -9442,11 +9442,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "028832-N-310402-013",
+   "licence_number": "028832-A-336717-002",
    "status": "Surrendered",
    "active": false,
    "granted": "2024-03-31",
@@ -9465,11 +9465,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "028832-A-336717-002",
+   "licence_number": "028832-N-310402-013",
    "status": "Surrendered",
    "active": false,
    "granted": "2024-03-31",
@@ -9531,11 +9531,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "064053-N-338537-004",
+   "licence_number": "064053-A-338538-003",
    "status": "Active",
    "active": true,
    "granted": "2024-03-28",
@@ -9553,11 +9553,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "064053-A-338538-003",
+   "licence_number": "064053-N-338537-004",
    "status": "Active",
    "active": true,
    "granted": "2024-03-28",
@@ -9715,11 +9715,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "063147-N-338355-004",
+   "licence_number": "063147-A-338356-002",
    "status": "Active",
    "active": true,
    "granted": "2024-03-05",
@@ -9737,11 +9737,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "063147-A-338356-002",
+   "licence_number": "063147-N-338355-004",
    "status": "Active",
    "active": true,
    "granted": "2024-03-05",
@@ -9875,11 +9875,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "063517-N-338187-002",
+   "licence_number": "063517-A-338188-001",
    "status": "Active",
    "active": true,
    "granted": "2024-02-07",
@@ -9896,11 +9896,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "063517-A-338188-001",
+   "licence_number": "063517-N-338187-002",
    "status": "Active",
    "active": true,
    "granted": "2024-02-07",
@@ -11982,12 +11982,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "062409-N-336958-001",
-   "status": "Revoked - Non Payment of Fee",
+   "licence_number": "062409-A-336959-001",
+   "status": "Revoked",
    "active": false,
    "granted": "2023-06-01",
    "date_kind": "issued",
@@ -12001,12 +12001,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "062409-A-336959-001",
-   "status": "Revoked",
+   "licence_number": "062409-N-336958-001",
+   "status": "Revoked - Non Payment of Fee",
    "active": false,
    "granted": "2023-06-01",
    "date_kind": "issued",
@@ -12505,11 +12505,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "062145-N-336732-002",
+   "licence_number": "062145-A-336733-001",
    "status": "Active",
    "active": true,
    "granted": "2023-04-20",
@@ -12526,11 +12526,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "062145-A-336733-001",
+   "licence_number": "062145-N-336732-002",
    "status": "Active",
    "active": true,
    "granted": "2023-04-20",
@@ -12816,11 +12816,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "054013-N-336646-004",
+   "licence_number": "054013-A-336647-002",
    "status": "Active",
    "active": true,
    "granted": "2023-03-27",
@@ -12835,11 +12835,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "054013-A-336647-002",
+   "licence_number": "054013-N-336646-004",
    "status": "Active",
    "active": true,
    "granted": "2023-03-27",
@@ -13370,25 +13370,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "061537-R-336384-007",
-   "status": "Active",
-   "active": true,
-   "granted": "2023-02-03",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Jackpot Community Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -13401,6 +13382,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Jackpot Community Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "061537-R-336384-007",
+   "status": "Active",
+   "active": true,
+   "granted": "2023-02-03",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Bang Bang Games Limited",
@@ -14880,11 +14880,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "004827-N-335419-002",
+   "licence_number": "004827-A-335420-002",
    "status": "Active",
    "active": true,
    "granted": "2022-08-01",
@@ -14903,11 +14903,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "004827-A-335420-002",
+   "licence_number": "004827-N-335419-002",
    "status": "Active",
    "active": true,
    "granted": "2022-08-01",
@@ -14948,11 +14948,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "060112-N-335391-001",
+   "licence_number": "060112-A-335392-001",
    "status": "Surrendered",
    "active": false,
    "granted": "2022-07-27",
@@ -14972,11 +14972,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "060112-A-335392-001",
+   "licence_number": "060112-N-335391-001",
    "status": "Surrendered",
    "active": false,
    "granted": "2022-07-27",
@@ -15420,11 +15420,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "059796-N-334982-005",
+   "licence_number": "059796-A-334983-003",
    "status": "Active",
    "active": true,
    "granted": "2022-05-13",
@@ -15444,11 +15444,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "059796-A-334983-003",
+   "licence_number": "059796-N-334982-005",
    "status": "Active",
    "active": true,
    "granted": "2022-05-13",
@@ -15558,11 +15558,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "059772-N-334905-006",
+   "licence_number": "059772-A-334906-005",
    "status": "Active",
    "active": true,
    "granted": "2022-04-28",
@@ -15579,11 +15579,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "059772-A-334906-005",
+   "licence_number": "059772-N-334905-006",
    "status": "Active",
    "active": true,
    "granted": "2022-04-28",
@@ -15670,12 +15670,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre"
+    "Bingo"
    ],
-   "licence_number": "059520-N-334821-004",
+   "licence_number": "059520-A-334822-002",
    "status": "Active",
    "active": true,
    "granted": "2022-04-07",
@@ -15693,11 +15692,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre"
    ],
-   "licence_number": "059520-A-334822-002",
+   "licence_number": "059520-N-334821-004",
    "status": "Active",
    "active": true,
    "granted": "2022-04-07",
@@ -15857,11 +15857,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "059740-N-334693-004",
+   "licence_number": "059740-A-334694-003",
    "status": "Active",
    "active": true,
    "granted": "2022-03-17",
@@ -15882,11 +15882,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "059740-A-334694-003",
+   "licence_number": "059740-N-334693-004",
    "status": "Active",
    "active": true,
    "granted": "2022-03-17",
@@ -16226,7 +16226,6 @@
     "safaribingo.com",
     "sailorbingo.com",
     "seasonbingo.com",
-    "secretslots.com",
     "silkbingo.com",
     "singbingo.com",
     "sinstreetbingo.com",
@@ -16254,7 +16253,6 @@
     "vegasspins.com",
     "velvetbingo.com",
     "velvetslots.com",
-    "vivafortunes.com",
     "wewantbingo.com",
     "wickedjackpots.com",
     "winitbingo.com",
@@ -17463,11 +17461,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "056991-N-334068-005",
+   "licence_number": "056991-A-334069-004",
    "status": "Active",
    "active": true,
    "granted": "2021-11-10",
@@ -17482,11 +17480,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "056991-A-334069-004",
+   "licence_number": "056991-N-334068-005",
    "status": "Active",
    "active": true,
    "granted": "2021-11-10",
@@ -17912,12 +17910,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Linked Gaming Machine Technical Supplier"
+    "Bingo"
    ],
-   "licence_number": "037370-N-318275-011",
+   "licence_number": "037370-A-333744-002",
    "status": "Active",
    "active": true,
    "granted": "2021-09-02",
@@ -17936,11 +17933,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Linked Gaming Machine Technical Supplier"
    ],
-   "licence_number": "037370-A-333744-002",
+   "licence_number": "037370-N-318275-011",
    "status": "Active",
    "active": true,
    "granted": "2021-09-02",
@@ -18166,11 +18164,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "058230-N-333636-004",
+   "licence_number": "058230-A-333637-003",
    "status": "Active",
    "active": true,
    "granted": "2021-08-05",
@@ -18189,11 +18187,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "058230-A-333637-003",
+   "licence_number": "058230-N-333636-004",
    "status": "Active",
    "active": true,
    "granted": "2021-08-05",
@@ -18202,6 +18200,25 @@
    "websites": [
     "www.leedslottery.org"
    ],
+   "b2c": false
+  },
+  {
+   "company": "Countryside Alliance Foundation",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "058159-N-333634-005",
+   "status": "Active",
+   "active": true,
+   "granted": "2021-08-05",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
    "b2c": false
   },
   {
@@ -18222,25 +18239,6 @@
    "expiry": "",
    "websites": [],
    "b2c": true
-  },
-  {
-   "company": "Countryside Alliance Foundation",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "058159-N-333634-005",
-   "status": "Active",
-   "active": true,
-   "granted": "2021-08-05",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
   },
   {
    "company": "E.G.G. Limited",
@@ -18270,12 +18268,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine Technical Supplier"
+    "Bingo"
    ],
-   "licence_number": "058166-N-333613-006",
+   "licence_number": "058166-A-333614-004",
    "status": "Active",
    "active": true,
    "granted": "2021-08-03",
@@ -18292,11 +18289,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "058166-A-333614-004",
+   "licence_number": "058166-N-333613-006",
    "status": "Active",
    "active": true,
    "granted": "2021-08-03",
@@ -18721,11 +18719,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "057986-N-333440-003",
+   "licence_number": "057986-A-333441-002",
    "status": "Active",
    "active": true,
    "granted": "2021-06-10",
@@ -18742,11 +18740,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "057986-A-333441-002",
+   "licence_number": "057986-N-333440-003",
    "status": "Active",
    "active": true,
    "granted": "2021-06-10",
@@ -18921,11 +18919,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "057459-N-333361-005",
+   "licence_number": "057459-A-333362-004",
    "status": "Active",
    "active": true,
    "granted": "2021-05-20",
@@ -18944,11 +18942,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "057459-A-333362-004",
+   "licence_number": "057459-N-333361-005",
    "status": "Active",
    "active": true,
    "granted": "2021-05-20",
@@ -20432,11 +20430,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "057186-N-333097-003",
+   "licence_number": "057186-A-333098-002",
    "status": "Active",
    "active": true,
    "granted": "2020-12-11",
@@ -20453,11 +20451,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "057186-A-333098-002",
+   "licence_number": "057186-N-333097-003",
    "status": "Active",
    "active": true,
    "granted": "2020-12-11",
@@ -20558,30 +20556,6 @@
    "expiry": "",
    "websites": [],
    "b2c": false
-  },
-  {
-   "company": "Gotto Limited",
-   "brands": [
-    "24Dogs.com"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Linked Gambling Software",
-    "Pool Betting"
-   ],
-   "licence_number": "057676-R-333074-001",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2020-12-02",
-   "date_kind": "issued",
-   "expiry": "2023-10-09",
-   "websites": [
-    "www.24dogs.com"
-   ],
-   "b2c": true
   },
   {
    "company": "Black Card Community Lottery",
@@ -20972,27 +20946,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Betting Host (Virtual Events)",
-    "Gambling Software",
-    "Game Host (Casino)"
-   ],
-   "licence_number": "056526-R-332923-003",
-   "status": "Active",
-   "active": true,
-   "granted": "2020-09-29",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
-  },
-  {
-   "company": "DS Virtual Gaming Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
@@ -21017,6 +20970,27 @@
     "Gaming Machine Technical Supplier"
    ],
    "licence_number": "056526-N-332924-003",
+   "status": "Active",
+   "active": true,
+   "granted": "2020-09-29",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": false
+  },
+  {
+   "company": "DS Virtual Gaming Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Betting Host (Virtual Events)",
+    "Gambling Software",
+    "Game Host (Casino)"
+   ],
+   "licence_number": "056526-R-332923-003",
    "status": "Active",
    "active": true,
    "granted": "2020-09-29",
@@ -21267,25 +21241,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "056685-R-332788-001",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2020-07-31",
-   "date_kind": "issued",
-   "expiry": "2024-08-21",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Fauna & Flora International",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -21298,6 +21253,25 @@
    "expiry": "2024-08-21",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Fauna & Flora International",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "056685-R-332788-001",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2020-07-31",
+   "date_kind": "issued",
+   "expiry": "2024-08-21",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Martin David Verrall, Ian John Verrall",
@@ -22136,11 +22110,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "003224-N-332321-005",
+   "licence_number": "003224-A-332322-001",
    "status": "Active",
    "active": true,
    "granted": "2020-02-20",
@@ -22157,11 +22131,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "003224-A-332322-001",
+   "licence_number": "003224-N-332321-005",
    "status": "Active",
    "active": true,
    "granted": "2020-02-20",
@@ -23352,25 +23326,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004927-R-331450-003",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2019-10-09",
-   "date_kind": "issued",
-   "expiry": "2024-10-24",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Teenage Cancer Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -23383,6 +23338,25 @@
    "expiry": "2024-10-24",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Teenage Cancer Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004927-R-331450-003",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2019-10-09",
+   "date_kind": "issued",
+   "expiry": "2024-10-24",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "HGMT Limited",
@@ -23458,6 +23432,29 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "Gambling Software"
+   ],
+   "licence_number": "054779-N-331322-006",
+   "status": "Active",
+   "active": true,
+   "granted": "2019-09-20",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "tote.co.uk"
+   ],
+   "b2c": false
+  },
+  {
+   "company": "TDCO Limited",
+   "brands": [
+    "tote"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
    "licence_type": "Remote",
    "activities": [
     "Casino",
@@ -23476,29 +23473,6 @@
     "tote.co.uk"
    ],
    "b2c": true
-  },
-  {
-   "company": "TDCO Limited",
-   "brands": [
-    "tote"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Gambling Software"
-   ],
-   "licence_number": "054779-N-331322-006",
-   "status": "Active",
-   "active": true,
-   "granted": "2019-09-20",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "tote.co.uk"
-   ],
-   "b2c": false
   },
   {
    "company": "Socialicity Gaming Limited",
@@ -23830,25 +23804,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "054500-R-330874-005",
-   "status": "Active",
-   "active": true,
-   "granted": "2019-07-03",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Places Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -23861,6 +23816,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Postcode Places Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "054500-R-330874-005",
+   "status": "Active",
+   "active": true,
+   "granted": "2019-07-03",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Postcode Neighbourhood Trust",
@@ -23906,11 +23880,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "054293-N-330868-002",
+   "licence_number": "054293-A-330869-002",
    "status": "Revoked - Non Payment of Fee",
    "active": false,
    "granted": "2019-07-02",
@@ -23925,11 +23899,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "054293-A-330869-002",
+   "licence_number": "054293-N-330868-002",
    "status": "Revoked - Non Payment of Fee",
    "active": false,
    "granted": "2019-07-02",
@@ -24212,11 +24186,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "053818-N-330363-007",
+   "licence_number": "053818-A-330364-006",
    "status": "Active",
    "active": true,
    "granted": "2019-06-10",
@@ -24231,11 +24205,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "053818-A-330364-006",
+   "licence_number": "053818-N-330363-007",
    "status": "Active",
    "active": true,
    "granted": "2019-06-10",
@@ -24446,13 +24420,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Betting Host (Virtual Events)",
-    "Gambling Software",
-    "Game Host (Casino)"
+    "Gambling Software"
    ],
-   "licence_number": "053961-R-330573-004",
+   "licence_number": "053961-N-330574-004",
    "status": "Active",
    "active": true,
    "granted": "2019-05-13",
@@ -24470,11 +24442,13 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
-    "Gambling Software"
+    "Betting Host (Virtual Events)",
+    "Gambling Software",
+    "Game Host (Casino)"
    ],
-   "licence_number": "053961-N-330574-004",
+   "licence_number": "053961-R-330573-004",
    "status": "Active",
    "active": true,
    "granted": "2019-05-13",
@@ -24645,13 +24619,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software",
-    "Game Host (Casino)",
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "053969-R-330493-010",
+   "licence_number": "053969-N-330494-009",
    "status": "Active",
    "active": true,
    "granted": "2019-04-23",
@@ -24666,12 +24639,13 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
     "Gambling Software",
+    "Game Host (Casino)",
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "053969-N-330494-009",
+   "licence_number": "053969-R-330493-010",
    "status": "Active",
    "active": true,
    "granted": "2019-04-23",
@@ -24823,25 +24797,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "053777-R-330337-005",
-   "status": "Active",
-   "active": true,
-   "granted": "2019-03-19",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Guide Association",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -24854,6 +24809,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Guide Association",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "053777-R-330337-005",
+   "status": "Active",
+   "active": true,
+   "granted": "2019-03-19",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Playmore Limited",
@@ -26485,12 +26459,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Gaming Machine Technical Software",
+    "Gaming Machine Technical Full",
     "Gambling Software"
    ],
-   "licence_number": "045352-R-329373-004",
+   "licence_number": "045352-N-329374-004",
    "status": "Active",
    "active": true,
    "granted": "2018-09-26",
@@ -26507,12 +26481,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
     "Gambling Software",
-    "Gaming Machine Technical Full"
+    "Gaming Machine Technical Software"
    ],
-   "licence_number": "045352-N-329374-004",
+   "licence_number": "045352-R-329373-004",
    "status": "Active",
    "active": true,
    "granted": "2018-09-26",
@@ -26840,27 +26814,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "051558-R-329108-003",
-   "status": "Active",
-   "active": true,
-   "granted": "2018-08-02",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Seat Lottery Society",
-   "brands": [
-    "the seat lottery"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -26873,6 +26826,27 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Seat Lottery Society",
+   "brands": [
+    "the seat lottery"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "051558-R-329108-003",
+   "status": "Active",
+   "active": true,
+   "granted": "2018-08-02",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Colet Systems Limited",
@@ -26924,11 +26898,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "051907-N-329110-002",
+   "licence_number": "051907-A-329111-002",
    "status": "Revoked - Non Payment of Fee",
    "active": false,
    "granted": "2018-07-31",
@@ -26945,11 +26919,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "051907-A-329111-002",
+   "licence_number": "051907-N-329110-002",
    "status": "Revoked - Non Payment of Fee",
    "active": false,
    "granted": "2018-07-31",
@@ -27118,11 +27092,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "051871-N-329015-002",
+   "licence_number": "051871-A-329016-002",
    "status": "Surrendered",
    "active": false,
    "granted": "2018-07-18",
@@ -27137,16 +27111,38 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "051871-A-329016-002",
+   "licence_number": "051871-N-329015-002",
    "status": "Surrendered",
    "active": false,
    "granted": "2018-07-18",
    "date_kind": "issued",
    "expiry": "2024-07-22",
+   "websites": [],
+   "b2c": false
+  },
+  {
+   "company": "Tpoolco Limited",
+   "brands": [
+    "totepool"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "Linked Gambling Software",
+    "Pool Betting"
+   ],
+   "licence_number": "052146-N-328972-005",
+   "status": "Active",
+   "active": true,
+   "granted": "2018-07-12",
+   "date_kind": "issued",
+   "expiry": "",
    "websites": [],
    "b2c": false
   },
@@ -27170,28 +27166,6 @@
    "expiry": "",
    "websites": [],
    "b2c": true
-  },
-  {
-   "company": "Tpoolco Limited",
-   "brands": [
-    "totepool"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Linked Gambling Software",
-    "Pool Betting"
-   ],
-   "licence_number": "052146-N-328972-005",
-   "status": "Active",
-   "active": true,
-   "granted": "2018-07-12",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
   },
   {
    "company": "Ascot Racecourse Betting & Gaming Limited",
@@ -27528,25 +27502,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "050055-R-328789-011",
-   "status": "Active",
-   "active": true,
-   "granted": "2018-06-19",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "RNIB Direct Services Lottery Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -27559,6 +27514,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "RNIB Direct Services Lottery Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "050055-R-328789-011",
+   "status": "Active",
+   "active": true,
+   "granted": "2018-06-19",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Alan Bushell Racing Limited",
@@ -27720,25 +27694,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "051156-R-328596-006",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2018-05-25",
-   "date_kind": "issued",
-   "expiry": "2026-02-18",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "CLIC Sargent Lottery Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -27751,6 +27706,25 @@
    "expiry": "2026-02-18",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "CLIC Sargent Lottery Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "051156-R-328596-006",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2018-05-25",
+   "date_kind": "issued",
+   "expiry": "2026-02-18",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Broxtowe Borough Council",
@@ -27782,29 +27756,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "General Betting Standard - Real Event",
-    "Pool Betting"
-   ],
-   "licence_number": "051021-R-328607-006",
-   "status": "Active",
-   "active": true,
-   "granted": "2018-05-25",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Britbet Racing LLP",
-   "brands": [
-    "britbet",
-    "british racing bet"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard - No Gaming Machines",
@@ -27818,6 +27769,29 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Britbet Racing LLP",
+   "brands": [
+    "britbet",
+    "british racing bet"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "General Betting Standard - Real Event",
+    "Pool Betting"
+   ],
+   "licence_number": "051021-R-328607-006",
+   "status": "Active",
+   "active": true,
+   "granted": "2018-05-25",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Yggdrasil Gaming Sweden AB",
@@ -28114,16 +28088,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "051540-N-328336-008",
-   "status": "Active",
-   "active": true,
+   "licence_number": "051540-A-328337-007",
+   "status": "Surrendered",
+   "active": false,
    "granted": "2018-04-12",
    "date_kind": "issued",
-   "expiry": "",
+   "expiry": "2026-02-06",
    "websites": [
     "www.horizonscasino.com"
    ],
@@ -28137,16 +28111,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "051540-A-328337-007",
-   "status": "Surrendered",
-   "active": false,
+   "licence_number": "051540-N-328336-008",
+   "status": "Active",
+   "active": true,
    "granted": "2018-04-12",
    "date_kind": "issued",
-   "expiry": "2026-02-06",
+   "expiry": "",
    "websites": [
     "www.horizonscasino.com"
    ],
@@ -28602,11 +28576,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "050397-N-327976-005",
+   "licence_number": "050397-A-327977-003",
    "status": "Active",
    "active": true,
    "granted": "2018-02-15",
@@ -28621,11 +28595,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "050397-A-327977-003",
+   "licence_number": "050397-N-327976-005",
    "status": "Active",
    "active": true,
    "granted": "2018-02-15",
@@ -29044,12 +29018,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Gaming Machine General Adult Gaming Centre",
     "General Betting Standard"
    ],
-   "licence_number": "050255-N-327721-004",
+   "licence_number": "050255-A-327722-003",
    "status": "Active",
    "active": true,
    "granted": "2018-01-15",
@@ -29066,11 +29039,33 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "Gaming Machine General Adult Gaming Centre",
+    "General Betting Standard"
+   ],
+   "licence_number": "050255-N-327721-004",
+   "status": "Active",
+   "active": true,
+   "granted": "2018-01-15",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": false
+  },
+  {
+   "company": "Lordsdale Littlehampton Limited",
+   "brands": [
+    "cassino"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
    "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "050255-A-327722-003",
+   "licence_number": "050257-A-327724-004",
    "status": "Active",
    "active": true,
    "granted": "2018-01-15",
@@ -29093,27 +29088,6 @@
     "General Betting Standard"
    ],
    "licence_number": "050257-N-327723-005",
-   "status": "Active",
-   "active": true,
-   "granted": "2018-01-15",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
-  },
-  {
-   "company": "Lordsdale Littlehampton Limited",
-   "brands": [
-    "cassino"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Ancillary Remote",
-   "activities": [
-    "General Betting Standard"
-   ],
-   "licence_number": "050257-A-327724-004",
    "status": "Active",
    "active": true,
    "granted": "2018-01-15",
@@ -30792,11 +30766,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "049814-N-327151-004",
+   "licence_number": "049814-A-327152-002",
    "status": "Active",
    "active": true,
    "granted": "2017-10-18",
@@ -30811,11 +30785,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "049814-A-327152-002",
+   "licence_number": "049814-N-327151-004",
    "status": "Active",
    "active": true,
    "granted": "2017-10-18",
@@ -31123,11 +31097,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "040169-N-326963-004",
+   "licence_number": "040169-A-326964-003",
    "status": "Active",
    "active": true,
    "granted": "2017-09-08",
@@ -31146,11 +31120,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "040169-A-326964-003",
+   "licence_number": "040169-N-326963-004",
    "status": "Active",
    "active": true,
    "granted": "2017-09-08",
@@ -31192,11 +31166,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "049159-N-326941-003",
+   "licence_number": "049159-A-326942-003",
    "status": "Active",
    "active": true,
    "granted": "2017-09-05",
@@ -31213,11 +31187,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "049159-A-326942-003",
+   "licence_number": "049159-N-326941-003",
    "status": "Active",
    "active": true,
    "granted": "2017-09-05",
@@ -31359,11 +31333,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "049081-N-326872-005",
+   "licence_number": "049081-A-326873-005",
    "status": "Surrendered",
    "active": false,
    "granted": "2017-08-17",
@@ -31380,11 +31354,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "049081-A-326873-005",
+   "licence_number": "049081-N-326872-005",
    "status": "Surrendered",
    "active": false,
    "granted": "2017-08-17",
@@ -31552,11 +31526,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "047909-N-326764-002",
+   "licence_number": "047909-A-326765-003",
    "status": "Surrendered",
    "active": false,
    "granted": "2017-07-27",
@@ -31571,11 +31545,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "047909-A-326765-003",
+   "licence_number": "047909-N-326764-002",
    "status": "Surrendered",
    "active": false,
    "granted": "2017-07-27",
@@ -31995,11 +31969,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "047915-N-326436-007",
+   "licence_number": "047915-A-326437-005",
    "status": "Active",
    "active": true,
    "granted": "2017-06-12",
@@ -32016,11 +31990,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "047915-A-326437-005",
+   "licence_number": "047915-N-326436-007",
    "status": "Active",
    "active": true,
    "granted": "2017-06-12",
@@ -32100,6 +32074,32 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "Gambling Software",
+    "General Betting Standard",
+    "Pool Betting"
+   ],
+   "licence_number": "048272-N-326340-010",
+   "status": "Active",
+   "active": true,
+   "granted": "2017-05-25",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.footballpools.com",
+    "www.footie5.com",
+    "www.rangerspools.com",
+    "www.thepools.com"
+   ],
+   "b2c": false
+  },
+  {
+   "company": "The Football Pools Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
    "licence_type": "Remote",
    "activities": [
     "Gambling Software",
@@ -32120,32 +32120,6 @@
     "www.thepools.com"
    ],
    "b2c": true
-  },
-  {
-   "company": "The Football Pools Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Gambling Software",
-    "General Betting Standard",
-    "Pool Betting"
-   ],
-   "licence_number": "048272-N-326340-010",
-   "status": "Active",
-   "active": true,
-   "granted": "2017-05-25",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.footballpools.com",
-    "www.footie5.com",
-    "www.rangerspools.com",
-    "www.thepools.com"
-   ],
-   "b2c": false
   },
   {
    "company": "John Codona's Pleasure Fairs Limited",
@@ -32175,11 +32149,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "004773-N-326334-007",
+   "licence_number": "004773-A-326335-005",
    "status": "Active",
    "active": true,
    "granted": "2017-05-25",
@@ -32197,11 +32171,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "004773-A-326335-005",
+   "licence_number": "004773-N-326334-007",
    "status": "Active",
    "active": true,
    "granted": "2017-05-25",
@@ -32727,11 +32701,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "004867-N-325511-008",
+   "licence_number": "004867-A-325512-005",
    "status": "Surrendered",
    "active": false,
    "granted": "2017-01-25",
@@ -32748,11 +32722,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "004867-A-325512-005",
+   "licence_number": "004867-N-325511-008",
    "status": "Surrendered",
    "active": false,
    "granted": "2017-01-25",
@@ -32811,11 +32785,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "047068-N-325469-009",
+   "licence_number": "047068-A-325470-005",
    "status": "Active",
    "active": true,
    "granted": "2017-01-19",
@@ -32833,11 +32807,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "047068-A-325470-005",
+   "licence_number": "047068-N-325469-009",
    "status": "Active",
    "active": true,
    "granted": "2017-01-19",
@@ -33601,12 +33575,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre"
+    "Bingo"
    ],
-   "licence_number": "046777-N-325099-013",
+   "licence_number": "046777-A-325100-008",
    "status": "Active",
    "active": true,
    "granted": "2016-11-21",
@@ -33623,11 +33596,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre"
    ],
-   "licence_number": "046777-A-325100-008",
+   "licence_number": "046777-N-325099-013",
    "status": "Active",
    "active": true,
    "granted": "2016-11-21",
@@ -34243,27 +34217,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "046137-R-324562-008",
-   "status": "Active",
-   "active": true,
-   "granted": "2016-08-30",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.postcodelottery.co.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Innovation Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -34278,6 +34231,27 @@
     "www.postcodelottery.co.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Postcode Innovation Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "046137-R-324562-008",
+   "status": "Active",
+   "active": true,
+   "granted": "2016-08-30",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.postcodelottery.co.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Oxfam GB",
@@ -34349,11 +34323,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "044937-N-324509-006",
+   "licence_number": "044937-A-324510-003",
    "status": "Active",
    "active": true,
    "granted": "2016-08-19",
@@ -34372,11 +34346,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "044937-A-324510-003",
+   "licence_number": "044937-N-324509-006",
    "status": "Active",
    "active": true,
    "granted": "2016-08-19",
@@ -34639,29 +34613,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "045407-R-324172-012",
-   "status": "Active",
-   "active": true,
-   "granted": "2016-06-23",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.veteransfoundation.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Veterans' Foundation",
-   "brands": [
-    "veterans' lottery"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -34676,6 +34627,29 @@
     "www.veteransfoundation.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Veterans' Foundation",
+   "brands": [
+    "veterans' lottery"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "045407-R-324172-012",
+   "status": "Active",
+   "active": true,
+   "granted": "2016-06-23",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.veteransfoundation.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Cystic Fibrosis Trust",
@@ -34788,27 +34762,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "045323-R-324063-009",
-   "status": "Active",
-   "active": true,
-   "granted": "2016-06-07",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.postcodelottery.co.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Education Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -34823,6 +34776,27 @@
     "www.postcodelottery.co.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Postcode Education Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "045323-R-324063-009",
+   "status": "Active",
+   "active": true,
+   "granted": "2016-06-07",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.postcodelottery.co.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Yggdrasil Gaming (Gibraltar) Limited",
@@ -35040,11 +35014,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "034061-N-315683-015",
+   "licence_number": "034061-A-316220-012",
    "status": "Active",
    "active": true,
    "granted": "2016-04-28",
@@ -35062,11 +35036,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "034061-A-316220-012",
+   "licence_number": "034061-N-315683-015",
    "status": "Active",
    "active": true,
    "granted": "2016-04-28",
@@ -35215,25 +35189,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "General Betting Limited"
-   ],
-   "licence_number": "044837-N-323556-004",
-   "status": "Lapsed",
-   "active": false,
-   "granted": "2016-03-30",
-   "date_kind": "issued",
-   "expiry": "2025-03-28",
-   "websites": [],
-   "b2c": false
-  },
-  {
-   "company": "Seamus Mulvaney, Ronald Peter Wadey",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
@@ -35244,6 +35199,25 @@
    "granted": "2016-03-30",
    "date_kind": "issued",
    "expiry": "2024-03-26",
+   "websites": [],
+   "b2c": false
+  },
+  {
+   "company": "Seamus Mulvaney, Ronald Peter Wadey",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "General Betting Limited"
+   ],
+   "licence_number": "044837-N-323556-004",
+   "status": "Lapsed",
+   "active": false,
+   "granted": "2016-03-30",
+   "date_kind": "issued",
+   "expiry": "2025-03-28",
    "websites": [],
    "b2c": false
   },
@@ -35509,31 +35483,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "043419-R-323228-009",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2016-02-04",
-   "date_kind": "issued",
-   "expiry": "2024-12-19",
-   "websites": [
-    "www.saintmichaelshospice.org"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "North Yorkshire Hospice Care",
-   "brands": [
-    "Herriot Hospice Homecare",
-    "Just 'B'",
-    "Saint Michaels Hospice"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -35548,6 +35497,31 @@
     "www.saintmichaelshospice.org"
    ],
    "b2c": false
+  },
+  {
+   "company": "North Yorkshire Hospice Care",
+   "brands": [
+    "Herriot Hospice Homecare",
+    "Just 'B'",
+    "Saint Michaels Hospice"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "043419-R-323228-009",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2016-02-04",
+   "date_kind": "issued",
+   "expiry": "2024-12-19",
+   "websites": [
+    "www.saintmichaelshospice.org"
+   ],
+   "b2c": true
   },
   {
    "company": "Bee-Ethical Limited",
@@ -35648,13 +35622,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre",
-    "Gaming Machine Technical Supplier"
+    "Bingo"
    ],
-   "licence_number": "043695-N-323074-013",
+   "licence_number": "043695-A-323075-008",
    "status": "Active",
    "active": true,
    "granted": "2016-01-12",
@@ -35673,11 +35645,13 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre",
+    "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "043695-A-323075-008",
+   "licence_number": "043695-N-323074-013",
    "status": "Active",
    "active": true,
    "granted": "2016-01-12",
@@ -35798,27 +35772,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "044252-R-323038-006",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2016-01-07",
-   "date_kind": "issued",
-   "expiry": "2024-01-09",
-   "websites": [
-    "macmillan.safeandsecurewebservices.net/lottery"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Macmillan Financial Grants Lottery",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -35833,6 +35786,27 @@
     "macmillan.safeandsecurewebservices.net/lottery"
    ],
    "b2c": false
+  },
+  {
+   "company": "Macmillan Financial Grants Lottery",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "044252-R-323038-006",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2016-01-07",
+   "date_kind": "issued",
+   "expiry": "2024-01-09",
+   "websites": [
+    "macmillan.safeandsecurewebservices.net/lottery"
+   ],
+   "b2c": true
   },
   {
    "company": "Macmillan Cancer Information Lottery",
@@ -36320,12 +36294,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Casino 2005 Act"
+    "Casino"
    ],
-   "licence_number": "043603-N-322897-005",
+   "licence_number": "043603-A-322898-003",
    "status": "Surrendered",
    "active": false,
    "granted": "2015-12-17",
@@ -36342,11 +36315,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Bingo",
+    "Casino 2005 Act"
    ],
-   "licence_number": "043603-A-322898-003",
+   "licence_number": "043603-N-322897-005",
    "status": "Surrendered",
    "active": false,
    "granted": "2015-12-17",
@@ -36406,25 +36380,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004628-R-322766-011",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2015-11-25",
-   "date_kind": "issued",
-   "expiry": "2023-11-22",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Wateraid",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -36437,6 +36392,25 @@
    "expiry": "2023-11-22",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Wateraid",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004628-R-322766-011",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2015-11-25",
+   "date_kind": "issued",
+   "expiry": "2023-11-22",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Anmax Leisure Limited",
@@ -36647,11 +36621,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "043651-N-322571-007",
+   "licence_number": "043651-A-322572-005",
    "status": "Active",
    "active": true,
    "granted": "2015-11-05",
@@ -36672,11 +36646,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "043651-A-322572-005",
+   "licence_number": "043651-N-322571-007",
    "status": "Active",
    "active": true,
    "granted": "2015-11-05",
@@ -36805,11 +36779,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "043440-N-322426-011",
+   "licence_number": "043440-A-322427-005",
    "status": "Active",
    "active": true,
    "granted": "2015-10-20",
@@ -36828,11 +36802,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "043440-A-322427-005",
+   "licence_number": "043440-N-322426-011",
    "status": "Active",
    "active": true,
    "granted": "2015-10-20",
@@ -36971,25 +36945,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "043214-N-322200-007",
-   "status": "Active",
-   "active": true,
-   "granted": "2015-09-14",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
-  },
-  {
-   "company": "Moorfields Eye Charity",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
@@ -37004,7 +36959,7 @@
    "b2c": false
   },
   {
-   "company": "R.N.L.I. (SALES) LIMITED",
+   "company": "Moorfields Eye Charity",
    "brands": [],
    "regulator": "UKGC",
    "jurisdiction": "GB",
@@ -37013,10 +36968,10 @@
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "043072-N-322133-005",
+   "licence_number": "043214-N-322200-007",
    "status": "Active",
    "active": true,
-   "granted": "2015-09-02",
+   "granted": "2015-09-14",
    "date_kind": "issued",
    "expiry": "",
    "websites": [],
@@ -37042,25 +36997,23 @@
    "b2c": false
   },
   {
-   "company": "Postcode Support Trust",
+   "company": "R.N.L.I. (SALES) LIMITED",
    "brands": [],
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "043065-R-322111-007",
+   "licence_number": "043072-N-322133-005",
    "status": "Active",
    "active": true,
    "granted": "2015-09-02",
    "date_kind": "issued",
    "expiry": "",
-   "websites": [
-    "www.postcodesupporttrust.org.uk"
-   ],
-   "b2c": true
+   "websites": [],
+   "b2c": false
   },
   {
    "company": "Postcode Support Trust",
@@ -37082,6 +37035,27 @@
     "www.postcodesupporttrust.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Postcode Support Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "043065-R-322111-007",
+   "status": "Active",
+   "active": true,
+   "granted": "2015-09-02",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.postcodesupporttrust.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Postcode Earth Trust",
@@ -37217,27 +37191,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "041861-R-322042-009",
-   "status": "Active",
-   "active": true,
-   "granted": "2015-08-25",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.postcodelottery.com"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Local Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -37252,6 +37205,27 @@
     "www.postcodelottery.com"
    ],
    "b2c": false
+  },
+  {
+   "company": "Postcode Local Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "041861-R-322042-009",
+   "status": "Active",
+   "active": true,
+   "granted": "2015-08-25",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.postcodelottery.com"
+   ],
+   "b2c": true
   },
   {
    "company": "Royal Osteoporosis Society",
@@ -37407,11 +37381,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "042471-N-321934-008",
+   "licence_number": "042471-A-321935-005",
    "status": "Active",
    "active": true,
    "granted": "2015-08-13",
@@ -37428,11 +37402,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "042471-A-321935-005",
+   "licence_number": "042471-N-321934-008",
    "status": "Active",
    "active": true,
    "granted": "2015-08-13",
@@ -37608,11 +37582,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "041913-N-321682-007",
+   "licence_number": "041913-A-321683-003",
    "status": "Active",
    "active": true,
    "granted": "2015-07-15",
@@ -37627,11 +37601,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "041913-A-321683-003",
+   "licence_number": "041913-N-321682-007",
    "status": "Active",
    "active": true,
    "granted": "2015-07-15",
@@ -37802,29 +37776,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "042361-R-321603-011",
-   "status": "Active",
-   "active": true,
-   "granted": "2015-07-09",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "breastcancernow.org",
-    "lottery.breastcancernow.org",
-    "raffleplayer.com"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Breast Cancer Now",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -37841,6 +37792,29 @@
     "raffleplayer.com"
    ],
    "b2c": false
+  },
+  {
+   "company": "Breast Cancer Now",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "042361-R-321603-011",
+   "status": "Active",
+   "active": true,
+   "granted": "2015-07-09",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "breastcancernow.org",
+    "lottery.breastcancernow.org",
+    "raffleplayer.com"
+   ],
+   "b2c": true
   },
   {
    "company": "Arthur Mulgrew",
@@ -38034,11 +38008,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "041811-N-321423-010",
+   "licence_number": "041811-A-321424-006",
    "status": "Active",
    "active": true,
    "granted": "2015-06-24",
@@ -38053,11 +38027,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "041811-A-321424-006",
+   "licence_number": "041811-N-321423-010",
    "status": "Active",
    "active": true,
    "granted": "2015-06-24",
@@ -38517,11 +38491,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "039732-N-320810-007",
+   "licence_number": "039732-A-320811-004",
    "status": "Active",
    "active": true,
    "granted": "2015-04-07",
@@ -38539,11 +38513,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "039732-A-320811-004",
+   "licence_number": "039732-N-320810-007",
    "status": "Active",
    "active": true,
    "granted": "2015-04-07",
@@ -38765,11 +38739,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "041256-N-320727-008",
+   "licence_number": "041256-A-320728-005",
    "status": "Active",
    "active": true,
    "granted": "2015-03-30",
@@ -38787,11 +38761,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "041256-A-320728-005",
+   "licence_number": "041256-N-320727-008",
    "status": "Active",
    "active": true,
    "granted": "2015-03-30",
@@ -39395,11 +39369,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "041103-N-320502-010",
+   "licence_number": "041103-A-320503-008",
    "status": "Active",
    "active": true,
    "granted": "2015-03-11",
@@ -39418,11 +39392,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "041103-A-320503-008",
+   "licence_number": "041103-N-320502-010",
    "status": "Active",
    "active": true,
    "granted": "2015-03-11",
@@ -40478,11 +40452,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "038709-N-319817-013",
+   "licence_number": "038709-A-319818-010",
    "status": "Active",
    "active": true,
    "granted": "2014-12-10",
@@ -40502,11 +40476,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "038709-A-319818-010",
+   "licence_number": "038709-N-319817-013",
    "status": "Active",
    "active": true,
    "granted": "2014-12-10",
@@ -40613,11 +40587,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "039889-N-319620-009",
+   "licence_number": "039889-A-319621-007",
    "status": "Active",
    "active": true,
    "granted": "2014-11-14",
@@ -40634,11 +40608,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "039889-A-319621-007",
+   "licence_number": "039889-N-319620-009",
    "status": "Active",
    "active": true,
    "granted": "2014-11-14",
@@ -40743,11 +40717,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "038509-N-319535-006",
+   "licence_number": "038509-A-319536-004",
    "status": "Active",
    "active": true,
    "granted": "2014-11-06",
@@ -40764,11 +40738,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "038509-A-319536-004",
+   "licence_number": "038509-N-319535-006",
    "status": "Active",
    "active": true,
    "granted": "2014-11-06",
@@ -42955,11 +42929,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "038557-N-319211-007",
+   "licence_number": "038557-A-319212-005",
    "status": "Active",
    "active": true,
    "granted": "2014-10-15",
@@ -42976,11 +42950,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "038557-A-319212-005",
+   "licence_number": "038557-N-319211-007",
    "status": "Active",
    "active": true,
    "granted": "2014-10-15",
@@ -43244,11 +43218,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "038693-N-319069-011",
+   "licence_number": "038693-A-319070-007",
    "status": "Surrendered",
    "active": false,
    "granted": "2014-09-22",
@@ -43267,11 +43241,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "038693-A-319070-007",
+   "licence_number": "038693-N-319069-011",
    "status": "Surrendered",
    "active": false,
    "granted": "2014-09-22",
@@ -43366,11 +43340,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "038399-N-318845-007",
+   "licence_number": "038399-A-318846-005",
    "status": "Active",
    "active": true,
    "granted": "2014-08-19",
@@ -43385,14 +43359,33 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "038399-A-318846-005",
+   "licence_number": "038399-N-318845-007",
    "status": "Active",
    "active": true,
    "granted": "2014-08-19",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": false
+  },
+  {
+   "company": "Postcode Active Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Non-Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "038345-N-318824-009",
+   "status": "Active",
+   "active": true,
+   "granted": "2014-08-15",
    "date_kind": "issued",
    "expiry": "",
    "websites": [],
@@ -43416,25 +43409,6 @@
    "expiry": "",
    "websites": [],
    "b2c": true
-  },
-  {
-   "company": "Postcode Active Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "038345-N-318824-009",
-   "status": "Active",
-   "active": true,
-   "granted": "2014-08-15",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
   },
   {
    "company": "Michael David Purrington",
@@ -44203,27 +44177,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "037736-R-318504-010",
-   "status": "Active",
-   "active": true,
-   "granted": "2014-06-23",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "www.postcodelottery.co.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Planet Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -44238,6 +44191,27 @@
     "www.postcodelottery.co.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Postcode Planet Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "037736-R-318504-010",
+   "status": "Active",
+   "active": true,
+   "granted": "2014-06-23",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "www.postcodelottery.co.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Postcode International Trust",
@@ -44283,27 +44257,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "037750-N-318495-010",
-   "status": "Active",
-   "active": true,
-   "granted": "2014-06-19",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "cornwallairambulancetrust.org"
-   ],
-   "b2c": false
-  },
-  {
-   "company": "Cornwall Air Ambulance Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
@@ -44320,10 +44273,8 @@
    "b2c": false
   },
   {
-   "company": "Accord Hospice",
-   "brands": [
-    "the accord hospice lottery"
-   ],
+   "company": "Cornwall Air Ambulance Trust",
+   "brands": [],
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
@@ -44331,7 +44282,30 @@
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "037978-N-318488-009",
+   "licence_number": "037750-N-318495-010",
+   "status": "Active",
+   "active": true,
+   "granted": "2014-06-19",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "cornwallairambulancetrust.org"
+   ],
+   "b2c": false
+  },
+  {
+   "company": "Accord Hospice",
+   "brands": [
+    "the accord hospice lottery"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Ancillary Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "037978-A-318489-005",
    "status": "Active",
    "active": true,
    "granted": "2014-06-18",
@@ -44348,11 +44322,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "037978-A-318489-005",
+   "licence_number": "037978-N-318488-009",
    "status": "Active",
    "active": true,
    "granted": "2014-06-18",
@@ -44425,25 +44399,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "037182-R-318415-009",
-   "status": "Active",
-   "active": true,
-   "granted": "2014-06-05",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Children Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -44456,6 +44411,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Postcode Children Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "037182-R-318415-009",
+   "status": "Active",
+   "active": true,
+   "granted": "2014-06-05",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Scottish National Party",
@@ -44718,11 +44692,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "037194-N-318103-006",
+   "licence_number": "037194-A-318104-005",
    "status": "Active",
    "active": true,
    "granted": "2014-04-08",
@@ -44737,11 +44711,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "037194-A-318104-005",
+   "licence_number": "037194-N-318103-006",
    "status": "Active",
    "active": true,
    "granted": "2014-04-08",
@@ -44955,11 +44929,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "036948-N-317887-014",
+   "licence_number": "036948-A-317888-008",
    "status": "Active",
    "active": true,
    "granted": "2014-02-25",
@@ -44976,11 +44950,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "036948-A-317888-008",
+   "licence_number": "036948-N-317887-014",
    "status": "Active",
    "active": true,
    "granted": "2014-02-25",
@@ -45098,11 +45072,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "036925-N-317829-010",
+   "licence_number": "036925-A-317830-008",
    "status": "Surrendered",
    "active": false,
    "granted": "2014-02-12",
@@ -45130,11 +45104,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "036925-A-317830-008",
+   "licence_number": "036925-N-317829-010",
    "status": "Surrendered",
    "active": false,
    "granted": "2014-02-12",
@@ -45216,11 +45190,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "036811-N-317766-011",
+   "licence_number": "036811-A-317767-008",
    "status": "Active",
    "active": true,
    "granted": "2014-01-27",
@@ -45240,11 +45214,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "036811-A-317767-008",
+   "licence_number": "036811-N-317766-011",
    "status": "Active",
    "active": true,
    "granted": "2014-01-27",
@@ -45607,11 +45581,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "036485-N-317510-007",
+   "licence_number": "036485-A-317511-006",
    "status": "Lapsed",
    "active": false,
    "granted": "2013-12-02",
@@ -45626,11 +45600,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "036485-A-317511-006",
+   "licence_number": "036485-N-317510-007",
    "status": "Lapsed",
    "active": false,
    "granted": "2013-12-02",
@@ -45739,11 +45713,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "036360-N-317446-010",
+   "licence_number": "036360-A-317447-006",
    "status": "Active",
    "active": true,
    "granted": "2013-11-22",
@@ -45758,11 +45732,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "036360-A-317447-006",
+   "licence_number": "036360-N-317446-010",
    "status": "Active",
    "active": true,
    "granted": "2013-11-22",
@@ -45824,11 +45798,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "035887-N-317248-011",
+   "licence_number": "035887-A-317249-006",
    "status": "Active",
    "active": true,
    "granted": "2013-10-18",
@@ -45845,11 +45819,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "035887-A-317249-006",
+   "licence_number": "035887-N-317248-011",
    "status": "Active",
    "active": true,
    "granted": "2013-10-18",
@@ -46123,25 +46097,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "035621-R-316736-011",
-   "status": "Active",
-   "active": true,
-   "granted": "2013-07-22",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Global Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -46154,6 +46109,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Postcode Global Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "035621-R-316736-011",
+   "status": "Active",
+   "active": true,
+   "granted": "2013-07-22",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Andrew Mark Cook and Carol An",
@@ -47304,27 +47278,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "034069-R-315551-014",
-   "status": "Active",
-   "active": true,
-   "granted": "2013-01-07",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "crackerjackpot.co.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Crackerjackpot Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -47339,6 +47292,27 @@
     "crackerjackpot.co.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Crackerjackpot Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "034069-R-315551-014",
+   "status": "Active",
+   "active": true,
+   "granted": "2013-01-07",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "crackerjackpot.co.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "bwin.party services (Malta) Limited",
@@ -48132,11 +48106,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "033458-N-314962-007",
+   "licence_number": "033458-A-314963-006",
    "status": "Surrendered",
    "active": false,
    "granted": "2012-09-24",
@@ -48153,11 +48127,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "033458-A-314963-006",
+   "licence_number": "033458-N-314962-007",
    "status": "Surrendered",
    "active": false,
    "granted": "2012-09-24",
@@ -48637,6 +48611,10 @@
    "brands": [
     "gondola services",
     "local leisure",
+    "plm",
+    "plm ltd",
+    "premier leisure machines",
+    "premier leisure machines ltd",
     "the zone"
    ],
    "regulator": "UKGC",
@@ -48647,7 +48625,7 @@
     "Gaming Machine General Adult Gaming Centre",
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "032900-N-314548-010",
+   "licence_number": "032900-N-314548-011",
    "status": "Active",
    "active": true,
    "granted": "2012-07-20",
@@ -48946,14 +48924,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo",
-    "Casino 2005 Act",
-    "Gaming Machine Technical Supplier",
     "General Betting Standard"
    ],
-   "licence_number": "032440-N-314346-009",
+   "licence_number": "032440-A-314347-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2012-06-14",
@@ -48970,12 +48946,14 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo",
+    "Casino 2005 Act",
+    "Gaming Machine Technical Supplier",
     "General Betting Standard"
    ],
-   "licence_number": "032440-A-314347-009",
+   "licence_number": "032440-N-314346-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2012-06-14",
@@ -49049,11 +49027,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "032175-N-314040-010",
+   "licence_number": "032175-A-314041-005",
    "status": "Active",
    "active": true,
    "granted": "2012-05-28",
@@ -49070,11 +49048,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "032175-A-314041-005",
+   "licence_number": "032175-N-314040-010",
    "status": "Active",
    "active": true,
    "granted": "2012-05-28",
@@ -50907,11 +50885,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "031091-N-312377-010",
+   "licence_number": "031091-A-312378-005",
    "status": "Active",
    "active": true,
    "granted": "2012-01-13",
@@ -50928,11 +50906,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "031091-A-312378-005",
+   "licence_number": "031091-N-312377-010",
    "status": "Active",
    "active": true,
    "granted": "2012-01-13",
@@ -51470,25 +51448,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "030803-R-311903-014",
-   "status": "Active",
-   "active": true,
-   "granted": "2011-11-09",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Postcode Care Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -51501,6 +51460,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Postcode Care Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "030803-R-311903-014",
+   "status": "Active",
+   "active": true,
+   "granted": "2011-11-09",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Postcode Green Trust",
@@ -51990,28 +51968,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "029820-R-311316-010",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2011-08-05",
-   "date_kind": "issued",
-   "expiry": "2025-05-27",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "SNE Health CIC",
-   "brands": [
-    "Health Lottery North East and Cumbria",
-    "Health Lottery Scotland"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -52024,6 +51980,28 @@
    "expiry": "2025-05-27",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "SNE Health CIC",
+   "brands": [
+    "Health Lottery North East and Cumbria",
+    "Health Lottery Scotland"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "029820-R-311316-010",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2011-08-05",
+   "date_kind": "issued",
+   "expiry": "2025-05-27",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "LEW Health CIC",
@@ -52120,28 +52098,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "029810-R-311287-012",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2011-08-05",
-   "date_kind": "issued",
-   "expiry": "2025-02-17",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "EWM Health CIC",
-   "brands": [
-    "Health Lottery East Midlands",
-    "Health Lottery West Midlands"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -52154,6 +52110,28 @@
    "expiry": "2025-02-17",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "EWM Health CIC",
+   "brands": [
+    "Health Lottery East Midlands",
+    "Health Lottery West Midlands"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "029810-R-311287-012",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2011-08-05",
+   "date_kind": "issued",
+   "expiry": "2025-02-17",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "EWA Health CIC",
@@ -52764,27 +52742,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "029164-R-310737-025",
-   "status": "Active",
-   "active": true,
-   "granted": "2011-05-17",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "hospiceintheweald.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Hospice in the Weald",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -52799,6 +52756,27 @@
     "hospiceintheweald.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Hospice in the Weald",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "029164-R-310737-025",
+   "status": "Active",
+   "active": true,
+   "granted": "2011-05-17",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "hospiceintheweald.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Gaming Invest UK Limited",
@@ -53443,14 +53421,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo",
-    "Casino 2005 Act",
-    "Gaming Machine Technical Supplier",
     "General Betting Standard"
    ],
-   "licence_number": "026947-N-310097-017",
+   "licence_number": "026947-A-310098-013",
    "status": "Surrendered",
    "active": false,
    "granted": "2011-02-14",
@@ -53470,12 +53446,14 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo",
+    "Casino 2005 Act",
+    "Gaming Machine Technical Supplier",
     "General Betting Standard"
    ],
-   "licence_number": "026947-A-310098-013",
+   "licence_number": "026947-N-310097-017",
    "status": "Surrendered",
    "active": false,
    "granted": "2011-02-14",
@@ -53516,16 +53494,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "028810-N-310131-010",
+   "licence_number": "028810-A-310132-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2011-02-10",
    "date_kind": "issued",
-   "expiry": "2024-06-02",
+   "expiry": "2024-05-24",
    "websites": [],
    "b2c": false
   },
@@ -53537,16 +53515,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "028810-A-310132-009",
+   "licence_number": "028810-N-310131-010",
    "status": "Surrendered",
    "active": false,
    "granted": "2011-02-10",
    "date_kind": "issued",
-   "expiry": "2024-05-24",
+   "expiry": "2024-06-02",
    "websites": [],
    "b2c": false
   },
@@ -54147,29 +54125,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004829-R-309732-012",
-   "status": "Active",
-   "active": true,
-   "granted": "2010-11-26",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "walesairambulance.com"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Welsh Air Ambulance Charitable Trust",
-   "brands": [
-    "wales air ambulance"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -54184,6 +54139,29 @@
     "walesairambulance.com"
    ],
    "b2c": false
+  },
+  {
+   "company": "Welsh Air Ambulance Charitable Trust",
+   "brands": [
+    "wales air ambulance"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004829-R-309732-012",
+   "status": "Active",
+   "active": true,
+   "granted": "2010-11-26",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "walesairambulance.com"
+   ],
+   "b2c": true
   },
   {
    "company": "St Luke's Hospice Promotions Limited",
@@ -54805,28 +54783,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "026322-R-309239-017",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2010-09-24",
-   "date_kind": "issued",
-   "expiry": "2024-12-23",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "YNW Health CIC",
-   "brands": [
-    "Health Lottery North West",
-    "Health Lottery Yorkshire and Humber"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -54839,6 +54795,28 @@
    "expiry": "2024-12-23",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "YNW Health CIC",
+   "brands": [
+    "Health Lottery North West",
+    "Health Lottery Yorkshire and Humber"
+   ],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "026322-R-309239-017",
+   "status": "Surrendered",
+   "active": false,
+   "granted": "2010-09-24",
+   "date_kind": "issued",
+   "expiry": "2024-12-23",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "SEW Health CIC",
@@ -55019,11 +54997,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "005486-N-309161-009",
+   "licence_number": "005486-A-309162-006",
    "status": "Active",
    "active": true,
    "granted": "2010-09-17",
@@ -55041,11 +55019,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "005486-A-309162-006",
+   "licence_number": "005486-N-309161-009",
    "status": "Active",
    "active": true,
    "granted": "2010-09-17",
@@ -55920,11 +55898,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "026747-N-308437-008",
+   "licence_number": "026747-A-308438-006",
    "status": "Surrendered",
    "active": false,
    "granted": "2010-06-09",
@@ -55941,11 +55919,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "026747-A-308438-006",
+   "licence_number": "026747-N-308437-008",
    "status": "Surrendered",
    "active": false,
    "granted": "2010-06-09",
@@ -56142,28 +56120,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004818-R-308189-017",
-   "status": "Active",
-   "active": true,
-   "granted": "2010-05-11",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "lottery.bhf.org.uk",
-    "www.bhf.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "British Heart Foundation",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -56179,6 +56135,28 @@
     "www.bhf.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "British Heart Foundation",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004818-R-308189-017",
+   "status": "Active",
+   "active": true,
+   "granted": "2010-05-11",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "lottery.bhf.org.uk",
+    "www.bhf.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Teddy Clark Limited",
@@ -56988,11 +56966,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "025732-N-307632-012",
+   "licence_number": "025732-A-307633-008",
    "status": "Surrendered",
    "active": false,
    "granted": "2010-02-15",
@@ -57007,11 +56985,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "025732-A-307633-008",
+   "licence_number": "025732-N-307632-012",
    "status": "Surrendered",
    "active": false,
    "granted": "2010-02-15",
@@ -57109,29 +57087,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004946-R-307587-019",
-   "status": "Active",
-   "active": true,
-   "granted": "2010-02-03",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "guidedogs.org.uk/lottery",
-    "guidedogs.org.uk/raffle",
-    "guidedogs.raffleentry.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Guide Dogs For The Blind Association",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -57148,6 +57103,29 @@
     "guidedogs.raffleentry.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Guide Dogs For The Blind Association",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004946-R-307587-019",
+   "status": "Active",
+   "active": true,
+   "granted": "2010-02-03",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "guidedogs.org.uk/lottery",
+    "guidedogs.org.uk/raffle",
+    "guidedogs.raffleentry.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Anthony Nolan",
@@ -58741,27 +58719,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004999-R-306253-025",
-   "status": "Active",
-   "active": true,
-   "granted": "2009-09-23",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "https://diabetesuk.charitypayments.co.uk/play"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Diabetes UK Services Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -58776,6 +58733,27 @@
     "https://diabetesuk.charitypayments.co.uk/play"
    ],
    "b2c": false
+  },
+  {
+   "company": "Diabetes UK Services Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004999-R-306253-025",
+   "status": "Active",
+   "active": true,
+   "granted": "2009-09-23",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "https://diabetesuk.charitypayments.co.uk/play"
+   ],
+   "b2c": true
   },
   {
    "company": "Army Sport Control Board",
@@ -59074,27 +59052,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004870-R-305696-013",
-   "status": "Active",
-   "active": true,
-   "granted": "2009-08-25",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "dougiemac.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Douglas Macmillan Hospice Staffordshire Lotteries Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -59109,6 +59066,27 @@
     "dougiemac.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "Douglas Macmillan Hospice Staffordshire Lotteries Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004870-R-305696-013",
+   "status": "Active",
+   "active": true,
+   "granted": "2009-08-25",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "dougiemac.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "Sheffield United Supporters Association",
@@ -59326,11 +59304,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "024051-N-305493-010",
+   "licence_number": "024051-A-305494-005",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-08-14",
@@ -59347,11 +59325,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "024051-A-305494-005",
+   "licence_number": "024051-N-305493-010",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-08-14",
@@ -59647,11 +59625,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "023002-N-305083-009",
+   "licence_number": "023002-A-305084-005",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-07-30",
@@ -59668,11 +59646,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "023002-A-305084-005",
+   "licence_number": "023002-N-305083-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-07-30",
@@ -60306,25 +60284,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "005230-R-303780-010",
-   "status": "Active",
-   "active": true,
-   "granted": "2009-06-09",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "St Oswalds Hospice Promotions Limited",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -60337,6 +60296,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "St Oswalds Hospice Promotions Limited",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "005230-R-303780-010",
+   "status": "Active",
+   "active": true,
+   "granted": "2009-06-09",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Woodland Trust (Enterprises) Limited",
@@ -60449,11 +60427,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "005641-N-302604-009",
+   "licence_number": "005641-A-302605-006",
    "status": "Active",
    "active": true,
    "granted": "2009-05-17",
@@ -60468,11 +60446,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "005641-A-302605-006",
+   "licence_number": "005641-N-302604-009",
    "status": "Active",
    "active": true,
    "granted": "2009-05-17",
@@ -60570,7 +60548,7 @@
   {
    "company": "Aspinall's Club Limited",
    "brands": [
-    "crown aspinalls london",
+    "crown aspinall's london",
     "wynn mayfair"
    ],
    "regulator": "UKGC",
@@ -61270,27 +61248,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "018971-R-302358-017",
-   "status": "Active",
-   "active": true,
-   "granted": "2009-03-31",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "postcodetrust.org.uk"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "People's Postcode Trust",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -61305,6 +61262,27 @@
     "postcodetrust.org.uk"
    ],
    "b2c": false
+  },
+  {
+   "company": "People's Postcode Trust",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "018971-R-302358-017",
+   "status": "Active",
+   "active": true,
+   "granted": "2009-03-31",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "postcodetrust.org.uk"
+   ],
+   "b2c": true
   },
   {
    "company": "HCPT (Hosanna House and Children’s Pilgrimage Trust)",
@@ -62525,11 +62503,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "000269-N-101099-021",
+   "licence_number": "000269-A-101100-011",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -62546,11 +62524,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "000269-A-101100-011",
+   "licence_number": "000269-N-101099-021",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -64914,12 +64892,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre"
+    "Bingo"
    ],
-   "licence_number": "002794-N-103438-016",
+   "licence_number": "002794-A-103439-010",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -64936,11 +64913,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre"
    ],
-   "licence_number": "002794-A-103439-010",
+   "licence_number": "002794-N-103438-016",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -65422,11 +65400,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "002988-N-102155-009",
+   "licence_number": "002988-A-102156-007",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -65443,11 +65421,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "002988-A-102156-007",
+   "licence_number": "002988-N-102155-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -65503,30 +65481,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004294-R-104539-016",
-   "status": "Active",
-   "active": true,
-   "granted": "2009-01-01",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [
-    "poppylottery.org.uk",
-    "poppyrafflevip.org.uk",
-    "www.britishlegion.org.uk",
-    "www.raffleplayer.com/poppyraffle"
-   ],
-   "b2c": true
-  },
-  {
-   "company": "Royal British Legion",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -65544,6 +65498,30 @@
     "www.raffleplayer.com/poppyraffle"
    ],
    "b2c": false
+  },
+  {
+   "company": "Royal British Legion",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004294-R-104539-016",
+   "status": "Active",
+   "active": true,
+   "granted": "2009-01-01",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [
+    "poppylottery.org.uk",
+    "poppyrafflevip.org.uk",
+    "www.britishlegion.org.uk",
+    "www.raffleplayer.com/poppyraffle"
+   ],
+   "b2c": true
   },
   {
    "company": "Royal Arcade Limited",
@@ -66937,16 +66915,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "002780-N-102214-009",
-   "status": "Active",
-   "active": true,
+   "licence_number": "002780-A-104340-006",
+   "status": "Surrendered",
+   "active": false,
    "granted": "2009-01-01",
    "date_kind": "issued",
-   "expiry": "",
+   "expiry": "2024-07-15",
    "websites": [],
    "b2c": false
   },
@@ -66958,16 +66936,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "002780-A-104340-006",
-   "status": "Surrendered",
-   "active": false,
+   "licence_number": "002780-N-102214-009",
+   "status": "Active",
+   "active": true,
    "granted": "2009-01-01",
    "date_kind": "issued",
-   "expiry": "2024-07-15",
+   "expiry": "",
    "websites": [],
    "b2c": false
   },
@@ -67436,13 +67414,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre",
-    "Gaming Machine General Family Entertainment Centre"
+    "Bingo"
    ],
-   "licence_number": "003356-N-103446-018",
+   "licence_number": "003356-A-103447-011",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -67457,11 +67433,13 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre",
+    "Gaming Machine General Family Entertainment Centre"
    ],
-   "licence_number": "003356-A-103447-011",
+   "licence_number": "003356-N-103446-018",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -67877,12 +67855,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act",
-    "Casino 2005 Act"
+    "Casino"
    ],
-   "licence_number": "000300-N-104098-012",
+   "licence_number": "000300-A-104099-007",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -67899,11 +67876,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act",
+    "Casino 2005 Act"
    ],
-   "licence_number": "000300-A-104099-007",
+   "licence_number": "000300-N-104098-012",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68015,11 +67993,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001378-N-102690-010",
+   "licence_number": "001378-A-102691-006",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68034,11 +68012,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001378-A-102691-006",
+   "licence_number": "001378-N-102690-010",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68135,11 +68113,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001888-N-102653-010",
+   "licence_number": "001888-A-102654-007",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -68156,11 +68134,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001888-A-102654-007",
+   "licence_number": "001888-N-102653-010",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -68197,11 +68175,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "002352-N-102820-014",
+   "licence_number": "002352-A-102820-010",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68219,11 +68197,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "002352-A-102820-010",
+   "licence_number": "002352-N-102820-014",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68540,16 +68518,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "000457-N-102065-018",
-   "status": "Active",
-   "active": true,
+   "licence_number": "000457-A-102066-008",
+   "status": "Surrendered",
+   "active": false,
    "granted": "2009-01-01",
    "date_kind": "issued",
-   "expiry": "",
+   "expiry": "2026-04-01",
    "websites": [],
    "b2c": false
   },
@@ -68561,16 +68539,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Limited"
    ],
-   "licence_number": "000457-A-102066-008",
-   "status": "Surrendered",
-   "active": false,
+   "licence_number": "000457-N-102065-018",
+   "status": "Active",
+   "active": true,
    "granted": "2009-01-01",
    "date_kind": "issued",
-   "expiry": "2026-04-01",
+   "expiry": "",
    "websites": [],
    "b2c": false
   },
@@ -68783,15 +68761,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo",
-    "Casino 1968 Act",
-    "Gambling Software",
-    "Gaming Machine General Adult Gaming Centre",
-    "Gaming Machine Technical Full"
+    "Casino"
    ],
-   "licence_number": "002630-N-103393-037",
+   "licence_number": "002630-A-103394-020",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68815,12 +68790,15 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo",
-    "Casino"
+    "Casino 1968 Act",
+    "Gambling Software",
+    "Gaming Machine General Adult Gaming Centre",
+    "Gaming Machine Technical Full"
    ],
-   "licence_number": "002630-A-103394-020",
+   "licence_number": "002630-N-103393-037",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -68969,16 +68947,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "002968-N-100927-008",
+   "licence_number": "002968-A-100928-006",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
    "date_kind": "issued",
-   "expiry": "2025-08-30",
+   "expiry": "2024-07-26",
    "websites": [],
    "b2c": false
   },
@@ -68990,16 +68968,16 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "002968-A-100928-006",
+   "licence_number": "002968-N-100927-008",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
    "date_kind": "issued",
-   "expiry": "2024-07-26",
+   "expiry": "2025-08-30",
    "websites": [],
    "b2c": false
   },
@@ -69330,11 +69308,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "001905-N-103490-010",
+   "licence_number": "001905-A-103491-006",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -69349,11 +69327,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "001905-A-103491-006",
+   "licence_number": "001905-N-103490-010",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -69648,12 +69626,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act",
-    "Linked Gaming Machine Technical Supplier"
+    "Casino"
    ],
-   "licence_number": "000709-N-103555-020",
+   "licence_number": "000709-A-103556-014",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -69670,11 +69647,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act",
+    "Linked Gaming Machine Technical Supplier"
    ],
-   "licence_number": "000709-A-103556-014",
+   "licence_number": "000709-N-103555-020",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -69967,11 +69945,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "001800-N-103892-018",
+   "licence_number": "001800-A-103893-010",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -69986,11 +69964,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "001800-A-103893-010",
+   "licence_number": "001800-N-103892-018",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -70565,11 +70543,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "000724-N-101801-009",
+   "licence_number": "000724-A-101802-006",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -70586,11 +70564,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "000724-A-101802-006",
+   "licence_number": "000724-N-101801-009",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -72385,11 +72363,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "002086-N-102935-009",
+   "licence_number": "002086-A-102936-007",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -72404,11 +72382,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "General Betting Standard"
    ],
-   "licence_number": "002086-A-102936-007",
+   "licence_number": "002086-N-102935-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -72492,11 +72470,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "000751-N-101870-015",
+   "licence_number": "000751-A-101871-010",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -72513,11 +72491,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "000751-A-101871-010",
+   "licence_number": "000751-N-101870-015",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73027,21 +73005,22 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino",
+    "Casino 1968 Act",
+    "Casino 2005 Act",
     "Gaming Machine Technical Full",
-    "General Betting Standard - Real Event",
+    "General Betting Standard",
     "Linked Gambling Software"
    ],
-   "licence_number": "000537-R-103205-033",
+   "licence_number": "000537-N-103203-038",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
    "date_kind": "issued",
    "expiry": "",
    "websites": [],
-   "b2c": true
+   "b2c": false
   },
   {
    "company": "Genting Casinos UK Limited",
@@ -73059,22 +73038,21 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
-    "Casino 1968 Act",
-    "Casino 2005 Act",
+    "Casino",
     "Gaming Machine Technical Full",
-    "General Betting Standard",
+    "General Betting Standard - Real Event",
     "Linked Gambling Software"
    ],
-   "licence_number": "000537-N-103203-038",
+   "licence_number": "000537-R-103205-033",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
    "date_kind": "issued",
    "expiry": "",
    "websites": [],
-   "b2c": false
+   "b2c": true
   },
   {
    "company": "Gavin Reader Limited",
@@ -73389,11 +73367,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "002428-N-101931-015",
+   "licence_number": "002428-A-101932-007",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73410,11 +73388,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "002428-A-101932-007",
+   "licence_number": "002428-N-101931-015",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73493,11 +73471,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001988-N-102052-015",
+   "licence_number": "001988-A-102053-009",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73512,11 +73490,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001988-A-102053-009",
+   "licence_number": "001988-N-102052-015",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73573,12 +73551,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Linked Gaming Machine Technical Supplier"
+    "Bingo"
    ],
-   "licence_number": "001948-N-103311-012",
+   "licence_number": "001948-A-103312-007",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73595,11 +73572,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Bingo"
+    "Bingo",
+    "Linked Gaming Machine Technical Supplier"
    ],
-   "licence_number": "001948-A-103312-007",
+   "licence_number": "001948-N-103311-012",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73800,11 +73778,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "003456-R-104007-023",
+   "licence_number": "003456-N-104006-022",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73819,11 +73797,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "003456-N-104006-022",
+   "licence_number": "003456-R-104007-023",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73962,12 +73940,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Gambling Software",
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "001143-N-103004-011",
+   "licence_number": "001143-A-103005-006",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -73984,12 +73962,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software",
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "001143-A-103005-006",
+   "licence_number": "001143-N-103004-011",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -75448,11 +75426,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "000547-N-103218-021",
+   "licence_number": "000547-A-103219-012",
    "status": "Revoked",
    "active": false,
    "granted": "2009-01-01",
@@ -75469,11 +75447,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "000547-A-103219-012",
+   "licence_number": "000547-N-103218-021",
    "status": "Revoked",
    "active": false,
    "granted": "2009-01-01",
@@ -75604,11 +75582,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "002184-N-101101-014",
+   "licence_number": "002184-A-101102-009",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -75625,11 +75603,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "002184-A-101102-009",
+   "licence_number": "002184-N-101101-014",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -75686,11 +75664,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001572-N-102687-011",
+   "licence_number": "001572-A-104658-007",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -75707,11 +75685,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001572-A-104658-007",
+   "licence_number": "001572-N-102687-011",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -75749,11 +75727,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "002991-N-104015-019",
+   "licence_number": "002991-A-104016-014",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -75770,11 +75748,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "002991-A-104016-014",
+   "licence_number": "002991-N-104015-019",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -76141,11 +76119,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001366-N-102824-009",
+   "licence_number": "001366-A-102825-006",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -76162,11 +76140,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001366-A-102825-006",
+   "licence_number": "001366-N-102824-009",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -76231,11 +76209,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act"
+    "Casino"
    ],
-   "licence_number": "006117-N-103700-017",
+   "licence_number": "006117-A-103701-012",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -76252,11 +76230,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino"
+    "Casino 1968 Act"
    ],
-   "licence_number": "006117-A-103701-012",
+   "licence_number": "006117-N-103700-017",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -76657,14 +76635,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Bingo",
-    "Gaming Machine General Adult Gaming Centre",
-    "Gaming Machine Technical Full",
-    "Linked Gambling Software"
+    "Gaming Machine Technical Full"
    ],
-   "licence_number": "002355-N-102403-024",
+   "licence_number": "002355-A-102404-015",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -76687,11 +76662,14 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Gaming Machine Technical Full"
+    "Bingo",
+    "Gaming Machine General Adult Gaming Centre",
+    "Gaming Machine Technical Full",
+    "Linked Gambling Software"
    ],
-   "licence_number": "002355-A-102404-015",
+   "licence_number": "002355-N-102403-024",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -77183,11 +77161,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "003057-R-101707-014",
+   "licence_number": "003057-N-101706-017",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -77202,11 +77180,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
     "Gambling Software"
    ],
-   "licence_number": "003057-N-101706-017",
+   "licence_number": "003057-R-101707-014",
    "status": "Surrendered",
    "active": false,
    "granted": "2009-01-01",
@@ -77584,13 +77562,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act",
-    "Gaming Machine Technical Supplier",
-    "General Betting Standard - No Gaming Machines"
+    "Gaming Machine Technical Supplier"
    ],
-   "licence_number": "001938-N-103232-022",
+   "licence_number": "001938-A-103233-017",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -77607,11 +77583,13 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Gaming Machine Technical Supplier"
+    "Casino 1968 Act",
+    "Gaming Machine Technical Supplier",
+    "General Betting Standard - No Gaming Machines"
    ],
-   "licence_number": "001938-A-103233-017",
+   "licence_number": "001938-N-103232-022",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -77707,11 +77685,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001391-N-103347-012",
+   "licence_number": "001391-A-103348-008",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -77726,11 +77704,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001391-A-103348-008",
+   "licence_number": "001391-N-103347-012",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -77885,7 +77863,7 @@
   {
    "company": "Aspinall's Club Limited",
    "brands": [
-    "crown aspinalls london",
+    "crown aspinall's london",
     "wynn mayfair"
    ],
    "regulator": "UKGC",
@@ -78667,11 +78645,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001249-N-103611-011",
+   "licence_number": "001249-A-103612-007",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -78688,11 +78666,11 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Bingo"
    ],
-   "licence_number": "001249-A-103612-007",
+   "licence_number": "001249-N-103611-011",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -78832,12 +78810,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Ancillary Remote",
    "activities": [
-    "Casino 1968 Act",
+    "Casino",
     "Pool Betting"
    ],
-   "licence_number": "001146-N-103430-017",
+   "licence_number": "001146-A-103431-009",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -78855,12 +78833,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Ancillary Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Casino",
+    "Casino 1968 Act",
     "Pool Betting"
    ],
-   "licence_number": "001146-A-103431-009",
+   "licence_number": "001146-N-103430-017",
    "status": "Active",
    "active": true,
    "granted": "2009-01-01",
@@ -79144,25 +79122,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "004837-R-104394-016",
-   "status": "Active",
-   "active": true,
-   "granted": "2008-06-01",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Ayrshire Hospice",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -79175,6 +79134,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Ayrshire Hospice",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "004837-R-104394-016",
+   "status": "Active",
+   "active": true,
+   "granted": "2008-06-01",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "TV GLOBAL ENTERPRISES LTD",
@@ -79373,14 +79351,12 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
-    "Betting Host (Virtual Events)",
     "Gambling Software",
-    "Game Host (Casino)",
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "001090-R-104165-020",
+   "licence_number": "001090-N-104166-021",
    "status": "Active",
    "active": true,
    "granted": "2007-08-31",
@@ -79395,12 +79371,14 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
+    "Betting Host (Virtual Events)",
     "Gambling Software",
+    "Game Host (Casino)",
     "Gaming Machine Technical Full"
    ],
-   "licence_number": "001090-N-104166-021",
+   "licence_number": "001090-R-104165-020",
    "status": "Active",
    "active": true,
    "granted": "2007-08-31",
@@ -80043,25 +80021,6 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Society Lottery"
-   ],
-   "licence_number": "101866-R-000000-000",
-   "status": "Pending",
-   "active": false,
-   "granted": "",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": true
-  },
-  {
-   "company": "Wooden Spoon Society",
-   "brands": [],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
    "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
@@ -80074,6 +80033,25 @@
    "expiry": "",
    "websites": [],
    "b2c": false
+  },
+  {
+   "company": "Wooden Spoon Society",
+   "brands": [],
+   "regulator": "UKGC",
+   "jurisdiction": "GB",
+   "hq": "",
+   "licence_type": "Remote",
+   "activities": [
+    "Society Lottery"
+   ],
+   "licence_number": "101866-R-000000-000",
+   "status": "Pending",
+   "active": false,
+   "granted": "",
+   "date_kind": "issued",
+   "expiry": "",
+   "websites": [],
+   "b2c": true
   },
   {
    "company": "Wire Action Markets Limited (WagerWire)",
@@ -81666,49 +81644,6 @@
    "b2c": false
   },
   {
-   "company": "Inspire Technology Group Ltd",
-   "brands": [
-    "inspire technology group"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Gambling Software",
-    "Gaming Machine Technical Full"
-   ],
-   "licence_number": "101542-N-000000-000",
-   "status": "Pending",
-   "active": false,
-   "granted": "",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
-  },
-  {
-   "company": "Inspire Technology Group Ltd",
-   "brands": [
-    "inspire technology group"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Remote",
-   "activities": [
-    "Gaming Machine Technical Full"
-   ],
-   "licence_number": "101542-R-000000-000",
-   "status": "Pending",
-   "active": false,
-   "granted": "",
-   "date_kind": "issued",
-   "expiry": "",
-   "websites": [],
-   "b2c": false
-  },
-  {
    "company": "In2Solutions Limited",
    "brands": [],
    "regulator": "GGC",
@@ -82306,18 +82241,18 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Remote",
+   "licence_type": "Non-Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "102062-R-000000-000",
+   "licence_number": "102062-N-000000-000",
    "status": "Pending",
    "active": false,
    "granted": "",
    "date_kind": "issued",
    "expiry": "",
    "websites": [],
-   "b2c": true
+   "b2c": false
   },
   {
    "company": "Dogs Trust Lotteries Limited",
@@ -82357,18 +82292,18 @@
    "regulator": "UKGC",
    "jurisdiction": "GB",
    "hq": "",
-   "licence_type": "Non-Remote",
+   "licence_type": "Remote",
    "activities": [
     "Society Lottery"
    ],
-   "licence_number": "102062-N-000000-000",
+   "licence_number": "102062-R-000000-000",
    "status": "Pending",
    "active": false,
    "granted": "",
    "date_kind": "issued",
    "expiry": "",
    "websites": [],
-   "b2c": false
+   "b2c": true
   },
   {
    "company": "Diamond Leisure Limited",
@@ -82420,9 +82355,9 @@
    "hq": "",
    "licence_type": "Remote",
    "activities": [
+    "General Betting Standard - Real Event",
     "General Betting Standard - Virtual Event",
-    "Casino",
-    "General Betting Standard - Real Event"
+    "Casino"
    ],
    "licence_number": "102236-R-000000-000",
    "status": "Pending",
