@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-08T19:47+00:00",
+ "fetched_at": "2026-10-09T13:32+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Money Movement After Hours",
-   "start": "2026-10-08T18:00+00:00",
-   "end": "2026-10-08T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/y0trjpvd",
-   "source": "Luma",
-   "organiser": "Fuze Finance",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/dm/534de2a6-80a8-4940-a3a0-ee0b83919c7a.png"
-  },
   {
    "title": "Build Station Day 4",
    "start": "2026-10-09T08:00+00:00",
@@ -272,21 +257,6 @@
    ],
    "online": true,
    "image": ""
-  },
-  {
-   "title": "Co-Working Fridays : London Chapter",
-   "start": "2026-10-30T10:00+00:00",
-   "end": "2026-10-30T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/london-oct-30",
-   "source": "Luma",
-   "organiser": "Superteam",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png"
   },
   {
    "title": "Solana Hacker House - London",
