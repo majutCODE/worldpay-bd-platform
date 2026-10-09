@@ -8,7 +8,7 @@ window.VERTICALS = window.VERTICALS || [];
     el.innerHTML = `<h1>${label} events</h1><p class="sub">Loading events…</p>`;
     load().then(D => {
       const now = new Date().toISOString();
-      const R = D.events.filter(e => e.verticals.includes(vertical) && (e.end || e.start) >= now);
+      const R = D.events.filter(e => [].concat(vertical).some(v => e.verticals.includes(v)) && (e.end || e.start) >= now);
       const week = new Date(Date.now() + 7 * 864e5).toISOString();
       const sources = [...new Set(R.map(e => e.source))].sort();
       const st = { q: "", city: "", source: "", from: "", to: "" };
@@ -59,7 +59,7 @@ window.VERTICALS = window.VERTICALS || [];
         const cols = ["start", "title", "organiser", "city", "venue", "source", "url"];
         const q = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
         const blob = new Blob([[cols.join(","), ...filtered().map(e => cols.map(c => q(e[c])).join(","))].join("\n")], { type: "text/csv" });
-        const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `${vertical}-events.csv`; a.click();
+        const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `${[].concat(vertical)[0]}-events.csv`; a.click();
       };
       draw();
     });
@@ -67,7 +67,7 @@ window.VERTICALS = window.VERTICALS || [];
 
   window.VERTICALS.push(
     { id: "crypto-events", group: "Crypto", title: "Events", render(el) { render(el, "crypto", "Crypto"); } },
-    { id: "gaming-events", group: "Gaming & Lottery", title: "Events", render(el) { render(el, "gaming", "Gaming"); } },
-    { id: "lottery-events", group: "Prize Draws & Lottery", title: "Events", render(el) { render(el, "lottery", "Lottery and prize draw"); } },
+    { id: "gaming-events", group: "Gaming & Lottery", title: "Events", render(el) { render(el, ["gaming", "lottery"], "Gaming, lottery and prize draw"); } },
+    { id: "lottery-events", group: "", title: "Events", render(el) { location.hash = "#/gaming-events"; } },
   );
 })();

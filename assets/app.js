@@ -2,7 +2,7 @@
 // To add a vertical, create verticals/<name>.js that pushes {id, group, title, render(el)} and add a <script> tag.
 (function () {
   const side = document.getElementById("side"), view = document.getElementById("view");
-  const groups = ["Crypto", "Gaming & Lottery", "Prize Draws & Lottery"];
+  const groups = ["Crypto", "Gaming & Lottery"];
 
   function nav() {
     const cur = location.hash.slice(2) || (window.VERTICALS[0] || {}).id;

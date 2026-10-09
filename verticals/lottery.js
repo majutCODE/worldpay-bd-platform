@@ -43,7 +43,7 @@ window.VERTICALS = window.VERTICALS || [];
   const kind = r => r.activities.find(a => /^Society Lottery/i.test(a)) ? "Society lottery" : r.activities.find(a => /External Lottery Manager/i.test(a)) ? "External lottery manager" : "Lottery operator";
   let gcache = null;
   window.VERTICALS.push({
-    id: "lottery", group: "Prize Draws & Lottery", title: "Lottery licences",
+    id: "lottery", group: "Gaming & Lottery", title: "Lottery licences",
     async render(el) {
       el.innerHTML = `<h1>Lottery licence tracker</h1><p class="sub">Loading…</p>`;
       const D = gcache || (gcache = await fetch("data/gambling.json", { cache: "no-cache" }).then(r => r.json()));
@@ -89,7 +89,7 @@ window.VERTICALS = window.VERTICALS || [];
   // ---------- Prize draw operators ----------
   let pcache = null;
   window.VERTICALS.push({
-    id: "prize-draws", group: "Prize Draws & Lottery", title: "Prize draw operators",
+    id: "prize-draws", group: "Gaming & Lottery", title: "Prize draw operators",
     async render(el) {
       el.innerHTML = `<h1>Prize draw operators</h1><p class="sub">Loading…</p>`;
       let D;

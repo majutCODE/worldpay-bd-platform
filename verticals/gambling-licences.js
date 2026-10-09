@@ -2,7 +2,7 @@ window.VERTICALS = window.VERTICALS || [];
 window.VERTICALS.push({
   id: "gambling",
   group: "Gaming & Lottery",
-  title: "Licences",
+  title: "Gambling licences",
   data: null,
   async render(el) {
     el.innerHTML = `<h1>Gambling licence tracker</h1><p class="sub">Loading regulator registers…</p>`;
