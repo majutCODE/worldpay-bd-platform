@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:46+00:00",
+ "fetched_at": "2026-10-10T18:43+00:00",
  "failures": [],
  "events": [
   {
@@ -212,6 +212,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ls/c4f07d6b-8e59-468d-aa84-e408976592b0.png"
+  },
+  {
+   "title": "The Ooky Spooky Hallowooky Pub Quiz",
+   "start": "2026-10-26T19:00+00:00",
+   "end": "2026-10-26T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/7bfj8g60",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
   },
   {
    "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
