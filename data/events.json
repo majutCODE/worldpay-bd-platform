@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T19:35+00:00",
+ "fetched_at": "2026-10-10T12:46+00:00",
  "failures": [],
  "events": [
   {
@@ -244,19 +244,19 @@
    "image": ""
   },
   {
-   "title": "House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito",
-   "start": "2026-10-29T17:00+00:00",
-   "end": "2026-10-29T19:00+00:00",
+   "title": "Co-Working Fridays : London Chapter",
+   "start": "2026-10-30T10:00+00:00",
+   "end": "2026-10-30T20:00+00:00",
    "city": "London",
    "venue": "",
-   "url": "https://lu.ma/HoS-Workshops-Jito",
+   "url": "https://lu.ma/london-oct-30",
    "source": "Luma",
-   "organiser": "House of Sol",
+   "organiser": "Superteam",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/gw/aa406fd4-abdd-4377-b2bb-0d01b2f4e8db.png"
+   "image": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png"
   },
   {
    "title": "Solana Hacker House - London",
