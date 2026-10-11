@@ -1,12 +1,6 @@
 name: Refresh gambling licence data
 on:
-  schedule:
-    - cron: "15 6 * * *"
-    - cron: "15 14 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main, "claude/**"]
-    paths: ["scripts/fetch_gambling.py", ".github/workflows/refresh-gambling.yml"]
+  workflow_dispatch:  # paused 2026-10-11 at the user's request; data on the site is the last good run
 permissions:
   contents: write
   issues: write
