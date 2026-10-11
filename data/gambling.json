@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:36:37+00:00",
+ "fetched_at": "2026-10-11T12:54:55+00:00",
  "regulators": [
   {
    "code": "UKGC",
@@ -29,7 +29,7 @@
   }
  ],
  "counts": {
-  "UKGC": 3419,
+  "UKGC": 3418,
   "MGA": 317,
   "GGC": 68,
   "MF": 20
@@ -17777,29 +17777,6 @@
     "winbigforpets.bluecross.org.uk/raffle-play"
    ],
    "b2c": true
-  },
-  {
-   "company": "TVD (NW) Limited",
-   "brands": [
-    "TVC",
-    "TVC Support",
-    "TVD Group"
-   ],
-   "regulator": "UKGC",
-   "jurisdiction": "GB",
-   "hq": "",
-   "licence_type": "Non-Remote",
-   "activities": [
-    "Gambling Software"
-   ],
-   "licence_number": "058244-N-333859-001",
-   "status": "Surrendered",
-   "active": false,
-   "granted": "2021-09-29",
-   "date_kind": "issued",
-   "expiry": "2023-10-11",
-   "websites": [],
-   "b2c": false
   },
   {
    "company": "Exchange Platform Solutions Limited",
