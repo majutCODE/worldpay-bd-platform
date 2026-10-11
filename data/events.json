@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:10+00:00",
+ "fetched_at": "2026-10-11T19:03+00:00",
  "failures": [],
  "events": [
   {
@@ -260,6 +260,21 @@
    "image": ""
   },
   {
+   "title": "House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito",
+   "start": "2026-10-29T17:00+00:00",
+   "end": "2026-10-29T19:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HoS-Workshops-Jito",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/gw/aa406fd4-abdd-4377-b2bb-0d01b2f4e8db.png"
+  },
+  {
    "title": "ZK Learning Group: Quantum resistance and ZKP",
    "start": "2026-10-29T17:00+00:00",
    "end": "",
@@ -273,21 +288,6 @@
    ],
    "online": true,
    "image": ""
-  },
-  {
-   "title": "Co-Working Fridays : London Chapter",
-   "start": "2026-10-30T10:00+00:00",
-   "end": "2026-10-30T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/london-oct-30",
-   "source": "Luma",
-   "organiser": "Superteam",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png"
   },
   {
    "title": "Solana Hacker House - London",
@@ -513,21 +513,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/p0/d4a474a1-d588-4bd2-a8a3-b971a9057827.png"
-  },
-  {
-   "title": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
-   "start": "2026-11-14T11:00+00:00",
-   "end": "2026-11-14T17:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/a4qnux81",
-   "source": "Luma",
-   "organiser": "BackersStage Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/nw/fec5f87d-24df-431a-9e3e-003aad8b748e.png"
   },
   {
    "title": "Founders & Investors Brunch ✨ Breakpoint - London",
