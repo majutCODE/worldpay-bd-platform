@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T18:43+00:00",
+ "fetched_at": "2026-10-11T13:10+00:00",
  "failures": [],
  "events": [
   {
@@ -71,7 +71,7 @@
    "venue": "The Brokers Bar",
    "url": "https://lu.ma/vwqedg55",
    "source": "Luma",
-   "organiser": "Superteam NL",
+   "organiser": "CryptoCanal",
    "verticals": [
     "crypto"
    ],
@@ -253,6 +253,21 @@
    "url": "https://www.meetup.com/lfdt-london/events/316859654/",
    "source": "Meetup",
    "organiser": "LFDT London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
+  },
+  {
+   "title": "ZK Learning Group: Quantum resistance and ZKP",
+   "start": "2026-10-29T17:00+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-netherlands/events/316802695/",
+   "source": "Meetup",
+   "organiser": "LFDT Netherlands",
    "verticals": [
     "crypto"
    ],
@@ -498,6 +513,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/p0/d4a474a1-d588-4bd2-a8a3-b971a9057827.png"
+  },
+  {
+   "title": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
+   "start": "2026-11-14T11:00+00:00",
+   "end": "2026-11-14T17:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/a4qnux81",
+   "source": "Luma",
+   "organiser": "BackersStage Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/nw/fec5f87d-24df-431a-9e3e-003aad8b748e.png"
   },
   {
    "title": "Founders & Investors Brunch ✨ Breakpoint - London",
