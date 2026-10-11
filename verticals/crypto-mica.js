@@ -38,8 +38,8 @@ window.VERTICALS.push({
         <button class="btn" id="csv">Export CSV</button>
       </div>
       <div class="tablewrap"><table><thead><tr>
-        <th data-k="company">Company</th><th data-k="licence_type">Type</th><th data-k="b2c">B2C</th><th data-k="authorised">Date</th>
-        <th data-k="home_state">Home state</th><th data-k="regulator">Regulator</th><th>Services</th><th>Passported to</th><th>Website</th><th title="Detected on their website">Payments</th>
+        <th data-k="company">Company</th><th data-k="licence_type">Type</th><th data-k="b2c">B2C</th><th data-k="authorised">Date</th><th title="Detected on their website">Payments</th>
+        <th data-k="home_state">Home state</th><th data-k="regulator">Regulator</th><th>Services</th><th>Passported to</th><th>Website</th>
       </tr></thead><tbody id="rows"></tbody></table></div>
       <p class="foot" id="foot"></p>`;
 
@@ -60,12 +60,12 @@ window.VERTICALS.push({
         <td><span class="tag ${r.licence_type}">${r.licence_type}</span></td>
         <td>${r.b2c ? `<span class="tag b2c-${r.b2c.replace(" ", "-")}" title="${esc(r.b2c_reason)}">${r.b2c === "B2C bank" ? "B2C bank" : r.b2c}</span>` : ""}</td>
         <td style="white-space:nowrap">${fmt(r.authorised)}${r.authorised > today ? `<div><span class="tag up">effective soon</span></div>` : ""}${r.licence_type === "Non-compliant" ? `<div class="muted small">warning issued</div>` : ""}</td>
+        <td class="small">${r.b2c.startsWith("B2C") ? Co.cell(Co.sitesOf(r)) : ""}</td>
         <td>${esc(cname(r.home_state))}</td>
         <td class="small">${esc(r.regulator)}</td>
         <td class="small">${r.services.length ? `<details><summary>${r.services.length} service${r.services.length > 1 ? "s" : ""}</summary>${r.services.map(esc).join("<br>")}</details>` : (r.comments && !/^(n\/?a|none)$/i.test(r.comments) ? `<span class="muted">${esc(r.comments.slice(0, 140))}</span>` : "")}</td>
         <td>${r.passported.length >= 10 ? `<details class="small"><summary>${r.passported.length} countries</summary><div class="pp">${r.passported.map(c => flagImg(c, cname(c))).join("")}</div></details>` : `<div class="pp">${r.passported.map(c => flagImg(c, cname(c))).join("") || '<span class="muted small">None listed</span>'}</div>`}</td>
         <td class="small">${r.website ? ((w) => `<a href="${esc(/^https?:/.test(w) ? w : "https://" + w)}" target="_blank" rel="noopener">${esc(w.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</a>`)(r.website.split(/[|\s;]+/)[0]) : ""}</td>
-        <td class="small">${r.b2c.startsWith("B2C") ? Co.cell(Co.sitesOf(r)) : ""}</td>
       </tr>`).join("") || `<tr><td colspan="10" class="muted">No matches</td></tr>`;
       $("foot").innerHTML = `${rows.length} of ${R.length} entries. Source: <a href="${D.source_url}" target="_blank" rel="noopener">${D.source}</a>, refreshed ${new Date(D.fetched_at).toLocaleString("en-GB")}.`;
     };
