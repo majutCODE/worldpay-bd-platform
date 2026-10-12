@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T13:45+00:00",
+ "fetched_at": "2026-10-12T16:06+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,10 +17,26 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 558
+  "CH": 559
  },
  "failures": [],
  "records": [
+  {
+   "company": "Tl Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17514684",
+   "status": "Active",
+   "incorporated": "2026-10-12",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "17 Stevenson Court, Rogerstone, Newport, Wales NP10 0BJ",
+   "date": "2026-10-12",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Your Dream Bag",
    "trading_as": "",
@@ -4300,7 +4316,7 @@
    "sic": [
     "93290 Other amusement and recreation"
    ],
-   "address": "17 Ouseburn Quays Hume Street, Newcastle Upon Tyne, United Kingdom NE6 1LN",
+   "address": "1 Holly House Mill Street, Uppermill, Oldham, England OL3 6LZ",
    "date": "2026-05-19",
    "date_kind": "added",
    "b2c": true
