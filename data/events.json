@@ -1,23 +1,7 @@
 {
- "fetched_at": "2026-10-12T15:48+00:00",
+ "fetched_at": "2026-10-12T22:10+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "The Conspiracies Pub Quiz",
-   "start": "2026-10-12T18:00+00:00",
-   "end": "2026-10-12T20:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/e7vfq25r",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/am/bfffed3e-9fe3-4105-8c03-95c1c9bb3541.jpg"
-  },
   {
    "title": "Antidote Office Open Day! ⚡️",
    "start": "2026-10-13T09:30+00:00",
@@ -692,7 +676,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/mw/f3d48f0b-960e-453a-965e-a96d92ff2a86.png"
+   "image": "https://images.lumacdn.com/uploads/jx/abdae8cf-cb57-4e08-ab56-62535533bd0b.jpg"
   },
   {
    "title": "Vixio Global Regulatory Awards 2026",
