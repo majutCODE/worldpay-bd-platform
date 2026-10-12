@@ -19,7 +19,7 @@ OUT = ROOT / "data" / "psp.json"
 RESCAN_DAYS = int(os.environ.get("RESCAN_DAYS", 14))
 MAX_SCANS = int(os.environ.get("MAX_SCANS", 900))
 MAX_SITES_PER_COMPANY = 5
-MAX_PAGES = 6
+MAX_PAGES = 10
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept": "text/html,application/xhtml+xml,*/*;q=0.8", "Accept-Language": "en-GB,en;q=0.9", "Accept-Encoding": "gzip, deflate"}
 
@@ -52,6 +52,22 @@ PSPS = [
     ("Mangopay", "acquirer", r"mangopay\.com", r"(?i)\bmangopay\b"),
     ("Square", "acquirer", r"squareup\.com|squarecdn\.com", r"\bSquare(up)? payments\b"),
     ("SumUp", "acquirer", r"sumup\.com", r"(?i)\bsumup\b"),
+    ("Unlimint", "acquirer", r"unlimint\.com|cardpay\.com", r"(?i)\b(unlimint|cardpay)\b"),
+    ("Finaro", "acquirer", r"finaro\.com|credorax\.com", r"(?i)\b(finaro|credorax)\b"),
+    ("Nexi", "acquirer", r"nexi(group)?\.(com|it)|nets\.eu|dibspayment|xpay\.nexi", r"(?i)\bnexi\b|\bnets easy\b"),
+    ("PPRO", "acquirer", r"ppro\.com", r"\bPPRO\b"),
+    ("Paynetics", "acquirer", r"paynetics\.(com|digital)", r"(?i)\bpaynetics\b"),
+    ("PayRetailers", "acquirer", r"payretailers\.com", r"(?i)\bpayretailers\b"),
+    ("Payvision", "acquirer", r"payvision\.com", r"(?i)\bpayvision\b"),
+    ("Acquired.com", "acquirer", r"acquired\.com", r"(?i)\bacquired\.com\b"),
+    ("Clear Junction", "banking rails", r"clearjunction\.com", r"(?i)\bclear ?junction\b"),
+    ("Banking Circle", "banking rails", r"bankingcircle\.com", r"(?i)\bbanking circle\b"),
+    ("Modulr", "banking rails", r"modulrfinance\.com", r"(?i)\bmodulr\b"),
+    ("ClearBank", "banking rails", r"clear\.bank", r"(?i)\bclearbank\b"),
+    ("LHV", "banking rails", r"lhv\.(ee|com|co\.uk)", r"\bLHV (Bank|Pank)\b"),
+    ("Railsr", "banking rails", r"railsr\.com|railsbank\.com", r"(?i)\b(railsr|railsbank)\b"),
+    ("Equals Money", "banking rails", r"equalsmoney\.com", r"(?i)\bequals money\b"),
+    ("Paysera", "banking rails", r"paysera\.(com|lt)", r"(?i)\bpaysera\b"),
     ("PayPal", "wallet", r"paypal(objects)?\.com", r"(?i)\bpaypal\b"),
     ("Apple Pay", "wallet", r"apple-pay-gateway|applepay\.cdn-apple", r"(?i)\bapple ?pay\b"),
     ("Google Pay", "wallet", r"pay\.google\.com", r"(?i)\bgoogle ?pay\b"),
@@ -81,7 +97,7 @@ PSPS = [
 PSPS = [(n, k, re.compile(d, re.I), re.compile(t)) for n, k, d, t in PSPS]
 AMBIGUOUS_LOGO = {"Token", "Square", "Volt", "Ramp", "Praxis", "Simplex", "Sardine", "Mollie", "Payz"}
 LOGO_TOKEN = {n: re.compile(r"(?<![a-z])" + re.escape(n.lower().replace(" ", "").replace(".", ""))) for n, *_ in PSPS if n not in AMBIGUOUS_LOGO}
-PAGE_HINT = re.compile(r"(?i)payment|deposit|withdraw|banking|cashier|fees|pricing|how-to-buy|buy-crypto|faq|help|support|privacy|terms|zahlung|gebuhr|gebühr|preis")
+PAGE_HINT = re.compile(r"(?i)payment|processor|card|top-?up|fund|legal|imprint|impressum|deposit|withdraw|banking|cashier|fees|pricing|how-to-buy|buy-crypto|faq|help|support|privacy|terms|zahlung|gebuhr|gebühr|preis")
 PAGE_HINT_STRONG = re.compile(r"(?i)payment|deposit|withdraw|banking|cashier|fees|privacy|zahlung")
 
 
@@ -203,7 +219,7 @@ def scan(dom):
             check(u, b, c, True)
         except Exception:
             pass
-    out = {"psps": sorted(found.values(), key=lambda e: ({"acquirer": 0, "on-ramp": 1, "open banking": 2, "wallet": 3}[e["kind"]], e["name"])),
+    out = {"psps": sorted(found.values(), key=lambda e: ({"acquirer": 0, "on-ramp": 1, "banking rails": 2, "open banking": 3, "wallet": 4}[e["kind"]], e["name"])),
            "pages": pages}
     if err and not found:
         out["error"] = err

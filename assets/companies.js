@@ -54,7 +54,7 @@ window.Co = (function () {
     const list = Object.values(out);
     return { list, scanned, unreachable: scanned && errors === sites.filter(d => psp && psp[d]).length && !list.length };
   }
-  const isAcq = p => p.kind === "acquirer" || p.kind === "on-ramp";
+  const isAcq = p => p.kind === "acquirer" || p.kind === "on-ramp" || p.kind === "banking rails";
   const why = p => ({ script: "loaded on the site", header: "allowed in the site's security policy", mention: "named or shown on the site" }[p.strength]) +
     ` (${p.domain}${p.evidence && p.evidence[p.strength] && p.evidence[p.strength] !== "content-security-policy" ? p.evidence[p.strength] : ""})`;
   const badge = p => `<span class="tag psp ${p.name === "Worldpay" ? "wp" : COMPETITOR.includes(p.name) ? "comp" : ""} ${p.strength === "mention" ? "weak" : ""}" title="${esc(p.kind)}: ${esc(why(p))}">${esc(p.name)}</span>`;
@@ -65,7 +65,7 @@ window.Co = (function () {
     if (!r.scanned) return `<span class="muted small">not scanned yet</span>`;
     if (r.unreachable) return `<span class="muted small" title="site blocked the scanner or was down">site unreachable</span>`;
     const acq = r.list.filter(isAcq), other = r.list.filter(p => !isAcq(p));
-    return (acq.map(badge).join(" ") || `<span class="muted small">none found</span>`) +
+    return (acq.map(badge).join(" ") || `<span class="muted small" title="${other.length ? "Processor is not named on public pages, usually only visible at checkout after login" : "No payment provider named on public pages"}">${other.length ? "processor not public" : "none found"}</span>`) +
       (other.length ? `<div class="muted small" title="Other payment methods seen on the site (wallets, APMs), not acquirers">also accepts: ${esc(other.map(p => p.name).join(", "))}</div>` : "");
   }
   function options() {

@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "0 7 * * *"
   workflow_dispatch:
+    inputs:
+      full_rescan:
+        description: "Rescan every site now"
+        type: boolean
+        default: false
   push:
     branches: [main, "claude/**"]
     paths: ["scripts/detect_psp.py", ".github/workflows/refresh-psp.yml"]
@@ -22,6 +27,8 @@ jobs:
       - name: Scan B2C websites
         id: scan
         run: python scripts/detect_psp.py
+        env:
+          RESCAN_DAYS: ${{ inputs.full_rescan && '0' || '14' }}
         continue-on-error: true
       - name: Commit if changed
         run: |
