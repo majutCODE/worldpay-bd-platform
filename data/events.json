@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T19:03+00:00",
+ "fetched_at": "2026-10-12T15:48+00:00",
  "failures": [],
  "events": [
   {
@@ -46,7 +46,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/9o/70e89bde-b285-4b48-83ec-fdb2ad3c40a4.png"
+   "image": "https://images.lumacdn.com/uploads/zy/6e8bcf91-277e-404c-8124-930d796c6158.jpg"
   },
   {
    "title": "AWIC x Grant Thornton x CFAAR: Panel Discussions on UK Digital Asset Regulation & Emerging Industry Topics",
@@ -121,7 +121,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/p0/d9466d1b-675e-4fda-bd8a-df8d040c82b8.png"
+   "image": "https://images.lumacdn.com/uploads/aa/771d7ea6-f9de-4b12-a460-98fca5db69ca.png"
   },
   {
    "title": "CryptoMondays London",
@@ -212,6 +212,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ls/c4f07d6b-8e59-468d-aa84-e408976592b0.png"
+  },
+  {
+   "title": "The Gentlemen’s Business Circle — An Evening at Palm Beach Casino  🥃",
+   "start": "2026-10-22T18:00+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/the-gentlemen-s-business-circle/events/316942560/",
+   "source": "Meetup",
+   "organiser": "THE GENTLEMEN’S BUSINESS CIRCLE",
+   "verticals": [
+    "gaming"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "The Ooky Spooky Hallowooky Pub Quiz",
@@ -380,6 +395,21 @@
    "image": "https://images.lumacdn.com/event-covers/ff/3fd694a1-e266-4423-9f51-f2c83844bdc2.jpg"
   },
   {
+   "title": "Blockchain Meetup - Social Good On Chain",
+   "start": "2026-11-05T19:30+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/causevest-crypto-bootcamp-and-investment-club/events/316800405/",
+   "source": "Meetup",
+   "organiser": "Blockchains For Good Crypto Bootcamp and Investment Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
+  },
+  {
    "title": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
    "start": "2026-11-09T16:00+00:00",
    "end": "2026-11-09T17:00+00:00",
@@ -423,6 +453,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
+  },
+  {
+   "title": "SCRYPT Private Dinner, DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T23:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yvjgdjl8",
+   "source": "Luma",
+   "organiser": "SCRYPT",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
   },
   {
    "title": "Banking & Payments Dinner by Utila, Cryptio & Velocity",
@@ -528,6 +573,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/3q/cdf8222d-3728-4c80-a5ba-bee192e7c38a.png"
+  },
+  {
+   "title": "BORN UP — Breakpoint London Community Networking Meetup",
+   "start": "2026-11-15T11:30+00:00",
+   "end": "2026-11-15T12:00+00:00",
+   "city": "London",
+   "venue": "Olympia",
+   "url": "https://lu.ma/btvqwap1",
+   "source": "Luma",
+   "organiser": "BORN.LIVE",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/8a/c4bdf157-fbef-4814-8932-92d2bb363e2d.png"
   },
   {
    "title": "Solana Breakpoint 2026",
@@ -680,7 +740,7 @@
    "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
   },
   {
-   "title": "House of Sol Workshops - SRI x Alchemy",
+   "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
    "start": "2026-11-19T17:00+00:00",
    "end": "2026-11-19T19:00+00:00",
    "city": "London",
