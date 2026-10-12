@@ -66,7 +66,7 @@ window.Co = (function () {
     if (r.unreachable) return `<span class="muted small" title="site blocked the scanner or was down">site unreachable</span>`;
     const acq = r.list.filter(isAcq), other = r.list.filter(p => !isAcq(p));
     return (acq.map(badge).join(" ") || `<span class="muted small">none found</span>`) +
-      (other.length ? `<div class="muted small" title="${esc(other.map(p => p.name).join(", "))}">+ ${other.length} method${other.length > 1 ? "s" : ""}</div>` : "");
+      (other.length ? `<div class="muted small" title="Other payment methods seen on the site (wallets, APMs), not acquirers">also accepts: ${esc(other.map(p => p.name).join(", "))}</div>` : "");
   }
   function options() {
     const seen = new Set();
