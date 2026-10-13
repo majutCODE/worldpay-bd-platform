@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:35+00:00",
+ "fetched_at": "2026-10-13T20:22+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 560
+  "CH": 559
  },
  "failures": [],
  "records": [
@@ -8730,22 +8730,6 @@
    ],
    "address": "3 Maes Wyre, Llanrhystud, United Kingdom SY23 5AH",
    "date": "2025-08-18",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
-   "company": "Vault Competitions Group Limited",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "16649610",
-   "status": "Active",
-   "incorporated": "2025-08-14",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "C/O Jaccountancy Ltd Maling Exchange, Hoults Yard, Walker Road, Newcastle Upon Tyne, England NE6 2HL",
-   "date": "2025-08-14",
    "date_kind": "incorporated",
    "b2c": true
   },
