@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T16:06+00:00",
+ "fetched_at": "2026-10-13T14:35+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,10 +17,26 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 559
+  "CH": 560
  },
  "failures": [],
  "records": [
+  {
+   "company": "Fry Competitions Limited",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17518539",
+   "status": "Active",
+   "incorporated": "2026-10-13",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "61 Bridge Street, Kington, United Kingdom HR5 3DJ",
+   "date": "2026-10-13",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Tl Competitions Ltd",
    "trading_as": "",
@@ -5788,7 +5804,7 @@
    "sic": [
     "93290 Other amusement and recreation"
    ],
-   "address": "Unit 13 Freeland Park Wareham Road, Lytchett Matravers, Poole, England BH16 6FA",
+   "address": "2 Foxlands Walk 2 Foxlands Walk, St. Marychurch, Torquay, England TQ1 4NL",
    "date": "2026-03-02",
    "date_kind": "incorporated",
    "b2c": true
