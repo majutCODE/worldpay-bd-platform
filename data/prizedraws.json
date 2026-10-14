@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:21+00:00",
+ "fetched_at": "2026-10-14T18:54+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,10 +17,58 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 555
+  "CH": 558
  },
  "failures": [],
  "records": [
+  {
+   "company": "Wedding Draws Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17521527",
+   "status": "Active",
+   "incorporated": "2026-10-14",
+   "sic": [
+    "63120 Web portals"
+   ],
+   "address": "Synergy House, Lawson Street, North Shields, United Kingdom NE29 6TG",
+   "date": "2026-10-14",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
+  {
+   "company": "74 Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "NI744530",
+   "status": "Active",
+   "incorporated": "2026-10-14",
+   "sic": [
+    "82990 Other business support"
+   ],
+   "address": "19 Ashgrove Park, Strabane, Northern Ireland BT82 9EG",
+   "date": "2026-10-14",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
+  {
+   "company": "1Way Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17521372",
+   "status": "Active",
+   "incorporated": "2026-10-14",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "19 Venta Way, Maldon, England CM9 5LH",
+   "date": "2026-10-14",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Fry Competitions Limited",
    "trading_as": "",
