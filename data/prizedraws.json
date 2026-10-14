@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T20:22+00:00",
+ "fetched_at": "2026-10-14T12:21+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 559
+  "CH": 555
  },
  "failures": [],
  "records": [
@@ -8333,22 +8333,6 @@
    "b2c": true
   },
   {
-   "company": "Infinity Draws Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "16706569",
-   "status": "Active",
-   "incorporated": "2025-09-09",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "21 Edgewater Place, Warrington, England WA4 1GE",
-   "date": "2025-09-09",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
    "company": "Goliath Giveaways Ltd",
    "trading_as": "",
    "source": "CH",
@@ -9796,22 +9780,6 @@
    "b2c": true
   },
   {
-   "company": "Premier Games And Competitions Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "16443063",
-   "status": "Active",
-   "incorporated": "2025-05-12",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "Riddicks Sports Bar, 22a Fowler Street, South Shields, United Kingdom NE33 1NA",
-   "date": "2025-05-12",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
    "company": "Crush Competitions Ltd",
    "trading_as": "",
    "source": "CH",
@@ -11190,22 +11158,6 @@
    "b2c": true
   },
   {
-   "company": "Home Treasure Comps Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "16027732",
-   "status": "Active",
-   "incorporated": "2024-10-18",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "71-75 Shelton Street, Covent Garden, London, United Kingdom WC2H 9JQ",
-   "date": "2024-10-18",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
    "company": "Prizes Made For You Ltd",
    "trading_as": "",
    "source": "CH",
@@ -11218,22 +11170,6 @@
    ],
    "address": "51 Holm Dell Road, Inverness, Scotland IV21 4GS",
    "date": "2024-10-15",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
-   "company": "Dice Competitions Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "16014385",
-   "status": "Active",
-   "incorporated": "2024-10-13",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "2 Unit 2, Darby Close, Cheney Manor Industrial Estate, Swindon, England SN2 2PN",
-   "date": "2024-10-13",
    "date_kind": "incorporated",
    "b2c": true
   }
