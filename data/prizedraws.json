@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T18:54+00:00",
+ "fetched_at": "2026-10-15T12:06+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 558
+  "CH": 559
  },
  "failures": [],
  "records": [
@@ -33,6 +33,22 @@
     "63120 Web portals"
    ],
    "address": "Synergy House, Lawson Street, North Shields, United Kingdom NE29 6TG",
+   "date": "2026-10-14",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
+  {
+   "company": "Elite Darts Draws Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17521992",
+   "status": "Active",
+   "incorporated": "2026-10-14",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "116 Station Street, Burton-On-Trent, United Kingdom DE14 1BX",
    "date": "2026-10-14",
    "date_kind": "incorporated",
    "b2c": true
