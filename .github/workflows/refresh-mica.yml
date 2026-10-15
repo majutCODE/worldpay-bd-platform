@@ -25,7 +25,7 @@ jobs:
         run: |
           git config user.name "mica-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/mica.json
+          git add data/mica.json data/mica_first_seen.json
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Refresh MiCA register data"
           for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 10; done

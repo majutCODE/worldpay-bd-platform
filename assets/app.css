@@ -47,3 +47,4 @@ dialog#profile::backdrop{background:rgba(20,20,20,.4)}
 .pbody .x{position:absolute;top:14px;right:14px;border:0;background:none;font-size:18px;cursor:pointer;color:var(--muted)}
 .pbody .btn{display:inline-block;text-decoration:none;margin:0 6px 6px 0}
 .angle{background:var(--chip);border-radius:6px;padding:8px 10px;font-size:13px}
+.tag.new{background:#ff1f3e;color:#fff;font-weight:700;letter-spacing:.03em}

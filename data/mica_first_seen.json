@@ -1,0 +1,2250 @@
+{
+"CASP|097900CAKA0000233454": {
+"date": "2026-01-16",
+"estimated": true
+},
+"CASP|097900CAKA0000249459": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|097900CAKA0000269926": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|097900CAKA0000272448": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|0W2PZJM8XOY22M4GG883": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|213800186TP6OZSHUV17": {
+"date": "2026-09-29",
+"estimated": true
+},
+"CASP|2138002QAMX8PPKSO715": {
+"date": "2025-08-21",
+"estimated": true
+},
+"CASP|21380045KC28948FNE32": {
+"date": "2025-09-29",
+"estimated": true
+},
+"CASP|2138005C815T9EZU4C75": {
+"date": "2025-09-29",
+"estimated": true
+},
+"CASP|2138005EFA978Y43G944": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|213800GIFQMSV7HROS23": {
+"date": "2025-09-10",
+"estimated": true
+},
+"CASP|213800HAR45C9K18O294": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|213800HFC5G4V293BN91": {
+"date": "2025-12-12",
+"estimated": true
+},
+"CASP|213800IMKAUV5KW28586": {
+"date": "2025-11-25",
+"estimated": true
+},
+"CASP|213800IWLH982X74LO71": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|213800K35A9YPYDQKB81": {
+"date": "2025-12-12",
+"estimated": true
+},
+"CASP|213800OYHR1MPQ5VJL60": {
+"date": "2026-08-08",
+"estimated": true
+},
+"CASP|213800P6PW4AOVYZ8K05": {
+"date": "2026-02-02",
+"estimated": true
+},
+"CASP|213800QBQVHWRBHJTA89": {
+"date": "2025-12-03",
+"estimated": true
+},
+"CASP|213800QT8WZK738XGX35": {
+"date": "2026-04-03",
+"estimated": true
+},
+"CASP|213800RF9FDNJ92AE175": {
+"date": "2026-07-23",
+"estimated": true
+},
+"CASP|213800V83W83UL8WR118": {
+"date": "2026-08-04",
+"estimated": true
+},
+"CASP|213800W1NGBLERUS6M39": {
+"date": "2026-03-24",
+"estimated": true
+},
+"CASP|213800Y834JOMU87Z285": {
+"date": "2026-07-01",
+"estimated": true
+},
+"CASP|213800ZWEHNKOCS3AC78": {
+"date": "2026-06-24",
+"estimated": true
+},
+"CASP|25490004TC93R20KW073": {
+"date": "2026-03-13",
+"estimated": true
+},
+"CASP|2549000KEHDV2LWRRZ45": {
+"date": "2026-07-07",
+"estimated": true
+},
+"CASP|2549005CVR5HH70FDO07": {
+"date": "2025-02-06",
+"estimated": true
+},
+"CASP|2549005P20R5UTQWNB80": {
+"date": "2026-07-14",
+"estimated": true
+},
+"CASP|254900641D8KNHUZYX24": {
+"date": "2025-06-25",
+"estimated": true
+},
+"CASP|2549008CBASK5Q680X12": {
+"date": "2025-09-04",
+"estimated": true
+},
+"CASP|254900BBBJZF2IE8EN54": {
+"date": "2025-12-05",
+"estimated": true
+},
+"CASP|254900BBV7FA7LUG5913": {
+"date": "2025-12-04",
+"estimated": true
+},
+"CASP|254900ERDZ4CZ5IF7P56": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|254900FESD7AF56FOQ37": {
+"date": "2025-03-28",
+"estimated": true
+},
+"CASP|254900GDCT8070R2VV26": {
+"date": "2026-08-26",
+"estimated": true
+},
+"CASP|254900GTP4UXQO1UMI36": {
+"date": "2025-06-16",
+"estimated": true
+},
+"CASP|254900J8O1555O3B2T92": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|254900JFRZG8P67ZHI74": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|254900K8AF5VMJFMZN69": {
+"date": "2026-08-10",
+"estimated": true
+},
+"CASP|254900KXWAZ3B1340G26": {
+"date": "2024-12-30",
+"estimated": true
+},
+"CASP|254900MVWQXMF77YZP65": {
+"date": "2026-07-01",
+"estimated": true
+},
+"CASP|254900OPT54E6SDS6P25": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|254900S52YR70F0BK713": {
+"date": "2026-06-03",
+"estimated": true
+},
+"CASP|254900S56908SP1E8O53": {
+"date": "2026-07-03",
+"estimated": true
+},
+"CASP|254900TM3KOYH0SY8V19": {
+"date": "2026-03-09",
+"estimated": true
+},
+"CASP|254900XFMACGD0L7AI73": {
+"date": "2026-03-26",
+"estimated": true
+},
+"CASP|254900XTUI35BGIBXP21": {
+"date": "2025-05-23",
+"estimated": true
+},
+"CASP|254900YI6BJ1QQQZIY62": {
+"date": "2026-08-26",
+"estimated": true
+},
+"CASP|259400HM2TR4U3LF5D43": {
+"date": "2026-03-13",
+"estimated": true
+},
+"CASP|259400JCJJ78A4ZCXP93": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|259400LUESNGU5XM2J49": {
+"date": "2026-05-28",
+"estimated": true
+},
+"CASP|31570000GC0U68O6PA08": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|3157005QCM6Y91CUV844": {
+"date": "2026-06-03",
+"estimated": true
+},
+"CASP|3157008PWKP5LP7AR251": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|3157009R9J4OHLL5NY32": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|315700DWN9FHXPPTHD55": {
+"date": "2026-02-13",
+"estimated": true
+},
+"CASP|315700GXG7KIZFLV9R66": {
+"date": "2026-03-13",
+"estimated": true
+},
+"CASP|315700I7V6W7BLAI9Z32": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|315700J0QGFRKN11MF15": {
+"date": "2026-08-04",
+"estimated": true
+},
+"CASP|3912000K5NAA00M4HH04": {
+"date": "2025-11-25",
+"estimated": true
+},
+"CASP|391200236O6D9SGBE882": {
+"date": "2026-07-13",
+"estimated": true
+},
+"CASP|3912005CEQV0XYGFEO78": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|3912009ZGE8258OMPE28": {
+"date": "2026-06-19",
+"estimated": true
+},
+"CASP|391200CC11KVFA4HGG45": {
+"date": "2026-06-02",
+"estimated": true
+},
+"CASP|391200DN4V2D0IBP3S36": {
+"date": "2026-02-25",
+"estimated": true
+},
+"CASP|391200EKTIW0OR813R66": {
+"date": "2026-07-06",
+"estimated": true
+},
+"CASP|391200EYHDBM1YQI7A32": {
+"date": "2026-07-31",
+"estimated": true
+},
+"CASP|391200IJ3B1IP7993O16": {
+"date": "2025-09-02",
+"estimated": true
+},
+"CASP|391200KFWD74ZYNEEA30": {
+"date": "2026-04-01",
+"estimated": true
+},
+"CASP|391200LACJ601I2ONV49": {
+"date": "2025-12-03",
+"estimated": true
+},
+"CASP|391200LUYJY880GPSY38": {
+"date": "2025-12-10",
+"estimated": true
+},
+"CASP|391200N0BYCZF2F43264": {
+"date": "2025-08-11",
+"estimated": true
+},
+"CASP|391200PNJ2SKONA02N07": {
+"date": "2026-02-25",
+"estimated": true
+},
+"CASP|391200TWGO2RBL7WG010": {
+"date": "2026-08-31",
+"estimated": true
+},
+"CASP|391200Y3EUNL4LTXRP94": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|391200Z1YA45VPMIGP98": {
+"date": "2026-09-25",
+"estimated": true
+},
+"CASP|485100CIMEOMSMFT8G48": {
+"date": "2026-09-21",
+"estimated": true
+},
+"CASP|485100FKB79GMCXY4P55": {
+"date": "2026-09-02",
+"estimated": true
+},
+"CASP|485100OLL2HA92JDWC71": {
+"date": "2026-08-25",
+"estimated": true
+},
+"CASP|485100UM87L7ILR4L484": {
+"date": "2026-08-25",
+"estimated": true
+},
+"CASP|5067009TZLDD94Q3W662": {
+"date": "2026-08-24",
+"estimated": true
+},
+"CASP|506700NPCDRP5LN89R92": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|529900032TYR45XIEW79": {
+"date": "2025-11-21",
+"estimated": true
+},
+"CASP|5299000CFIYPHBDCD952": {
+"date": "2026-08-20",
+"estimated": true
+},
+"CASP|5299000TZ4OSOOGU1120": {
+"date": "2025-10-22",
+"estimated": true
+},
+"CASP|5299000X84JRI8MS7D35": {
+"date": "2026-07-08",
+"estimated": true
+},
+"CASP|529900114Q5XQ6KLYR24": {
+"date": "2026-03-19",
+"estimated": true
+},
+"CASP|52990017DZKEH3Q6PV63": {
+"date": "2026-07-21",
+"estimated": true
+},
+"CASP|5299001O5S0MLDXH7A21": {
+"date": "2026-09-02",
+"estimated": true
+},
+"CASP|5299002PZ7ROI71ZQW56": {
+"date": "2026-09-17",
+"estimated": true
+},
+"CASP|5299002RCY3D5M211G35": {
+"date": "2026-08-06",
+"estimated": true
+},
+"CASP|52990051OUSIGVLQ2082": {
+"date": "2026-09-03",
+"estimated": true
+},
+"CASP|52990053QE1M1V4P6U87": {
+"date": "2026-08-03",
+"estimated": true
+},
+"CASP|5299005I4LYIFW7GKB54": {
+"date": "2026-05-28",
+"estimated": true
+},
+"CASP|5299005O2LPWV9IP2Z21": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|5299005V5GBSN2A4C303": {
+"date": "2025-05-28",
+"estimated": true
+},
+"CASP|5299005Y5T6LXFAXDQ78": {
+"date": "2025-07-21",
+"estimated": true
+},
+"CASP|52990071YX99SH321F74": {
+"date": "2025-12-11",
+"estimated": true
+},
+"CASP|529900793U3P5C6YYC70": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|52990089LBIKLBM8YB23": {
+"date": "2026-09-30",
+"estimated": true
+},
+"CASP|5299008GFCQY16M45R85": {
+"date": "2025-11-24",
+"estimated": true
+},
+"CASP|5299008QOOWW0IUSDH15": {
+"date": "2026-09-08",
+"estimated": true
+},
+"CASP|5299008VGCLH8JYR3K70": {
+"date": "2026-08-27",
+"estimated": true
+},
+"CASP|52990093INYLJNWHQ228": {
+"date": "2026-07-27",
+"estimated": true
+},
+"CASP|529900967AJZ6T29Q111": {
+"date": "2026-08-27",
+"estimated": true
+},
+"CASP|5299009A1SAL2URXG283": {
+"date": "2025-11-05",
+"estimated": true
+},
+"CASP|5299009ADJ9XFQVUKZ50": {
+"date": "2026-07-02",
+"estimated": true
+},
+"CASP|5299009IFX1XTKDY4568": {
+"date": "2025-04-24",
+"estimated": true
+},
+"CASP|5299009RFJSJRM1FIW34": {
+"date": "2026-08-18",
+"estimated": true
+},
+"CASP|529900A0WHA0NVXY0G45": {
+"date": "2025-07-04",
+"estimated": true
+},
+"CASP|529900AAZRC5LYVR7134": {
+"date": "2026-08-24",
+"estimated": true
+},
+"CASP|529900ADW3Q5TWADIL41": {
+"date": "2026-05-12",
+"estimated": true
+},
+"CASP|529900AOIGZIIUZHID69": {
+"date": "2026-09-09",
+"estimated": true
+},
+"CASP|529900APX10RF2PBTB22": {
+"date": "2025-12-16",
+"estimated": true
+},
+"CASP|529900B4G0EGK7Z9KT45": {
+"date": "2025-11-27",
+"estimated": true
+},
+"CASP|529900BQBP4JMDPM6Q19": {
+"date": "2025-12-18",
+"estimated": true
+},
+"CASP|529900BSNR4XPZ6WBK17": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|529900C0H5OM7TYSQK47": {
+"date": "2026-09-24",
+"estimated": true
+},
+"CASP|529900C4BDI11BJKQ590": {
+"date": "2026-09-15",
+"estimated": true
+},
+"CASP|529900CG5HHEUT0AHK10": {
+"date": "2026-07-21",
+"estimated": true
+},
+"CASP|529900CNL32BATSBXF59": {
+"date": "2026-10-06",
+"estimated": true
+},
+"CASP|529900D5G4V6THXC5P79": {
+"date": "2026-07-13",
+"estimated": true
+},
+"CASP|529900DLAJ534R7YPF91": {
+"date": "2026-08-20",
+"estimated": true
+},
+"CASP|529900DPOQPLDSF3R482": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|529900E9AS5RG8YBF660": {
+"date": "2026-07-29",
+"estimated": true
+},
+"CASP|529900EXG2PM316ISO63": {
+"date": "2026-07-30",
+"estimated": true
+},
+"CASP|529900FB29C36LKTAW50": {
+"date": "2025-09-19",
+"estimated": true
+},
+"CASP|529900FNJE1H184JV164": {
+"date": "2026-03-04",
+"estimated": true
+},
+"CASP|529900FYBTAGIOS54M10": {
+"date": "2025-04-08",
+"estimated": true
+},
+"CASP|529900GJOSVHI055QR67": {
+"date": "2026-06-02",
+"estimated": true
+},
+"CASP|529900HMYYJR2NHVZ124": {
+"date": "2025-11-27",
+"estimated": true
+},
+"CASP|529900HNOAA1KXQJUQ27": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|529900IAZ7K53LG7BT89": {
+"date": "2026-08-04",
+"estimated": true
+},
+"CASP|529900JB9XYZ8E87N345": {
+"date": "2025-05-14",
+"estimated": true
+},
+"CASP|529900JEKLBM7SSTQS98": {
+"date": "2026-08-07",
+"estimated": true
+},
+"CASP|529900JFOPPEDUR61H13": {
+"date": "2025-05-16",
+"estimated": true
+},
+"CASP|529900JONLIJEZUYT574": {
+"date": "2026-10-06",
+"estimated": true
+},
+"CASP|529900K1110GFV3VUM61": {
+"date": "2026-09-16",
+"estimated": true
+},
+"CASP|529900K4NCP94LQNCG60": {
+"date": "2026-08-13",
+"estimated": true
+},
+"CASP|529900KTP3Y86BZKY754": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|529900LZM6X3GBFNLG10": {
+"date": "2026-02-04",
+"estimated": true
+},
+"CASP|529900MBFU46N7U7MF46": {
+"date": "2025-12-12",
+"estimated": true
+},
+"CASP|529900MKYC1FZ83V3121": {
+"date": "2025-04-04",
+"estimated": true
+},
+"CASP|529900MQJIQGD8N3YV53": {
+"date": "2025-12-12",
+"estimated": true
+},
+"CASP|529900N0VN8J4S4SCG77": {
+"date": "2026-01-28",
+"estimated": true
+},
+"CASP|529900N21YBLSSD9YT89": {
+"date": "2026-09-15",
+"estimated": true
+},
+"CASP|529900NGC1AZW7YPSR12": {
+"date": "2026-08-27",
+"estimated": true
+},
+"CASP|529900NPL89WYDTGGZ78": {
+"date": "2026-09-07",
+"estimated": true
+},
+"CASP|529900OBUVM58249Q315": {
+"date": "2026-08-27",
+"estimated": true
+},
+"CASP|529900OPEDQJAXAQT146": {
+"date": "2026-09-24",
+"estimated": true
+},
+"CASP|529900OSVFQK3XISEQ85": {
+"date": "2026-08-25",
+"estimated": true
+},
+"CASP|529900P0204W9HA8JP36": {
+"date": "2025-04-10",
+"estimated": true
+},
+"CASP|529900P8OKWO25XE4251": {
+"date": "2026-07-01",
+"estimated": true
+},
+"CASP|529900PEBGKH34UTD845": {
+"date": "2026-06-15",
+"estimated": true
+},
+"CASP|529900Q4W1LSVUCO8L66": {
+"date": "2026-09-18",
+"estimated": true
+},
+"CASP|529900QH6TWSXWH0XM44": {
+"date": "2025-12-02",
+"estimated": true
+},
+"CASP|529900QHHMJYY9QSAC33": {
+"date": "2026-04-15",
+"estimated": true
+},
+"CASP|529900R1A7TN1LM06875": {
+"date": "2026-06-19",
+"estimated": true
+},
+"CASP|529900R4Q9UCQ25IAA05": {
+"date": "2026-03-13",
+"estimated": true
+},
+"CASP|529900RC04FR9EHUT228": {
+"date": "2026-04-16",
+"estimated": true
+},
+"CASP|529900RQOBT3ZJMDRK43": {
+"date": "2026-02-24",
+"estimated": true
+},
+"CASP|529900SUZQE32VSCS310": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|529900TBT1Z4FKTX5T93": {
+"date": "2026-09-15",
+"estimated": true
+},
+"CASP|529900UC2OD7II24Z667": {
+"date": "2026-03-06",
+"estimated": true
+},
+"CASP|529900UYTAE51VW2TG15": {
+"date": "2026-05-13",
+"estimated": true
+},
+"CASP|529900VHU3S8ZYAQYZ61": {
+"date": "2026-09-22",
+"estimated": true
+},
+"CASP|529900WKXS5ZPJY9W498": {
+"date": "2026-06-22",
+"estimated": true
+},
+"CASP|529900X4PRL0DZNPT990": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|529900XCSUEUBT5TX310": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|529900XUBIXXFHP44185": {
+"date": "2026-08-18",
+"estimated": true
+},
+"CASP|529900YERL5TV5YJCR45": {
+"date": "2026-07-14",
+"estimated": true
+},
+"CASP|529900YOBXEE8ZYM4V56": {
+"date": "2026-03-11",
+"estimated": true
+},
+"CASP|529900YT5VCRYQ5WI821": {
+"date": "2025-12-17",
+"estimated": true
+},
+"CASP|529900Z9LN7U0GBF2S53": {
+"date": "2026-08-20",
+"estimated": true
+},
+"CASP|529900ZMDTSQYEYCKL45": {
+"date": "2025-12-12",
+"estimated": true
+},
+"CASP|529900ZW3QH424NY3959": {
+"date": "2025-11-05",
+"estimated": true
+},
+"CASP|5493000LM0MZ4JPMGM90": {
+"date": "2026-05-14",
+"estimated": true
+},
+"CASP|5493001B9LDFCQUY9273": {
+"date": "2026-01-22",
+"estimated": true
+},
+"CASP|5493004WNVZP9EMYI834": {
+"date": "2026-07-02",
+"estimated": true
+},
+"CASP|54930069NLWEIGLHXU42": {
+"date": "2025-11-28",
+"estimated": true
+},
+"CASP|549300746K71T6YJCV41": {
+"date": "2026-07-31",
+"estimated": true
+},
+"CASP|54930079HJ1JTMKTW637": {
+"date": "2025-10-14",
+"estimated": true
+},
+"CASP|5493007WZ7IFULIL8G21": {
+"date": "2025-04-18",
+"estimated": true
+},
+"CASP|549300CQ9NLEHMRCU505": {
+"date": "2025-08-07",
+"estimated": true
+},
+"CASP|549300ET4IUR6RCZOL84": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|549300I48OJHSE9OZS95": {
+"date": "2026-10-06",
+"estimated": true
+},
+"CASP|549300I7OIUB41P86L19": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|549300LZMQXXYV4JJ603": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|549300M2IHOB9P5WE714": {
+"date": "2026-04-30",
+"estimated": true
+},
+"CASP|549300OL514RA0SXJJ44": {
+"date": "2025-06-06",
+"estimated": true
+},
+"CASP|549300OOZDNZ3F2XJW21": {
+"date": "2024-12-30",
+"estimated": true
+},
+"CASP|549300U4LIZV0REEQQ46": {
+"date": "2026-03-27",
+"estimated": true
+},
+"CASP|549300V4H4USWZUCE073": {
+"date": "2026-05-19",
+"estimated": true
+},
+"CASP|549300XG5LFGN1IGYC71": {
+"date": "2026-04-28",
+"estimated": true
+},
+"CASP|549300XIBGTJ0PLIEO72": {
+"date": "2025-05-16",
+"estimated": true
+},
+"CASP|549300Y6TSD1DUCXD871": {
+"date": "2025-11-06",
+"estimated": true
+},
+"CASP|549300ZCGZNVDA6R3Y84": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|59800G0P3PV13KLX615": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|635400NEDOJDEJEQZQ77": {
+"date": "2025-11-12",
+"estimated": true
+},
+"CASP|6367008S3JL8VVP6T689": {
+"date": "2026-08-18",
+"estimated": true
+},
+"CASP|636700BAJ82J2GWSP231": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|636700PBO692C1R9V561": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|636700PFX3CY9R033H73": {
+"date": "2026-07-03",
+"estimated": true
+},
+"CASP|648800CZ0UN5M4WVZ402": {
+"date": "2026-10-02",
+"estimated": true
+},
+"CASP|64880741U1SN9TUWJ897": {
+"date": "2026-09-01",
+"estimated": true
+},
+"CASP|648812ZREA1B126B8G06": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|64882N0ABXS71817AI18": {
+"date": "2026-04-28",
+"estimated": true
+},
+"CASP|648851FOKWX4PG639059": {
+"date": "2026-09-24",
+"estimated": true
+},
+"CASP|6488907MV9XAA08E4E40": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|64889KAWPMO81X649843": {
+"date": "2026-07-01",
+"estimated": true
+},
+"CASP|6488C2PNI17093U2YA18": {
+"date": "2026-06-27",
+"estimated": true
+},
+"CASP|6488O0OC79779MZX1E44": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|69940000HAL9ODW3IMO22": {
+"date": "2026-07-17",
+"estimated": true
+},
+"CASP|699400TPXCI7R4A0NG65": {
+"date": "2025-05-26",
+"estimated": true
+},
+"CASP|6B2PBRV1FCJDMR45RZ53": {
+"date": "2026-05-13",
+"estimated": true
+},
+"CASP|7245001BEJ6U6AUU1S58": {
+"date": "2025-11-24",
+"estimated": true
+},
+"CASP|7245002DD3GNFXPGPP93": {
+"date": "2026-03-26",
+"estimated": true
+},
+"CASP|7245009PN18D4I1TKJ50": {
+"date": "2024-12-30",
+"estimated": true
+},
+"CASP|7245009PUAT6U71IXZ51": {
+"date": "2026-04-20",
+"estimated": true
+},
+"CASP|7245009PWS7YLG3JPF78": {
+"date": "2025-07-05",
+"estimated": true
+},
+"CASP|724500B2I1LR33CAWG54": {
+"date": "2024-12-30",
+"estimated": true
+},
+"CASP|724500BUG93MDFGYQG03": {
+"date": "2025-12-04",
+"estimated": true
+},
+"CASP|724500C4D3LQAKCEZ198": {
+"date": "2026-04-30",
+"estimated": true
+},
+"CASP|724500DMUDFJZNYNEF35": {
+"date": "2025-12-10",
+"estimated": true
+},
+"CASP|724500EAW1MTCM9M1X68": {
+"date": "2026-04-03",
+"estimated": true
+},
+"CASP|724500F2THLY5MHEIM78": {
+"date": "2026-09-21",
+"estimated": true
+},
+"CASP|724500G7QSOMFR1GQA47": {
+"date": "2025-12-10",
+"estimated": true
+},
+"CASP|724500GVWT7QULV8CR59": {
+"date": "2025-08-07",
+"estimated": true
+},
+"CASP|724500H1WRSMD7CAS549": {
+"date": "2025-11-24",
+"estimated": true
+},
+"CASP|724500J6RZI9SE1AAP41": {
+"date": "2025-12-10",
+"estimated": true
+},
+"CASP|724500MX2WBKDJP9HE56": {
+"date": "2025-06-30",
+"estimated": true
+},
+"CASP|724500QZRWKCU8D2L569": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|724500T7PFN30PF3ZQ87": {
+"date": "2025-06-30",
+"estimated": true
+},
+"CASP|724500UI8UD7HKGVJX65": {
+"date": "2025-07-24",
+"estimated": true
+},
+"CASP|724500YJVIN0Q94ZZG5": {
+"date": "2026-07-17",
+"estimated": true
+},
+"CASP|724500Z8JCXSX3351I94": {
+"date": "2026-06-29",
+"estimated": true
+},
+"CASP|7437009FHK501IOCWZ66": {
+"date": "2025-09-17",
+"estimated": true
+},
+"CASP|743700CHRVVP342JOA67": {
+"date": "2026-06-17",
+"estimated": true
+},
+"CASP|743700GULNWPBLJ7A022": {
+"date": "2025-10-20",
+"estimated": true
+},
+"CASP|743700PZG5RRF7SA4Q58": {
+"date": "2025-07-16",
+"estimated": true
+},
+"CASP|747800O0P6DFI8RSKT10": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|747800R015JVW1T4WZ71": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|7CUNS533WID6K7DGFI87": {
+"date": "2026-03-27",
+"estimated": true
+},
+"CASP|7KDSOB6Z0X4S67TMX170": {
+"date": "2026-01-27",
+"estimated": true
+},
+"CASP|7LTWFZYICNSX8D621K86": {
+"date": "2026-09-11",
+"estimated": true
+},
+"CASP|81560042B094A85D8F89": {
+"date": "2026-08-28",
+"estimated": true
+},
+"CASP|8156006C715AAACC5D19": {
+"date": "2026-05-06",
+"estimated": true
+},
+"CASP|815600C7E86B02BBE483": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|815600DCB0E8882D2314": {
+"date": "2026-06-10",
+"estimated": true
+},
+"CASP|815600F1E30AAB016171": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|851WYGNLUQLFZBSYGB56": {
+"date": "2025-10-20",
+"estimated": true
+},
+"CASP|8755007GZKOS1VJ6BZ82": {
+"date": "2026-07-21",
+"estimated": true
+},
+"CASP|875500ONK4E5XGIP7O24": {
+"date": "2026-03-26",
+"estimated": true
+},
+"CASP|8945000EH59XYZHK0B92": {
+"date": "2026-06-16",
+"estimated": true
+},
+"CASP|8945001TKX2A5OJMNR45": {
+"date": "2026-07-13",
+"estimated": true
+},
+"CASP|89450026TTLUZJV1XM36": {
+"date": "2026-06-15",
+"estimated": true
+},
+"CASP|89450036UW3ID72T1M84.": {
+"date": "2025-12-02",
+"estimated": true
+},
+"CASP|8945004PZEJSSPTTVB16": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|894500C1QM5XBU31PT95": {
+"date": "2025-10-27",
+"estimated": true
+},
+"CASP|894500CUU8Y0ZBG8DX95": {
+"date": "2026-09-21",
+"estimated": true
+},
+"CASP|894500FFZOA2AVGYOA88": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|894500ISUYBQF9I7BE66": {
+"date": "2025-12-11",
+"estimated": true
+},
+"CASP|894500IY99QLL9M0SR28": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|894500KQLQQYOD1PPX55": {
+"date": "2024-04-15",
+"estimated": true
+},
+"CASP|894500LM6DICD790FQ34": {
+"date": "2025-06-19",
+"estimated": true
+},
+"CASP|894500QKMN1PCG2V7U40": {
+"date": "2025-11-12",
+"estimated": true
+},
+"CASP|894500R5KSX3ZKIHSA46": {
+"date": "2025-12-04",
+"estimated": true
+},
+"CASP|894500R6HJP62BZX4M89": {
+"date": "2026-02-26",
+"estimated": true
+},
+"CASP|894500RKZ3TVTPIF7V84": {
+"date": "2025-06-30",
+"estimated": true
+},
+"CASP|894500ZVOL3A9LO8LN34": {
+"date": "2026-04-30",
+"estimated": true
+},
+"CASP|9598005WW6HZ4V82BZ26": {
+"date": "2026-08-17",
+"estimated": true
+},
+"CASP|9598007R5LSUJLGLS853": {
+"date": "2025-11-03",
+"estimated": true
+},
+"CASP|959800AZN23P7F30C189": {
+"date": "2026-07-09",
+"estimated": true
+},
+"CASP|959800AZT2DVBLZQY241": {
+"date": "2026-07-10",
+"estimated": true
+},
+"CASP|959800B6XCG14MKLTJ51": {
+"date": "2026-06-26",
+"estimated": true
+},
+"CASP|959800U0R44NN5DJC930": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|9695000VFDEG5Z4JIY48": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|9695001LQMTTVPIIQI05": {
+"date": "2026-07-28",
+"estimated": true
+},
+"CASP|96950023SCR9X9F3L662": {
+"date": "2025-06-23",
+"estimated": true
+},
+"CASP|9695003EKRFOMYXJQL11": {
+"date": "2025-10-23",
+"estimated": true
+},
+"CASP|9695005CVRZDK63ZST85": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|96950082Z6KUVA6TW686": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|969500A0DYUNF5NX9R84": {
+"date": "2026-01-23",
+"estimated": true
+},
+"CASP|969500A4IPKVUBH3CA90": {
+"date": "2025-10-23",
+"estimated": true
+},
+"CASP|969500CMLNBIVUUD9A09": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|969500D241WXU9J7MI33": {
+"date": "2026-06-22",
+"estimated": true
+},
+"CASP|969500DBF3ZL9U0KUA51": {
+"date": "2025-07-17",
+"estimated": true
+},
+"CASP|969500E5GFHK2RKF8251": {
+"date": "2026-05-07",
+"estimated": true
+},
+"CASP|969500FUWSKQEO5J7H72": {
+"date": "2026-06-12",
+"estimated": true
+},
+"CASP|969500FX8K40ZDW4F377": {
+"date": "2025-10-23",
+"estimated": true
+},
+"CASP|969500O878F3MGJCYV50": {
+"date": "2026-06-22",
+"estimated": true
+},
+"CASP|969500OA6NVZB5BXAB29": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|969500OYUDADGZKCR583": {
+"date": "2026-04-23",
+"estimated": true
+},
+"CASP|969500PQYLQG3CSJ5041": {
+"date": "2025-07-04",
+"estimated": true
+},
+"CASP|969500PTJJZTCE0I3B60": {
+"date": "2025-09-11",
+"estimated": true
+},
+"CASP|969500PZJWT3TD1SUI59": {
+"date": "2026-03-05",
+"estimated": true
+},
+"CASP|969500QH6WD4FO79B261": {
+"date": "2026-04-28",
+"estimated": true
+},
+"CASP|969500RQH18PU24DM081": {
+"date": "2026-07-06",
+"estimated": true
+},
+"CASP|969500TD4VXAOPXPVW02": {
+"date": "2026-02-05",
+"estimated": true
+},
+"CASP|969500UJSWU20FEXQ504": {
+"date": "2026-06-22",
+"estimated": true
+},
+"CASP|969500ULPB59U51BG334": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|969500USEY22T9ZZRQ98": {
+"date": "2026-06-30",
+"estimated": true
+},
+"CASP|969500VA4A8CRCS2N988": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|969500Y5SNO2WBYDB059": {
+"date": "2026-10-08",
+"estimated": true
+},
+"CASP|969500YKHZ31GZ7AAU02": {
+"date": "2026-09-15",
+"estimated": true
+},
+"CASP|9845000E4A7414709361": {
+"date": "2026-03-04",
+"estimated": true
+},
+"CASP|98450010C0CB6A4E8A79": {
+"date": "2026-04-07",
+"estimated": true
+},
+"CASP|9845001BAFC53ODN8C90": {
+"date": "2026-06-12",
+"estimated": true
+},
+"CASP|9845001DD90AF543DC90": {
+"date": "2025-12-04",
+"estimated": true
+},
+"CASP|9845002BEC2C588CC678": {
+"date": "2026-04-15",
+"estimated": true
+},
+"CASP|9845003B8462B18FHE35": {
+"date": "2026-08-21",
+"estimated": true
+},
+"CASP|9845003D98SCC2851458": {
+"date": "2025-06-25",
+"estimated": true
+},
+"CASP|9845003F777K7DFF4E96": {
+"date": "2026-08-10",
+"estimated": true
+},
+"CASP|98450043FB90T6REA408": {
+"date": "2025-12-19",
+"estimated": true
+},
+"CASP|984500457TABOA3BZ224": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|9845004E55FCFA069549": {
+"date": "2026-07-29",
+"estimated": true
+},
+"CASP|9845005X9B7N610K0093": {
+"date": "2025-02-06",
+"estimated": true
+},
+"CASP|9845006074DB79BFA392": {
+"date": "2026-03-02",
+"estimated": true
+},
+"CASP|984500640Z8ADE893D04": {
+"date": "2026-05-13",
+"estimated": true
+},
+"CASP|98450065E59FDCD93R40": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|98450066Q3A1G1A4T786": {
+"date": "2025-12-09",
+"estimated": true
+},
+"CASP|984500678DAPX7H3BC86": {
+"date": "2026-08-18",
+"estimated": true
+},
+"CASP|98450068F88BDF3E8D32": {
+"date": "2025-08-18",
+"estimated": true
+},
+"CASP|9845006A6CAABE4C0347": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|9845006D4F5D2E5F8554": {
+"date": "2026-07-23",
+"estimated": true
+},
+"CASP|9845007E2C96JA7B8653": {
+"date": "2026-09-29",
+"estimated": true
+},
+"CASP|9845007FA1A8E1DE3989": {
+"date": "2025-10-10",
+"estimated": true
+},
+"CASP|984500856AF4DF5FAT57": {
+"date": "2026-06-05",
+"estimated": true
+},
+"CASP|9845008E8QA4CCFE5F68": {
+"date": "2026-06-18",
+"estimated": true
+},
+"CASP|9845008O5EQ5A4B63R72": {
+"date": "2026-05-25",
+"estimated": true
+},
+"CASP|98450091A6D61FB36406": {
+"date": "2026-07-02",
+"estimated": true
+},
+"CASP|9845009846V10FGD4840": {
+"date": "2026-07-24",
+"estimated": true
+},
+"CASP|9845009F15A5B9FD7F45": {
+"date": "2026-05-28",
+"estimated": true
+},
+"CASP|9845009Q9DDAE03FDE38": {
+"date": "2026-07-17",
+"estimated": true
+},
+"CASP|984500A43E7FFC73CR76": {
+"date": "2026-09-10",
+"estimated": true
+},
+"CASP|984500A64C0EA64BC554": {
+"date": "2026-06-19",
+"estimated": true
+},
+"CASP|984500AA963ED2BA8460": {
+"date": "2025-05-20",
+"estimated": true
+},
+"CASP|984500AB011S3AEF6706": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|984500AEBA8A0HQ44988": {
+"date": "2026-07-10",
+"estimated": true
+},
+"CASP|984500BA521C5EMR1D63": {
+"date": "2026-06-25",
+"estimated": true
+},
+"CASP|984500C0OE94NDA81B62": {
+"date": "2026-05-18",
+"estimated": true
+},
+"CASP|984500C3A855AC77FE74": {
+"date": "2026-07-17",
+"estimated": true
+},
+"CASP|984500C46B3B7B69Y904": {
+"date": "2026-07-17",
+"estimated": true
+},
+"CASP|984500CFB88366E9B834": {
+"date": "2026-07-03",
+"estimated": true
+},
+"CASP|984500D4465EFA89EF38": {
+"date": "2026-06-29",
+"estimated": true
+},
+"CASP|984500D6A0F945BB5A15": {
+"date": "2025-10-21",
+"estimated": true
+},
+"CASP|984500DCB2AF415E5Y71": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|984500DD714F66B77454": {
+"date": "2026-03-04",
+"estimated": true
+},
+"CASP|984500DEID7B03J77118": {
+"date": "2025-06-05",
+"estimated": true
+},
+"CASP|984500EBA2E9980CDD80": {
+"date": "2025-09-11",
+"estimated": true
+},
+"CASP|984500EBL33F46CBF732": {
+"date": "2026-05-21",
+"estimated": true
+},
+"CASP|984500F14CA4571AAC11": {
+"date": "2026-01-22",
+"estimated": true
+},
+"CASP|984500F4C47H19274320": {
+"date": "2026-10-02",
+"estimated": true
+},
+"CASP|984500F6A0762F9LA923": {
+"date": "2026-07-01",
+"estimated": true
+},
+"CASP|984500F75CJ82D8B7D76": {
+"date": "2025-12-16",
+"estimated": true
+},
+"CASP|984500F9M4XF7C5E5E25": {
+"date": "2026-05-29",
+"estimated": true
+},
+"CASP|984500FBAE2EDEF1C317": {
+"date": "2026-09-17",
+"estimated": true
+},
+"CASP|984500FD0NZ8949F4363": {
+"date": "2025-12-18",
+"estimated": true
+},
+"CASP|984500G55775959B9C37": {
+"date": "2026-09-25",
+"estimated": true
+},
+"CASP|984500I2EA955E934537": {
+"date": "2026-07-15",
+"estimated": true
+},
+"CASP|984500NB7D12BC5B4A79": {
+"date": "2026-06-03",
+"estimated": true
+},
+"CASP|K8MS7FD7N5Z2WQ51AZ71": {
+"date": "2026-03-07",
+"estimated": true
+},
+"CASP|MMYX0N4ZEZ13Z4XCG897": {
+"date": "2026-07-20",
+"estimated": true
+},
+"CASP|bcashsocieteanonyme": {
+"date": "2026-07-01",
+"estimated": true
+},
+"CASP|capitalwalletgreecesa": {
+"date": "2026-07-23",
+"estimated": true
+},
+"CASP|xeniosblockchaingroupsa": {
+"date": "2026-07-23",
+"estimated": true
+},
+"EMT|213800W1NGBLERUS6M39": {
+"date": "2019-10-29",
+"estimated": true
+},
+"EMT|2549003QDNZWASSSCY31": {
+"date": "2026-01-09",
+"estimated": true
+},
+"EMT|254900MVWQXMF77YZP65": {
+"date": "2026-07-29",
+"estimated": true
+},
+"EMT|254900VUR90QF0G3T387": {
+"date": "2025-12-18",
+"estimated": true
+},
+"EMT|254900XFMACGD0L7AI73": {
+"date": "2025-04-18",
+"estimated": true
+},
+"EMT|2594008EL5UN8RIA8P23": {
+"date": "2025-09-08",
+"estimated": true
+},
+"EMT|315700IJDQF91J9C8B68": {
+"date": "2025-10-30",
+"estimated": true
+},
+"EMT|3912007G8L8CD3HFIV26": {
+"date": "2026-02-13",
+"estimated": true
+},
+"EMT|48510062OP64BYKPNO22": {
+"date": "2026-08-07",
+"estimated": true
+},
+"EMT|549300V4H4USWZUCE073": {
+"date": "2026-03-12",
+"estimated": true
+},
+"EMT|6488GKH17O8XT1326F66": {
+"date": "2026-03-21",
+"estimated": true
+},
+"EMT|72450039GAIN4MNI4V12": {
+"date": "2026-05-26",
+"estimated": true
+},
+"EMT|7245008P1HPUPVM7XL94": {
+"date": "2026-04-15",
+"estimated": true
+},
+"EMT|724500GVWT7QULV8CR59": {
+"date": "2024-10-02",
+"estimated": true
+},
+"EMT|743700KYSSTKZYGEUF50": {
+"date": "2025-07-04",
+"estimated": true
+},
+"EMT|875500AX7AO0XVYSQD64": {
+"date": "2026-01-13",
+"estimated": true
+},
+"EMT|8945001XWFMRUTCAK575": {
+"date": "2025-02-17",
+"estimated": true
+},
+"EMT|96950023SCR9X9F3L662": {
+"date": "2026-06-30",
+"estimated": true
+},
+"EMT|9695002I9DJHZ3449O66": {
+"date": "2026-01-27",
+"estimated": true
+},
+"EMT|969500FX8K40ZDW4F377": {
+"date": "2025-08-11",
+"estimated": true
+},
+"EMT|969500OYUDADGZKCR583": {
+"date": "2025-12-24",
+"estimated": true
+},
+"EMT|969500SGAEBRXYUAJ739": {
+"date": "2026-03-23",
+"estimated": true
+},
+"EMT|984500A64C0EA64BC554": {
+"date": "2025-03-24",
+"estimated": true
+},
+"EMT|984500AA0OCA9CE0D796": {
+"date": "2025-12-03",
+"estimated": true
+},
+"EMT|984500DB91E5A48E7F26": {
+"date": "2026-03-02",
+"estimated": true
+},
+"Non-compliant|01luhar": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|03wakih": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|09pqws": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|12def": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|3vk1o5": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|78def": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|78yzb": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|adan82": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|aes332": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|akq": {
+"date": "2025-03-20",
+"estimated": true
+},
+"Non-compliant|alphacapital": {
+"date": "2025-11-25",
+"estimated": true
+},
+"Non-compliant|arbismartuab": {
+"date": "2025-05-05",
+"estimated": true
+},
+"Non-compliant|argoninternational": {
+"date": "2025-03-20",
+"estimated": true
+},
+"Non-compliant|asd967": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|asdd952": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|atomicwallet": {
+"date": "2025-07-17",
+"estimated": true
+},
+"Non-compliant|aurumfoundation": {
+"date": "2026-09-07",
+"estimated": true
+},
+"Non-compliant|awe818": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|aziovale": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|bankbit": {
+"date": "2026-09-07",
+"estimated": true
+},
+"Non-compliant|beratcoin": {
+"date": "2025-05-22",
+"estimated": true
+},
+"Non-compliant|bhp536": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|bitgptapp": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|bithfpro": {
+"date": "2026-09-07",
+"estimated": true
+},
+"Non-compliant|blockbyteq": {
+"date": "2025-05-05",
+"estimated": true
+},
+"Non-compliant|bng373": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|bvoxed": {
+"date": "2025-05-22",
+"estimated": true
+},
+"Non-compliant|c7viz": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|caa871": {
+"date": "2025-04-03",
+"estimated": true
+},
+"Non-compliant|cdx818": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|cervorendisco": {
+"date": "2026-07-31",
+"estimated": true
+},
+"Non-compliant|cexrqwcom": {
+"date": "2025-07-17",
+"estimated": true
+},
+"Non-compliant|cfsd123": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|cfw896": {
+"date": "2025-06-05",
+"estimated": true
+},
+"Non-compliant|coinbankexchange": {
+"date": "2025-03-06",
+"estimated": true
+},
+"Non-compliant|coingridrtop": {
+"date": "2025-06-26",
+"estimated": true
+},
+"Non-compliant|coronafondenza": {
+"date": "2026-07-31",
+"estimated": true
+},
+"Non-compliant|cryptoin24": {
+"date": "2025-11-25",
+"estimated": true
+},
+"Non-compliant|derokauab": {
+"date": "2025-03-27",
+"estimated": true
+},
+"Non-compliant|dfg789": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|dfh226": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|dfh258": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|dfw222": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|dobibo": {
+"date": "2025-10-10",
+"estimated": true
+},
+"Non-compliant|drst78": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|druvaxio": {
+"date": "2025-12-16",
+"estimated": true
+},
+"Non-compliant|dsg158": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|dshs82": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|dss776": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|dtsocializeholdingplc": {
+"date": "2025-03-27",
+"estimated": true
+},
+"Non-compliant|dxago": {
+"date": "2026-09-07",
+"estimated": true
+},
+"Non-compliant|dxge85": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|dxz175": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|egalitebond": {
+"date": "2025-05-05",
+"estimated": true
+},
+"Non-compliant|egplusvip": {
+"date": "2025-05-05",
+"estimated": true
+},
+"Non-compliant|entratezza": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|epicmaxaltneo": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|ere316": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|erw326": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|ery357": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|eryxavin": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|etww78": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|ewds66": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|ewq778": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|ewtd55": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|fameexn": {
+"date": "2025-03-20",
+"estimated": true
+},
+"Non-compliant|fgd326": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|fgj329": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|fhd016": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|fhf326": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|flandenzo": {
+"date": "2026-07-31",
+"estimated": true
+},
+"Non-compliant|fortevalbit": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|fortunezza": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|frame2uavapro": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|gdy733": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|gff612": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|gfj123": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|gigtaskr": {
+"date": "2025-06-26",
+"estimated": true
+},
+"Non-compliant|gjg258": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|gkj159": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|globaldynamictrade": {
+"date": "2026-09-07",
+"estimated": true
+},
+"Non-compliant|grt325": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|hct685": {
+"date": "2025-06-13",
+"estimated": true
+},
+"Non-compliant|hgj258": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|hjk172": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|htxcoinaz": {
+"date": "2025-03-06",
+"estimated": true
+},
+"Non-compliant|interersosinteresosf": {
+"date": "2025-05-22",
+"estimated": true
+},
+"Non-compliant|interersosit": {
+"date": "2025-07-17",
+"estimated": true
+},
+"Non-compliant|jgcmgs": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|jmy999": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|jzmor": {
+"date": "2025-10-10",
+"estimated": true
+},
+"Non-compliant|kapidexnx": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|kortex": {
+"date": "2026-07-13",
+"estimated": true
+},
+"Non-compliant|ksdf12": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|l88159": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|lucrumiagroup": {
+"date": "2025-12-16",
+"estimated": true
+},
+"Non-compliant|lucrumiagroupco": {
+"date": "2025-10-10",
+"estimated": true
+},
+"Non-compliant|lumex": {
+"date": "2025-06-05",
+"estimated": true
+},
+"Non-compliant|lwex": {
+"date": "2025-05-30",
+"estimated": true
+},
+"Non-compliant|m1gqv": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|mexcglobal": {
+"date": "2025-09-25",
+"estimated": true
+},
+"Non-compliant|mju567": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|networkcapitalltd": {
+"date": "2025-10-10",
+"estimated": true
+},
+"Non-compliant|nextrizeinvest": {
+"date": "2026-09-16",
+"estimated": true
+},
+"Non-compliant|niufo": {
+"date": "2025-11-25",
+"estimated": true
+},
+"Non-compliant|ofuyc": {
+"date": "2025-10-20",
+"estimated": true
+},
+"Non-compliant|orolonixinvestcomcyberirfyicu": {
+"date": "2025-10-20",
+"estimated": true
+},
+"Non-compliant|oxelvian": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|patrimera": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|paycraftvtoppaycraftntop": {
+"date": "2025-03-06",
+"estimated": true
+},
+"Non-compliant|portafica": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|pxm266": {
+"date": "2025-06-05",
+"estimated": true
+},
+"Non-compliant|r4mox": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|rangoopularis": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|reg775": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|rer221": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|rer885": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|reversalinvestmentgroup": {
+"date": "2026-07-13",
+"estimated": true
+},
+"Non-compliant|rsd996": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|rtut62": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|rye036": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|rye326": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|ryr888": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|sdd316": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|sdf837": {
+"date": "2025-04-03",
+"estimated": true
+},
+"Non-compliant|sdh878": {
+"date": "2025-06-13",
+"estimated": true
+},
+"Non-compliant|sds031": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|sds323": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|sdtg99": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|sfs854": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|sjcj11": {
+"date": "2025-12-09",
+"estimated": true
+},
+"Non-compliant|skillnexp": {
+"date": "2025-06-13",
+"estimated": true
+},
+"Non-compliant|spaziofinanziario": {
+"date": "2025-09-29",
+"estimated": true
+},
+"Non-compliant|stockcreditwallet": {
+"date": "2025-03-06",
+"estimated": true
+},
+"Non-compliant|streamherplexnx": {
+"date": "2026-05-18",
+"estimated": true
+},
+"Non-compliant|sxr922": {
+"date": "2025-06-26",
+"estimated": true
+},
+"Non-compliant|sybz": {
+"date": "2025-04-03",
+"estimated": true
+},
+"Non-compliant|syk755": {
+"date": "2025-06-05",
+"estimated": true
+},
+"Non-compliant|tmxa": {
+"date": "2025-06-05",
+"estimated": true
+},
+"Non-compliant|tnt788": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|tnt882": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|trut88": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|tut551": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|tuu158": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|tyt827": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|tyu105": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|uiu258": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|uyr968fwq367": {
+"date": "2025-06-05",
+"estimated": true
+},
+"Non-compliant|valoranco": {
+"date": "2026-04-07",
+"estimated": true
+},
+"Non-compliant|veltrixmaxinvestcomayquozebercom": {
+"date": "2025-10-20",
+"estimated": true
+},
+"Non-compliant|wes218": {
+"date": "2025-10-27",
+"estimated": true
+},
+"Non-compliant|whitemintfinancialcompanysro": {
+"date": "2026-09-14",
+"estimated": true
+},
+"Non-compliant|xur652": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|xzd316": {
+"date": "2026-06-25",
+"estimated": true
+},
+"Non-compliant|ymg686": {
+"date": "2025-06-13",
+"estimated": true
+},
+"Non-compliant|ynlncom": {
+"date": "2025-09-29",
+"estimated": true
+},
+"Non-compliant|yqz585": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|yth937": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|ytt975": {
+"date": "2025-09-18",
+"estimated": true
+},
+"Non-compliant|yue157": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|yui236": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|yuu369": {
+"date": "2026-02-02",
+"estimated": true
+},
+"Non-compliant|yuy257": {
+"date": "2026-03-25",
+"estimated": true
+},
+"Non-compliant|yyt369": {
+"date": "2026-05-04",
+"estimated": true
+},
+"Non-compliant|yza335": {
+"date": "2025-07-31",
+"estimated": true
+},
+"Non-compliant|zeriafunding": {
+"date": "2026-09-07",
+"estimated": true
+},
+"Non-compliant|zerotrillionworld": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|zgv796": {
+"date": "2025-07-11",
+"estimated": true
+},
+"Non-compliant|zzcoin": {
+"date": "2025-10-20",
+"estimated": true
+},
+"Non-compliant|zzx726": {
+"date": "2026-05-04",
+"estimated": true
+}
+}

@@ -88,6 +88,29 @@ def classify(r, overrides):
     return "B2C", why
 
 
+FIRST_SEEN = OUT.parent / "mica_first_seen.json"
+TRACKING_START = "2026-10-08"  # first import; entries present then get ESMA's last-update date as an estimate
+
+
+def entry_key(r):
+    return r["licence_type"] + "|" + (r["lei"] or re.sub(r"\W+", "", r["company"].lower()))
+
+
+def apply_added(records):
+    """Date each entry first appeared on the ESMA register, frozen once recorded.
+    New entries get today's date (refresh runs twice daily); the original baseline uses ESMA's last-update date."""
+    seen = json.loads(FIRST_SEEN.read_text()) if FIRST_SEEN.exists() else {}
+    today = datetime.now(timezone.utc).date().isoformat()
+    for r in records:
+        k = entry_key(r)
+        if k not in seen:
+            baseline = not FIRST_SEEN.exists()
+            seen[k] = {"date": min(r["last_update"] or r["authorised"] or TRACKING_START, TRACKING_START) if baseline else today,
+                       "estimated": baseline}
+        r["added"], r["added_estimated"] = seen[k]["date"], seen[k]["estimated"]
+    FIRST_SEEN.write_text(json.dumps(dict(sorted(seen.items())), ensure_ascii=False, indent=0))
+
+
 def apply_b2c(records):
     overrides = json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}
     for r in records:
@@ -98,6 +121,8 @@ def main():
     if "--reclassify" in sys.argv:
         d = json.loads(OUT.read_text())
         apply_b2c(d["records"])
+        apply_added(d["records"])
+        d["records"].sort(key=lambda x: (x["added"], x["authorised"], x["company"]), reverse=True)
         OUT.write_text(json.dumps(d, ensure_ascii=False, indent=1))
         return
     records, counts = [], {}
@@ -148,7 +173,8 @@ def main():
         if prev >= MIN_CASPS and len(records) < prev * (1 - MAX_DROP):
             sys.exit(f"FAIL: records dropped from {prev} to {len(records)}; keeping existing data.")
     apply_b2c(records)
-    records.sort(key=lambda x: (x["authorised"], x["company"]), reverse=True)
+    apply_added(records)
+    records.sort(key=lambda x: (x["added"], x["authorised"], x["company"]), reverse=True)
     OUT.parent.mkdir(exist_ok=True)
     if OUT.exists():
         try:
