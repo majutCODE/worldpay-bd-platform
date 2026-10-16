@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:42+00:00",
+ "fetched_at": "2026-10-16T18:13+00:00",
  "failures": [],
  "events": [
   {
@@ -76,7 +76,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/pm/c960a4a7-f078-4d3b-a7d6-f1191fa8d355.png"
+   "image": "https://images.lumacdn.com/uploads/oy/ff13af8b-ff24-4fe6-bc68-ccfbb463bf7c.png"
   },
   {
    "title": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
@@ -198,21 +198,6 @@
    ],
    "online": true,
    "image": ""
-  },
-  {
-   "title": "House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito",
-   "start": "2026-10-29T17:00+00:00",
-   "end": "2026-10-29T19:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/HoS-Workshops-Jito",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/gw/aa406fd4-abdd-4377-b2bb-0d01b2f4e8db.png"
   },
   {
    "title": "ZK Learning Group: Quantum resistance and ZKP",
@@ -409,21 +394,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
-  },
-  {
-   "title": "BORN UP — DAS London Community Networking Meetup",
-   "start": "2026-11-10T11:30+00:00",
-   "end": "2026-11-10T12:00+00:00",
-   "city": "London",
-   "venue": "London Hilton on Park Lane",
-   "url": "https://lu.ma/bornlive-zoju",
-   "source": "Luma",
-   "organiser": "BORN.LIVE | Global Conferences, Side Events & Networking",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/6x/ff59580a-7be4-4e60-a312-ab66417ed7ef.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -694,6 +664,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/j2/8c283919-7e09-4069-896a-59926d0f0423.png"
+  },
+  {
+   "title": "Solana Breakpoint Security Drinks - by Fidesium",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "121 Hammersmith Rd",
+   "url": "https://lu.ma/lajgsnqb",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
    "title": "GGC: GMGN Global Championships - London Finals",
