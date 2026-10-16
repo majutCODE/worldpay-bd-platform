@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:54+00:00",
+ "fetched_at": "2026-10-16T18:21+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,10 +17,26 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 558
+  "CH": 559
  },
  "failures": [],
  "records": [
+  {
+   "company": "East Coast Comps Limited",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17526431",
+   "status": "Active",
+   "incorporated": "2026-10-16",
+   "sic": [
+    "92000 Gambling and betting"
+   ],
+   "address": "9 Capel Hall Lane, Trimley St. Martin, Felixstowe, England IP11 0RB",
+   "date": "2026-10-16",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Wedding Draws Ltd",
    "trading_as": "",
