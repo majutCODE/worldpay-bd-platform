@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T12:06+00:00",
+ "fetched_at": "2026-10-16T11:54+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 559
+  "CH": 558
  },
  "failures": [],
  "records": [
@@ -11218,22 +11218,6 @@
    ],
    "address": "Apartment 29 Chandlers Edge, Grosvenor Wharf Road, Ellesmere Port, United Kingdom CH65 4AL",
    "date": "2024-10-19",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
-   "company": "Prizes Made For You Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "SC825873",
-   "status": "Active",
-   "incorporated": "2024-10-15",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "51 Holm Dell Road, Inverness, Scotland IV21 4GS",
-   "date": "2024-10-15",
    "date_kind": "incorporated",
    "b2c": true
   }
