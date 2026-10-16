@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T18:26+00:00",
+ "fetched_at": "2026-10-16T11:42+00:00",
  "failures": [],
  "events": [
   {
@@ -46,6 +46,22 @@
    ],
    "online": false,
    "image": ""
+  },
+  {
+   "title": "The Ghosts Pub Quiz",
+   "start": "2026-10-19T18:00+00:00",
+   "end": "2026-10-19T20:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/p9ctytdq",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.unsplash.com/photo-1635442021460-f6ebd6eb9427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw2fHxHaG9zdHN8ZW58MHx8fHwxNzkxMjk4NDg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
    "title": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
@@ -138,6 +154,22 @@
    "image": "https://images.lumacdn.com/uploads/pk/8150f438-fc04-4e84-b3c4-0095e1796e1a.png"
   },
   {
+   "title": "The Ooky Spooky Hallowooky Pub Quiz",
+   "start": "2026-10-26T19:00+00:00",
+   "end": "2026-10-26T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/7bfj8g60",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
+  },
+  {
    "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
    "start": "2026-10-28T18:00+00:00",
    "end": "2026-10-28T21:00+00:00",
@@ -211,6 +243,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/us/872fe78e-c0aa-4f08-b842-21d764285064.jpg"
+  },
+  {
+   "title": "The Guy Fawkes Pub Quiz",
+   "start": "2026-11-02T19:00+00:00",
+   "end": "2026-11-02T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/c0psxrnt",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/id/4508794e-fd01-41db-aa9b-1c0c0af117c0.jpg"
   },
   {
    "title": "BFC Symposium Amsterdam",
@@ -378,21 +426,6 @@
    "image": "https://images.lumacdn.com/uploads/6x/ff59580a-7be4-4e60-a312-ab66417ed7ef.png"
   },
   {
-   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T21:00+00:00",
-   "city": "London",
-   "venue": "Reed Smith",
-   "url": "https://lu.ma/cryptouk-36w1",
-   "source": "Luma",
-   "organiser": "CryptoUK",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2t/b0fa8b7b-b2b6-4c47-bc02-41487882287f.png"
-  },
-  {
    "title": "SCRYPT Private Dinner, DAS London",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T23:30+00:00",
@@ -406,6 +439,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
+  },
+  {
+   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T21:00+00:00",
+   "city": "London",
+   "venue": "Reed Smith",
+   "url": "https://lu.ma/cryptouk-36w1",
+   "source": "Luma",
+   "organiser": "CryptoUK",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2t/b0fa8b7b-b2b6-4c47-bc02-41487882287f.png"
   },
   {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
@@ -466,21 +514,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/wz/58b5a4de-ba04-409f-9f6b-4833a8b61ea1.png"
-  },
-  {
-   "title": "Filibuster DAO · Genesis Sitting",
-   "start": "2026-11-11T19:00+00:00",
-   "end": "2026-11-11T23:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/0f9i1675",
-   "source": "Luma",
-   "organiser": "Filibuster DAO",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/t6/dcb864b1-b7f6-47b7-9429-9cfad87f9625.png"
   },
   {
    "title": "Solana Demo Day | London 2026",
@@ -556,6 +589,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ya/55315312-4b26-4b79-be90-7c38556ac574.jpg"
+  },
+  {
+   "title": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
+   "start": "2026-11-14T11:00+00:00",
+   "end": "2026-11-14T17:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/a4qnux81",
+   "source": "Luma",
+   "organiser": "BackersStage Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/nw/fec5f87d-24df-431a-9e3e-003aad8b748e.png"
   },
   {
    "title": "Breakpoint Crypto Padel Morning",
@@ -783,6 +831,21 @@
    "image": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png"
   },
   {
+   "title": "Your Personal Brand is the Asset · A CWC Branding Studio with Emily Mattaka",
+   "start": "2026-11-26T16:30+00:00",
+   "end": "2026-11-26T21:00+00:00",
+   "city": "Amsterdam",
+   "venue": "MINA Gallery & Cafe",
+   "url": "https://lu.ma/998tw03h",
+   "source": "Luma",
+   "organiser": "Crypto Women Collective",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/cs/115e4dc4-fa93-4844-a9ed-cc8576b7acc6.jpg"
+  },
+  {
    "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
    "start": "2026-11-27T10:00+00:00",
    "end": "2026-11-27T12:00+00:00",
@@ -842,6 +905,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
+  },
+  {
+   "title": "The Nativity Pub Quiz",
+   "start": "2026-12-21T19:00+00:00",
+   "end": "2026-12-21T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/zvi12pf7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Impact Amsterdam",
