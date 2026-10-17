@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T11:01+00:00",
+ "fetched_at": "2026-10-17T17:22+00:00",
  "failures": [],
  "events": [
   {
@@ -227,22 +227,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/us/872fe78e-c0aa-4f08-b842-21d764285064.jpg"
-  },
-  {
-   "title": "The Guy Fawkes Pub Quiz",
-   "start": "2026-11-02T19:00+00:00",
-   "end": "2026-11-02T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/c0psxrnt",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/id/4508794e-fd01-41db-aa9b-1c0c0af117c0.jpg"
   },
   {
    "title": "BFC Symposium Amsterdam",
