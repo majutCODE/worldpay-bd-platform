@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-17T17:22+00:00",
+ "fetched_at": "2026-10-18T11:27+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Real-Time Video Agents Hack - LDN",
-   "start": "2026-10-17T07:30+00:00",
-   "end": "2026-10-17T17:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/vastlondon",
-   "source": "Luma",
-   "organiser": "tokens&",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/o8/389e9f54-e4e3-4cd9-9b3d-53ab5a95f972.png"
-  },
   {
    "title": "Stablecoins Grow Up: From Crypto Rails to Real-World Money",
    "start": "2026-10-19T17:30+00:00",
@@ -182,21 +167,6 @@
    ],
    "online": true,
    "image": ""
-  },
-  {
-   "title": "House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito",
-   "start": "2026-10-29T17:00+00:00",
-   "end": "2026-10-29T19:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/HoS-Workshops-Jito",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/gw/aa406fd4-abdd-4377-b2bb-0d01b2f4e8db.png"
   },
   {
    "title": "ZK Learning Group: Quantum resistance and ZKP",
@@ -664,7 +634,7 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "GGC: GMGN Global Championships - London Finals",
+   "title": "GGC: GMGN Global Championship - London Finals",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T21:00+00:00",
    "city": "London",
