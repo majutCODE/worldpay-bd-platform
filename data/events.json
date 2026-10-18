@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:27+00:00",
+ "fetched_at": "2026-10-18T17:26+00:00",
  "failures": [],
  "events": [
   {
@@ -347,6 +347,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
+  },
+  {
+   "title": "BORN UP — DAS London Community Networking Meetup",
+   "start": "2026-11-10T11:30+00:00",
+   "end": "2026-11-10T12:00+00:00",
+   "city": "London",
+   "venue": "London Hilton on Park Lane",
+   "url": "https://lu.ma/bornlive-zoju",
+   "source": "Luma",
+   "organiser": "BORN.LIVE | Global Conferences, Side Events & Networking",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6x/ff59580a-7be4-4e60-a312-ab66417ed7ef.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
