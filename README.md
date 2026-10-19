@@ -32,3 +32,9 @@ Each regulator is fetched separately: one failing keeps its last good data, the 
 Click any company name in a licence table to open its profile: every licence it holds across verticals (matched by name, ignoring legal suffixes, and by shared website), its websites, detected payment providers, and LinkedIn / Companies House search links. LinkedIn people data can't be pulled in legitimately, so those are pre-filled searches.
 
 `scripts/detect_psp.py` scans the websites of B2C licence holders in every `data/*.json` licence file (homepage plus up to five payment, FAQ, privacy and terms pages) and writes `data/psp.json`. It flags acquirers (Stripe, Adyen, Nuvei, Checkout.com, Worldpay, Paysafe…), crypto on-ramps, open banking and wallets. Evidence is `script` (provider code loads on the site), `header` (provider allowed in the Content-Security-Policy) or `mention` (named or logo shown). Checkout pages behind login can't be seen, so "none found" means none visible publicly. Each domain is rescanned every 14 days; `.github/workflows/refresh-psp.yml` runs daily at 07:00 UTC, failures open an issue labelled `psp-refresh-failure`.
+
+## Target lists
+
+`verticals/target-lists.js` (Team > Target lists) lets BDs and SDRs build named lists of companies, shared with everyone. The `+` next to any company name in a tracker or profile adds it to a list. Each entry has a status, note, source tracker and who added it; lists export to CSV.
+
+Storage is a private Vercel Blob store connected to the project (`BLOB_READ_WRITE_TOKEN`), read and written by `api/lists.js`, one blob per list. Identity is a name saved in each browser; only a list's owner sees Rename and Delete.
