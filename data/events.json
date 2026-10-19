@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:44+00:00",
+ "fetched_at": "2026-10-19T20:01+00:00",
  "failures": [],
  "events": [
   {
@@ -16,21 +16,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/qc/da97d12d-bd2f-4d52-aad4-10063d11d001.png"
-  },
-  {
-   "title": "CryptoMondays London",
-   "start": "2026-10-19T17:30+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/cryptomondayslondon/events/316648115/",
-   "source": "Meetup",
-   "organiser": "CryptoMondays London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": ""
   },
   {
    "title": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
@@ -106,22 +91,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/pk/8150f438-fc04-4e84-b3c4-0095e1796e1a.png"
-  },
-  {
-   "title": "The Ooky Spooky Hallowooky Pub Quiz",
-   "start": "2026-10-26T19:00+00:00",
-   "end": "2026-10-26T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/7bfj8g60",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
   },
   {
    "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
@@ -406,7 +375,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/yl/02c113b5-9892-4336-8735-62a47072ada8.png"
+   "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
    "title": "Banking & Payments Dinner by Utila, Cryptio & Velocity",
