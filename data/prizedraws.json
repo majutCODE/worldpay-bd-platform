@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T18:21+00:00",
+ "fetched_at": "2026-10-19T20:13+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,10 +17,28 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 559
+  "CH": 560
  },
- "failures": [],
+ "failures": [
+  "DCMS: operator signatories heading not found"
+ ],
  "records": [
+  {
+   "company": "Giving Back Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17529683",
+   "status": "Active",
+   "incorporated": "2026-10-19",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "Unit 17 Railway Road, Darwen, England BB3 3EH",
+   "date": "2026-10-19",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "East Coast Comps Limited",
    "trading_as": "",
