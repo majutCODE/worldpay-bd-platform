@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T17:26+00:00",
+ "fetched_at": "2026-10-19T13:44+00:00",
  "failures": [],
  "events": [
   {
@@ -91,21 +91,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ls/c4f07d6b-8e59-468d-aa84-e408976592b0.png"
-  },
-  {
-   "title": "The Gentlemen’s Business Circle — An Evening at Palm Beach Casino  🥃",
-   "start": "2026-10-22T18:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/the-gentlemen-s-business-circle/events/316942560/",
-   "source": "Meetup",
-   "organiser": "THE GENTLEMEN’S BUSINESS CIRCLE",
-   "verticals": [
-    "gaming"
-   ],
-   "online": false,
-   "image": ""
   },
   {
    "title": "Decode & Detect: The XRPL AI Hack",
@@ -304,6 +289,21 @@
    "image": ""
   },
   {
+   "title": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
+   "start": "2026-11-06T17:00+00:00",
+   "end": "2026-11-06T21:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Pllek",
+   "url": "https://lu.ma/azrnakmq",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/yh/d2e74ac6-fe24-4f35-ab85-ec66ba9c50b4.jpg"
+  },
+  {
    "title": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
    "start": "2026-11-09T16:00+00:00",
    "end": "2026-11-09T17:00+00:00",
@@ -439,7 +439,7 @@
    "image": "https://images.lumacdn.com/uploads/lu/4654a487-c8d5-4978-a8e4-d1e3879ffbd1.png"
   },
   {
-   "title": "AWIC x DAS London Event",
+   "title": "AWIC x DAS London Panel \"Phantom Assets: Counterfeit Tokens, Collateral Risk and Digital Asset Resilience\"",
    "start": "2026-11-11T09:00+00:00",
    "end": "2026-11-11T10:00+00:00",
    "city": "London",
@@ -451,7 +451,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/wz/58b5a4de-ba04-409f-9f6b-4833a8b61ea1.png"
+   "image": "https://images.lumacdn.com/uploads/7o/a0458a32-746a-4f48-8c74-2d7a25fea67c.jpg"
   },
   {
    "title": "Solana Demo Day | London 2026",
@@ -542,6 +542,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/nw/fec5f87d-24df-431a-9e3e-003aad8b748e.png"
+  },
+  {
+   "title": "\"Surprise Me\" Ideas Coffee | Zee Prime Capital @ Breakpoint",
+   "start": "2026-11-15T09:00+00:00",
+   "end": "2026-11-15T19:00+00:00",
+   "city": "London",
+   "venue": "Hyatt Regency London Olympia",
+   "url": "https://lu.ma/6tmorkog",
+   "source": "Luma",
+   "organiser": "Zee Prime Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ns/3a1d225d-69db-4b8b-9e81-2f60211f19d0.jpg"
   },
   {
    "title": "Breakpoint Crypto Padel Morning",
@@ -679,6 +694,21 @@
    "image": "https://images.lumacdn.com/uploads/i5/89d46cf6-903a-42c8-9202-635db0b231e3.png"
   },
   {
+   "title": "House of Sol: Breakpoint",
+   "start": "2026-11-16T18:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "Old Sessions House",
+   "url": "https://lu.ma/hos-breakpoint",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/j3/e8472d0e-a7f5-45cd-b446-0b26e5121901.png"
+  },
+  {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
    "start": "2026-11-16T19:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -769,6 +799,21 @@
    "image": "https://images.lumacdn.com/uploads/zm/d08e94ce-f4f2-4dee-a0e5-b2eb9422dbf5.png"
   },
   {
+   "title": "Blockchain Banter Presents: Web3 Poker Club x Wifey - Wolfpack Poker Night",
+   "start": "2026-11-19T18:00+00:00",
+   "end": "2026-11-19T23:00+00:00",
+   "city": "London",
+   "venue": "Wolfy's Bar",
+   "url": "https://lu.ma/7q5g8hwc",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/3l/0ad2c27e-4cef-459c-b698-a64a9d828017.jpg"
+  },
+  {
    "title": "Crypto Dinner - Amsterdam",
    "start": "2026-11-20T17:30+00:00",
    "end": "2026-11-20T20:00+00:00",
@@ -782,6 +827,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png"
+  },
+  {
+   "title": "The Lady Gaga Pub Quiz with Seb Darke",
+   "start": "2026-11-23T19:30+00:00",
+   "end": "2026-11-23T21:30+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/pmcxckar",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/va/5a940f0c-4612-4925-be73-f2003dad140b.jpg"
   },
   {
    "title": "Your Personal Brand is the Asset · A CWC Branding Studio with Emily Mattaka",
