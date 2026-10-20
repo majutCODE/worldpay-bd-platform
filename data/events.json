@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-19T20:01+00:00",
+ "fetched_at": "2026-10-20T11:54+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Stablecoins Grow Up: From Crypto Rails to Real-World Money",
-   "start": "2026-10-19T17:30+00:00",
-   "end": "2026-10-19T20:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/56472dr4",
-   "source": "Luma",
-   "organiser": "CryptoMondays London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/qc/da97d12d-bd2f-4d52-aad4-10063d11d001.png"
-  },
   {
    "title": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
    "start": "2026-10-20T17:30+00:00",
@@ -395,7 +380,7 @@
   {
    "title": "CRYMBO × Orbs: An Evening Reception",
    "start": "2026-11-10T19:00+00:00",
-   "end": "2026-11-10T22:00+00:00",
+   "end": "2026-11-10T23:00+00:00",
    "city": "London",
    "venue": "",
    "url": "https://lu.ma/048ehkci",
@@ -496,21 +481,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ya/55315312-4b26-4b79-be90-7c38556ac574.jpg"
-  },
-  {
-   "title": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
-   "start": "2026-11-14T11:00+00:00",
-   "end": "2026-11-14T17:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/a4qnux81",
-   "source": "Luma",
-   "organiser": "BackersStage Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/nw/fec5f87d-24df-431a-9e3e-003aad8b748e.png"
   },
   {
    "title": "\"Surprise Me\" Ideas Coffee | Zee Prime Capital @ Breakpoint",
@@ -645,7 +615,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/3m/6fb719d0-8480-4190-9293-e38ad8497aea.png"
+   "image": "https://images.lumacdn.com/uploads/6y/b178760a-8476-461f-8027-24ba382d891c.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
@@ -667,7 +637,7 @@
    "start": "2026-11-16T18:00+00:00",
    "end": "2026-11-16T22:00+00:00",
    "city": "London",
-   "venue": "Old Sessions House",
+   "venue": "",
    "url": "https://lu.ma/hos-breakpoint",
    "source": "Luma",
    "organiser": "House of Sol",
