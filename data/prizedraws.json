@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T20:13+00:00",
+ "fetched_at": "2026-10-20T12:09+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -23,6 +23,23 @@
   "DCMS: operator signatories heading not found"
  ],
  "records": [
+  {
+   "company": "Grail Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17530003",
+   "status": "Active",
+   "incorporated": "2026-10-20",
+   "sic": [
+    "47910 Online retail",
+    "93290 Other amusement and recreation"
+   ],
+   "address": "122 Stockport Road, Hyde, England SK14 5RA",
+   "date": "2026-10-20",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Giving Back Competitions Ltd",
    "trading_as": "",
@@ -6076,7 +6093,7 @@
    "status": "Active",
    "incorporated": "2026-02-17",
    "sic": [
-    "47910 Online retail"
+    "92000 Gambling and betting"
    ],
    "address": "16 Green Drive, Thornton-Cleveleys, United Kingdom FY5 1LQ",
    "date": "2026-02-17",
@@ -11236,22 +11253,6 @@
    ],
    "address": "1 Sullivan Street, Inverness, Scotland IV2 7BD",
    "date": "2024-10-20",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
-   "company": "Virgo Competitions Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "16028695",
-   "status": "Active",
-   "incorporated": "2024-10-19",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "Apartment 29 Chandlers Edge, Grosvenor Wharf Road, Ellesmere Port, United Kingdom CH65 4AL",
-   "date": "2024-10-19",
    "date_kind": "incorporated",
    "b2c": true
   }
