@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-21T12:06+00:00",
+ "fetched_at": "2026-10-21T18:47+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
-   "start": "2026-10-21T14:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/316844031/",
-   "source": "Meetup",
-   "organiser": "LFDT London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
-  },
   {
    "title": "GIBLDN26 Rockchain - food drinks and crypto",
    "start": "2026-10-21T16:00+00:00",
@@ -46,37 +31,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ls/c4f07d6b-8e59-468d-aa84-e408976592b0.png"
-  },
-  {
-   "title": "Decode & Detect: The XRPL AI Hack",
-   "start": "2026-10-24T08:30+00:00",
-   "end": "2026-10-24T18:00+00:00",
-   "city": "London",
-   "venue": "IDEALondon",
-   "url": "https://lu.ma/71nckopa",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/pk/8150f438-fc04-4e84-b3c4-0095e1796e1a.png"
-  },
-  {
-   "title": "The Ooky Spooky Hallowooky Pub Quiz",
-   "start": "2026-10-26T19:00+00:00",
-   "end": "2026-10-26T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/7bfj8g60",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
   },
   {
    "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
@@ -127,16 +81,31 @@
    "title": "ZK Learning Group: Quantum resistance and ZKP",
    "start": "2026-10-29T17:00+00:00",
    "end": "",
-   "city": "London",
+   "city": "Amsterdam",
    "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/316802723/",
+   "url": "https://www.meetup.com/lfdt-netherlands/events/316802695/",
    "source": "Meetup",
-   "organiser": "LFDT London",
+   "organiser": "LFDT Netherlands",
    "verticals": [
     "crypto"
    ],
    "online": true,
    "image": ""
+  },
+  {
+   "title": "Crypto Coffee - CW3",
+   "start": "2026-10-30T12:00+00:00",
+   "end": "2026-10-30T15:30+00:00",
+   "city": "London",
+   "venue": "Somerset House",
+   "url": "https://lu.ma/vdujqeoc",
+   "source": "Luma",
+   "organiser": "Christians in Web3",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/gallery-images/fz/565f53c6-1b0e-47ec-b0d6-d1af7f17b328.png"
   },
   {
    "title": "Solana Hacker House - London",
@@ -451,7 +420,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/he/968f023c-c734-4fbd-b828-809c3507af90.png"
+   "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
    "title": "Solana Demo Day | London 2026",
@@ -602,6 +571,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/gallery-images/de/a12a3146-d8ca-4e7d-865b-772a559a0a14"
+  },
+  {
+   "title": "Proof & Pour · London | A Private Cocktail Evening",
+   "start": "2026-11-15T19:00+00:00",
+   "end": "2026-11-15T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/zkpwmk83",
+   "source": "Luma",
+   "organiser": "Certora Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/mz/31d8de2b-f09c-449f-97cc-d5b2abb5119e.png"
   },
   {
    "title": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
