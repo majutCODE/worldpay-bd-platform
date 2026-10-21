@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T12:09+00:00",
+ "fetched_at": "2026-10-21T12:23+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 560
+  "CH": 559
  },
  "failures": [
   "DCMS: operator signatories heading not found"
@@ -11237,22 +11237,6 @@
    ],
    "address": "1 Kingsfield Farm, Linlithgow, United Kingdom EH49 7LS",
    "date": "2024-10-24",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
-   "company": "Infinity 365 Competitions Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "SC826382",
-   "status": "Active",
-   "incorporated": "2024-10-20",
-   "sic": [
-    "92000 Gambling and betting"
-   ],
-   "address": "1 Sullivan Street, Inverness, Scotland IV2 7BD",
-   "date": "2024-10-20",
    "date_kind": "incorporated",
    "b2c": true
   }
