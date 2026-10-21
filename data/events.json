@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-20T18:33+00:00",
+ "fetched_at": "2026-10-21T12:06+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
-   "start": "2026-10-20T17:30+00:00",
-   "end": "2026-10-20T20:30+00:00",
-   "city": "London",
-   "venue": "Encode Hub",
-   "url": "https://lu.ma/encode-mmls",
-   "source": "Luma",
-   "organiser": "Encode Club",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/oy/ff13af8b-ff24-4fe6-bc68-ccfbb463bf7c.png"
-  },
   {
    "title": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
    "start": "2026-10-21T14:00+00:00",
@@ -78,6 +63,22 @@
    "image": "https://images.lumacdn.com/uploads/pk/8150f438-fc04-4e84-b3c4-0095e1796e1a.png"
   },
   {
+   "title": "The Ooky Spooky Hallowooky Pub Quiz",
+   "start": "2026-10-26T19:00+00:00",
+   "end": "2026-10-26T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/7bfj8g60",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
+  },
+  {
    "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
    "start": "2026-10-28T18:00+00:00",
    "end": "2026-10-28T21:00+00:00",
@@ -91,6 +92,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/event-covers/zz/7463fd85-a270-4f21-a973-daf9e9350725"
+  },
+  {
+   "title": "BitDevs - Socratic Seminar #54",
+   "start": "2026-10-28T18:40+00:00",
+   "end": "2026-10-28T21:00+00:00",
+   "city": "London",
+   "venue": "Antidote",
+   "url": "https://lu.ma/antidote-kcoh",
+   "source": "Luma",
+   "organiser": "Antidote Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/o4/30a459d3-91e1-429f-b4c9-bbeced5cc8b0.webp"
   },
   {
    "title": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
@@ -166,6 +182,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/t1/0073f55e-450e-4c58-8f07-15d476b0cba5.png"
+  },
+  {
+   "title": "Global Tokenization Day",
+   "start": "2026-11-04T18:00+00:00",
+   "end": "2026-11-04T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/e0sl9603",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vt/0aba5d5c-b2b2-49ff-a060-18dca91d31e2.jpg"
   },
   {
    "title": "The Block Party",
@@ -408,6 +439,21 @@
    "image": "https://images.lumacdn.com/uploads/7o/a0458a32-746a-4f48-8c74-2d7a25fea67c.jpg"
   },
   {
+   "title": "Canton & Cocktails",
+   "start": "2026-11-11T17:00+00:00",
+   "end": "2026-11-11T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/canton-3iff",
+   "source": "Luma",
+   "organiser": "Canton Network",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/he/968f023c-c734-4fbd-b828-809c3507af90.png"
+  },
+  {
    "title": "Solana Demo Day | London 2026",
    "start": "2026-11-12T10:00+00:00",
    "end": "2026-11-12T18:30+00:00",
@@ -543,6 +589,21 @@
    "image": "https://images.lumacdn.com/event-covers/rp/f80e679e-441f-4cd0-9f62-ffb131cf68bb.png"
   },
   {
+   "title": "At the Table with Stripe Crypto, Visa, & Open Standard",
+   "start": "2026-11-15T18:30+00:00",
+   "end": "2026-11-15T20:30+00:00",
+   "city": "London",
+   "venue": "Gold",
+   "url": "https://lu.ma/bxvz2tvf",
+   "source": "Luma",
+   "organiser": "Privy",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/gallery-images/de/a12a3146-d8ca-4e7d-865b-772a559a0a14"
+  },
+  {
    "title": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
    "start": "2026-11-15T19:00+00:00",
    "end": "2026-11-15T22:00+00:00",
@@ -645,7 +706,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/j3/e8472d0e-a7f5-45cd-b446-0b26e5121901.png"
+   "image": "https://images.lumacdn.com/uploads/r6/64645414-ffb0-4c27-9b72-4ae68387dc90.png"
   },
   {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
@@ -830,8 +891,8 @@
   },
   {
    "title": "CWC x Sosoul: A Breathwork Evening",
-   "start": "2026-12-09T18:30+00:00",
-   "end": "2026-12-09T21:00+00:00",
+   "start": "2026-12-10T18:30+00:00",
+   "end": "2026-12-10T21:00+00:00",
    "city": "Amsterdam",
    "venue": "SØSOUL Inner Sanctuary",
    "url": "https://lu.ma/tcj68hdu",
