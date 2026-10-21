@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T12:23+00:00",
+ "fetched_at": "2026-10-21T18:55+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,12 +17,28 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 559
+  "CH": 560
  },
  "failures": [
   "DCMS: operator signatories heading not found"
  ],
  "records": [
+  {
+   "company": "Wonderwins Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17534370",
+   "status": "Active",
+   "incorporated": "2026-10-21",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "23 Cedars Road, Manchester, England M22 9SZ",
+   "date": "2026-10-21",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Grail Competitions Ltd",
    "trading_as": "",
