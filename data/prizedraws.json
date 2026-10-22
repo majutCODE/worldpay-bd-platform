@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T18:55+00:00",
+ "fetched_at": "2026-10-22T12:24+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,12 +17,45 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 560
+  "CH": 561
  },
  "failures": [
   "DCMS: operator signatories heading not found"
  ],
  "records": [
+  {
+   "company": "Loot Forge Giveaways Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17534783",
+   "status": "Active",
+   "incorporated": "2026-10-22",
+   "sic": [
+    "47910 Online retail",
+    "93290 Other amusement and recreation"
+   ],
+   "address": "Crompton Flat 6 Crompton House, 17 High Street, Barnet, London, United Kingdom EN5 5UJ",
+   "date": "2026-10-22",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
+  {
+   "company": "Grip Giveaways Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17535651",
+   "status": "Active",
+   "incorporated": "2026-10-22",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "19 Althorpe Drive, Portsmouth, United Kingdom PO35TF",
+   "date": "2026-10-22",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Wonderwins Competitions Ltd",
    "trading_as": "",
@@ -2624,7 +2657,7 @@
    "sic": [
     "92000 Gambling and betting"
    ],
-   "address": "33 Eden Close, Northampton, England NN3 6NS",
+   "address": "50 Princes Street, Suffolk, Ipswich, England IP1 1RJ",
    "date": "2026-09-06",
    "date_kind": "incorporated",
    "b2c": true
@@ -9278,22 +9311,6 @@
    ],
    "address": "71-75 Shelton Street, London, England WC2H 9JQ",
    "date": "2025-07-09",
-   "date_kind": "incorporated",
-   "b2c": true
-  },
-  {
-   "company": "Moss And Marble Competitions Ltd",
-   "trading_as": "",
-   "source": "CH",
-   "signatory": false,
-   "company_number": "SC854971",
-   "status": "Active",
-   "incorporated": "2025-07-08",
-   "sic": [
-    "93290 Other amusement and recreation"
-   ],
-   "address": "12 Sinclair Park, Smithton, Inverness, Scotland IV2 7UY",
-   "date": "2025-07-08",
    "date_kind": "incorporated",
    "b2c": true
   },
