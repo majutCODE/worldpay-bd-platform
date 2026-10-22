@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-22T12:10+00:00",
+ "fetched_at": "2026-10-22T18:40+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "House of Sol Workshops: Not All Yield Is Equal: How Your Stake Shapes Solana: SRI x Solana Compass",
-   "start": "2026-10-22T16:00+00:00",
-   "end": "2026-10-22T18:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/HoS-Workshops-SolanaCompass",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ls/c4f07d6b-8e59-468d-aa84-e408976592b0.png"
-  },
   {
    "title": "Bitcoin Research Day After Hours - Amsterdam",
    "start": "2026-10-27T15:30+00:00",
@@ -139,8 +124,8 @@
   },
   {
    "title": "PizzaFissa: A Slice of Bitcoin Culture",
-   "start": "2026-11-04T17:00+00:00",
-   "end": "2026-11-04T20:00+00:00",
+   "start": "2026-11-04T16:00+00:00",
+   "end": "2026-11-04T19:00+00:00",
    "city": "Amsterdam",
    "venue": "MINA Gallery & Cafe",
    "url": "https://lu.ma/uqs749ko",
@@ -288,6 +273,21 @@
    "image": "https://images.lumacdn.com/uploads/vj/db256ecc-f9db-46ea-9645-4e0dc9ecb836.png"
   },
   {
+   "title": "Beyond Market Hours: An Evening Reception",
+   "start": "2026-11-09T18:00+00:00",
+   "end": "2026-11-09T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/qdn6p885",
+   "source": "Luma",
+   "organiser": "Elwood",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/uw/ca42526b-6b16-4be6-ab41-ebfba5c7e9a5.png"
+  },
+  {
    "title": "Digital Asset Summit London 2026",
    "start": "2026-11-10T07:00+00:00",
    "end": "2026-11-11T18:00+00:00",
@@ -301,6 +301,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
+  },
+  {
+   "title": "BORN UP — DAS London Community Networking Meetup",
+   "start": "2026-11-10T11:30+00:00",
+   "end": "2026-11-10T12:00+00:00",
+   "city": "London",
+   "venue": "London Hilton on Park Lane",
+   "url": "https://lu.ma/bornlive-zoju",
+   "source": "Luma",
+   "organiser": "BORN.LIVE | Global Conferences, Side Events & Networking",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6x/ff59580a-7be4-4e60-a312-ab66417ed7ef.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -408,6 +423,21 @@
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
+   "title": "Filibuster DAO · Genesis Sitting",
+   "start": "2026-11-11T19:00+00:00",
+   "end": "2026-11-11T23:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/0f9i1675",
+   "source": "Luma",
+   "organiser": "Filibuster DAO",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/t6/dcb864b1-b7f6-47b7-9429-9cfad87f9625.png"
+  },
+  {
    "title": "Solana Demo Day | London 2026",
    "start": "2026-11-12T10:00+00:00",
    "end": "2026-11-12T18:30+00:00",
@@ -483,7 +513,7 @@
    "image": "https://images.lumacdn.com/uploads/ya/55315312-4b26-4b79-be90-7c38556ac574.jpg"
   },
   {
-   "title": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora",
+   "title": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents",
    "start": "2026-11-14T15:00+00:00",
    "end": "2026-11-14T17:30+00:00",
    "city": "London",
@@ -842,6 +872,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/cs/115e4dc4-fa93-4844-a9ed-cc8576b7acc6.jpg"
+  },
+  {
+   "title": "Bitcoin & Crypto: De Basis",
+   "start": "2026-11-26T18:00+00:00",
+   "end": "2026-11-26T19:00+00:00",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://lu.ma/vc9tqaxb",
+   "source": "Luma",
+   "organiser": "BlockCentral",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9q/09b09f2a-dc27-4a9a-8dc0-c3c1cfa0f0aa.png"
   },
   {
    "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
