@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:24+00:00",
+ "fetched_at": "2026-10-22T18:49+00:00",
  "sources": [
   {
    "code": "DCMS",
@@ -17,12 +17,28 @@
  ],
  "counts": {
   "DCMS": 189,
-  "CH": 561
+  "CH": 562
  },
  "failures": [
   "DCMS: operator signatories heading not found"
  ],
  "records": [
+  {
+   "company": "Unmatched Competitions Ltd",
+   "trading_as": "",
+   "source": "CH",
+   "signatory": false,
+   "company_number": "17535904",
+   "status": "Active",
+   "incorporated": "2026-10-22",
+   "sic": [
+    "93290 Other amusement and recreation"
+   ],
+   "address": "71-75 Shelton Street, Covent Garden, London, United Kingdom WC2H 9JQ",
+   "date": "2026-10-22",
+   "date_kind": "incorporated",
+   "b2c": true
+  },
   {
    "company": "Loot Forge Giveaways Ltd",
    "trading_as": "",
