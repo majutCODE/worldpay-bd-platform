@@ -33,7 +33,8 @@ def fetch(name, tries=4):
                 break
             except Exception as e:
                 last = e
-                print(f"{name}: {e} from {url.split('/')[2]}", file=sys.stderr)
+                detail = e.read()[:300].decode("utf-8", "replace") if hasattr(e, "read") else ""
+                print(f"{name}: {e} from {url.split('/')[2]} {detail}", file=sys.stderr)
         else:
             if i == tries - 1:
                 raise last

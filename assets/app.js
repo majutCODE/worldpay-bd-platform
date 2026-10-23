@@ -2,10 +2,10 @@
 // To add a vertical, create verticals/<name>.js that pushes {id, group, title, render(el)} and add a <script> tag.
 (function () {
   const side = document.getElementById("side"), view = document.getElementById("view");
-  const groups = ["Crypto", "Gaming & Lottery"];
+  const groups = ["Crypto", "Gaming & Lottery", "Team"];
 
   function nav() {
-    const cur = location.hash.slice(2) || (window.VERTICALS[0] || {}).id;
+    const cur = location.hash.slice(2).split("?")[0] || (window.VERTICALS[0] || {}).id;
     // Only groups with at least one vertical are shown.
     side.innerHTML = groups.map(g => {
       const items = window.VERTICALS.filter(v => v.group === g);
