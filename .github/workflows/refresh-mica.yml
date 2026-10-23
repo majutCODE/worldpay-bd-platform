@@ -5,7 +5,7 @@ on:
     - cron: "0 14 * * *"   # second daily run picks up same-day ESMA updates
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, "claude/**"]
     paths: ["scripts/fetch_mica.py", ".github/workflows/refresh-mica.yml", "data/mica_b2c_overrides.json"]
 permissions:
   contents: write
@@ -28,10 +28,10 @@ jobs:
           git add data/mica.json data/mica_first_seen.json
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Refresh MiCA register data"
-          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 10; done
+          for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep 10; done
           exit 1
       - name: Open issue on failure
-        if: failure()
+        if: failure() && github.ref_name == 'main'
         uses: actions/github-script@v7
         with:
           script: |
@@ -41,7 +41,7 @@ jobs:
             if (open.data.length) await github.rest.issues.createComment({ ...context.repo, issue_number: open.data[0].number, body });
             else await github.rest.issues.create({ ...context.repo, title, body, labels: ["refresh-failure"] });
       - name: Close failure issue on success
-        if: success()
+        if: success() && github.ref_name == 'main'
         uses: actions/github-script@v7
         with:
           script: |

@@ -1,12 +1,6 @@
 name: Refresh prize draw operator data
 on:
-  schedule:
-    - cron: "45 6 * * *"
-    - cron: "45 14 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main, "claude/**"]
-    paths: ["scripts/fetch_prizedraws.py", ".github/workflows/refresh-prizedraws.yml"]
+  workflow_dispatch:  # paused 2026-10-23 at the user's request (gaming vertical not a focus); data on the site is the last good run
 permissions:
   contents: write
   issues: write

@@ -1,9 +1,11 @@
 """Fetch ESMA interim MiCA register CSVs and build data/mica.json."""
-import csv, io, json, re, sys, time, urllib.request
+import csv, io, json, os, re, sys, time, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 BASE = "https://www.esma.europa.eu/sites/default/files/2024-12/"
+# ESMA blocks GitHub runner IPs; this Vercel function relays the same files (api/esma.js).
+RELAY = os.environ.get("ESMA_RELAY", "https://worldpay-bd-platform.vercel.app/api/esma?f=")
 SOURCES = {
     "CASP": "CASPS.csv",
     "EMT": "EMTWP.csv",
@@ -17,18 +19,29 @@ MIN_CASPS = 100        # register had ~190 CASPs by late 2025; fewer means a bro
 MAX_DROP = 0.2         # refuse to publish if total records shrink by more than 20%
 
 
-def fetch(name, tries=5):
-    req = urllib.request.Request(BASE + name, headers={"User-Agent": "Mozilla/5.0 (worldpay-bd-platform)"})
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36"
+
+
+def fetch(name, tries=4):
+    last = None
     for i in range(tries):
-        try:
-            raw = urllib.request.urlopen(req, timeout=60).read()
-            break
-        except Exception as e:
+        for url in (BASE + name, RELAY + name):
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/csv,*/*"})
+            try:
+                raw = urllib.request.urlopen(req, timeout=60).read()
+                print(f"{name}: ok from {url.split('/')[2]}", file=sys.stderr)
+                break
+            except Exception as e:
+                last = e
+                print(f"{name}: {e} from {url.split('/')[2]}", file=sys.stderr)
+        else:
             if i == tries - 1:
-                raise
+                raise last
             wait = 2 ** (i + 2)
-            print(f"retry {name} in {wait}s: {e}", file=sys.stderr)
+            print(f"retry {name} in {wait}s", file=sys.stderr)
             time.sleep(wait)
+            continue
+        break
     for enc in ("utf-8-sig", "cp1252", "latin-1"):
         try:
             return raw.decode(enc)
