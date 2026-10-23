@@ -1,14 +1,206 @@
 {
  "source": "ESMA interim MiCA register",
  "source_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
- "fetched_at": "2026-10-19T19:32:48+00:00",
+ "fetched_at": "2026-10-23T11:22:10+00:00",
  "counts": {
-  "CASP": 379,
+  "CASP": 387,
   "EMT": 50,
   "ART": 0,
   "Non-compliant": 178
  },
  "records": [
+  {
+   "company": "Volksbank Oberberg eG",
+   "brand": "Volksbank Oberberg eG",
+   "lei": "529900OSV01JOCMF4Z23",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-11-19",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.vb-oberberg.de",
+   "address": "Bahnhofstraße 3,  51674 Wiehl",
+   "comments": "",
+   "last_update": "2026-10-20",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Volksbank in Ostwestfalen eG",
+   "brand": "Volksbank in Ostwestfalen eG",
+   "lei": "529900PUK9IU39VCWK54",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-11-18",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.volksbankinostwestfalen.de",
+   "address": "Kesselbrink 1, 33602 Bielefeld",
+   "comments": "",
+   "last_update": "2026-10-20",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Volksbank in der Hohen Mark eG",
+   "brand": "Volksbank in der Hohen Mark eG",
+   "lei": "529900NK7TIIGQEJ6L07",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-10-30",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.vb-hm.de",
+   "address": "Hauptstraße 13,  48734 Reken",
+   "comments": "",
+   "last_update": "2026-10-20",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Volksbank Niederrhein eG",
+   "brand": "Volksbank Niederrhein eG",
+   "lei": "529900SH7SAVJN3TFQ06",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-10-22",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.Volksbank-niederrhein.de",
+   "address": "Lindenallee 11-15, 46519 Alpen",
+   "comments": "",
+   "last_update": "2026-10-09",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Sparda-Bank Baden-Württemberg eG",
+   "brand": "Sparda-Bank Baden-Württemberg eG",
+   "lei": "5299004HBAECUACNWN98",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-10-19",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.sparda-bw.de",
+   "address": "Am Hauptbahnhof 3, 70173 Stuttgart",
+   "comments": "",
+   "last_update": "2026-10-19",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Raiffeisenbank Eifel eG",
+   "brand": "Raiffeisenbank Eifel eG",
+   "lei": "5299007Y7UJE5QV9QD03",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-10-19",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.rb-eifel.de",
+   "address": "Hauptstraße 76, 52152 Simmerath",
+   "comments": "",
+   "last_update": "2026-10-19",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Volksbank in der Region eG",
+   "brand": "Volksbank in der Region eG",
+   "lei": "5299006E6UGNN6YEPU72",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-08-27",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.vbidr.de",
+   "address": "Herrenberger Straße 1-5, 72070 Tübingen",
+   "comments": "",
+   "last_update": "2026-10-16",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
+  {
+   "company": "Volksbank Mittlerer Neckar eG",
+   "brand": "Volksbank Mittlerer Neckar eG",
+   "lei": "529900HHCMGEXXJAGA76",
+   "home_state": "DE",
+   "regulator": "Federal Financial Supervisory Authority (BaFin)",
+   "licence_type": "CASP",
+   "authorised": "2026-08-27",
+   "end_date": "",
+   "services": [
+    "e. execution of orders for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "DE"
+   ],
+   "website": "www.v-mn.de",
+   "address": "Fabrikstraße 5, 73728 Esslingen",
+   "comments": "",
+   "last_update": "2026-10-16",
+   "b2c": "B2C bank",
+   "b2c_reason": "bank offering trading / order execution for clients",
+   "added": "2026-10-23",
+   "added_estimated": false
+  },
   {
    "company": "VR Bank Lahn-Dill eG",
    "brand": "VR Bank Lahn-Dill eG",
@@ -228,7 +420,7 @@
     "DE"
    ],
    "website": "https://www.vb-eg.de",
-   "address": "Kennedydamm 10\n31134 Hildesheim",
+   "address": "Kennedydamm 10, 31134 Hildesheim",
    "comments": "",
    "last_update": "2026-09-16",
    "b2c": "B2C bank",
@@ -289,6 +481,60 @@
    "added_estimated": false
   },
   {
+   "company": "YOUHODLER ITALY S.R.L.",
+   "brand": "YouHodler",
+   "lei": "894500I5LYET12OFII30",
+   "home_state": "IT",
+   "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
+   "licence_type": "CASP",
+   "authorised": "2026-10-08",
+   "end_date": "",
+   "services": [
+    "a. providing custody and administration of crypto-assets on behalf of clients",
+    "c. exchange of crypto-assets for funds",
+    "d. exchange of crypto-assets for other crypto-assets",
+    "e. execution of orders for crypto-assets on behalf of clients",
+    "j. providing transfer services for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "AT",
+    "BE",
+    "BG",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IT",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK"
+   ],
+   "website": "www.youhodler.eu",
+   "address": "Via del Commercio 32, 00154, Roma",
+   "comments": "",
+   "last_update": "2026-10-12",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange",
+   "added": "2026-10-16",
+   "added_estimated": false
+  },
+  {
    "company": "KSW Vermögensverwaltung AG",
    "brand": "KSW Vermögensverwaltung AG",
    "lei": "5299007QRBQF1SF24853",
@@ -298,7 +544,8 @@
    "authorised": "2026-10-07",
    "end_date": "",
    "services": [
-    "g. reception and transmission of orders for crypto-assets on behalf of clients\n\ni. providing portfolio management on crypto-assets"
+    "g. reception and transmission of orders for crypto-assets on behalf of clients",
+    "i. providing portfolio management on crypto-assets"
    ],
    "passported": [
     "DE"
@@ -477,60 +724,6 @@
    "address": "Prins Hendrikkade 21E - 1012TL Amsterdam - The Netherlands",
    "comments": "",
    "last_update": "2026-08-10",
-   "b2c": "B2C",
-   "b2c_reason": "crypto-for-fiat exchange",
-   "added": "2026-10-16",
-   "added_estimated": false
-  },
-  {
-   "company": "YOUHODLER ITALY S.R.L.",
-   "brand": "YouHodler",
-   "lei": "894500I5LYET12OFII30",
-   "home_state": "IT",
-   "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
-   "licence_type": "CASP",
-   "authorised": "",
-   "end_date": "",
-   "services": [
-    "a. providing custody and administration of crypto-assets on behalf of clients",
-    "c. exchange of crypto-assets for funds",
-    "d. exchange of crypto-assets for other crypto-assets",
-    "e. execution of orders for crypto-assets on behalf of clients",
-    "j. providing transfer services for crypto-assets on behalf of clients"
-   ],
-   "passported": [
-    "AT",
-    "BE",
-    "BG",
-    "CY",
-    "CZ",
-    "DE",
-    "DK",
-    "EE",
-    "ES",
-    "FI",
-    "FR",
-    "GR",
-    "HR",
-    "HU",
-    "IE",
-    "IT",
-    "LT",
-    "LU",
-    "LV",
-    "MT",
-    "NL",
-    "PL",
-    "PT",
-    "RO",
-    "SE",
-    "SI",
-    "SK"
-   ],
-   "website": "www.youhodler.eu",
-   "address": "Via del Commercio 32, 00154, Roma",
-   "comments": "",
-   "last_update": "2026-10-12",
    "b2c": "B2C",
    "b2c_reason": "crypto-for-fiat exchange",
    "added": "2026-10-16",
@@ -1991,7 +2184,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-06-04",
    "end_date": "",
    "services": [
     "c. exchange of crypto-assets for funds"
@@ -3794,7 +3987,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-06-30",
    "end_date": "",
    "services": [
     "a. providing custody and administration of crypto-assets on behalf of clients",
@@ -4726,7 +4919,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-06-30",
    "end_date": "",
    "services": [
     "a. providing custody and administration of crypto-assets on behalf of clients",
@@ -5533,6 +5726,38 @@
    "added_estimated": true
   },
   {
+   "company": "YOUNG PLATFORM S.P.A.",
+   "brand": "Young Platform",
+   "lei": "815600F1E30AAB016171",
+   "home_state": "IT",
+   "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
+   "licence_type": "CASP",
+   "authorised": "2026-06-30",
+   "end_date": "",
+   "services": [
+    "a. providing custody and administration of crypto-assets on behalf of clients",
+    "c. exchange of crypto-assets for funds",
+    "d. exchange of crypto-assets for other crypto-assets",
+    "e. execution of orders for crypto-assets on behalf of clients",
+    "f. placing of crypto-assets",
+    "h. providing advice on crypto-assets",
+    "i. providing portfolio management on crypto-assets",
+    "j. providing transfer services for crypto-assets on behalf of clients"
+   ],
+   "passported": [
+    "FR",
+    "IT"
+   ],
+   "website": "https://youngplatform.com",
+   "address": "Via Cigna, 96/17, TORINO, 10155",
+   "comments": "",
+   "last_update": "2026-06-30",
+   "b2c": "B2C",
+   "b2c_reason": "crypto-for-fiat exchange",
+   "added": "2026-06-30",
+   "added_estimated": true
+  },
+  {
    "company": "PROSEGUR CUSTODIA DE ACTIVOS DIGITALES S.L.U.",
    "brand": "PROSEGUR CRYPTO",
    "lei": "59800G0P3PV13KLX615",
@@ -5808,65 +6033,13 @@
    "added_estimated": true
   },
   {
-   "company": "CACEIS BANK SA",
-   "brand": "CACEIS BANK",
-   "lei": "96950023SCR9X9F3L662",
-   "home_state": "FR",
-   "regulator": "Autorité de Contrôle Prudentiel et de Resolution (ACPR)",
-   "licence_type": "EMT",
-   "authorised": "1979-05-19",
-   "end_date": "",
-   "services": [],
-   "passported": [],
-   "website": "https://www.caceis.com/fr/",
-   "address": "89-91 rue Gabriel Peri 92120 Montrouge",
-   "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item,  in accordance with MiCA/ESMA ITS provisions and other MiCA compliant WP",
-   "last_update": "2026-06-30",
-   "b2c": "",
-   "b2c_reason": "",
-   "added": "2026-06-30",
-   "added_estimated": true
-  },
-  {
-   "company": "YOUNG PLATFORM S.P.A.",
-   "brand": "Young Platform",
-   "lei": "815600F1E30AAB016171",
-   "home_state": "IT",
-   "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
-   "licence_type": "CASP",
-   "authorised": "",
-   "end_date": "",
-   "services": [
-    "a. providing custody and administration of crypto-assets on behalf of clients",
-    "c. exchange of crypto-assets for funds",
-    "d. exchange of crypto-assets for other crypto-assets",
-    "e. execution of orders for crypto-assets on behalf of clients",
-    "f. placing of crypto-assets",
-    "h. providing advice on crypto-assets",
-    "i. providing portfolio management on crypto-assets",
-    "j. providing transfer services for crypto-assets on behalf of clients"
-   ],
-   "passported": [
-    "FR",
-    "IT"
-   ],
-   "website": "https://youngplatform.com",
-   "address": "Via Cigna, 96/17, TORINO, 10155",
-   "comments": "",
-   "last_update": "2026-06-30",
-   "b2c": "B2C",
-   "b2c_reason": "crypto-for-fiat exchange",
-   "added": "2026-06-30",
-   "added_estimated": true
-  },
-  {
    "company": "CRYPTOSMART S.P.A.",
    "brand": "Cryptosmart",
    "lei": "815600C7E86B02BBE483",
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-06-24",
    "end_date": "",
    "services": [
     "a. providing custody and administration of crypto-assets on behalf of clients",
@@ -5895,7 +6068,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-04-27",
    "end_date": "",
    "services": [
     "a. providing custody and administration of crypto-assets on behalf of clients",
@@ -5910,6 +6083,26 @@
    "last_update": "2026-06-30",
    "b2c": "B2B",
    "b2c_reason": "custody/transfer/advisory services only",
+   "added": "2026-06-30",
+   "added_estimated": true
+  },
+  {
+   "company": "CACEIS BANK SA",
+   "brand": "CACEIS BANK",
+   "lei": "96950023SCR9X9F3L662",
+   "home_state": "FR",
+   "regulator": "Autorité de Contrôle Prudentiel et de Resolution (ACPR)",
+   "licence_type": "EMT",
+   "authorised": "1979-05-19",
+   "end_date": "",
+   "services": [],
+   "passported": [],
+   "website": "https://www.caceis.com/fr/",
+   "address": "89-91 rue Gabriel Peri 92120 Montrouge",
+   "comments": "No comment. Ongoing additional review of the qualitative information provided in each WP item,  in accordance with MiCA/ESMA ITS provisions and other MiCA compliant WP",
+   "last_update": "2026-06-30",
+   "b2c": "",
+   "b2c_reason": "",
    "added": "2026-06-30",
    "added_estimated": true
   },
@@ -7571,7 +7764,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-06-16",
    "end_date": "",
    "services": [
     "a. providing custody and administration of crypto-assets on behalf of clients",
@@ -7781,7 +7974,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-06-10",
    "end_date": "",
    "services": [
     "c. exchange of crypto-assets for funds",
@@ -9088,7 +9281,7 @@
    "home_state": "IT",
    "regulator": "Commissione Nazionale per le Societa e la Borsa (CONSOB)",
    "licence_type": "CASP",
-   "authorised": "",
+   "authorised": "2026-05-06",
    "end_date": "",
    "services": [
     "a. providing custody and administration of crypto-assets on behalf of clients",
