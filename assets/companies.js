@@ -83,7 +83,8 @@ window.Co = (function () {
     return names.includes(f);
   }
   const text = sites => forSites(sites).list.map(p => p.name + (p.strength === "mention" ? " (mentioned)" : "")).join("; ");
-  const link = n => `<a href="#" class="colink" data-co="${esc(n)}">${esc(n)}</a>`;
+  // Tracker tables also get a + to save the company to a shared target list.
+  const link = (n, plain) => `<a href="#" class="colink" data-co="${esc(n)}">${esc(n)}</a>` + (plain || !window.TL ? "" : TL.addBtn(n));
 
   // Profile drawer
   async function open(name) {
@@ -118,8 +119,8 @@ window.Co = (function () {
 
     dlg.innerHTML = `<div class="pbody">
       <button class="x" aria-label="Close">✕</button>
-      <h2>${countries.map(c => flagImg(c, cname(c))).join(" ")} ${esc(name)} ${b2c ? `<span class="tag b2c-B2C">B2C</span>` : ""}</h2>
-      ${aliases.length ? `<p class="muted small">Also licensed as ${aliases.map(link).join(", ")}</p>` : ""}
+      <h2>${countries.map(c => flagImg(c, cname(c))).join(" ")} ${esc(name)} ${window.TL ? TL.addBtn(name) : ""} ${b2c ? `<span class="tag b2c-B2C">B2C</span>` : ""}</h2>
+      ${aliases.length ? `<p class="muted small">Also licensed as ${aliases.map(a => link(a, true)).join(", ")}</p>` : ""}
       ${brands.length ? `<p class="small"><b>Brands</b> ${esc(brands.slice(0, 20).join(", "))}${brands.length > 20 ? ` +${brands.length - 20}` : ""}</p>` : ""}
       <h3>Payments</h3>
       ${!allSites.length ? `<p class="muted">No website on the register, so nothing to scan.</p>`
