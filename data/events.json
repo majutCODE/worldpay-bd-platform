@@ -1,23 +1,7 @@
 {
- "fetched_at": "2026-10-23T11:52+00:00",
+ "fetched_at": "2026-10-23T18:31+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "The Ooky Spooky Hallowooky Pub Quiz",
-   "start": "2026-10-26T19:00+00:00",
-   "end": "2026-10-26T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/7bfj8g60",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
-  },
   {
    "title": "Bitcoin Research Day After Hours - Amsterdam",
    "start": "2026-10-27T15:30+00:00",
@@ -289,6 +273,21 @@
    "image": "https://images.lumacdn.com/uploads/vj/db256ecc-f9db-46ea-9645-4e0dc9ecb836.png"
   },
   {
+   "title": "Riserva London | Stablecoins and sanctions, with Fieldfisher",
+   "start": "2026-11-09T17:30+00:00",
+   "end": "2026-11-09T20:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/g4w56vmw",
+   "source": "Luma",
+   "organiser": "Range",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/rl/7c96e78a-9777-41bf-b445-1c3c7505ad75.png"
+  },
+  {
    "title": "Beyond Market Hours: An Evening Reception",
    "start": "2026-11-09T18:00+00:00",
    "end": "2026-11-09T22:00+00:00",
@@ -317,21 +316,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
-  },
-  {
-   "title": "BORN UP — DAS London Community Networking Meetup",
-   "start": "2026-11-10T11:30+00:00",
-   "end": "2026-11-10T12:00+00:00",
-   "city": "London",
-   "venue": "London Hilton on Park Lane",
-   "url": "https://lu.ma/bornlive-zoju",
-   "source": "Luma",
-   "organiser": "BORN.LIVE | Global Conferences, Side Events & Networking",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/6x/ff59580a-7be4-4e60-a312-ab66417ed7ef.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -377,6 +361,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
+  },
+  {
+   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/8d7o3qh7",
+   "source": "Luma",
+   "organiser": "NOTALONE",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
   },
   {
    "title": "Banking & Payments Dinner by Utila, Cryptio & Velocity",
@@ -544,6 +543,21 @@
    "image": "https://images.lumacdn.com/event-covers/eb/7ca457d6-0905-4a13-8de6-5b4b142644a4"
   },
   {
+   "title": "Riserva London | Stablecoins and compliance over wine",
+   "start": "2026-11-14T17:00+00:00",
+   "end": "2026-11-14T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/fkoham7n",
+   "source": "Luma",
+   "organiser": "Range",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
+  },
+  {
    "title": "\"Surprise Me\" Ideas Coffee | Zee Prime Capital @ Breakpoint",
    "start": "2026-11-15T09:00+00:00",
    "end": "2026-11-15T19:00+00:00",
@@ -596,7 +610,7 @@
    "venue": "Gold",
    "url": "https://lu.ma/bxvz2tvf",
    "source": "Luma",
-   "organiser": "Privy",
+   "organiser": "Privy, a Stripe company",
    "verticals": [
     "crypto"
    ],
@@ -782,6 +796,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/jx/abdae8cf-cb57-4e08-ab56-62535533bd0b.jpg"
+  },
+  {
+   "title": "Unofficial Official After Party to Breakpoint 2026: The Great British Pub Crawl",
+   "start": "2026-11-17T17:00+00:00",
+   "end": "2026-11-18T00:00+00:00",
+   "city": "London",
+   "venue": "Olympia",
+   "url": "https://lu.ma/BP26-After-Party",
+   "source": "Luma",
+   "organiser": "Superteam",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/hh/ea4c0f10-25fd-405e-b81a-c4c00adc6397.jpg"
   },
   {
    "title": "Vixio Global Regulatory Awards 2026",
