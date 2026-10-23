@@ -1,7 +1,23 @@
 {
- "fetched_at": "2026-10-22T18:40+00:00",
+ "fetched_at": "2026-10-23T11:52+00:00",
  "failures": [],
  "events": [
+  {
+   "title": "The Ooky Spooky Hallowooky Pub Quiz",
+   "start": "2026-10-26T19:00+00:00",
+   "end": "2026-10-26T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/7bfj8g60",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
+  },
   {
    "title": "Bitcoin Research Day After Hours - Amsterdam",
    "start": "2026-10-27T15:30+00:00",
@@ -66,11 +82,11 @@
    "title": "ZK Learning Group: Quantum resistance and ZKP",
    "start": "2026-10-29T17:00+00:00",
    "end": "",
-   "city": "Amsterdam",
+   "city": "London",
    "venue": "",
-   "url": "https://www.meetup.com/lfdt-netherlands/events/316802695/",
+   "url": "https://www.meetup.com/lfdt-london/events/316802723/",
    "source": "Meetup",
-   "organiser": "LFDT Netherlands",
+   "organiser": "LFDT London",
    "verticals": [
     "crypto"
    ],
@@ -543,21 +559,6 @@
    "image": "https://images.lumacdn.com/uploads/ns/3a1d225d-69db-4b8b-9e81-2f60211f19d0.jpg"
   },
   {
-   "title": "Breakpoint Crypto Padel Morning",
-   "start": "2026-11-15T10:00+00:00",
-   "end": "2026-11-15T12:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/afr82s1n",
-   "source": "Luma",
-   "organiser": "TechChain Talent",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/l4/7cd23b58-ab40-4b32-a077-3ccbc3d61143.png"
-  },
-  {
    "title": "Founders & Investors Brunch ✨ Breakpoint - London",
    "start": "2026-11-15T11:00+00:00",
    "end": "2026-11-15T14:00+00:00",
@@ -600,7 +601,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/gallery-images/de/a12a3146-d8ca-4e7d-865b-772a559a0a14"
+   "image": "https://images.lumacdn.com/uploads/lo/2b3fe1cc-cc52-4ce5-951c-52a099c2dbd2.png"
   },
   {
    "title": "Proof & Pour · London | A Private Cocktail Evening",
@@ -663,6 +664,21 @@
    "image": "https://images.lumacdn.com/uploads/j2/8c283919-7e09-4069-896a-59926d0f0423.png"
   },
   {
+   "title": "GGC: GMGN Global Championship - London Finals",
+   "start": "2026-11-16T16:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/39ckiuiy",
+   "source": "Luma",
+   "organiser": "GMGN",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6y/b178760a-8476-461f-8027-24ba382d891c.png"
+  },
+  {
    "title": "Solana Breakpoint Security Drinks - by Fidesium",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T21:00+00:00",
@@ -678,19 +694,19 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "GGC: GMGN Global Championship - London Finals",
+   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
    "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
    "city": "London",
    "venue": "",
-   "url": "https://lu.ma/39ckiuiy",
+   "url": "https://lu.ma/1hdsvfdv",
    "source": "Luma",
-   "organiser": "GMGN",
+   "organiser": "Chiliz Community Meetup",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/6y/b178760a-8476-461f-8027-24ba382d891c.png"
+   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
@@ -721,6 +737,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/r6/64645414-ffb0-4c27-9b72-4ae68387dc90.png"
+  },
+  {
+   "title": "LONDON CALLING 🇬🇧",
+   "start": "2026-11-16T18:00+00:00",
+   "end": "2026-11-16T23:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/cbiabn4m",
+   "source": "Luma",
+   "organiser": "CryptoMondays London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/m9/1ca83471-5e9b-46b2-8e97-11fb3e4af15e.png"
   },
   {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
@@ -857,6 +888,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/va/5a940f0c-4612-4925-be73-f2003dad140b.jpg"
+  },
+  {
+   "title": "Discussing Cryptocurrencies and Blockchain",
+   "start": "2026-11-25T19:00+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/meetup-group-gancqlwq/events/317088535/",
+   "source": "Meetup",
+   "organiser": "Discussing Cryptocurrencies and Blockchain",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "Your Personal Brand is the Asset · A CWC Branding Studio with Emily Mattaka",
