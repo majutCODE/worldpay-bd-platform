@@ -17,18 +17,35 @@ MIN_CASPS = 100        # register had ~190 CASPs by late 2025; fewer means a bro
 MAX_DROP = 0.2         # refuse to publish if total records shrink by more than 20%
 
 
-def fetch(name, tries=5):
-    req = urllib.request.Request(BASE + name, headers={"User-Agent": "Mozilla/5.0 (worldpay-bd-platform)"})
+# ESMA's CDN started returning 403 to some User-Agents on GitHub runners (Oct 2026); try several.
+AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36",
+    "worldpay-bd-platform/1.0 (+https://github.com/majutCODE/worldpay-bd-platform)",
+    "curl/8.5.0",
+    "Python-urllib/3.12",
+]
+
+
+def fetch(name, tries=4):
+    last = None
     for i in range(tries):
-        try:
-            raw = urllib.request.urlopen(req, timeout=60).read()
-            break
-        except Exception as e:
+        for ua in AGENTS:
+            req = urllib.request.Request(BASE + name, headers={"User-Agent": ua, "Accept": "text/csv,*/*"})
+            try:
+                raw = urllib.request.urlopen(req, timeout=60).read()
+                print(f"{name}: ok with UA {ua.split()[0]}", file=sys.stderr)
+                break
+            except Exception as e:
+                last = e
+                print(f"{name}: {e} (UA {ua.split()[0]})", file=sys.stderr)
+        else:
             if i == tries - 1:
-                raise
+                raise last
             wait = 2 ** (i + 2)
-            print(f"retry {name} in {wait}s: {e}", file=sys.stderr)
+            print(f"retry {name} in {wait}s", file=sys.stderr)
             time.sleep(wait)
+            continue
+        break
     for enc in ("utf-8-sig", "cp1252", "latin-1"):
         try:
             return raw.decode(enc)
