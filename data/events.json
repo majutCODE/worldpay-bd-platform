@@ -1,7 +1,23 @@
 {
- "fetched_at": "2026-10-23T18:31+00:00",
+ "fetched_at": "2026-10-24T11:20+00:00",
  "failures": [],
  "events": [
+  {
+   "title": "The Ooky Spooky Hallowooky Pub Quiz",
+   "start": "2026-10-26T19:00+00:00",
+   "end": "2026-10-26T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/7bfj8g60",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
+  },
   {
    "title": "Bitcoin Research Day After Hours - Amsterdam",
    "start": "2026-10-27T15:30+00:00",
@@ -123,7 +139,7 @@
    "image": "https://images.lumacdn.com/uploads/wc/37cfaf97-d05c-4374-94b9-5db42776f239.jpg"
   },
   {
-   "title": "PizzaFissa: A Slice of Bitcoin Culture",
+   "title": "A Slice of Bitcoin Culture",
    "start": "2026-11-04T16:00+00:00",
    "end": "2026-11-04T19:00+00:00",
    "city": "Amsterdam",
@@ -333,21 +349,6 @@
    "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
   },
   {
-   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T21:00+00:00",
-   "city": "London",
-   "venue": "Reed Smith",
-   "url": "https://lu.ma/cryptouk-36w1",
-   "source": "Luma",
-   "organiser": "CryptoUK",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2t/b0fa8b7b-b2b6-4c47-bc02-41487882287f.png"
-  },
-  {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
@@ -361,6 +362,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
+  },
+  {
+   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T21:00+00:00",
+   "city": "London",
+   "venue": "Reed Smith",
+   "url": "https://lu.ma/cryptouk-36w1",
+   "source": "Luma",
+   "organiser": "CryptoUK",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2t/b0fa8b7b-b2b6-4c47-bc02-41487882287f.png"
   },
   {
    "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
@@ -438,21 +454,6 @@
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
-   "title": "Filibuster DAO · Genesis Sitting",
-   "start": "2026-11-11T19:00+00:00",
-   "end": "2026-11-11T23:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/0f9i1675",
-   "source": "Luma",
-   "organiser": "Filibuster DAO",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/t6/dcb864b1-b7f6-47b7-9429-9cfad87f9625.png"
-  },
-  {
    "title": "Solana Demo Day | London 2026",
    "start": "2026-11-12T10:00+00:00",
    "end": "2026-11-12T18:30+00:00",
@@ -481,6 +482,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/hb/a43b6bbb-fc67-4bc6-81b4-430ee54c46dc.png"
+  },
+  {
+   "title": "Building Privacy Preserving Token Applications Using Panurus",
+   "start": "2026-11-12T16:00+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-netherlands/events/316571759/",
+   "source": "Meetup",
+   "organiser": "LFDT Netherlands",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
   },
   {
    "title": "Solana Intelligence Summit",
@@ -721,6 +737,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
+  },
+  {
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
+   "source": "Luma",
+   "organiser": "Multicoin Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
