@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:20+00:00",
+ "fetched_at": "2026-10-24T17:30+00:00",
  "failures": [],
  "events": [
   {
@@ -334,6 +334,21 @@
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
   },
   {
+   "title": "BORN UP — DAS London Community Networking Meetup",
+   "start": "2026-11-10T11:30+00:00",
+   "end": "2026-11-10T12:00+00:00",
+   "city": "London",
+   "venue": "London Hilton on Park Lane",
+   "url": "https://lu.ma/bornlive-zoju",
+   "source": "Luma",
+   "organiser": "BORN.LIVE | Global Conferences, Side Events & Networking",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6x/ff59580a-7be4-4e60-a312-ab66417ed7ef.png"
+  },
+  {
    "title": "SCRYPT Private Dinner, DAS London",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T23:30+00:00",
@@ -349,21 +364,6 @@
    "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
   },
   {
-   "title": "Applied Blockchain Sessions 2026 | Soho House",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T21:00+00:00",
-   "city": "London",
-   "venue": "180 House",
-   "url": "https://lu.ma/m3gf8ayo",
-   "source": "Luma",
-   "organiser": "Applied Edge | Applied Blockchain",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
-  },
-  {
    "title": "CryptoUK x The Digital Chamber: Member Networking Event",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
@@ -377,6 +377,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2t/b0fa8b7b-b2b6-4c47-bc02-41487882287f.png"
+  },
+  {
+   "title": "Applied Blockchain Sessions 2026 | Soho House",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T21:00+00:00",
+   "city": "London",
+   "venue": "180 House",
+   "url": "https://lu.ma/m3gf8ayo",
+   "source": "Luma",
+   "organiser": "Applied Edge | Applied Blockchain",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
    "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
@@ -487,11 +502,11 @@
    "title": "Building Privacy Preserving Token Applications Using Panurus",
    "start": "2026-11-12T16:00+00:00",
    "end": "",
-   "city": "Amsterdam",
+   "city": "London",
    "venue": "",
-   "url": "https://www.meetup.com/lfdt-netherlands/events/316571759/",
+   "url": "https://www.meetup.com/lfdt-london/events/316571818/",
    "source": "Meetup",
-   "organiser": "LFDT Netherlands",
+   "organiser": "LFDT London",
    "verticals": [
     "crypto"
    ],
