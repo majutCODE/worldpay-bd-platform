@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T17:42+00:00",
+ "fetched_at": "2026-10-26T13:22+00:00",
  "failures": [],
  "events": [
   {
@@ -32,6 +32,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ru/a5289c4d-97ad-4fec-8053-cd67a20ea959.png"
+  },
+  {
+   "title": "Crypto Drinks - Amsterdam",
+   "start": "2026-10-28T17:30+00:00",
+   "end": "2026-10-28T21:30+00:00",
+   "city": "Amsterdam",
+   "venue": "Meet Berlage",
+   "url": "https://lu.ma/votd9syq",
+   "source": "Luma",
+   "organiser": "CryptoCanal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/3o/a0f3d083-ded9-49f9-8059-df8218ea9f5d.png"
   },
   {
    "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
@@ -242,6 +257,21 @@
    ],
    "online": true,
    "image": ""
+  },
+  {
+   "title": "Ethereum Community Coworking Day @ Encode Hub",
+   "start": "2026-11-06T09:00+00:00",
+   "end": "2026-11-06T18:00+00:00",
+   "city": "London",
+   "venue": "Encode Hub",
+   "url": "https://lu.ma/auho5m0c",
+   "source": "Luma",
+   "organiser": "Encode Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/ei/78bc9ea2-a962-403a-b796-59fd3d2e4eb5.png"
   },
   {
    "title": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
@@ -725,21 +755,6 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/1hdsvfdv",
-   "source": "Luma",
-   "organiser": "Chiliz Community Meetup",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
-  },
-  {
    "title": "Bullseye with Multicoin Capital",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T21:00+00:00",
@@ -753,6 +768,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
+   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/1hdsvfdv",
+   "source": "Luma",
+   "organiser": "Chiliz Community Meetup",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
