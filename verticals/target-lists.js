@@ -13,6 +13,11 @@ window.TL = (function () {
   const STATUSES = ["To contact", "Contacted", "Meeting booked", "Opportunity", "Not a fit"];
   const KEY = "tl-lists";
   const clean = (v, n = 200) => String(v ?? "").trim().slice(0, n);
+  // Dedupe key: case, punctuation and common legal suffixes ignored, so "Acme Ltd" matches "ACME Limited".
+  const SUFFIX = /\b(ltd|limited|plc|inc|llc|llp|gmbh|ag|sa|sas|sarl|srl|spa|bv|nv|ab|as|oy|kft|sp z o o|s r o|co|corp|corporation|company|group|holdings?)$/;
+  const key = v => { let k = String(v ?? "").toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim(), p;
+    do { p = k; k = k.replace(SUFFIX, "").trim(); } while (k && k !== p);
+    return k || String(v ?? "").trim().toLowerCase(); };
   const save = () => { try { localStorage.setItem(KEY, JSON.stringify(cache)); } catch { throw new Error("This browser blocks saving (private mode?)"); } };
   async function load() {
     statuses = STATUSES;
@@ -24,8 +29,8 @@ window.TL = (function () {
     update: (b, l) => { if (b.name) l.name = clean(b.name, 80); if (b.notes != null) l.notes = clean(b.notes, 1000); },
     add: (b, l) => { for (const it of [].concat(b.items || [])) {
       const company = clean(it.company);
-      if (!company || l.items.some(x => x.company.toLowerCase() === company.toLowerCase())) continue;
-      l.items.push({ company, source: clean(it.source, 60), status: STATUSES[0], note: clean(it.note, 1000), by: clean(b.by, 60), added: new Date().toISOString() });
+      if (!company || l.items.some(x => key(x.company) === key(company))) continue;
+      l.items.push({ company, source: clean(it.source, 60), status: STATUSES.includes(it.status) ? it.status : STATUSES[0], note: clean(it.note, 1000), by: clean(b.by, 60), added: new Date().toISOString() });
     } },
     item: (b, l) => { const it = l.items.find(x => x.company === b.company); if (!it) return; if (STATUSES.includes(b.status)) it.status = b.status; if (b.note != null) it.note = clean(b.note, 1000); },
     remove: (b, l) => { l.items = l.items.filter(x => x.company !== b.company); },
@@ -60,7 +65,7 @@ window.TL = (function () {
     let lists;
     try { lists = await load(true); } catch (e) { dlg.querySelector("p").textContent = fail(e); return; }
     const mine = lists.filter(l => l.owner === me()), rest = lists.filter(l => l.owner !== me());
-    const row = l => { const has = l.items.some(i => i.company.toLowerCase() === company.toLowerCase());
+    const row = l => { const has = l.items.some(i => key(i.company) === key(company));
       return `<label class="tlrow"><input type="radio" name="tl" value="${l.id}" ${has ? "disabled" : ""}> <b>${esc(l.name)}</b> <span class="muted small">${esc(l.owner)} · ${l.items.length}${has ? " · already added" : ""}</span></label>`; };
     dlg.querySelector(".pbody").innerHTML = `<button class="x" aria-label="Close">✕</button><h2>Add ${esc(company)}</h2>
       <p class="muted small">From ${esc(src || "manual entry")}. Adding as ${esc(me())}.</p>
@@ -87,6 +92,80 @@ window.TL = (function () {
       } catch (e) { $("#tlmsg").textContent = fail(e); $("#tlgo").disabled = false; }
     };
   }
+  // CSV import: parse, map columns, preview new / duplicate / skipped rows, then add.
+  function parseCSV(text) {
+    text = text.replace(/^\ufeff/, "");
+    const first = text.split(/\r?\n/, 1)[0], d = [";", "\t", ","].reduce((a, c) => first.split(c).length > first.split(a).length ? c : a, ",");
+    const rows = []; let row = [], f = "", q = false;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (q) { if (c === '"') { if (text[i + 1] === '"') { f += '"'; i++; } else q = false; } else f += c; }
+      else if (c === '"') q = true;
+      else if (c === d) { row.push(f); f = ""; }
+      else if (c === "\n" || c === "\r") { if (c === "\r" && text[i + 1] === "\n") i++; row.push(f); rows.push(row); row = []; f = ""; }
+      else f += c;
+    }
+    if (f || row.length) { row.push(f); rows.push(row); }
+    return rows.filter(r => r.some(v => v.trim()));
+  }
+  const FIELDS = [["company", "Company *", /^(company|company name|name|merchant|organisation|organization|account|account name|entity|legal name|brand|operator)$/],
+    ["status", "Status", /^(status|stage)$/], ["note", "Note", /^(note|notes|comment|comments|description)$/], ["source", "Source", /^(source|origin|list|vertical)$/]];
+  function importer(l, done) {
+    let dlg = document.getElementById("tlimp");
+    if (!dlg) {
+      dlg = document.createElement("dialog"); dlg.id = "tlimp"; document.body.appendChild(dlg);
+      dlg.addEventListener("click", e => { if (e.target === dlg || e.target.closest(".x")) dlg.close(); });
+    }
+    dlg.innerHTML = `<div class="pbody"><button class="x" aria-label="Close">✕</button><h2>Import CSV into ${esc(l.name)}</h2>
+      <p class="muted small">Needs a header row and a company column. Status, note and source columns are optional. Duplicates of companies already on the list, or repeated in the file, are skipped.</p>
+      <input type="file" id="tlfile" accept=".csv,.tsv,.txt,text/csv"><div id="tlmap"></div></div>`;
+    if (!dlg.open) dlg.showModal();
+    const $ = s => dlg.querySelector(s);
+    $("#tlfile").onchange = async e => {
+      const file = e.target.files[0]; if (!file) return;
+      if (file.size > 5e6) return ($("#tlmap").innerHTML = `<p class="tlerr">File is over 5 MB.</p>`);
+      const rows = parseCSV(await file.text());
+      if (rows.length < 2) return ($("#tlmap").innerHTML = `<p class="tlerr">No data rows found. Check the file has a header row.</p>`);
+      const head = rows[0].map(h => h.trim()), data = rows.slice(1);
+      const map = {}; FIELDS.forEach(([f, , re]) => { const i = head.findIndex(h => re.test(h.toLowerCase())); map[f] = i; });
+      const fname = file.name.replace(/\.[^.]+$/, "");
+      const plan = () => {
+        const seen = new Set(l.items.map(i => key(i.company))), out = { add: [], dup: [], skip: 0 };
+        for (const r of data) {
+          const get = f => map[f] >= 0 ? clean(r[map[f]]) : "", company = get("company");
+          if (!company) { out.skip++; continue; }
+          const k = key(company);
+          if (seen.has(k)) { out.dup.push(company); continue; }
+          seen.add(k);
+          const st = STATUSES.find(s => s.toLowerCase() === get("status").toLowerCase());
+          out.add.push({ company, status: st, note: get("note"), source: get("source") || `CSV: ${fname}` });
+        }
+        return out;
+      };
+      const draw = () => {
+        const p = map.company >= 0 ? plan() : null;
+        $("#tlmap").innerHTML = `<h3>Columns</h3>${FIELDS.map(([f, label]) => `<label class="tlrow"><span style="width:90px">${label}</span>
+          <select data-f="${f}"><option value="-1">${f === "company" ? "Pick a column" : "Not used"}</option>${head.map((h, i) => `<option value="${i}" ${map[f] === i ? "selected" : ""}>${esc(h || `Column ${i + 1}`)}</option>`).join("")}</select></label>`).join("")}
+          <h3>Preview</h3>${!p ? `<p class="tlerr">Pick which column holds the company name.</p>` : `
+          <p><b>${p.add.length}</b> to add · <b>${p.dup.length}</b> duplicate${p.dup.length === 1 ? "" : "s"} skipped${p.skip ? ` · <b>${p.skip}</b> with no company skipped` : ""}</p>
+          ${p.add.length ? `<p class="small muted">${p.add.slice(0, 8).map(i => esc(i.company)).join(", ")}${p.add.length > 8 ? ` and ${p.add.length - 8} more` : ""}</p>` : ""}
+          ${p.dup.length ? `<details class="small"><summary>Duplicates</summary><p class="muted">${p.dup.slice(0, 50).map(esc).join(", ")}${p.dup.length > 50 ? "…" : ""}</p></details>` : ""}`}
+          <p><button class="btn pri" id="tlimpgo" ${p && p.add.length ? "" : "disabled"}>Add ${p ? p.add.length : 0} to list</button> <span id="tlimsg" class="muted small"></span></p>`;
+        dlg.querySelectorAll("select[data-f]").forEach(s => s.onchange = () => { map[s.dataset.f] = +s.value; draw(); });
+        $("#tlimpgo").onclick = async () => {
+          if (!ask()) return;
+          $("#tlimpgo").disabled = true; $("#tlimsg").textContent = "Saving…";
+          try {
+            const before = l.items.length, n = await call({ op: "add", id: l.id, items: p.add });
+            $(".pbody").innerHTML = `<button class="x" aria-label="Close">✕</button><h2>Imported</h2><p>Added ${n.items.length - before} compan${n.items.length - before === 1 ? "y" : "ies"} to ${esc(n.name)}.</p>`;
+            done();
+          } catch (e) { $("#tlimsg").textContent = fail(e); $("#tlimpgo").disabled = false; }
+        };
+      };
+      draw();
+    };
+  }
+
   document.addEventListener("click", e => {
     const b = e.target.closest(".tladd");
     if (b) { e.preventDefault(); picker(b.dataset.co, source()); }
@@ -104,7 +183,7 @@ window.TL = (function () {
         (!st.q || (x.name + " " + x.owner + " " + x.items.map(i => i.company).join(" ")).toLowerCase().includes(st.q.toLowerCase())));
       el.innerHTML = `
         <h1>Target lists</h1>
-        <p class="sub">Saved in this browser only, so use Export CSV to share a list. Add companies with the <span class="tladd static">+</span> next to any name in the trackers, or type them in below.</p>
+        <p class="sub">Saved in this browser only, so use Export CSV to share a list. Add companies with the <span class="tladd static">+</span> next to any name in the trackers, type them in, or use Import CSV on a list.</p>
         <div class="stats">
           <div class="stat"><b>${lists.length}</b><span>Lists</span></div>
           <div class="stat"><b>${lists.reduce((n, x) => n + x.items.length, 0)}</b><span>Companies</span></div>
@@ -138,7 +217,7 @@ window.TL = (function () {
     const detail = l => {
       const items = l.items.filter(i => !st.status || i.status === st.status);
       return `<div class="tlhead"><div><h2>${esc(l.name)}</h2><p class="muted small">Owner ${esc(l.owner)} · created ${new Date(l.created).toLocaleDateString("en-GB")} · updated ${new Date(l.updated).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" })}</p></div>
-        <div><button class="btn" id="csv">Export CSV</button> <button class="btn" id="copy">Copy link</button> ${l.owner === me() ? `<button class="btn" id="ren">Rename</button> <button class="btn danger" id="del">Delete</button>` : ""}</div></div>
+        <div><button class="btn" id="imp">Import CSV</button> <button class="btn" id="csv">Export CSV</button> <button class="btn" id="copy">Copy link</button> ${l.owner === me() ? `<button class="btn" id="ren">Rename</button> <button class="btn danger" id="del">Delete</button>` : ""}</div></div>
         <textarea id="notes" class="tlnotes" placeholder="List notes: angle, territory, owner split…">${esc(l.notes)}</textarea>
         <div class="filters"><input id="addco" placeholder="Add a company by name"><button class="btn pri" id="add">Add</button>
           <select id="status"><option value="">All statuses</option>${statuses.map(s => `<option ${st.status === s ? "selected" : ""}>${esc(s)}</option>`).join("")}</select></div>
@@ -161,6 +240,7 @@ window.TL = (function () {
         await call({ op: "add", id: l.id, items: [{ company: c, source: "Manual" }] }); redraw();
       });
       $("#addco").addEventListener("keydown", e => { if (e.key === "Enter") $("#add").click(); });
+      $("#imp").onclick = () => importer(l, redraw);
       $("#copy").onclick = () => navigator.clipboard.writeText(location.href).then(() => ($("#copy").textContent = "Copied"));
       $("#csv").onclick = () => {
         const cols = ["company", "status", "note", "source", "by", "added"], q = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
