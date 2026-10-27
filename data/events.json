@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-10-27T12:30+00:00",
+ "fetched_at": "2026-10-27T19:30+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Bitcoin Research Day After Hours - Amsterdam",
-   "start": "2026-10-27T15:30+00:00",
-   "end": "2026-10-27T18:30+00:00",
-   "city": "Amsterdam",
-   "venue": "Zoku Amsterdam",
-   "url": "https://lu.ma/m21nnt2v",
-   "source": "Luma",
-   "organiser": "[[alloc] init]",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ru/a5289c4d-97ad-4fec-8053-cd67a20ea959.png"
-  },
   {
    "title": "Crypto Drinks - Amsterdam",
    "start": "2026-10-28T17:30+00:00",
@@ -360,7 +345,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/2t/b0fa8b7b-b2b6-4c47-bc02-41487882287f.png"
+   "image": "https://images.lumacdn.com/uploads/ra/b7027811-d5f9-4625-a402-807162510929.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -466,21 +451,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
-  },
-  {
-   "title": "Solana Demo Day | London 2026",
-   "start": "2026-11-12T10:00+00:00",
-   "end": "2026-11-12T18:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/sol-demo-day",
-   "source": "Luma",
-   "organiser": "Solana Foundation",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
   },
   {
    "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
@@ -634,21 +604,6 @@
    "image": "https://images.lumacdn.com/uploads/ns/3a1d225d-69db-4b8b-9e81-2f60211f19d0.jpg"
   },
   {
-   "title": "Founders & Investors Brunch ✨ Breakpoint - London",
-   "start": "2026-11-15T11:00+00:00",
-   "end": "2026-11-15T14:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/avidk59g",
-   "source": "Luma",
-   "organiser": "fractl -web3's largest investor network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/3q/cdf8222d-3728-4c80-a5ba-bee192e7c38a.png"
-  },
-  {
    "title": "Solana Breakpoint 2026",
    "start": "2026-11-15T16:00+00:00",
    "end": "2026-11-17T19:00+00:00",
@@ -769,21 +724,6 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -797,6 +737,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
+  },
+  {
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
+   "source": "Luma",
+   "organiser": "Multicoin Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
@@ -887,6 +842,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/hh/ea4c0f10-25fd-405e-b81a-c4c00adc6397.jpg"
+  },
+  {
+   "title": "Blockchain.com: TYB Party",
+   "start": "2026-11-17T20:00+00:00",
+   "end": "2026-11-18T02:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/blockc-eg04",
+   "source": "Luma",
+   "organiser": "Blockchain.com",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/3w/e6232dd7-394a-4113-938c-5f5fd2aea6dd.png"
   },
   {
    "title": "Vixio Global Regulatory Awards 2026",
