@@ -1,23 +1,7 @@
 {
- "fetched_at": "2026-10-26T20:01+00:00",
+ "fetched_at": "2026-10-27T12:30+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "The Ooky Spooky Hallowooky Pub Quiz",
-   "start": "2026-10-26T19:00+00:00",
-   "end": "2026-10-26T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/7bfj8g60",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/tz/73d238a3-d6b8-4e92-865b-b6f9ac5fa0ac.jpg"
-  },
   {
    "title": "Bitcoin Research Day After Hours - Amsterdam",
    "start": "2026-10-27T15:30+00:00",
@@ -319,7 +303,7 @@
    "image": "https://images.lumacdn.com/uploads/vj/db256ecc-f9db-46ea-9645-4e0dc9ecb836.png"
   },
   {
-   "title": "Riserva London | Stablecoins and sanctions, with Fieldfisher",
+   "title": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.",
    "start": "2026-11-09T17:30+00:00",
    "end": "2026-11-09T20:30+00:00",
    "city": "London",
@@ -558,6 +542,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/1n/66b93528-e783-4baf-8c51-8fb90d640920.png"
+  },
+  {
+   "title": "Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future",
+   "start": "2026-11-13T15:00+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-london/events/317156477/",
+   "source": "Meetup",
+   "organiser": "LFDT London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
   },
   {
    "title": "445 CREW x Solana Breakpoint | Community Run",
@@ -857,7 +856,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/ue/e09c1b90-34ae-43a5-af76-50f1f5a8d997.png"
+   "image": "https://images.lumacdn.com/uploads/sg/4db69bd6-e488-41c2-bfa1-849c830ddf63.png"
   },
   {
    "title": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
@@ -1024,21 +1023,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/cs/115e4dc4-fa93-4844-a9ed-cc8576b7acc6.jpg"
-  },
-  {
-   "title": "Bitcoin & Crypto: De Basis",
-   "start": "2026-11-26T18:00+00:00",
-   "end": "2026-11-26T19:00+00:00",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://lu.ma/vc9tqaxb",
-   "source": "Luma",
-   "organiser": "BlockCentral",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9q/09b09f2a-dc27-4a9a-8dc0-c3c1cfa0f0aa.png"
   },
   {
    "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
