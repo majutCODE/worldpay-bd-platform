@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:18+00:00",
+ "fetched_at": "2026-10-28T19:41+00:00",
  "failures": [],
  "events": [
   {
@@ -288,6 +288,21 @@
    "image": "https://images.lumacdn.com/uploads/8c/a8cb7376-130d-43c4-9069-20f305616bb8.png"
   },
   {
+   "title": "DAS Padel Social with FunFair Ventures,Utila & Brava Finance",
+   "start": "2026-11-09T11:00+00:00",
+   "end": "2026-11-09T17:00+00:00",
+   "city": "London",
+   "venue": "House of Racquet",
+   "url": "https://lu.ma/yizyc19e",
+   "source": "Luma",
+   "organiser": "FunFair Ventures",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ub/11e2306a-b2ec-4732-a2f1-1aba79df1163.png"
+  },
+  {
    "title": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
    "start": "2026-11-09T16:00+00:00",
    "end": "2026-11-09T17:00+00:00",
@@ -349,7 +364,7 @@
   },
   {
    "title": "Digital Asset Summit London 2026",
-   "start": "2026-11-10T07:00+00:00",
+   "start": "2026-11-10T08:00+00:00",
    "end": "2026-11-11T18:00+00:00",
    "city": "London",
    "venue": "London Hilton on Park Lane",
@@ -361,21 +376,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
-  },
-  {
-   "title": "SCRYPT Private Dinner, DAS London",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T23:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/yvjgdjl8",
-   "source": "Luma",
-   "organiser": "SCRYPT",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
   },
   {
    "title": "CryptoUK x The Digital Chamber: Member Networking Event",
@@ -391,6 +391,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ra/b7027811-d5f9-4625-a402-807162510929.png"
+  },
+  {
+   "title": "SCRYPT Private Dinner, DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T23:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yvjgdjl8",
+   "source": "Luma",
+   "organiser": "SCRYPT",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
   },
   {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
@@ -438,6 +453,21 @@
    "image": "https://images.lumacdn.com/uploads/6k/cb733df7-fae3-4a26-93ef-4e69dd24be68.png"
   },
   {
+   "title": "Executive Digital Assets Dinner w/ Halborn",
+   "start": "2026-11-10T18:30+00:00",
+   "end": "2026-11-10T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/dashalborndinner",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ne/099e4a20-a89b-4478-b8bb-b8d534eb58d2.png"
+  },
+  {
    "title": "Below the Surface: CRYMBO × Orbs",
    "start": "2026-11-10T19:00+00:00",
    "end": "2026-11-10T23:00+00:00",
@@ -483,19 +513,19 @@
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
-   "title": "Solana Demo Day | London 2026",
-   "start": "2026-11-12T10:00+00:00",
-   "end": "2026-11-12T18:30+00:00",
+   "title": "Filibuster DAO · Genesis Sitting",
+   "start": "2026-11-11T19:00+00:00",
+   "end": "2026-11-11T23:00+00:00",
    "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/sol-demo-day",
+   "venue": "London",
+   "url": "https://lu.ma/0f9i1675",
    "source": "Luma",
-   "organiser": "Solana Foundation",
+   "organiser": "Filibuster DAO",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
+   "image": "https://images.lumacdn.com/uploads/t6/dcb864b1-b7f6-47b7-9429-9cfad87f9625.png"
   },
   {
    "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
