@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T19:30+00:00",
+ "fetched_at": "2026-10-28T13:18+00:00",
  "failures": [],
  "events": [
   {
@@ -76,6 +76,21 @@
    ],
    "online": true,
    "image": ""
+  },
+  {
+   "title": "Superteam NL Co-Working Friday @ AI AM Amsterdam",
+   "start": "2026-10-30T09:00+00:00",
+   "end": "2026-10-30T15:00+00:00",
+   "city": "Amsterdam",
+   "venue": "AI AM",
+   "url": "https://lu.ma/h2y769io",
+   "source": "Luma",
+   "organiser": "Superteam NL",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/0m/4c461125-7764-4efd-9586-72f760fe02f5.jpg"
   },
   {
    "title": "Crypto Coffee - CW3",
@@ -258,6 +273,21 @@
    "image": "https://images.lumacdn.com/uploads/yh/d2e74ac6-fe24-4f35-ab85-ec66ba9c50b4.jpg"
   },
   {
+   "title": "SUYE - ART Ordinals BTC Meetup - Ordinal.io - Museum ETA",
+   "start": "2026-11-06T17:00+00:00",
+   "end": "2026-11-06T20:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Marnixstraat 127",
+   "url": "https://lu.ma/2cwyujqm",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/8c/a8cb7376-130d-43c4-9069-20f305616bb8.png"
+  },
+  {
    "title": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
    "start": "2026-11-09T16:00+00:00",
    "end": "2026-11-09T17:00+00:00",
@@ -333,21 +363,6 @@
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
   },
   {
-   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T21:00+00:00",
-   "city": "London",
-   "venue": "Reed Smith",
-   "url": "https://lu.ma/cryptouk-36w1",
-   "source": "Luma",
-   "organiser": "CryptoUK",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ra/b7027811-d5f9-4625-a402-807162510929.png"
-  },
-  {
    "title": "SCRYPT Private Dinner, DAS London",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T23:30+00:00",
@@ -361,6 +376,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
+  },
+  {
+   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T21:00+00:00",
+   "city": "London",
+   "venue": "Reed Smith",
+   "url": "https://lu.ma/cryptouk-36w1",
+   "source": "Luma",
+   "organiser": "CryptoUK",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ra/b7027811-d5f9-4625-a402-807162510929.png"
   },
   {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
@@ -451,6 +481,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
+  },
+  {
+   "title": "Solana Demo Day | London 2026",
+   "start": "2026-11-12T10:00+00:00",
+   "end": "2026-11-12T18:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/sol-demo-day",
+   "source": "Luma",
+   "organiser": "Solana Foundation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
   },
   {
    "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
@@ -646,7 +691,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/mz/31d8de2b-f09c-449f-97cc-d5b2abb5119e.png"
+   "image": "https://images.lumacdn.com/uploads/kg/f3368c51-c06c-4bc9-84ca-7c76cd50ba63.png"
   },
   {
    "title": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
@@ -724,21 +769,6 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/1hdsvfdv",
-   "source": "Luma",
-   "organiser": "Chiliz Community Meetup",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
-  },
-  {
    "title": "Bullseye with Multicoin Capital",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T21:00+00:00",
@@ -752,6 +782,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
+   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/1hdsvfdv",
+   "source": "Luma",
+   "organiser": "Chiliz Community Meetup",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
@@ -796,7 +841,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/r6/64645414-ffb0-4c27-9b72-4ae68387dc90.png"
+   "image": "https://images.lumacdn.com/uploads/72/df8a4773-a895-4eaf-95d5-f0ed3383bbeb.png"
   },
   {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
