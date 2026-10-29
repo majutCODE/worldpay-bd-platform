@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-10-29T13:25+00:00",
+ "fetched_at": "2026-10-29T19:44+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
-   "start": "2026-10-29T15:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/316859654/",
-   "source": "Meetup",
-   "organiser": "LFDT London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
-  },
-  {
-   "title": "ZK Learning Group: Quantum resistance and ZKP",
-   "start": "2026-10-29T17:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/316802723/",
-   "source": "Meetup",
-   "organiser": "LFDT London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
-  },
   {
    "title": "Superteam NL Co-Working Friday @ AI AM Amsterdam",
    "start": "2026-10-30T09:00+00:00",
@@ -213,21 +183,6 @@
    "image": ""
   },
   {
-   "title": "Ethereum Community Coworking Day @ Encode Hub",
-   "start": "2026-11-06T09:00+00:00",
-   "end": "2026-11-06T18:00+00:00",
-   "city": "London",
-   "venue": "Encode Hub",
-   "url": "https://lu.ma/auho5m0c",
-   "source": "Luma",
-   "organiser": "Encode Club",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/ei/78bc9ea2-a962-403a-b796-59fd3d2e4eb5.png"
-  },
-  {
    "title": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
    "start": "2026-11-06T17:00+00:00",
    "end": "2026-11-06T21:00+00:00",
@@ -333,6 +288,21 @@
    "image": "https://images.lumacdn.com/uploads/uw/ca42526b-6b16-4be6-ab41-ebfba5c7e9a5.png"
   },
   {
+   "title": "PakLaunch x ZIG Finance: London Meetup",
+   "start": "2026-11-09T18:00+00:00",
+   "end": "2026-11-09T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/ZIGFinanceLondonMeetup",
+   "source": "Luma",
+   "organiser": "ZIG Finance",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/el/5cd7875a-9584-41da-a9e0-7c659e77dace.png"
+  },
+  {
    "title": "Digital Asset Summit London 2026",
    "start": "2026-11-10T08:00+00:00",
    "end": "2026-11-11T18:00+00:00",
@@ -393,19 +363,19 @@
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
-   "title": "Banking & Payments Dinner by Utila, Cryptio & Velocity",
-   "start": "2026-11-10T18:30+00:00",
-   "end": "2026-11-10T23:30+00:00",
+   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T20:00+00:00",
    "city": "London",
    "venue": "",
-   "url": "https://lu.ma/das-london-dinner",
+   "url": "https://lu.ma/8d7o3qh7",
    "source": "Luma",
-   "organiser": "Utila",
+   "organiser": "NOTALONE",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/6k/cb733df7-fae3-4a26-93ef-4e69dd24be68.png"
+   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
   },
   {
    "title": "Executive Digital Assets Dinner w/ Halborn",
@@ -466,21 +436,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
-  },
-  {
-   "title": "Filibuster DAO · Genesis Sitting",
-   "start": "2026-11-11T19:00+00:00",
-   "end": "2026-11-11T23:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/0f9i1675",
-   "source": "Luma",
-   "organiser": "Filibuster DAO",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/t6/dcb864b1-b7f6-47b7-9429-9cfad87f9625.png"
   },
   {
    "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
@@ -559,19 +514,19 @@
    "image": ""
   },
   {
-   "title": "445 CREW x Solana Breakpoint | Community Run",
-   "start": "2026-11-14T09:15+00:00",
-   "end": "2026-11-14T11:45+00:00",
+   "title": "Drakes on Tap",
+   "start": "2026-11-13T20:00+00:00",
+   "end": "2026-11-13T23:00+00:00",
    "city": "London",
-   "venue": "Fulham Pier",
-   "url": "https://lu.ma/n6r4k7vb",
+   "venue": "",
+   "url": "https://lu.ma/c0yh7qhz",
    "source": "Luma",
-   "organiser": "Personal",
+   "organiser": "Lucid Drakes",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/p0/d4a474a1-d588-4bd2-a8a3-b971a9057827.png"
+   "image": "https://images.lumacdn.com/uploads/us/32f7a7aa-adab-453e-8855-d8c105a10f37.png"
   },
   {
    "title": "Scale or Die",
@@ -617,6 +572,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
+  },
+  {
+   "title": "RWAs: From Tokenized to Traded",
+   "start": "2026-11-15T15:00+00:00",
+   "end": "2026-11-15T19:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/rtgpxj6h",
+   "source": "Luma",
+   "organiser": "RockawayX",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/1o/f4b5e9de-a019-45d8-9951-2d0735610ec6.png"
   },
   {
    "title": "Solana Breakpoint 2026",
@@ -694,6 +664,21 @@
    "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
   },
   {
+   "title": "Solana Governance Talks, London 2026",
+   "start": "2026-11-16T14:00+00:00",
+   "end": "2026-11-16T16:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/0rcvc8n9",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/j2/8c283919-7e09-4069-896a-59926d0f0423.png"
+  },
+  {
    "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
    "start": "2026-11-16T16:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -724,21 +709,6 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -752,6 +722,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
+  },
+  {
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
+   "source": "Luma",
+   "organiser": "Multicoin Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
   },
   {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
@@ -842,6 +827,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/hh/ea4c0f10-25fd-405e-b81a-c4c00adc6397.jpg"
+  },
+  {
+   "title": "London Happy Hour",
+   "start": "2026-11-17T17:00+00:00",
+   "end": "2026-11-17T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/LondonHappyHour",
+   "source": "Luma",
+   "organiser": "Figment Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/u3/3dc1f74f-8482-431b-9339-aceb4926ae60.png"
   },
   {
    "title": "Blockchain.com: TYB Party",
@@ -1054,22 +1054,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
-  },
-  {
-   "title": "The Nativity Pub Quiz",
-   "start": "2026-12-21T19:00+00:00",
-   "end": "2026-12-21T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/zvi12pf7",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Impact Amsterdam",
