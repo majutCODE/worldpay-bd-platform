@@ -1,52 +1,7 @@
 {
- "fetched_at": "2026-10-28T19:41+00:00",
+ "fetched_at": "2026-10-29T13:25+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Crypto Drinks - Amsterdam",
-   "start": "2026-10-28T17:30+00:00",
-   "end": "2026-10-28T21:30+00:00",
-   "city": "Amsterdam",
-   "venue": "Meet Berlage",
-   "url": "https://lu.ma/votd9syq",
-   "source": "Luma",
-   "organiser": "CryptoCanal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/3o/a0f3d083-ded9-49f9-8059-df8218ea9f5d.png"
-  },
-  {
-   "title": "The W3B Club : AI x Blockchain: Proof-of-Compute, Decentralised AI & On-Chain Verification",
-   "start": "2026-10-28T18:00+00:00",
-   "end": "2026-10-28T21:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/2ddct6na",
-   "source": "Luma",
-   "organiser": "The W3B Club",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/zz/7463fd85-a270-4f21-a973-daf9e9350725"
-  },
-  {
-   "title": "BitDevs - Socratic Seminar #54",
-   "start": "2026-10-28T18:40+00:00",
-   "end": "2026-10-28T21:00+00:00",
-   "city": "London",
-   "venue": "Antidote",
-   "url": "https://lu.ma/antidote-kcoh",
-   "source": "Luma",
-   "organiser": "Antidote Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/o4/30a459d3-91e1-429f-b4c9-bbeced5cc8b0.webp"
-  },
   {
    "title": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
    "start": "2026-10-29T15:00+00:00",
@@ -181,6 +136,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/j4/ac3f1984-005a-4d75-94e6-40fa03175569.jpg"
+  },
+  {
+   "title": "Meet Bitcoin Amsterdam",
+   "start": "2026-11-05T15:30+00:00",
+   "end": "2026-11-06T17:30+00:00",
+   "city": "Amsterdam",
+   "venue": "Brasserie Het Gemaal",
+   "url": "https://lu.ma/5jftw55z",
+   "source": "Luma",
+   "organiser": "BALTICBA",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/fy/240a8da2-8f61-4c53-8864-8092c517c47f.jpg"
   },
   {
    "title": "Socratic seminar BitcoinAmsterdam, November 5, 2026",
@@ -423,21 +393,6 @@
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
-   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/8d7o3qh7",
-   "source": "Luma",
-   "organiser": "NOTALONE",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
-  },
-  {
    "title": "Banking & Payments Dinner by Utila, Cryptio & Velocity",
    "start": "2026-11-10T18:30+00:00",
    "end": "2026-11-10T23:30+00:00",
@@ -664,21 +619,6 @@
    "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
   },
   {
-   "title": "\"Surprise Me\" Ideas Coffee | Zee Prime Capital @ Breakpoint",
-   "start": "2026-11-15T09:00+00:00",
-   "end": "2026-11-15T19:00+00:00",
-   "city": "London",
-   "venue": "Hyatt Regency London Olympia",
-   "url": "https://lu.ma/6tmorkog",
-   "source": "Luma",
-   "organiser": "Zee Prime Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ns/3a1d225d-69db-4b8b-9e81-2f60211f19d0.jpg"
-  },
-  {
    "title": "Solana Breakpoint 2026",
    "start": "2026-11-15T16:00+00:00",
    "end": "2026-11-17T19:00+00:00",
@@ -754,22 +694,7 @@
    "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
   },
   {
-   "title": "Solana Governance Talks, London 2026",
-   "start": "2026-11-16T14:00+00:00",
-   "end": "2026-11-16T16:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/0rcvc8n9",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/j2/8c283919-7e09-4069-896a-59926d0f0423.png"
-  },
-  {
-   "title": "GGC: GMGN Global Championship - London Finals",
+   "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
    "start": "2026-11-16T16:00+00:00",
    "end": "2026-11-16T22:00+00:00",
    "city": "London",
