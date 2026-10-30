@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-10-30T13:15+00:00",
+ "fetched_at": "2026-10-30T19:32+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Superteam NL Co-Working Friday @ AI AM Amsterdam",
-   "start": "2026-10-30T09:00+00:00",
-   "end": "2026-10-30T15:00+00:00",
-   "city": "Amsterdam",
-   "venue": "AI AM",
-   "url": "https://lu.ma/h2y769io",
-   "source": "Luma",
-   "organiser": "Superteam NL",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/0m/4c461125-7764-4efd-9586-72f760fe02f5.jpg"
-  },
-  {
-   "title": "Crypto Coffee - CW3",
-   "start": "2026-10-30T12:00+00:00",
-   "end": "2026-10-30T15:30+00:00",
-   "city": "London",
-   "venue": "Somerset House",
-   "url": "https://lu.ma/vdujqeoc",
-   "source": "Luma",
-   "organiser": "Christians in Web3",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/gallery-images/fz/565f53c6-1b0e-47ec-b0d6-d1af7f17b328.png"
-  },
   {
    "title": "Solana Hacker House - London",
    "start": "2026-11-01T10:00+00:00",
@@ -316,6 +286,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
+  },
+  {
+   "title": "Convergence: Onchain Finance Soirée at DAS London",
+   "start": "2026-11-10T16:00+00:00",
+   "end": "2026-11-10T19:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/convergence-onchain-finance-das-london",
+   "source": "Luma",
+   "organiser": "OpenZeppelin",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ye/8e207b9f-12cf-43f2-a46f-85a3ad895d1e.png"
   },
   {
    "title": "CryptoUK x The Digital Chamber: Member Networking Event",
@@ -724,6 +709,36 @@
    "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
+   "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T20:00+00:00",
+   "city": "London",
+   "venue": "Lillie's Wine Bar & Restaurant",
+   "url": "https://lu.ma/mkvzcqey",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
+  },
+  {
+   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
+   "start": "2026-11-16T17:30+00:00",
+   "end": "2026-11-16T20:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/gsrcrypto-jmyt",
+   "source": "Luma",
+   "organiser": "GSR Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
+  },
+  {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
    "start": "2026-11-16T18:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -766,7 +781,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/72/df8a4773-a895-4eaf-95d5-f0ed3383bbeb.png"
+   "image": "https://images.lumacdn.com/uploads/2f/5b866d8b-c7de-42ba-aa4c-634800cc0705.png"
   },
   {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
