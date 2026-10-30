@@ -379,6 +379,10 @@
 "date": "2026-08-06",
 "estimated": true
 },
+"CASP|5299004D2UMCDTD9JG58": {
+"date": "2026-10-30",
+"estimated": false
+},
 "CASP|5299004HBAECUACNWN98": {
 "date": "2026-10-23",
 "estimated": false
@@ -571,6 +575,10 @@
 "date": "2026-08-04",
 "estimated": true
 },
+"CASP|529900IWU96YBZ2JG374": {
+"date": "2026-10-30",
+"estimated": false
+},
 "CASP|529900JB9XYZ8E87N345": {
 "date": "2025-05-14",
 "estimated": true
@@ -599,6 +607,10 @@
 "date": "2025-12-19",
 "estimated": true
 },
+"CASP|529900LF81A0TME61753": {
+"date": "2026-10-30",
+"estimated": false
+},
 "CASP|529900LZM6X3GBFNLG10": {
 "date": "2026-02-04",
 "estimated": true
@@ -610,6 +622,10 @@
 "CASP|529900MKYC1FZ83V3121": {
 "date": "2025-04-04",
 "estimated": true
+},
+"CASP|529900MNNP2L0BZKDM04": {
+"date": "2026-10-30",
+"estimated": false
 },
 "CASP|529900MQJIQGD8N3YV53": {
 "date": "2025-12-12",
@@ -726,6 +742,10 @@
 "CASP|529900UYTAE51VW2TG15": {
 "date": "2026-05-13",
 "estimated": true
+},
+"CASP|529900V5E7HEA1LD8V54": {
+"date": "2026-10-30",
+"estimated": false
 },
 "CASP|529900VHU3S8ZYAQYZ61": {
 "date": "2026-09-22",
@@ -1759,6 +1779,10 @@
 "date": "2026-02-02",
 "estimated": true
 },
+"Non-compliant|brelliozoia": {
+"date": "2026-10-30",
+"estimated": false
+},
 "Non-compliant|bvoxed": {
 "date": "2025-05-22",
 "estimated": true
@@ -1770,6 +1794,10 @@
 "Non-compliant|caa871": {
 "date": "2025-04-03",
 "estimated": true
+},
+"Non-compliant|cardinemodevo": {
+"date": "2026-10-30",
+"estimated": false
 },
 "Non-compliant|cdx818": {
 "date": "2026-03-25",
@@ -1795,6 +1823,10 @@
 "date": "2025-06-05",
 "estimated": true
 },
+"Non-compliant|chainexelonfin": {
+"date": "2026-10-30",
+"estimated": false
+},
 "Non-compliant|coinbankexchange": {
 "date": "2025-03-06",
 "estimated": true
@@ -1810,6 +1842,10 @@
 "Non-compliant|cryptoin24": {
 "date": "2025-11-25",
 "estimated": true
+},
+"Non-compliant|dashaxid400": {
+"date": "2026-10-30",
+"estimated": false
 },
 "Non-compliant|derokauab": {
 "date": "2025-03-27",
@@ -2011,6 +2047,10 @@
 "date": "2025-03-06",
 "estimated": true
 },
+"Non-compliant|incomemax": {
+"date": "2026-10-30",
+"estimated": false
+},
 "Non-compliant|interersosinteresosf": {
 "date": "2025-05-22",
 "estimated": true
@@ -2199,6 +2239,18 @@
 "date": "2025-06-13",
 "estimated": true
 },
+"Non-compliant|smartbitboost": {
+"date": "2026-10-30",
+"estimated": false
+},
+"Non-compliant|solvexpulse53ai": {
+"date": "2026-10-30",
+"estimated": false
+},
+"Non-compliant|sovriapro": {
+"date": "2026-10-30",
+"estimated": false
+},
 "Non-compliant|spaziofinanziario": {
 "date": "2025-09-29",
 "estimated": true
@@ -2222,6 +2274,10 @@
 "Non-compliant|syk755": {
 "date": "2025-06-05",
 "estimated": true
+},
+"Non-compliant|tesorvenza": {
+"date": "2026-10-30",
+"estimated": false
 },
 "Non-compliant|tmxa": {
 "date": "2025-06-05",
@@ -2266,6 +2322,10 @@
 "Non-compliant|valoranco": {
 "date": "2026-04-07",
 "estimated": true
+},
+"Non-compliant|valutixitalia": {
+"date": "2026-10-30",
+"estimated": false
 },
 "Non-compliant|veltrixmaxinvestcomayquozebercom": {
 "date": "2025-10-20",
