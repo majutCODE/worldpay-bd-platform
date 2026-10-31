@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:52+00:00",
+ "fetched_at": "2026-10-31T18:39+00:00",
  "failures": [],
  "events": [
   {
@@ -46,6 +46,36 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/t1/0073f55e-450e-4c58-8f07-15d476b0cba5.png"
+  },
+  {
+   "title": "Global Tokenization Day",
+   "start": "2026-11-04T18:00+00:00",
+   "end": "2026-11-04T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/e0sl9603",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vt/0aba5d5c-b2b2-49ff-a060-18dca91d31e2.jpg"
+  },
+  {
+   "title": "VCs Coffe Meetup (Bitcoin Amsterdam)",
+   "start": "2026-11-05T08:00+00:00",
+   "end": "2026-11-05T11:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Amsterdam",
+   "url": "https://lu.ma/ffjs338p",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/gallery-images/5f/0cdcf142-1eaa-4844-a24c-91fc3f205747"
   },
   {
    "title": "The Block Party",
@@ -230,7 +260,7 @@
   {
    "title": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.",
    "start": "2026-11-09T17:30+00:00",
-   "end": "2026-11-09T20:30+00:00",
+   "end": "2026-11-09T19:30+00:00",
    "city": "London",
    "venue": "",
    "url": "https://lu.ma/g4w56vmw",
@@ -393,6 +423,21 @@
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
+   "title": "Solana Demo Day | London 2026",
+   "start": "2026-11-12T10:00+00:00",
+   "end": "2026-11-12T18:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/sol-demo-day",
+   "source": "Luma",
+   "organiser": "Solana Foundation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
+  },
+  {
    "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
    "start": "2026-11-12T13:00+00:00",
    "end": "2026-11-12T15:00+00:00",
@@ -482,6 +527,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/us/32f7a7aa-adab-453e-8855-d8c105a10f37.png"
+  },
+  {
+   "title": "445 CREW x Solana Breakpoint | Community Run",
+   "start": "2026-11-14T09:15+00:00",
+   "end": "2026-11-14T11:45+00:00",
+   "city": "London",
+   "venue": "Fulham Pier",
+   "url": "https://lu.ma/n6r4k7vb",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/p0/d4a474a1-d588-4bd2-a8a3-b971a9057827.png"
   },
   {
    "title": "Scale or Die",
@@ -632,21 +692,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
-  },
-  {
-   "title": "Colosseum Builder Zone",
-   "start": "2026-11-16T10:30+00:00",
-   "end": "2026-11-17T19:00+00:00",
-   "city": "London",
-   "venue": "Olympia",
-   "url": "https://lu.ma/colosseum-2xiq",
-   "source": "Luma",
-   "organiser": "Colosseum",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/r9/557dc1d0-7a04-40c4-87e5-a772c962ac07.png"
   },
   {
    "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
@@ -947,21 +992,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png"
-  },
-  {
-   "title": "From Real Assets to Digital Tokens: RWA Tokenisation",
-   "start": "2026-11-23T16:30+00:00",
-   "end": "2026-11-23T20:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/r5kqfaz0",
-   "source": "Luma",
-   "organiser": "ComTech Swiss in collaboration with XDC Network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/1b/c2c7648e-0d08-4de6-9c9d-6233253a7eb4.png"
   },
   {
    "title": "The Lady Gaga Pub Quiz with Seb Darke",
