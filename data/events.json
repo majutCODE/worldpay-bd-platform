@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T19:32+00:00",
+ "fetched_at": "2026-10-31T12:52+00:00",
  "failures": [],
  "events": [
   {
@@ -48,21 +48,6 @@
    "image": "https://images.lumacdn.com/uploads/t1/0073f55e-450e-4c58-8f07-15d476b0cba5.png"
   },
   {
-   "title": "Global Tokenization Day",
-   "start": "2026-11-04T18:00+00:00",
-   "end": "2026-11-04T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/e0sl9603",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vt/0aba5d5c-b2b2-49ff-a060-18dca91d31e2.jpg"
-  },
-  {
    "title": "The Block Party",
    "start": "2026-11-05T10:00+00:00",
    "end": "2026-11-05T12:00+00:00",
@@ -90,7 +75,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/fy/240a8da2-8f61-4c53-8864-8092c517c47f.jpg"
+   "image": "https://images.lumacdn.com/uploads/cj/ce7974c1-e8c3-4512-8b49-f9ff0adeefcb.gif"
   },
   {
    "title": "Socratic seminar BitcoinAmsterdam, November 5, 2026",
@@ -181,6 +166,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/8c/a8cb7376-130d-43c4-9069-20f305616bb8.png"
+  },
+  {
+   "title": "Art on Bitcoin",
+   "start": "2026-11-07T16:00+00:00",
+   "end": "2026-11-07T18:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Reguliersdwarsstraat 73",
+   "url": "https://lu.ma/0awmhyao",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/0e/622be10e-50f1-4e5c-a3ba-afed673c221d.png"
   },
   {
    "title": "DAS Padel Social with FunFair Ventures,Utila & Brava Finance",
@@ -346,21 +346,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
-  },
-  {
-   "title": "Executive Digital Assets Dinner w/ Halborn",
-   "start": "2026-11-10T18:30+00:00",
-   "end": "2026-11-10T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/dashalborndinner",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ne/099e4a20-a89b-4478-b8bb-b8d534eb58d2.png"
   },
   {
    "title": "Below the Surface: CRYMBO × Orbs",
@@ -542,6 +527,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
+  },
+  {
+   "title": "\"Surprise Me\" Ideas Coffee | Zee Prime Capital @ Breakpoint",
+   "start": "2026-11-15T09:00+00:00",
+   "end": "2026-11-15T19:00+00:00",
+   "city": "London",
+   "venue": "Hyatt Regency London Olympia",
+   "url": "https://lu.ma/6tmorkog",
+   "source": "Luma",
+   "organiser": "Zee Prime Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ns/3a1d225d-69db-4b8b-9e81-2f60211f19d0.jpg"
   },
   {
    "title": "RWAs: From Tokenized to Traded",
@@ -739,6 +739,21 @@
    "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
   },
   {
+   "title": "House of Sol: Breakpoint",
+   "start": "2026-11-16T18:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/hos-breakpoint",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2f/5b866d8b-c7de-42ba-aa4c-634800cc0705.png"
+  },
+  {
    "title": "SOL Calling: Solana Breakpoint Happy Hour",
    "start": "2026-11-16T18:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -767,21 +782,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/m9/1ca83471-5e9b-46b2-8e97-11fb3e4af15e.png"
-  },
-  {
-   "title": "House of Sol: Breakpoint",
-   "start": "2026-11-16T18:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/hos-breakpoint",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2f/5b866d8b-c7de-42ba-aa4c-634800cc0705.png"
   },
   {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
@@ -1084,6 +1084,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
+  },
+  {
+   "title": "The Nativity Pub Quiz",
+   "start": "2026-12-21T19:00+00:00",
+   "end": "2026-12-21T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/zvi12pf7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Impact Amsterdam",
