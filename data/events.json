@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T18:39+00:00",
+ "fetched_at": "2026-11-01T13:39+00:00",
  "failures": [],
  "events": [
   {
@@ -273,21 +273,6 @@
    "image": "https://images.lumacdn.com/uploads/rl/7c96e78a-9777-41bf-b445-1c3c7505ad75.png"
   },
   {
-   "title": "Beyond Market Hours: An Evening Reception",
-   "start": "2026-11-09T18:00+00:00",
-   "end": "2026-11-09T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/qdn6p885",
-   "source": "Luma",
-   "organiser": "Elwood",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/uw/ca42526b-6b16-4be6-ab41-ebfba5c7e9a5.png"
-  },
-  {
    "title": "PakLaunch x ZIG Finance: London Meetup",
    "start": "2026-11-09T18:00+00:00",
    "end": "2026-11-09T22:00+00:00",
@@ -529,21 +514,6 @@
    "image": "https://images.lumacdn.com/uploads/us/32f7a7aa-adab-453e-8855-d8c105a10f37.png"
   },
   {
-   "title": "445 CREW x Solana Breakpoint | Community Run",
-   "start": "2026-11-14T09:15+00:00",
-   "end": "2026-11-14T11:45+00:00",
-   "city": "London",
-   "venue": "Fulham Pier",
-   "url": "https://lu.ma/n6r4k7vb",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/p0/d4a474a1-d588-4bd2-a8a3-b971a9057827.png"
-  },
-  {
    "title": "Scale or Die",
    "start": "2026-11-14T09:30+00:00",
    "end": "2026-11-14T18:30+00:00",
@@ -587,21 +557,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
-  },
-  {
-   "title": "\"Surprise Me\" Ideas Coffee | Zee Prime Capital @ Breakpoint",
-   "start": "2026-11-15T09:00+00:00",
-   "end": "2026-11-15T19:00+00:00",
-   "city": "London",
-   "venue": "Hyatt Regency London Olympia",
-   "url": "https://lu.ma/6tmorkog",
-   "source": "Luma",
-   "organiser": "Zee Prime Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ns/3a1d225d-69db-4b8b-9e81-2f60211f19d0.jpg"
   },
   {
    "title": "RWAs: From Tokenized to Traded",
@@ -692,6 +647,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
+  },
+  {
+   "title": "Colosseum Builder Zone",
+   "start": "2026-11-16T10:30+00:00",
+   "end": "2026-11-17T19:00+00:00",
+   "city": "London",
+   "venue": "Olympia",
+   "url": "https://lu.ma/colosseum-2xiq",
+   "source": "Luma",
+   "organiser": "Colosseum",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/r9/557dc1d0-7a04-40c4-87e5-a772c962ac07.png"
   },
   {
    "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
@@ -962,6 +932,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/zm/d08e94ce-f4f2-4dee-a0e5-b2eb9422dbf5.png"
+  },
+  {
+   "title": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
+   "start": "2026-11-19T17:00+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-netherlands/events/317065049/",
+   "source": "Meetup",
+   "organiser": "LFDT Netherlands",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
   },
   {
    "title": "Blockchain Banter Presents: Web3 Poker Club x Wifey - Wolfpack Poker Night",
