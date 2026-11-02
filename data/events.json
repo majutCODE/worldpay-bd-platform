@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:22+00:00",
+ "fetched_at": "2026-11-02T22:49+00:00",
  "failures": [],
  "events": [
   {
@@ -48,7 +48,7 @@
    "image": "https://images.lumacdn.com/uploads/j4/ac3f1984-005a-4d75-94e6-40fa03175569.jpg"
   },
   {
-   "title": "Meet Bitcoin Amsterdam: Traders, Investors & Web3 Builders",
+   "title": "Meet Bitcoin Amsterdam: Investors & Traders, and Web3 Builders",
    "start": "2026-11-05T15:30+00:00",
    "end": "2026-11-05T17:30+00:00",
    "city": "Amsterdam",
@@ -273,19 +273,19 @@
    "image": "https://images.lumacdn.com/uploads/ye/8e207b9f-12cf-43f2-a46f-85a3ad895d1e.png"
   },
   {
-   "title": "CryptoUK x The Digital Chamber: Member Networking Event",
+   "title": "Applied Blockchain Sessions 2026 | Soho House",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
    "city": "London",
-   "venue": "Reed Smith",
-   "url": "https://lu.ma/cryptouk-36w1",
+   "venue": "180 House",
+   "url": "https://lu.ma/m3gf8ayo",
    "source": "Luma",
-   "organiser": "CryptoUK",
+   "organiser": "Applied Edge | Applied Blockchain",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/ra/b7027811-d5f9-4625-a402-807162510929.png"
+   "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -301,21 +301,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
-  },
-  {
-   "title": "Applied Blockchain Sessions 2026 | Soho House",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T21:00+00:00",
-   "city": "London",
-   "venue": "180 House",
-   "url": "https://lu.ma/m3gf8ayo",
-   "source": "Luma",
-   "organiser": "Applied Edge | Applied Blockchain",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
    "title": "Below the Surface: CRYMBO × Orbs",
@@ -634,6 +619,21 @@
    "image": "https://images.lumacdn.com/uploads/r9/557dc1d0-7a04-40c4-87e5-a772c962ac07.png"
   },
   {
+   "title": "SWC | Debanking Roundtable at Zebu Live Arms",
+   "start": "2026-11-16T12:30+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/ejadxw59",
+   "source": "Luma",
+   "organiser": "Stand with Crypto in the UK",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/zq/f584b215-961e-468f-b983-d7694f248ea2.png"
+  },
+  {
    "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
    "start": "2026-11-16T16:00+00:00",
    "end": "2026-11-16T22:00+00:00",
@@ -679,21 +679,6 @@
    "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -709,19 +694,19 @@
    "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
   },
   {
-   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
-   "start": "2026-11-16T17:30+00:00",
-   "end": "2026-11-16T20:30+00:00",
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
    "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/gsrcrypto-jmyt",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
    "source": "Luma",
-   "organiser": "GSR Events",
+   "organiser": "Multicoin Capital",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
   },
   {
    "title": "House of Sol: Breakpoint",
@@ -872,21 +857,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
-  },
-  {
-   "title": "Rayls Community Meetup: London",
-   "start": "2026-11-18T17:00+00:00",
-   "end": "2026-11-18T19:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/yp556lph",
-   "source": "Luma",
-   "organiser": "Rayls Community Meetups",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
   },
   {
    "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
@@ -1053,6 +1023,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/zs/f02573a7-7e13-44f7-a527-3b154c96c7af.jpg"
+  },
+  {
+   "title": "The Jumpers Pub Quiz",
+   "start": "2026-12-14T19:00+00:00",
+   "end": "2026-12-14T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/o12zbni7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
   },
   {
    "title": "Impact Amsterdam",
