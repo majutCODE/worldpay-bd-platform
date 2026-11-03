@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:29+00:00",
+ "fetched_at": "2026-11-03T20:33+00:00",
  "failures": [],
  "events": [
   {
@@ -348,6 +348,21 @@
    "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
+   "title": "Scaling DeFi: London Edition",
+   "start": "2026-11-11T17:00+00:00",
+   "end": "2026-11-11T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/y6on1z3r",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/jl/708af4d8-a3fe-48fc-9e96-f9d3db71e202.png"
+  },
+  {
    "title": "Signature Sips Cocktail Hour by Hypernative and Zama",
    "start": "2026-11-11T18:00+00:00",
    "end": "2026-11-11T20:30+00:00",
@@ -679,21 +694,6 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/1hdsvfdv",
-   "source": "Luma",
-   "organiser": "Chiliz Community Meetup",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
-  },
-  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -707,6 +707,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
+  },
+  {
+   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/1hdsvfdv",
+   "source": "Luma",
+   "organiser": "Chiliz Community Meetup",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
    "title": "Bullseye with Multicoin Capital",
@@ -919,6 +934,21 @@
    "image": ""
   },
   {
+   "title": "Xapo Bank Community Event",
+   "start": "2026-11-19T18:00+00:00",
+   "end": "2026-11-19T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/gpeo2awb",
+   "source": "Luma",
+   "organiser": "Xapo Bank",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ge/dbd979d1-5349-4b0d-89f5-31e7e5955152.png"
+  },
+  {
    "title": "Blockchain Banter Presents: Web3 Poker Club x Wifey - Wolfpack Poker Night",
    "start": "2026-11-19T18:00+00:00",
    "end": "2026-11-19T23:00+00:00",
@@ -1083,6 +1113,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/event-covers/q6/5cba7646-bf49-4448-a28c-cd40023e1278.jpg"
+  },
+  {
+   "title": "Stablecoins and Agents Can Automate Payments. But Should They?",
+   "start": "2027-06-09T06:30+00:00",
+   "end": "2027-06-09T09:30+00:00",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://lu.ma/tbw-amsterdam-june",
+   "source": "Luma",
+   "organiser": "TBW's Corporate Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/nu/85de2f57-2c4f-41ac-b883-3176b014756b.png"
   },
   {
    "title": "iGB LiVE 2027",
