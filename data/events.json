@@ -1,52 +1,7 @@
 {
- "fetched_at": "2026-11-04T14:44+00:00",
+ "fetched_at": "2026-11-04T20:52+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "BFC Symposium Amsterdam",
-   "start": "2026-11-04T10:00+00:00",
-   "end": "2026-11-04T17:00+00:00",
-   "city": "Amsterdam",
-   "venue": "Pakhuis de Zwijger",
-   "url": "https://lu.ma/bfc-ams-26",
-   "source": "Luma",
-   "organiser": "Bitcoin for Corporations",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/wc/37cfaf97-d05c-4374-94b9-5db42776f239.jpg"
-  },
-  {
-   "title": "A Slice of Bitcoin Culture",
-   "start": "2026-11-04T16:00+00:00",
-   "end": "2026-11-04T19:00+00:00",
-   "city": "Amsterdam",
-   "venue": "MINA Gallery & Cafe",
-   "url": "https://lu.ma/uqs749ko",
-   "source": "Luma",
-   "organiser": "Playground Amsterdam",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/t1/0073f55e-450e-4c58-8f07-15d476b0cba5.png"
-  },
-  {
-   "title": "Bitcoin Wednesday Amsterdam #159",
-   "start": "2026-11-04T18:00+00:00",
-   "end": "",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://www.meetup.com/bitcoinwednesday/events/317284409/",
-   "source": "Meetup",
-   "organiser": "Bitcoin Wednesday Amsterdam",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": ""
-  },
   {
    "title": "The Block Party",
    "start": "2026-11-05T10:00+00:00",
@@ -288,6 +243,21 @@
    "image": "https://images.lumacdn.com/uploads/ye/8e207b9f-12cf-43f2-a46f-85a3ad895d1e.png"
   },
   {
+   "title": "Institutional Investment in Onchain Finance | London",
+   "start": "2026-11-10T17:00+00:00",
+   "end": "2026-11-10T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/2rzglx4s",
+   "source": "Luma",
+   "organiser": "Zebec Network",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/73/f8b1a3e7-e7c5-4864-8756-1e9a31289aec.png"
+  },
+  {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
@@ -331,6 +301,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/lu/4654a487-c8d5-4978-a8e4-d1e3879ffbd1.png"
+  },
+  {
+   "title": "VIP Cocktail Night, Hosted by A&M Crypto and Latham & Watkins",
+   "start": "2026-11-10T20:30+00:00",
+   "end": "2026-11-10T23:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/up5knoe4",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/yk/7cc57e83-4808-4e3c-8c8d-ae641093193f.png"
   },
   {
    "title": "AWIC x DAS London Panel \"Phantom Assets: Counterfeit Tokens, Collateral Risk and Digital Asset Resilience\"",
@@ -616,22 +601,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/kg/f3368c51-c06c-4bc9-84ca-7c76cd50ba63.png"
-  },
-  {
-   "title": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
-   "start": "2026-11-15T19:00+00:00",
-   "end": "2026-11-15T22:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/hrb0040d",
-   "source": "Luma",
-   "organiser": "BackersStage Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ir/5eeaec44-38e6-4a0c-a016-bf4aea6fa847.png"
+   "image": "https://images.lumacdn.com/uploads/12/25b5166e-e01e-4d0d-954c-93472383b38d.png"
   },
   {
    "title": "Solana Breakpoint",
@@ -917,6 +887,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
+  },
+  {
+   "title": "Rayls Community Meetup: London",
+   "start": "2026-11-18T17:00+00:00",
+   "end": "2026-11-18T19:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yp556lph",
+   "source": "Luma",
+   "organiser": "Rayls Community Meetups",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
   },
   {
    "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
