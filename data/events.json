@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T20:33+00:00",
+ "fetched_at": "2026-11-04T14:44+00:00",
  "failures": [],
  "events": [
   {
@@ -31,6 +31,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/t1/0073f55e-450e-4c58-8f07-15d476b0cba5.png"
+  },
+  {
+   "title": "Bitcoin Wednesday Amsterdam #159",
+   "start": "2026-11-04T18:00+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/bitcoinwednesday/events/317284409/",
+   "source": "Meetup",
+   "organiser": "Bitcoin Wednesday Amsterdam",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "The Block Party",
@@ -273,21 +288,6 @@
    "image": "https://images.lumacdn.com/uploads/ye/8e207b9f-12cf-43f2-a46f-85a3ad895d1e.png"
   },
   {
-   "title": "SCRYPT Private Dinner, DAS London",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T23:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/yvjgdjl8",
-   "source": "Luma",
-   "organiser": "SCRYPT",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
-  },
-  {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
@@ -301,6 +301,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
+  },
+  {
+   "title": "SCRYPT Private Dinner, DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T23:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yvjgdjl8",
+   "source": "Luma",
+   "organiser": "SCRYPT",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png"
   },
   {
    "title": "Below the Surface: CRYMBO × Orbs",
@@ -319,8 +334,8 @@
   },
   {
    "title": "AWIC x DAS London Panel \"Phantom Assets: Counterfeit Tokens, Collateral Risk and Digital Asset Resilience\"",
-   "start": "2026-11-11T09:00+00:00",
-   "end": "2026-11-11T10:00+00:00",
+   "start": "2026-11-11T08:45+00:00",
+   "end": "2026-11-11T10:15+00:00",
    "city": "London",
    "venue": "Norton Rose Fulbright",
    "url": "https://lu.ma/shdn5h19",
@@ -330,7 +345,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/7o/a0458a32-746a-4f48-8c74-2d7a25fea67c.jpg"
+   "image": "https://images.lumacdn.com/uploads/9s/ac0d28cc-715a-43b5-9483-6d6dd6230f1b.jpg"
   },
   {
    "title": "Canton & Cocktails",
@@ -679,21 +694,6 @@
    "image": "https://images.lumacdn.com/uploads/ke/3b686276-3653-40a5-bba9-b677b3392c78.png"
   },
   {
-   "title": "Solana Breakpoint Security Drinks - by Fidesium",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "121 Hammersmith Rd",
-   "url": "https://lu.ma/lajgsnqb",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
-  },
-  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -707,6 +707,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
+  },
+  {
+   "title": "Solana Breakpoint Security Drinks - by Fidesium",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "121 Hammersmith Rd",
+   "url": "https://lu.ma/lajgsnqb",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
@@ -1010,6 +1025,21 @@
    "image": "https://images.lumacdn.com/uploads/3o/a0f3d083-ded9-49f9-8059-df8218ea9f5d.png"
   },
   {
+   "title": "SWC Cup | Crypto Padel League Final",
+   "start": "2026-11-25T17:45+00:00",
+   "end": "2026-11-25T21:45+00:00",
+   "city": "London",
+   "venue": "House of Racquet",
+   "url": "https://lu.ma/p2y6kowo",
+   "source": "Luma",
+   "organiser": "Stand with Crypto in the UK",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/7y/580cf4ec-8493-4b9a-b1b9-fab95709bf8f.png"
+  },
+  {
    "title": "Discussing Cryptocurrencies and Blockchain",
    "start": "2026-11-25T19:00+00:00",
    "end": "",
@@ -1070,6 +1100,21 @@
    "image": "https://images.lumacdn.com/event-covers/zz/7463fd85-a270-4f21-a973-daf9e9350725"
   },
   {
+   "title": "Build Your First Onchain App: Prompts + Building with Arc Studio",
+   "start": "2026-12-09T18:30+00:00",
+   "end": "2026-12-09T21:30+00:00",
+   "city": "London",
+   "venue": "Encode Hub",
+   "url": "https://lu.ma/encode-lqt2",
+   "source": "Luma",
+   "organiser": "Encode Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6c/1a94ba24-b20b-460f-9a62-cd7540068d33.jpg"
+  },
+  {
    "title": "CWC x Sosoul: A Breathwork Evening",
    "start": "2026-12-10T18:30+00:00",
    "end": "2026-12-10T21:00+00:00",
@@ -1082,7 +1127,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/zs/f02573a7-7e13-44f7-a527-3b154c96c7af.jpg"
+   "image": "https://images.lumacdn.com/uploads/yt/ca6fd41a-7d2e-4151-b92d-3cc1c53885e8.jpg"
   },
   {
    "title": "London Blockchain: Institutional Investment Summit",
