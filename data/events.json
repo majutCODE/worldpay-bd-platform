@@ -1,52 +1,7 @@
 {
- "fetched_at": "2026-11-05T14:50+00:00",
+ "fetched_at": "2026-11-05T21:08+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Meet Bitcoin Amsterdam: Investors & Traders, and Web3 Builders",
-   "start": "2026-11-05T15:30+00:00",
-   "end": "2026-11-05T17:30+00:00",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://lu.ma/5jftw55z",
-   "source": "Luma",
-   "organiser": "BALTICBA",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/cj/ce7974c1-e8c3-4512-8b49-f9ff0adeefcb.gif"
-  },
-  {
-   "title": "Socratic seminar BitcoinAmsterdam, November 5, 2026",
-   "start": "2026-11-05T16:30+00:00",
-   "end": "",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://www.meetup.com/bitdevs-amsterdam/events/316893847/",
-   "source": "Meetup",
-   "organiser": "BitDevs Amsterdam",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": ""
-  },
-  {
-   "title": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
-   "start": "2026-11-05T17:00+00:00",
-   "end": "",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://www.meetup.com/satoshi-radio-meetup/events/316748938/",
-   "source": "Meetup",
-   "organiser": "Satoshi Radio Meetup",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": ""
-  },
   {
    "title": "Media Accelerator & Startup Cohort",
    "start": "2026-11-05T18:30+00:00",
@@ -61,21 +16,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/event-covers/ff/3fd694a1-e266-4423-9f51-f2c83844bdc2.jpg"
-  },
-  {
-   "title": "Blockchain Meetup - Social Good On Chain",
-   "start": "2026-11-05T19:30+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/causevest-crypto-bootcamp-and-investment-club/events/316800405/",
-   "source": "Meetup",
-   "organiser": "Blockchains For Good Crypto Bootcamp and Investment Club",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
   },
   {
    "title": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
@@ -258,6 +198,21 @@
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
   },
   {
+   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/8d7o3qh7",
+   "source": "Luma",
+   "organiser": "NOTALONE",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
+  },
+  {
    "title": "SCRYPT Private Dinner, DAS London",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T23:30+00:00",
@@ -300,7 +255,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/yk/7cc57e83-4808-4e3c-8c8d-ae641093193f.png"
+   "image": "https://images.lumacdn.com/uploads/3h/1ef0dfa0-9f5c-4510-a0a6-3a20757284a1.jpg"
   },
   {
    "title": "AWIC x DAS London Panel \"Phantom Assets: Counterfeit Tokens, Collateral Risk and Digital Asset Resilience\"",
@@ -421,6 +376,21 @@
    ],
    "online": true,
    "image": ""
+  },
+  {
+   "title": "Securing Finance in the Age of AI",
+   "start": "2026-11-12T18:00+00:00",
+   "end": "2026-11-12T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/ZIGFinancexSecure.com",
+   "source": "Luma",
+   "organiser": "ZIG Finance",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9x/8c0a8627-a9c9-4f59-8279-97815002ed74.png"
   },
   {
    "title": "Solana Intelligence Summit",
@@ -1038,6 +1008,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/27/d97917a6-b1c0-475e-a49c-27aa1a98ddf6.png"
+  },
+  {
+   "title": "Blockchain Meetup - Social Good On Chain",
+   "start": "2026-12-03T19:30+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/causevest-crypto-bootcamp-and-investment-club/events/317298867/",
+   "source": "Meetup",
+   "organiser": "Blockchains For Good Crypto Bootcamp and Investment Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
   },
   {
    "title": "The W3B Club : The 2027 Outlook for Web3: Funding, Infra Trends & Regulatory Roadmaps",
