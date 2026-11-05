@@ -1,28 +1,13 @@
 {
- "fetched_at": "2026-11-04T20:52+00:00",
+ "fetched_at": "2026-11-05T14:50+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "The Block Party",
-   "start": "2026-11-05T10:00+00:00",
-   "end": "2026-11-05T12:00+00:00",
-   "city": "Amsterdam",
-   "venue": "SugarFactory",
-   "url": "https://lu.ma/ouq007it",
-   "source": "Luma",
-   "organiser": "Crypto Women Collective",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/j4/ac3f1984-005a-4d75-94e6-40fa03175569.jpg"
-  },
   {
    "title": "Meet Bitcoin Amsterdam: Investors & Traders, and Web3 Builders",
    "start": "2026-11-05T15:30+00:00",
    "end": "2026-11-05T17:30+00:00",
    "city": "Amsterdam",
-   "venue": "Brasserie Het Gemaal",
+   "venue": "",
    "url": "https://lu.ma/5jftw55z",
    "source": "Luma",
    "organiser": "BALTICBA",
@@ -544,6 +529,21 @@
    "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
   },
   {
+   "title": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana 🍕",
+   "start": "2026-11-15T12:00+00:00",
+   "end": "2026-11-15T17:00+00:00",
+   "city": "London",
+   "venue": "Olympia",
+   "url": "https://lu.ma/blockaid-ztbw",
+   "source": "Luma",
+   "organiser": "Blockaid Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/7f/34d07ca1-0fd4-44f5-9429-bf16d942da4a.jpg"
+  },
+  {
    "title": "RWAs: From Tokenized to Traded",
    "start": "2026-11-15T15:00+00:00",
    "end": "2026-11-15T19:30+00:00",
@@ -602,21 +602,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/12/25b5166e-e01e-4d0d-954c-93472383b38d.png"
-  },
-  {
-   "title": "Solana Breakpoint",
-   "start": "2026-11-15T20:00+00:00",
-   "end": "2026-11-18T21:00+00:00",
-   "city": "London",
-   "venue": "Olympia",
-   "url": "https://lu.ma/uhtrdior",
-   "source": "Luma",
-   "organiser": "DoubleZero Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
   },
   {
    "title": "Colosseum Builder Zone",
@@ -887,21 +872,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
-  },
-  {
-   "title": "Rayls Community Meetup: London",
-   "start": "2026-11-18T17:00+00:00",
-   "end": "2026-11-18T19:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/yp556lph",
-   "source": "Luma",
-   "organiser": "Rayls Community Meetups",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
   },
   {
    "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
