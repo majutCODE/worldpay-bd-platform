@@ -39,6 +39,10 @@
 "date": "2026-07-24",
 "estimated": true
 },
+"CASP|21380099RT73NFBYS559": {
+"date": "2026-11-05",
+"estimated": false
+},
 "CASP|2138009N1SHZPPM84705": {
 "date": "2026-10-16",
 "estimated": false
@@ -218,6 +222,10 @@
 "CASP|31570000GC0U68O6PA08": {
 "date": "2025-12-19",
 "estimated": true
+},
+"CASP|3157002JBFAI478MD587": {
+"date": "2026-11-05",
+"estimated": false
 },
 "CASP|3157005QCM6Y91CUV844": {
 "date": "2026-06-03",
@@ -463,6 +471,10 @@
 "date": "2026-07-02",
 "estimated": true
 },
+"CASP|5299009EELDZG8AZOX61": {
+"date": "2026-11-05",
+"estimated": false
+},
 "CASP|5299009IFX1XTKDY4568": {
 "date": "2025-04-24",
 "estimated": true
@@ -611,6 +623,10 @@
 "date": "2026-10-30",
 "estimated": false
 },
+"CASP|529900LZDW2COOVSK824": {
+"date": "2026-11-05",
+"estimated": false
+},
 "CASP|529900LZM6X3GBFNLG10": {
 "date": "2026-02-04",
 "estimated": true
@@ -742,6 +758,10 @@
 "CASP|529900UYTAE51VW2TG15": {
 "date": "2026-05-13",
 "estimated": true
+},
+"CASP|529900V2CC4NGZDBFK67": {
+"date": "2026-11-05",
+"estimated": false
 },
 "CASP|529900V5E7HEA1LD8V54": {
 "date": "2026-10-30",
@@ -2170,6 +2190,10 @@
 "Non-compliant|reg775": {
 "date": "2026-06-25",
 "estimated": true
+},
+"Non-compliant|renditanzia": {
+"date": "2026-11-05",
+"estimated": false
 },
 "Non-compliant|rer221": {
 "date": "2026-03-25",
