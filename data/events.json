@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-06T14:27+00:00",
+ "fetched_at": "2026-11-06T20:29+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Media Accelerator & Startup Cohort",
-   "start": "2026-11-05T18:30+00:00",
-   "end": "2026-11-06T19:30+00:00",
-   "city": "Amsterdam",
-   "venue": "Amsterdam",
-   "url": "https://lu.ma/9a0cp8yl",
-   "source": "Luma",
-   "organiser": "Media Accelerator & Startup Cohort",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/ff/3fd694a1-e266-4423-9f51-f2c83844bdc2.jpg"
-  },
   {
    "title": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
    "start": "2026-11-06T17:00+00:00",
@@ -31,21 +16,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/yh/d2e74ac6-fe24-4f35-ab85-ec66ba9c50b4.jpg"
-  },
-  {
-   "title": "SUYE - ART Ordinals BTC Meetup - Ordinal.io - Museum ETA",
-   "start": "2026-11-06T17:00+00:00",
-   "end": "2026-11-06T20:00+00:00",
-   "city": "Amsterdam",
-   "venue": "Marnixstraat 127",
-   "url": "https://lu.ma/2cwyujqm",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/8c/a8cb7376-130d-43c4-9069-20f305616bb8.png"
   },
   {
    "title": "Art on Bitcoin",
@@ -469,21 +439,6 @@
    "image": ""
   },
   {
-   "title": "Drakes on Tap",
-   "start": "2026-11-13T20:00+00:00",
-   "end": "2026-11-13T23:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/c0yh7qhz",
-   "source": "Luma",
-   "organiser": "Lucid Drakes",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/us/32f7a7aa-adab-453e-8855-d8c105a10f37.png"
-  },
-  {
    "title": "Scale or Die",
    "start": "2026-11-14T09:30+00:00",
    "end": "2026-11-14T18:30+00:00",
@@ -604,6 +559,36 @@
    "image": "https://images.lumacdn.com/uploads/12/25b5166e-e01e-4d0d-954c-93472383b38d.png"
   },
   {
+   "title": "WHAT’S THE TICKR? @ Solana Breakpoint UK",
+   "start": "2026-11-16T10:00+00:00",
+   "end": "2026-11-17T18:00+00:00",
+   "city": "London",
+   "venue": "West Hall at Olympia",
+   "url": "https://lu.ma/dnb54th3",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/4w/c469d7fa-64f0-4fdb-94a5-55d4bb58b56f.png"
+  },
+  {
+   "title": "Breakpoint Coffee for DeFi Builders & Traders",
+   "start": "2026-11-16T10:00+00:00",
+   "end": "2026-11-16T12:00+00:00",
+   "city": "London",
+   "venue": "The Quarter Bakery Olympia",
+   "url": "https://lu.ma/a6xuo4c1",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vi/91f35eb1-0fa0-4508-a47f-a312a2fde672.png"
+  },
+  {
    "title": "Colosseum Builder Zone",
    "start": "2026-11-16T10:30+00:00",
    "end": "2026-11-17T19:00+00:00",
@@ -707,6 +692,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
+   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
+   "start": "2026-11-16T17:30+00:00",
+   "end": "2026-11-16T20:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/gsrcrypto-jmyt",
+   "source": "Luma",
+   "organiser": "GSR Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
   },
   {
    "title": "House of Sol: Breakpoint",
@@ -932,6 +932,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png"
+  },
+  {
+   "title": "WEB3 BUILDERS GATHERING",
+   "start": "2026-11-20T18:00+00:00",
+   "end": "2026-11-20T20:30+00:00",
+   "city": "London",
+   "venue": "Imperial College London, South Kensington Campus",
+   "url": "https://lu.ma/4rymm7ak",
+   "source": "Luma",
+   "organiser": "Team1 UK",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/mq/540a1935-386a-439a-9bb0-bb4fd0ee7d8b.jpg"
   },
   {
    "title": "The Lady Gaga Pub Quiz with Seb Darke",
