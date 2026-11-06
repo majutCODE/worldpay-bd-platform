@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T21:08+00:00",
+ "fetched_at": "2026-11-06T14:27+00:00",
  "failures": [],
  "events": [
   {
@@ -183,6 +183,21 @@
    "image": "https://images.lumacdn.com/uploads/73/f8b1a3e7-e7c5-4864-8756-1e9a31289aec.png"
   },
   {
+   "title": "Cyclops London Happy Hour",
+   "start": "2026-11-10T17:00+00:00",
+   "end": "2026-11-10T19:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/38tgeic3",
+   "source": "Luma",
+   "organiser": "Cyclops",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/on/5cd6db0f-c927-460f-a833-74ceb248c0bf.png"
+  },
+  {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
@@ -316,6 +331,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/v7/104c71c7-a026-4797-9e04-85c017466813.png"
+  },
+  {
+   "title": "Building on Solana: Colosseum & Founders",
+   "start": "2026-11-11T18:00+00:00",
+   "end": "2026-11-11T20:00+00:00",
+   "city": "London",
+   "venue": "Blackett Laboratory",
+   "url": "https://lu.ma/x26b420k",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/1x/c7560266-1147-4fa9-b5b7-0386539d729f.png"
   },
   {
    "title": "The Clearing House III: London",
@@ -677,21 +707,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
-   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
-   "start": "2026-11-16T17:30+00:00",
-   "end": "2026-11-16T20:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/gsrcrypto-jmyt",
-   "source": "Luma",
-   "organiser": "GSR Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
   },
   {
    "title": "House of Sol: Breakpoint",
@@ -1121,6 +1136,21 @@
    "city": "London",
    "venue": "ExCel London",
    "url": "https://affpapa.com/events/igb-live/",
+   "source": "AffPapa",
+   "organiser": "",
+   "verticals": [
+    "gaming"
+   ],
+   "online": false,
+   "image": ""
+  },
+  {
+   "title": "iGaming Club Amsterdam 2027",
+   "start": "2027-07-15T00:00+00:00",
+   "end": "2027-07-15T00:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Amsterdam, The Netherlands",
+   "url": "https://affpapa.com/events/igaming-club-amsterdam-2027/",
    "source": "AffPapa",
    "organiser": "",
    "verticals": [
