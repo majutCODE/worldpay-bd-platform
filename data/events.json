@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-07T13:22+00:00",
+ "fetched_at": "2026-11-07T18:56+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Art on Bitcoin",
-   "start": "2026-11-07T16:00+00:00",
-   "end": "2026-11-07T18:00+00:00",
-   "city": "Amsterdam",
-   "venue": "Reguliersdwarsstraat 73",
-   "url": "https://lu.ma/0awmhyao",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/0e/622be10e-50f1-4e5c-a3ba-afed673c221d.png"
-  },
   {
    "title": "DAS Padel Social with FunFair Ventures,Utila & Brava Finance",
    "start": "2026-11-09T11:00+00:00",
@@ -166,6 +151,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
+  },
+  {
+   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
+   "start": "2026-11-10T18:00+00:00",
+   "end": "2026-11-10T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/8d7o3qh7",
+   "source": "Luma",
+   "organiser": "NOTALONE",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -662,21 +662,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
-   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
-   "start": "2026-11-16T17:30+00:00",
-   "end": "2026-11-16T20:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/gsrcrypto-jmyt",
-   "source": "Luma",
-   "organiser": "GSR Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
   },
   {
    "title": "House of Sol: Breakpoint",
