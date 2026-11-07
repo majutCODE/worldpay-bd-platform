@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-06T20:29+00:00",
+ "fetched_at": "2026-11-07T13:22+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
-   "start": "2026-11-06T17:00+00:00",
-   "end": "2026-11-06T21:00+00:00",
-   "city": "Amsterdam",
-   "venue": "Pllek",
-   "url": "https://lu.ma/azrnakmq",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/yh/d2e74ac6-fe24-4f35-ab85-ec66ba9c50b4.jpg"
-  },
   {
    "title": "Art on Bitcoin",
    "start": "2026-11-07T16:00+00:00",
@@ -181,21 +166,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
-  },
-  {
-   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/8d7o3qh7",
-   "source": "Luma",
-   "organiser": "NOTALONE",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
