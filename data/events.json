@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:41+00:00",
+ "fetched_at": "2026-11-08T18:54+00:00",
  "failures": [],
  "events": [
   {
@@ -280,7 +280,7 @@
    "venue": "Blackett Laboratory",
    "url": "https://lu.ma/x26b420k",
    "source": "Luma",
-   "organiser": "Personal",
+   "organiser": "UK AI Agents Lab",
    "verticals": [
     "crypto"
    ],
@@ -422,6 +422,21 @@
    ],
    "online": true,
    "image": ""
+  },
+  {
+   "title": "AI Verification x Crypto",
+   "start": "2026-11-13T18:00+00:00",
+   "end": "2026-11-13T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/j5glptwa",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/55/95de7808-953e-46a9-9a17-dd323b0c8e96.png"
   },
   {
    "title": "Scale or Die",
@@ -847,11 +862,11 @@
    "title": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
    "start": "2026-11-19T17:00+00:00",
    "end": "",
-   "city": "London",
+   "city": "Amsterdam",
    "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/317065039/",
+   "url": "https://www.meetup.com/lfdt-netherlands/events/317065049/",
    "source": "Meetup",
-   "organiser": "LFDT London",
+   "organiser": "LFDT Netherlands",
    "verticals": [
     "crypto"
    ],
