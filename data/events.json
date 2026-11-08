@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T18:56+00:00",
+ "fetched_at": "2026-11-08T13:41+00:00",
  "failures": [],
  "events": [
   {
@@ -108,7 +108,7 @@
    "image": "https://images.lumacdn.com/uploads/ye/8e207b9f-12cf-43f2-a46f-85a3ad895d1e.png"
   },
   {
-   "title": "Institutional Investment in Onchain Finance | London",
+   "title": "Institutional Investment in Onchain Finance | Cavalry & Guards Club",
    "start": "2026-11-10T17:00+00:00",
    "end": "2026-11-10T20:00+00:00",
    "city": "London",
@@ -331,6 +331,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/hb/a43b6bbb-fc67-4bc6-81b4-430ee54c46dc.png"
+  },
+  {
+   "title": "Crypto Quant Capital Connect in London",
+   "start": "2026-11-12T14:00+00:00",
+   "end": "2026-11-12T19:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/c44badoa",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/qy/f7a3b41b-f0ab-4385-ab03-b05728593cc1.jpg"
   },
   {
    "title": "Building Privacy Preserving Token Applications Using Panurus",
