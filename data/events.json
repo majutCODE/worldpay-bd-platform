@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T18:54+00:00",
+ "fetched_at": "2026-11-09T16:41+00:00",
  "failures": [],
  "events": [
   {
@@ -76,6 +76,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/7e/1084d9ae-8e17-4c7d-a027-972f24ab5e56.png"
+  },
+  {
+   "title": "The Wind Pub Quiz with Daisy Roberts",
+   "start": "2026-11-09T19:30+00:00",
+   "end": "2026-11-09T21:30+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/nffo0k4d",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/m8/9d8a2cf5-f309-47d8-bacd-89ec1ad88b78.jpg"
   },
   {
    "title": "Digital Asset Summit London 2026",
@@ -333,21 +349,6 @@
    "image": "https://images.lumacdn.com/uploads/hb/a43b6bbb-fc67-4bc6-81b4-430ee54c46dc.png"
   },
   {
-   "title": "Crypto Quant Capital Connect in London",
-   "start": "2026-11-12T14:00+00:00",
-   "end": "2026-11-12T19:00+00:00",
-   "city": "London",
-   "venue": "London",
-   "url": "https://lu.ma/c44badoa",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/qy/f7a3b41b-f0ab-4385-ab03-b05728593cc1.jpg"
-  },
-  {
    "title": "Building Privacy Preserving Token Applications Using Panurus",
    "start": "2026-11-12T16:00+00:00",
    "end": "",
@@ -439,6 +440,21 @@
    "image": "https://images.lumacdn.com/uploads/55/95de7808-953e-46a9-9a17-dd323b0c8e96.png"
   },
   {
+   "title": "Solana ⚽ Cup by Cesto & BONK",
+   "start": "2026-11-14T09:00+00:00",
+   "end": "2026-11-14T15:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/5sf70a63",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/fd/e0a72e1b-9492-4c53-a428-c4e2ee6a4e71.png"
+  },
+  {
    "title": "Scale or Die",
    "start": "2026-11-14T09:30+00:00",
    "end": "2026-11-14T18:30+00:00",
@@ -482,6 +498,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
+  },
+  {
+   "title": "🏀 Solana Breakpoint Basketball & Breakfast | London 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "start": "2026-11-15T10:00+00:00",
+   "end": "2026-11-15T12:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/5yhvfaky",
+   "source": "Luma",
+   "organiser": "🏀 Web3 Basketball side events (Global)",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/yc/b50603a9-b5a2-4d87-becb-145cf535c027.png"
   },
   {
    "title": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana 🍕",
@@ -634,21 +665,6 @@
    "image": "https://images.lumacdn.com/uploads/ke/3b686276-3653-40a5-bba9-b677b3392c78.png"
   },
   {
-   "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T20:00+00:00",
-   "city": "London",
-   "venue": "Lillie's Wine Bar & Restaurant",
-   "url": "https://lu.ma/mkvzcqey",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
-  },
-  {
    "title": "Solana Breakpoint Security Drinks - by Fidesium",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T21:00+00:00",
@@ -662,6 +678,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
+  },
+  {
+   "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T20:00+00:00",
+   "city": "London",
+   "venue": "Lillie's Wine Bar & Restaurant",
+   "url": "https://lu.ma/mkvzcqey",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
   },
   {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
