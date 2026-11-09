@@ -1,98 +1,7 @@
 {
- "fetched_at": "2026-11-09T16:41+00:00",
+ "fetched_at": "2026-11-09T23:29+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "DAS Padel Social with FunFair Ventures,Utila & Brava Finance",
-   "start": "2026-11-09T11:00+00:00",
-   "end": "2026-11-09T17:00+00:00",
-   "city": "London",
-   "venue": "House of Racquet",
-   "url": "https://lu.ma/yizyc19e",
-   "source": "Luma",
-   "organiser": "FunFair Ventures",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ub/11e2306a-b2ec-4732-a2f1-1aba79df1163.png"
-  },
-  {
-   "title": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
-   "start": "2026-11-09T16:00+00:00",
-   "end": "2026-11-09T17:00+00:00",
-   "city": "London",
-   "venue": "The Leadenhall Building",
-   "url": "https://lu.ma/cwufkzk1",
-   "source": "Luma",
-   "organiser": "Blockstories Horizon 2026",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ej/ea33fa3e-b2e2-4ca0-9c8c-be4c126b30cc.png"
-  },
-  {
-   "title": "Blockstories Horizon 2026: London Summit 🇬🇧",
-   "start": "2026-11-09T17:00+00:00",
-   "end": "2026-11-09T22:30+00:00",
-   "city": "London",
-   "venue": "The Leadenhall Building",
-   "url": "https://lu.ma/horizonlondonsummit",
-   "source": "Luma",
-   "organiser": "Blockstories Horizon 2026",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vj/db256ecc-f9db-46ea-9645-4e0dc9ecb836.png"
-  },
-  {
-   "title": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.",
-   "start": "2026-11-09T17:30+00:00",
-   "end": "2026-11-09T19:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/g4w56vmw",
-   "source": "Luma",
-   "organiser": "Range",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/rl/7c96e78a-9777-41bf-b445-1c3c7505ad75.png"
-  },
-  {
-   "title": "PakLaunch x ZIG Finance: London Meetup",
-   "start": "2026-11-09T18:00+00:00",
-   "end": "2026-11-09T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/ZIGFinanceLondonMeetup",
-   "source": "Luma",
-   "organiser": "ZIG Finance",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/7e/1084d9ae-8e17-4c7d-a027-972f24ab5e56.png"
-  },
-  {
-   "title": "The Wind Pub Quiz with Daisy Roberts",
-   "start": "2026-11-09T19:30+00:00",
-   "end": "2026-11-09T21:30+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/nffo0k4d",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/m8/9d8a2cf5-f309-47d8-bacd-89ec1ad88b78.jpg"
-  },
   {
    "title": "Digital Asset Summit London 2026",
    "start": "2026-11-10T08:00+00:00",
@@ -531,8 +440,8 @@
   },
   {
    "title": "RWAs: From Tokenized to Traded",
-   "start": "2026-11-15T15:00+00:00",
-   "end": "2026-11-15T19:30+00:00",
+   "start": "2026-11-15T15:30+00:00",
+   "end": "2026-11-15T20:00+00:00",
    "city": "London",
    "venue": "",
    "url": "https://lu.ma/rtgpxj6h",
@@ -542,7 +451,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/1o/f4b5e9de-a019-45d8-9951-2d0735610ec6.png"
+   "image": "https://images.lumacdn.com/uploads/ub/a3958dce-dd2d-44e8-b220-66381db6568a.png"
   },
   {
    "title": "Solana Breakpoint 2026",
@@ -592,7 +501,7 @@
   {
    "title": "WHAT’S THE TICKR? @ Solana Breakpoint UK",
    "start": "2026-11-16T10:00+00:00",
-   "end": "2026-11-17T18:00+00:00",
+   "end": "2026-11-17T17:00+00:00",
    "city": "London",
    "venue": "West Hall at Olympia",
    "url": "https://lu.ma/dnb54th3",
@@ -609,7 +518,7 @@
    "start": "2026-11-16T10:00+00:00",
    "end": "2026-11-16T12:00+00:00",
    "city": "London",
-   "venue": "The Quarter Bakery Olympia",
+   "venue": "Huddle Hammersmith | Coworking & Private Offices",
    "url": "https://lu.ma/a6xuo4c1",
    "source": "Luma",
    "organiser": "Personal",
@@ -893,11 +802,11 @@
    "title": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
    "start": "2026-11-19T17:00+00:00",
    "end": "",
-   "city": "Amsterdam",
+   "city": "London",
    "venue": "",
-   "url": "https://www.meetup.com/lfdt-netherlands/events/317065049/",
+   "url": "https://www.meetup.com/lfdt-london/events/317065039/",
    "source": "Meetup",
-   "organiser": "LFDT Netherlands",
+   "organiser": "LFDT London",
    "verticals": [
     "crypto"
    ],
