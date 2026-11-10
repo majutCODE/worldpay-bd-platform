@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T23:29+00:00",
+ "fetched_at": "2026-11-10T15:05+00:00",
  "failures": [],
  "events": [
   {
@@ -303,6 +303,21 @@
    "image": "https://images.lumacdn.com/uploads/eo/c3df31b2-c96d-4223-aff3-e7983c012476.jpg"
   },
   {
+   "title": "Breakpoint Crypto Padel",
+   "start": "2026-11-13T12:30+00:00",
+   "end": "2026-11-13T15:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/afr82s1n",
+   "source": "Luma",
+   "organiser": "TechChain Talent",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/l4/7cd23b58-ab40-4b32-a077-3ccbc3d61143.png"
+  },
+  {
    "title": "Drawing with “obsolete” devices: discovering pen plotters",
    "start": "2026-11-13T13:30+00:00",
    "end": "2026-11-13T15:00+00:00",
@@ -499,19 +514,19 @@
    "image": "https://images.lumacdn.com/uploads/12/25b5166e-e01e-4d0d-954c-93472383b38d.png"
   },
   {
-   "title": "WHAT’S THE TICKR? @ Solana Breakpoint UK",
-   "start": "2026-11-16T10:00+00:00",
-   "end": "2026-11-17T17:00+00:00",
+   "title": "Solana Breakpoint",
+   "start": "2026-11-15T20:00+00:00",
+   "end": "2026-11-18T21:00+00:00",
    "city": "London",
-   "venue": "West Hall at Olympia",
-   "url": "https://lu.ma/dnb54th3",
+   "venue": "Olympia",
+   "url": "https://lu.ma/uhtrdior",
    "source": "Luma",
-   "organiser": "Personal",
+   "organiser": "DoubleZero Events",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/4w/c469d7fa-64f0-4fdb-94a5-55d4bb58b56f.png"
+   "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
   },
   {
    "title": "Breakpoint Coffee for DeFi Builders & Traders",
@@ -574,21 +589,6 @@
    "image": "https://images.lumacdn.com/uploads/ke/3b686276-3653-40a5-bba9-b677b3392c78.png"
   },
   {
-   "title": "Solana Breakpoint Security Drinks - by Fidesium",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "121 Hammersmith Rd",
-   "url": "https://lu.ma/lajgsnqb",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
-  },
-  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -602,6 +602,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
+  },
+  {
+   "title": "Solana Breakpoint Security Drinks - by Fidesium",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "121 Hammersmith Rd",
+   "url": "https://lu.ma/lajgsnqb",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
@@ -632,6 +647,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
+   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
+   "start": "2026-11-16T17:30+00:00",
+   "end": "2026-11-16T20:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/gsrcrypto-jmyt",
+   "source": "Luma",
+   "organiser": "GSR Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
   },
   {
    "title": "House of Sol: Breakpoint",
@@ -751,7 +781,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/3w/e6232dd7-394a-4113-938c-5f5fd2aea6dd.png"
+   "image": "https://images.lumacdn.com/uploads/gz/576f6fa3-6c7a-45c7-af47-78fb798f8f1a.png"
   },
   {
    "title": "Vixio Global Regulatory Awards 2026",
