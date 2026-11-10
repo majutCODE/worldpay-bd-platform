@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T15:05+00:00",
+ "fetched_at": "2026-11-10T20:55+00:00",
  "failures": [],
  "events": [
   {
@@ -18,51 +18,6 @@
    "image": "https://images.lumacdn.com/uploads/c8/2e2b7f56-cfac-4bf2-80c9-2cc82405b7ed.jpg"
   },
   {
-   "title": "Convergence: Onchain Finance Soirée at DAS London",
-   "start": "2026-11-10T16:00+00:00",
-   "end": "2026-11-10T19:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/convergence-onchain-finance-das-london",
-   "source": "Luma",
-   "organiser": "OpenZeppelin",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ye/8e207b9f-12cf-43f2-a46f-85a3ad895d1e.png"
-  },
-  {
-   "title": "Institutional Investment in Onchain Finance | Cavalry & Guards Club",
-   "start": "2026-11-10T17:00+00:00",
-   "end": "2026-11-10T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/2rzglx4s",
-   "source": "Luma",
-   "organiser": "Zebec Network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/73/f8b1a3e7-e7c5-4864-8756-1e9a31289aec.png"
-  },
-  {
-   "title": "Cyclops London Happy Hour",
-   "start": "2026-11-10T17:00+00:00",
-   "end": "2026-11-10T19:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/38tgeic3",
-   "source": "Luma",
-   "organiser": "Cyclops",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/on/5cd6db0f-c927-460f-a833-74ceb248c0bf.png"
-  },
-  {
    "title": "Applied Blockchain Sessions 2026 | Soho House",
    "start": "2026-11-10T18:00+00:00",
    "end": "2026-11-10T21:00+00:00",
@@ -76,21 +31,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4u/3e0c868e-0b60-4767-aff2-05b05b648c72.png"
-  },
-  {
-   "title": "Private Investor Dinner - Future of onchain payments @ DAS London",
-   "start": "2026-11-10T18:00+00:00",
-   "end": "2026-11-10T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/8d7o3qh7",
-   "source": "Luma",
-   "organiser": "NOTALONE",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/h9/58adb56b-bc4e-461a-b1f2-f3486cec2385.png"
   },
   {
    "title": "SCRYPT Private Dinner, DAS London",
@@ -153,21 +93,6 @@
    "image": "https://images.lumacdn.com/uploads/9s/ac0d28cc-715a-43b5-9483-6d6dd6230f1b.jpg"
   },
   {
-   "title": "Canton & Cocktails",
-   "start": "2026-11-11T17:00+00:00",
-   "end": "2026-11-11T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/canton-3iff",
-   "source": "Luma",
-   "organiser": "Canton Network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
-  },
-  {
    "title": "Scaling DeFi: London Edition",
    "start": "2026-11-11T17:00+00:00",
    "end": "2026-11-11T20:00+00:00",
@@ -181,6 +106,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/jl/708af4d8-a3fe-48fc-9e96-f9d3db71e202.png"
+  },
+  {
+   "title": "Canton & Cocktails",
+   "start": "2026-11-11T17:00+00:00",
+   "end": "2026-11-11T20:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/canton-3iff",
+   "source": "Luma",
+   "organiser": "Canton Network",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
   },
   {
    "title": "Signature Sips Cocktail Hour by Hypernative and Zama",
@@ -1083,6 +1023,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/event-covers/q6/5cba7646-bf49-4448-a28c-cd40023e1278.jpg"
+  },
+  {
+   "title": "XRP LONDON 2027 🇬🇧",
+   "start": "2027-06-03T07:00+00:00",
+   "end": "2027-06-04T21:00+00:00",
+   "city": "London",
+   "venue": "Magazine London",
+   "url": "https://lu.ma/xrp-london-2027",
+   "source": "Luma",
+   "organiser": "Wave of Innovation",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/fx/dd4e7f40-3fa8-4fe5-bb16-44d5422441f3.png"
   },
   {
    "title": "Stablecoins and Agents Can Automate Payments. But Should They?",
