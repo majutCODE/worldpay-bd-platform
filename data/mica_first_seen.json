@@ -59,6 +59,10 @@
 "date": "2025-12-12",
 "estimated": true
 },
+"CASP|213800HP6KZ9XS1D1U57": {
+"date": "2026-11-11",
+"estimated": false
+},
 "CASP|213800IMKAUV5KW28586": {
 "date": "2025-11-25",
 "estimated": true
@@ -443,6 +447,10 @@
 "date": "2026-09-30",
 "estimated": true
 },
+"CASP|5299008B0QO7XEHUSF18": {
+"date": "2026-11-11",
+"estimated": false
+},
 "CASP|5299008GFCQY16M45R85": {
 "date": "2025-11-24",
 "estimated": true
@@ -499,6 +507,10 @@
 "date": "2026-09-09",
 "estimated": true
 },
+"CASP|529900AOT7DX392W5U75": {
+"date": "2026-11-11",
+"estimated": false
+},
 "CASP|529900APX10RF2PBTB22": {
 "date": "2025-12-16",
 "estimated": true
@@ -522,6 +534,10 @@
 "CASP|529900C4BDI11BJKQ590": {
 "date": "2026-09-15",
 "estimated": true
+},
+"CASP|529900C850VGJ80C6E84": {
+"date": "2026-11-11",
+"estimated": false
 },
 "CASP|529900CG5HHEUT0AHK10": {
 "date": "2026-07-21",
@@ -550,6 +566,10 @@
 "CASP|529900E9AS5RG8YBF660": {
 "date": "2026-07-29",
 "estimated": true
+},
+"CASP|529900EEGMA1G5Y2DT85": {
+"date": "2026-11-11",
+"estimated": false
 },
 "CASP|529900EXG2PM316ISO63": {
 "date": "2026-07-30",
@@ -739,6 +759,10 @@
 "date": "2026-10-16",
 "estimated": false
 },
+"CASP|529900S90ZQ3HED40876": {
+"date": "2026-11-11",
+"estimated": false
+},
 "CASP|529900SH7SAVJN3TFQ06": {
 "date": "2026-10-23",
 "estimated": false
@@ -750,6 +774,10 @@
 "CASP|529900TBT1Z4FKTX5T93": {
 "date": "2026-09-15",
 "estimated": true
+},
+"CASP|529900U7HFGPGXW9JB86": {
+"date": "2026-11-11",
+"estimated": false
 },
 "CASP|529900UC2OD7II24Z667": {
 "date": "2026-03-06",
@@ -822,6 +850,10 @@
 "CASP|5493004WNVZP9EMYI834": {
 "date": "2026-07-02",
 "estimated": true
+},
+"CASP|54930056IRBXK0Q1FP96": {
+"date": "2026-11-11",
+"estimated": false
 },
 "CASP|54930069NLWEIGLHXU42": {
 "date": "2025-11-28",
@@ -1155,6 +1187,10 @@
 "date": "2026-07-15",
 "estimated": true
 },
+"CASP|894500HTR904ROVYPH84": {
+"date": "2026-11-11",
+"estimated": false
+},
 "CASP|894500I5LYET12OFII30": {
 "date": "2026-10-16",
 "estimated": false
@@ -1475,6 +1511,10 @@
 "date": "2026-07-10",
 "estimated": true
 },
+"CASP|984500B702FE8F637752": {
+"date": "2026-11-11",
+"estimated": false
+},
 "CASP|984500BA521C5EMR1D63": {
 "date": "2026-06-25",
 "estimated": true
@@ -1647,6 +1687,10 @@
 "date": "2024-10-02",
 "estimated": true
 },
+"EMT|724500LOOWQMIDXTS391": {
+"date": "2026-11-11",
+"estimated": false
+},
 "EMT|743700KYSSTKZYGEUF50": {
 "date": "2025-07-04",
 "estimated": true
@@ -1711,6 +1755,10 @@
 "date": "2026-06-25",
 "estimated": true
 },
+"Non-compliant|6488H93NCIV501IU5239": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|78def": {
 "date": "2025-07-11",
 "estimated": true
@@ -1718,6 +1766,26 @@
 "Non-compliant|78yzb": {
 "date": "2026-03-25",
 "estimated": true
+},
+"Non-compliant|8945004KA01ECR292U16": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|894500NEDIAHQSAMPI59": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|894500P8WM0P9VCBYI09": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|9845009DC2IB0EV1D425": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|984500DI4B9F1D0E0446": {
+"date": "2026-11-11",
+"estimated": false
 },
 "Non-compliant|adan82": {
 "date": "2026-02-02",
@@ -1775,6 +1843,10 @@
 "date": "2026-09-07",
 "estimated": true
 },
+"Non-compliant|beaverdealeruab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|beratcoin": {
 "date": "2025-05-22",
 "estimated": true
@@ -1791,9 +1863,21 @@
 "date": "2026-09-07",
 "estimated": true
 },
+"Non-compliant|bitstoreeuropeuab": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|blackfortpayuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|blockbyteq": {
 "date": "2025-05-05",
 "estimated": true
+},
+"Non-compliant|blocknetfinanceuab": {
+"date": "2026-11-11",
+"estimated": false
 },
 "Non-compliant|bng373": {
 "date": "2026-02-02",
@@ -1847,6 +1931,10 @@
 "date": "2026-10-30",
 "estimated": false
 },
+"Non-compliant|coailrayuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|coinbankexchange": {
 "date": "2025-03-06",
 "estimated": true
@@ -1862,6 +1950,10 @@
 "Non-compliant|cryptoin24": {
 "date": "2025-11-25",
 "estimated": true
+},
+"Non-compliant|cvetpayuab": {
+"date": "2026-11-11",
+"estimated": false
 },
 "Non-compliant|dashaxid400": {
 "date": "2026-10-30",
@@ -1963,6 +2055,14 @@
 "date": "2026-05-04",
 "estimated": true
 },
+"Non-compliant|euchangesuab": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|europeexchangeuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|ewds66": {
 "date": "2026-05-04",
 "estimated": true
@@ -2043,6 +2143,10 @@
 "date": "2026-09-07",
 "estimated": true
 },
+"Non-compliant|gofintechnologyuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|grt325": {
 "date": "2025-09-18",
 "estimated": true
@@ -2111,6 +2215,10 @@
 "date": "2025-12-09",
 "estimated": true
 },
+"Non-compliant|liqfinanceuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|lucrumiagroup": {
 "date": "2025-12-16",
 "estimated": true
@@ -2139,6 +2247,10 @@
 "date": "2025-07-31",
 "estimated": true
 },
+"Non-compliant|multiexchangeuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|networkcapitalltd": {
 "date": "2025-10-10",
 "estimated": true
@@ -2155,6 +2267,10 @@
 "date": "2025-10-20",
 "estimated": true
 },
+"Non-compliant|orangestreamuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|orolonixinvestcomcyberirfyicu": {
 "date": "2025-10-20",
 "estimated": true
@@ -2170,6 +2286,10 @@
 "Non-compliant|paycraftvtoppaycraftntop": {
 "date": "2025-03-06",
 "estimated": true
+},
+"Non-compliant|podeuropeuab": {
+"date": "2026-11-11",
+"estimated": false
 },
 "Non-compliant|portafica": {
 "date": "2026-05-18",
@@ -2335,6 +2455,30 @@
 "date": "2026-02-02",
 "estimated": true
 },
+"Non-compliant|uabcoinciergeholdings": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|uabegates": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|uabioready": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|uabsapionsolution": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|uabunichglobal": {
+"date": "2026-11-11",
+"estimated": false
+},
+"Non-compliant|uabveetrblox": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|uiu258": {
 "date": "2026-03-25",
 "estimated": true
@@ -2355,6 +2499,10 @@
 "date": "2025-10-20",
 "estimated": true
 },
+"Non-compliant|wctpayuab": {
+"date": "2026-11-11",
+"estimated": false
+},
 "Non-compliant|wes218": {
 "date": "2025-10-27",
 "estimated": true
@@ -2362,6 +2510,10 @@
 "Non-compliant|whitemintfinancialcompanysro": {
 "date": "2026-09-14",
 "estimated": true
+},
+"Non-compliant|xpayglobaluab": {
+"date": "2026-11-11",
+"estimated": false
 },
 "Non-compliant|xur652": {
 "date": "2025-07-31",
