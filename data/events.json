@@ -1,82 +1,7 @@
 {
- "fetched_at": "2026-11-11T14:36+00:00",
+ "fetched_at": "2026-11-11T21:28+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Scaling DeFi: London Edition",
-   "start": "2026-11-11T17:00+00:00",
-   "end": "2026-11-11T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/y6on1z3r",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/jl/708af4d8-a3fe-48fc-9e96-f9d3db71e202.png"
-  },
-  {
-   "title": "Canton & Cocktails",
-   "start": "2026-11-11T17:00+00:00",
-   "end": "2026-11-11T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/canton-3iff",
-   "source": "Luma",
-   "organiser": "Canton Network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/84/c015da45-0946-465a-ac20-1151dd564a16.png"
-  },
-  {
-   "title": "Signature Sips Cocktail Hour by Hypernative and Zama",
-   "start": "2026-11-11T18:00+00:00",
-   "end": "2026-11-11T20:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/hypernative-zama-london",
-   "source": "Luma",
-   "organiser": "Hypernative",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/v7/104c71c7-a026-4797-9e04-85c017466813.png"
-  },
-  {
-   "title": "Building on Solana: Colosseum & Founders",
-   "start": "2026-11-11T18:00+00:00",
-   "end": "2026-11-11T20:00+00:00",
-   "city": "London",
-   "venue": "Blackett Laboratory",
-   "url": "https://lu.ma/x26b420k",
-   "source": "Luma",
-   "organiser": "UK AI Agents Lab",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/1x/c7560266-1147-4fa9-b5b7-0386539d729f.png"
-  },
-  {
-   "title": "The Clearing House III: London",
-   "start": "2026-11-11T18:00+00:00",
-   "end": "2026-11-11T21:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/v1iiz5a0",
-   "source": "Luma",
-   "organiser": "The Clearing House",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/88/9d3ba7bf-6519-4267-a515-5ba9629c0fec.png"
-  },
   {
    "title": "Solana Demo Day | London 2026",
    "start": "2026-11-12T10:00+00:00",
@@ -153,7 +78,7 @@
    "image": "https://images.lumacdn.com/uploads/eo/c3df31b2-c96d-4223-aff3-e7983c012476.jpg"
   },
   {
-   "title": "Breakpoint Crypto Padel",
+   "title": "Crypto Padel: Solana Breakpoint Week",
    "start": "2026-11-13T12:30+00:00",
    "end": "2026-11-13T15:00+00:00",
    "city": "London",
@@ -319,6 +244,21 @@
    "image": "https://images.lumacdn.com/uploads/7f/34d07ca1-0fd4-44f5-9429-bf16d942da4a.jpg"
   },
   {
+   "title": "VCs & LPs Cocktail Hour ✨ Breakpoint - London",
+   "start": "2026-11-15T15:00+00:00",
+   "end": "2026-11-15T17:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/6ung8frj",
+   "source": "Luma",
+   "organiser": "fractl -web3's largest investor network",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2f/b100fe51-01f6-4162-918b-297d8c4d4cc9.png"
+  },
+  {
    "title": "RWAs: From Tokenized to Traded",
    "start": "2026-11-15T15:30+00:00",
    "end": "2026-11-15T20:00+00:00",
@@ -406,7 +346,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/vi/91f35eb1-0fa0-4508-a47f-a312a2fde672.png"
+   "image": "https://images.lumacdn.com/uploads/cy/7588d1e0-9593-4a3f-8428-750a328a4479.png"
   },
   {
    "title": "Colosseum Builder Zone",
@@ -437,6 +377,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/zq/f584b215-961e-468f-b983-d7694f248ea2.png"
+  },
+  {
+   "title": "Whitepaper Reading Club - After Alpenglow",
+   "start": "2026-11-16T15:30+00:00",
+   "end": "2026-11-16T17:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/wprc-breakpoint26",
+   "source": "Luma",
+   "organiser": "Whitepaper Reading Club",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/d4/5e7341fb-f104-4586-ae24-fc40ab647c91.png"
   },
   {
    "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
@@ -679,6 +634,21 @@
    "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
   },
   {
+   "title": "Solana RWA & DeFi VC Drinks",
+   "start": "2026-11-18T19:00+00:00",
+   "end": "2026-11-18T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/p8nxhvyh",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/bp/e912dc95-10eb-4b38-a675-cbe587b8219b.png"
+  },
+  {
    "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
    "start": "2026-11-19T17:00+00:00",
    "end": "2026-11-19T19:00+00:00",
@@ -782,6 +752,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/mq/540a1935-386a-439a-9bb0-bb4fd0ee7d8b.jpg"
+  },
+  {
+   "title": "Crypto curious regular meetup",
+   "start": "2026-11-20T18:30+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/amsterdam-crypto-curious/events/317383380/",
+   "source": "Meetup",
+   "organiser": "Amsterdam Crypto Curious",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "The Lady Gaga Pub Quiz with Seb Darke",
