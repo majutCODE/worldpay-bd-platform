@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-11-12T15:28+00:00",
+ "fetched_at": "2026-11-12T21:30+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Solana Demo Day | London 2026",
-   "start": "2026-11-12T10:00+00:00",
-   "end": "2026-11-12T18:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/sol-demo-day",
-   "source": "Luma",
-   "organiser": "Solana Foundation",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
-  },
-  {
-   "title": "Building Privacy Preserving Token Applications Using Panurus",
-   "start": "2026-11-12T16:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/316571818/",
-   "source": "Meetup",
-   "organiser": "LFDT London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
-  },
   {
    "title": "Securing Finance in the Age of AI",
    "start": "2026-11-12T18:00+00:00",
@@ -394,6 +364,21 @@
    "image": "https://images.lumacdn.com/uploads/bn/b240b716-8501-4ca1-b97e-5614e3d65404.png"
   },
   {
+   "title": "The RWA Pub at Breakpoint",
+   "start": "2026-11-16T16:00+00:00",
+   "end": "2026-11-16T19:00+00:00",
+   "city": "London",
+   "venue": "The Swan",
+   "url": "https://lu.ma/a9yvvi96",
+   "source": "Luma",
+   "organiser": "Figure",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/k5/e2cd2ffe-25fd-48ba-bd95-464fe3cbb361.png"
+  },
+  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -424,21 +409,6 @@
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
   },
   {
-   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/1hdsvfdv",
-   "source": "Luma",
-   "organiser": "Chiliz Community Meetup",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
-  },
-  {
    "title": "Bullseye with Multicoin Capital",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T21:00+00:00",
@@ -452,6 +422,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
+   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/1hdsvfdv",
+   "source": "Luma",
+   "organiser": "Chiliz Community Meetup",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
    "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
@@ -542,6 +527,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/jx/abdae8cf-cb57-4e08-ab56-62535533bd0b.jpg"
+  },
+  {
+   "title": "BING BONG AFTER DARK BREAKPOINT powered by PHANTOM",
+   "start": "2026-11-16T21:00+00:00",
+   "end": "2026-11-17T01:00+00:00",
+   "city": "London",
+   "venue": "Century Club",
+   "url": "https://lu.ma/ketcj6z6",
+   "source": "Luma",
+   "organiser": "Bing Bong",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/lz/33cf9e4a-3c06-4725-8adb-fbd70a3beaf4.png"
   },
   {
    "title": "London Happy Hour",
