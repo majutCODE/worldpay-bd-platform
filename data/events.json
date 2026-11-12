@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T21:28+00:00",
+ "fetched_at": "2026-11-12T15:28+00:00",
  "failures": [],
  "events": [
   {
@@ -16,21 +16,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/95/be7ca6db-ff64-4a83-aadb-422f7a328d8a.png"
-  },
-  {
-   "title": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
-   "start": "2026-11-12T13:00+00:00",
-   "end": "2026-11-12T15:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/HoS-Workshops-R3",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/hb/a43b6bbb-fc67-4bc6-81b4-430ee54c46dc.png"
   },
   {
    "title": "Building Privacy Preserving Token Applications Using Panurus",
@@ -50,7 +35,7 @@
   {
    "title": "Securing Finance in the Age of AI",
    "start": "2026-11-12T18:00+00:00",
-   "end": "2026-11-12T21:00+00:00",
+   "end": "2026-11-12T22:00+00:00",
    "city": "London",
    "venue": "",
    "url": "https://lu.ma/ZIGFinancexSecure.com",
@@ -634,6 +619,21 @@
    "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
   },
   {
+   "title": "Rayls Community Meetup: London",
+   "start": "2026-11-18T17:00+00:00",
+   "end": "2026-11-18T19:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yp556lph",
+   "source": "Luma",
+   "organiser": "Rayls Community Meetups",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
+  },
+  {
    "title": "Solana RWA & DeFi VC Drinks",
    "start": "2026-11-18T19:00+00:00",
    "end": "2026-11-18T21:00+00:00",
@@ -646,7 +646,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/bp/e912dc95-10eb-4b38-a675-cbe587b8219b.png"
+   "image": "https://images.lumacdn.com/uploads/6j/45a96fa0-8db9-42ce-bd1b-427ae36b746d.png"
   },
   {
    "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
@@ -830,21 +830,6 @@
    "image": ""
   },
   {
-   "title": "Your Personal Brand is the Asset · A CWC Branding Studio with Emily Mattaka",
-   "start": "2026-11-26T16:30+00:00",
-   "end": "2026-11-26T21:00+00:00",
-   "city": "Amsterdam",
-   "venue": "MINA Gallery & Cafe",
-   "url": "https://lu.ma/998tw03h",
-   "source": "Luma",
-   "organiser": "Crypto Women Collective",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/cs/115e4dc4-fa93-4844-a9ed-cc8576b7acc6.jpg"
-  },
-  {
    "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
    "start": "2026-11-27T10:00+00:00",
    "end": "2026-11-27T12:00+00:00",
@@ -902,7 +887,7 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/6c/1a94ba24-b20b-460f-9a62-cd7540068d33.jpg"
+   "image": "https://images.lumacdn.com/uploads/9d/45b4e33e-93e2-4a6a-971d-5210b721ffae.png"
   },
   {
    "title": "CWC x Sosoul: A Breathwork Evening",
