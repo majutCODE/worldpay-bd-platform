@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-12T21:30+00:00",
+ "fetched_at": "2026-11-13T14:45+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Securing Finance in the Age of AI",
-   "start": "2026-11-12T18:00+00:00",
-   "end": "2026-11-12T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/ZIGFinancexSecure.com",
-   "source": "Luma",
-   "organiser": "ZIG Finance",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9x/8c0a8627-a9c9-4f59-8279-97815002ed74.png"
-  },
   {
    "title": "Solana Intelligence Summit",
    "start": "2026-11-13T10:00+00:00",
@@ -94,9 +79,24 @@
    "image": "https://images.lumacdn.com/uploads/55/95de7808-953e-46a9-9a17-dd323b0c8e96.png"
   },
   {
+   "title": "Drakes on Tap",
+   "start": "2026-11-13T20:00+00:00",
+   "end": "2026-11-13T23:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/c0yh7qhz",
+   "source": "Luma",
+   "organiser": "Lucid Drakes",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vd/a204fdda-f2d0-4be6-a5c8-116700bb4d59.jpg"
+  },
+  {
    "title": "Solana ⚽ Cup by Cesto & BONK",
-   "start": "2026-11-14T09:00+00:00",
-   "end": "2026-11-14T15:00+00:00",
+   "start": "2026-11-14T08:30+00:00",
+   "end": "2026-11-14T17:00+00:00",
    "city": "London",
    "venue": "",
    "url": "https://lu.ma/5sf70a63",
@@ -197,6 +197,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/7f/34d07ca1-0fd4-44f5-9429-bf16d942da4a.jpg"
+  },
+  {
+   "title": "Velvet Traders House at Solana Breakpoint",
+   "start": "2026-11-15T13:00+00:00",
+   "end": "2026-11-15T19:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/8w0zaj7z",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/8h/8b6094bf-4075-42f5-97f5-9b23ebdfeaa8.png"
   },
   {
    "title": "VCs & LPs Cocktail Hour ✨ Breakpoint - London",
@@ -533,7 +548,7 @@
    "start": "2026-11-16T21:00+00:00",
    "end": "2026-11-17T01:00+00:00",
    "city": "London",
-   "venue": "Century Club",
+   "venue": "",
    "url": "https://lu.ma/ketcj6z6",
    "source": "Luma",
    "organiser": "Bing Bong",
@@ -559,19 +574,19 @@
    "image": "https://images.lumacdn.com/uploads/u3/3dc1f74f-8482-431b-9339-aceb4926ae60.png"
   },
   {
-   "title": "Unofficial Official After Party to Breakpoint 2026: The Great British Pub Crawl",
-   "start": "2026-11-17T18:00+00:00",
-   "end": "2026-11-18T00:00+00:00",
+   "title": "After Hours with Clocked, MoonPay & Solana",
+   "start": "2026-11-17T17:30+00:00",
+   "end": "2026-11-17T19:30+00:00",
    "city": "London",
-   "venue": "Olympia",
-   "url": "https://lu.ma/BP26-After-Party",
+   "venue": "",
+   "url": "https://lu.ma/6d7cm21j",
    "source": "Luma",
-   "organiser": "Superteam",
+   "organiser": "Personal",
    "verticals": [
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/hh/ea4c0f10-25fd-405e-b81a-c4c00adc6397.jpg"
+   "image": "https://images.lumacdn.com/uploads/f2/e66434df-f9ed-4e30-9f96-f4ce2d64b1f9.png"
   },
   {
    "title": "Blockchain.com: TYB Party",
@@ -611,7 +626,7 @@
    "venue": "",
    "url": "https://lu.ma/hovkpcus",
    "source": "Luma",
-   "organiser": "BCNL Foundation",
+   "organiser": "AI House Amsterdam Events",
    "verticals": [
     "crypto"
    ],
@@ -761,7 +776,7 @@
    "venue": "",
    "url": "https://www.meetup.com/amsterdam-crypto-curious/events/317383380/",
    "source": "Meetup",
-   "organiser": "Amsterdam Crypto Curious",
+   "organiser": "Crypto Curious Amsterdam / Netherlands",
    "verticals": [
     "crypto"
    ],
