@@ -1,68 +1,7 @@
 {
- "fetched_at": "2026-11-13T14:45+00:00",
+ "fetched_at": "2026-11-13T20:56+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Solana Intelligence Summit",
-   "start": "2026-11-13T10:00+00:00",
-   "end": "2026-11-13T18:00+00:00",
-   "city": "London",
-   "venue": "Somerset House",
-   "url": "https://lu.ma/intelligence-summit",
-   "source": "Luma",
-   "organiser": "Solana Foundation",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/eo/c3df31b2-c96d-4223-aff3-e7983c012476.jpg"
-  },
-  {
-   "title": "Crypto Padel: Solana Breakpoint Week",
-   "start": "2026-11-13T12:30+00:00",
-   "end": "2026-11-13T15:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/afr82s1n",
-   "source": "Luma",
-   "organiser": "TechChain Talent",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/l4/7cd23b58-ab40-4b32-a077-3ccbc3d61143.png"
-  },
-  {
-   "title": "Drawing with “obsolete” devices: discovering pen plotters",
-   "start": "2026-11-13T13:30+00:00",
-   "end": "2026-11-13T15:00+00:00",
-   "city": "Amsterdam",
-   "venue": "Oudeschans 16",
-   "url": "https://lu.ma/rxyzo2v0",
-   "source": "Luma",
-   "organiser": "Internet Archive Europe",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/1n/66b93528-e783-4baf-8c51-8fb90d640920.png"
-  },
-  {
-   "title": "Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future",
-   "start": "2026-11-13T15:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/317156477/",
-   "source": "Meetup",
-   "organiser": "LFDT London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
-  },
   {
    "title": "AI Verification x Crypto",
    "start": "2026-11-13T18:00+00:00",
@@ -394,6 +333,21 @@
    "image": "https://images.lumacdn.com/uploads/k5/e2cd2ffe-25fd-48ba-bd95-464fe3cbb361.png"
   },
   {
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
+   "source": "Luma",
+   "organiser": "Multicoin Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -422,21 +376,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
-  },
-  {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
   },
   {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
@@ -527,6 +466,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/sg/4db69bd6-e488-41c2-bfa1-849c830ddf63.png"
+  },
+  {
+   "title": "Onchain.cc: A Proper British Night Out",
+   "start": "2026-11-16T19:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "London",
+   "url": "https://lu.ma/a3g7wcxs",
+   "source": "Luma",
+   "organiser": "Onchain.CC",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/md/04eb0ff2-bf54-4d3c-9498-9d78779f3264.png"
   },
   {
    "title": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
