@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-11-13T20:56+00:00",
+ "fetched_at": "2026-11-14T13:41+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "AI Verification x Crypto",
-   "start": "2026-11-13T18:00+00:00",
-   "end": "2026-11-13T21:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/j5glptwa",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/55/95de7808-953e-46a9-9a17-dd323b0c8e96.png"
-  },
-  {
-   "title": "Drakes on Tap",
-   "start": "2026-11-13T20:00+00:00",
-   "end": "2026-11-13T23:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/c0yh7qhz",
-   "source": "Luma",
-   "organiser": "Lucid Drakes",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vd/a204fdda-f2d0-4be6-a5c8-116700bb4d59.jpg"
-  },
   {
    "title": "Solana ⚽ Cup by Cesto & BONK",
    "start": "2026-11-14T08:30+00:00",
@@ -45,14 +15,14 @@
     "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/fd/e0a72e1b-9492-4c53-a428-c4e2ee6a4e71.png"
+   "image": "https://images.lumacdn.com/uploads/60/e9e692d7-044c-4a86-ae21-a5207624b448.png"
   },
   {
    "title": "Scale or Die",
    "start": "2026-11-14T09:30+00:00",
-   "end": "2026-11-14T18:30+00:00",
+   "end": "2026-11-14T17:30+00:00",
    "city": "London",
-   "venue": "",
+   "venue": "International Convention Centre at Olympia (ICC)",
    "url": "https://lu.ma/scale-or-die-26",
    "source": "Luma",
    "organiser": "Solana Accelerate",
@@ -333,21 +303,6 @@
    "image": "https://images.lumacdn.com/uploads/k5/e2cd2ffe-25fd-48ba-bd95-464fe3cbb361.png"
   },
   {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
    "start": "2026-11-16T17:00+00:00",
    "end": "2026-11-16T20:00+00:00",
@@ -376,6 +331,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
+  },
+  {
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T17:00+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
+   "source": "Luma",
+   "organiser": "Multicoin Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
   },
   {
    "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
@@ -872,6 +842,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/yt/ca6fd41a-7d2e-4151-b92d-3cc1c53885e8.jpg"
+  },
+  {
+   "title": "CryptoMondays London",
+   "start": "2026-12-14T18:30+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/cryptomondayslondon/events/317408681/",
+   "source": "Meetup",
+   "organiser": "CryptoMondays London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "London Blockchain: Institutional Investment Summit",
