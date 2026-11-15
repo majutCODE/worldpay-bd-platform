@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-14T19:18+00:00",
+ "fetched_at": "2026-11-15T14:09+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Riserva London | Stablecoins and compliance over wine",
-   "start": "2026-11-14T17:00+00:00",
-   "end": "2026-11-14T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/fkoham7n",
-   "source": "Luma",
-   "organiser": "Range",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/bf/8ecdd609-68c7-45b5-8b17-691952708dc3.png"
-  },
   {
    "title": "QuillAudits 1:1 Meetings at Solana Breakpoint",
    "start": "2026-11-15T09:00+00:00",
@@ -31,21 +16,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/9q/82d1e748-41c9-4358-9e57-5d387923be02.png"
-  },
-  {
-   "title": "🏀 Solana Breakpoint Basketball & Breakfast | London 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-   "start": "2026-11-15T10:00+00:00",
-   "end": "2026-11-15T12:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/5yhvfaky",
-   "source": "Luma",
-   "organiser": "🏀 Web3 Basketball side events (Global)",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/yc/b50603a9-b5a2-4d87-becb-145cf535c027.png"
   },
   {
    "title": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana 🍕",
@@ -64,8 +34,8 @@
   },
   {
    "title": "Velvet Traders House at Solana Breakpoint",
-   "start": "2026-11-15T13:00+00:00",
-   "end": "2026-11-15T19:00+00:00",
+   "start": "2026-11-15T14:30+00:00",
+   "end": "2026-11-15T20:30+00:00",
    "city": "London",
    "venue": "",
    "url": "https://lu.ma/8w0zaj7z",
@@ -151,6 +121,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/12/25b5166e-e01e-4d0d-954c-93472383b38d.png"
+  },
+  {
+   "title": "Token Supercycle with Spring (by Streamflow)",
+   "start": "2026-11-15T19:00+00:00",
+   "end": "2026-11-15T23:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/nasoclem",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/oi/a95a8f8f-1462-42fa-b7c3-9cd2cac08a11.png"
   },
   {
    "title": "Solana Breakpoint",
@@ -243,21 +228,6 @@
    "image": "https://images.lumacdn.com/uploads/d4/5e7341fb-f104-4586-ae24-fc40ab647c91.png"
   },
   {
-   "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
-   "start": "2026-11-16T16:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/39ckiuiy",
-   "source": "Luma",
-   "organiser": "GMGN",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/bn/b240b716-8501-4ca1-b97e-5614e3d65404.png"
-  },
-  {
    "title": "The RWA Pub at Breakpoint",
    "start": "2026-11-16T16:00+00:00",
    "end": "2026-11-16T19:00+00:00",
@@ -271,6 +241,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/k5/e2cd2ffe-25fd-48ba-bd95-464fe3cbb361.png"
+  },
+  {
+   "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
+   "start": "2026-11-16T16:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/39ckiuiy",
+   "source": "Luma",
+   "organiser": "GMGN",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/bn/b240b716-8501-4ca1-b97e-5614e3d65404.png"
   },
   {
    "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
