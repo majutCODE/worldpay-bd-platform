@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T14:09+00:00",
+ "fetched_at": "2026-11-15T19:52+00:00",
  "failures": [],
  "events": [
   {
@@ -18,21 +18,6 @@
    "image": "https://images.lumacdn.com/uploads/9q/82d1e748-41c9-4358-9e57-5d387923be02.png"
   },
   {
-   "title": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana 🍕",
-   "start": "2026-11-15T12:00+00:00",
-   "end": "2026-11-15T17:00+00:00",
-   "city": "London",
-   "venue": "Olympia",
-   "url": "https://lu.ma/blockaid-ztbw",
-   "source": "Luma",
-   "organiser": "Blockaid Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/7f/34d07ca1-0fd4-44f5-9429-bf16d942da4a.jpg"
-  },
-  {
    "title": "Velvet Traders House at Solana Breakpoint",
    "start": "2026-11-15T14:30+00:00",
    "end": "2026-11-15T20:30+00:00",
@@ -46,21 +31,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/8h/8b6094bf-4075-42f5-97f5-9b23ebdfeaa8.png"
-  },
-  {
-   "title": "VCs & LPs Cocktail Hour ✨ Breakpoint - London",
-   "start": "2026-11-15T15:00+00:00",
-   "end": "2026-11-15T17:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/6ung8frj",
-   "source": "Luma",
-   "organiser": "fractl -web3's largest investor network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2f/b100fe51-01f6-4162-918b-297d8c4d4cc9.png"
   },
   {
    "title": "RWAs: From Tokenized to Traded",
@@ -138,21 +108,6 @@
    "image": "https://images.lumacdn.com/uploads/oi/a95a8f8f-1462-42fa-b7c3-9cd2cac08a11.png"
   },
   {
-   "title": "Solana Breakpoint",
-   "start": "2026-11-15T20:00+00:00",
-   "end": "2026-11-18T21:00+00:00",
-   "city": "London",
-   "venue": "Olympia",
-   "url": "https://lu.ma/uhtrdior",
-   "source": "Luma",
-   "organiser": "DoubleZero Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vu/45c9ebca-4cb3-4df6-b698-720b02e5ffb3.png"
-  },
-  {
    "title": "Mayfair House Party Solana Breakpoint London 2026",
    "start": "2026-11-15T22:00+00:00",
    "end": "2026-11-18T10:00+00:00",
@@ -169,8 +124,8 @@
   },
   {
    "title": "Breakpoint Coffee for DeFi Builders & Traders",
-   "start": "2026-11-16T10:00+00:00",
-   "end": "2026-11-16T12:00+00:00",
+   "start": "2026-11-16T09:00+00:00",
+   "end": "2026-11-16T11:00+00:00",
    "city": "London",
    "venue": "Huddle Hammersmith | Coworking & Private Offices",
    "url": "https://lu.ma/a6xuo4c1",
@@ -303,21 +258,6 @@
    "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
   },
   {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
    "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
    "start": "2026-11-16T17:30+00:00",
    "end": "2026-11-16T20:30+00:00",
@@ -363,6 +303,21 @@
    "image": "https://images.lumacdn.com/uploads/i5/89d46cf6-903a-42c8-9202-635db0b231e3.png"
   },
   {
+   "title": "Bullseye with Multicoin Capital",
+   "start": "2026-11-16T18:00+00:00",
+   "end": "2026-11-16T22:00+00:00",
+   "city": "London",
+   "venue": "Flight Club Victoria",
+   "url": "https://lu.ma/4m0ksi3i",
+   "source": "Luma",
+   "organiser": "Multicoin Capital",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
+  },
+  {
    "title": "LONDON CALLING 🇬🇧",
    "start": "2026-11-16T18:00+00:00",
    "end": "2026-11-16T23:00+00:00",
@@ -376,6 +331,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/m9/1ca83471-5e9b-46b2-8e97-11fb3e4af15e.png"
+  },
+  {
+   "title": "Alchemy VIP Dinner: Solana Breakpoint",
+   "start": "2026-11-16T18:15+00:00",
+   "end": "2026-11-16T21:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/3ob6fi72",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ny/81553b2b-3ac6-4f6a-b5b8-9713e8c6a226.png"
   },
   {
    "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
@@ -421,6 +391,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/jx/abdae8cf-cb57-4e08-ab56-62535533bd0b.jpg"
+  },
+  {
+   "title": "The Maps Pub Quiz with Rhoni Cash",
+   "start": "2026-11-16T19:30+00:00",
+   "end": "2026-11-16T21:30+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/tgauxqnl",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.unsplash.com/photo-1489702932289-406b7782113c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxOXx8bWFwc3xlbnwwfHx8fDE3OTIzNDkzMjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
    "title": "BING BONG AFTER DARK BREAKPOINT powered by PHANTOM",
@@ -722,6 +708,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/7y/580cf4ec-8493-4b9a-b1b9-fab95709bf8f.png"
+  },
+  {
+   "title": "BitDevs - Socratic Seminar #55",
+   "start": "2026-11-25T18:40+00:00",
+   "end": "2026-11-25T21:00+00:00",
+   "city": "London",
+   "venue": "Antidote",
+   "url": "https://lu.ma/antidote-pswa",
+   "source": "Luma",
+   "organiser": "Antidote Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/o4/30a459d3-91e1-429f-b4c9-bbeced5cc8b0.webp"
   },
   {
    "title": "Discussing Cryptocurrencies and Blockchain",
