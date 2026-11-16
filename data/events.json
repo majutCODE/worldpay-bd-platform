@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-16T16:11+00:00",
+ "fetched_at": "2026-11-16T23:26+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Mayfair House Party Solana Breakpoint London 2026",
-   "start": "2026-11-15T22:00+00:00",
-   "end": "2026-11-18T10:00+00:00",
-   "city": "London",
-   "venue": "Mayfair",
-   "url": "https://lu.ma/mtzdt3zx",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/sv/cb7b5b96-06f1-430d-b58b-45c67566a554.jpg"
-  },
   {
    "title": "Colosseum Builder Zone",
    "start": "2026-11-16T10:30+00:00",
@@ -33,277 +18,6 @@
    "image": "https://images.lumacdn.com/uploads/r9/557dc1d0-7a04-40c4-87e5-a772c962ac07.png"
   },
   {
-   "title": "SWC | Debanking Roundtable at Zebu Live Arms",
-   "start": "2026-11-16T12:30+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/ejadxw59",
-   "source": "Luma",
-   "organiser": "Stand with Crypto in the UK",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/zq/f584b215-961e-468f-b983-d7694f248ea2.png"
-  },
-  {
-   "title": "Whitepaper Reading Club - After Alpenglow",
-   "start": "2026-11-16T15:30+00:00",
-   "end": "2026-11-16T17:00+00:00",
-   "city": "London",
-   "venue": "WeWork - Office Space & Coworking",
-   "url": "https://lu.ma/wprc-breakpoint26",
-   "source": "Luma",
-   "organiser": "Whitepaper Reading Club",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/d4/5e7341fb-f104-4586-ae24-fc40ab647c91.png"
-  },
-  {
-   "title": "The RWA Pub at Breakpoint",
-   "start": "2026-11-16T16:00+00:00",
-   "end": "2026-11-16T19:00+00:00",
-   "city": "London",
-   "venue": "The Swan",
-   "url": "https://lu.ma/a9yvvi96",
-   "source": "Luma",
-   "organiser": "Figure",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/k5/e2cd2ffe-25fd-48ba-bd95-464fe3cbb361.png"
-  },
-  {
-   "title": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026",
-   "start": "2026-11-16T16:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/39ckiuiy",
-   "source": "Luma",
-   "organiser": "GMGN",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/bn/b240b716-8501-4ca1-b97e-5614e3d65404.png"
-  },
-  {
-   "title": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T20:00+00:00",
-   "city": "London",
-   "venue": "Lillie's Wine Bar & Restaurant",
-   "url": "https://lu.ma/mkvzcqey",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg"
-  },
-  {
-   "title": "Solana Breakpoint Security Drinks - by Fidesium",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "121 Hammersmith Rd",
-   "url": "https://lu.ma/lajgsnqb",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9f/f8682003-10d9-422c-8fad-03426bcdf6e2.png"
-  },
-  {
-   "title": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/1hdsvfdv",
-   "source": "Luma",
-   "organiser": "Chiliz Community Meetup",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2x/640c5c51-f555-46db-8c4e-d96dd1bfe847.png"
-  },
-  {
-   "title": "Bullseye with Multicoin Capital",
-   "start": "2026-11-16T17:00+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "Flight Club Victoria",
-   "url": "https://lu.ma/4m0ksi3i",
-   "source": "Luma",
-   "organiser": "Multicoin Capital",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/9k/d0048f06-739d-46d0-9771-ea452dc62823.png"
-  },
-  {
-   "title": "London After Hours I The Breakpoint Debrief by GSR x Arkham",
-   "start": "2026-11-16T17:30+00:00",
-   "end": "2026-11-16T20:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/gsrcrypto-jmyt",
-   "source": "Luma",
-   "organiser": "GSR Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png"
-  },
-  {
-   "title": "House of Sol: Breakpoint",
-   "start": "2026-11-16T18:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/hos-breakpoint",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ho/5146313a-daa8-4cc8-bc97-aee941826267.png"
-  },
-  {
-   "title": "SOL Calling: Solana Breakpoint Happy Hour",
-   "start": "2026-11-16T18:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/gpxfy249",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/i5/89d46cf6-903a-42c8-9202-635db0b231e3.png"
-  },
-  {
-   "title": "LONDON CALLING 🇬🇧",
-   "start": "2026-11-16T18:00+00:00",
-   "end": "2026-11-16T23:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/cbiabn4m",
-   "source": "Luma",
-   "organiser": "CryptoMondays London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/m9/1ca83471-5e9b-46b2-8e97-11fb3e4af15e.png"
-  },
-  {
-   "title": "Proof Of Strength: Solana Goes Bouldering",
-   "start": "2026-11-16T18:00+00:00",
-   "end": "2026-11-16T20:00+00:00",
-   "city": "London",
-   "venue": "RavensWall Climbing Centre",
-   "url": "https://lu.ma/y4rwa5fg",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/tk/4fcd0a01-639b-4840-b917-37a5dfa03e3e.png"
-  },
-  {
-   "title": "Alchemy VIP Dinner: Solana Breakpoint",
-   "start": "2026-11-16T18:15+00:00",
-   "end": "2026-11-16T21:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/3ob6fi72",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ny/81553b2b-3ac6-4f6a-b5b8-9713e8c6a226.png"
-  },
-  {
-   "title": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
-   "start": "2026-11-16T19:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/aqntywn2",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/sg/4db69bd6-e488-41c2-bfa1-849c830ddf63.png"
-  },
-  {
-   "title": "Onchain.cc: A Proper British Night Out",
-   "start": "2026-11-16T19:00+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/a3g7wcxs",
-   "source": "Luma",
-   "organiser": "Onchain.CC",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/md/04eb0ff2-bf54-4d3c-9498-9d78779f3264.png"
-  },
-  {
-   "title": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
-   "start": "2026-11-16T19:30+00:00",
-   "end": "2026-11-16T22:00+00:00",
-   "city": "London",
-   "venue": "Frameless",
-   "url": "https://lu.ma/frzpha3k",
-   "source": "Luma",
-   "organiser": "Render Network Foundation",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/jx/abdae8cf-cb57-4e08-ab56-62535533bd0b.jpg"
-  },
-  {
-   "title": "The Maps Pub Quiz with Rhoni Cash",
-   "start": "2026-11-16T19:30+00:00",
-   "end": "2026-11-16T21:30+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/tgauxqnl",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.unsplash.com/photo-1489702932289-406b7782113c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxOXx8bWFwc3xlbnwwfHx8fDE3OTIzNDkzMjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
    "title": "BING BONG AFTER DARK BREAKPOINT powered by PHANTOM",
    "start": "2026-11-16T21:00+00:00",
    "end": "2026-11-17T01:00+00:00",
@@ -317,6 +31,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/lz/33cf9e4a-3c06-4725-8adb-fbd70a3beaf4.png"
+  },
+  {
+   "title": "Head Down 5K × Solana | 445 CREW | 4:45am! Start",
+   "start": "2026-11-17T04:45+00:00",
+   "end": "2026-11-17T05:45+00:00",
+   "city": "London",
+   "venue": "M&S Foodhall",
+   "url": "https://lu.ma/3bwtn4jz",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/dz/1c0d9a23-406a-4a35-aa06-b9864dbb0018.jpg"
   },
   {
    "title": "Metaplex VIP Lunch - Bringing new markets to Solana",
@@ -377,6 +106,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/gz/576f6fa3-6c7a-45c7-af47-78fb798f8f1a.png"
+  },
+  {
+   "title": "Superteam Brasil Pub Takeover @ The Courtfield",
+   "start": "2026-11-17T20:00+00:00",
+   "end": "2026-11-17T21:00+00:00",
+   "city": "London",
+   "venue": "Courtfield",
+   "url": "https://lu.ma/stbr-pub-night",
+   "source": "Luma",
+   "organiser": "Superteam Brasil",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/7e/338c1cea-ff85-4caa-94ee-ebc0467dbfd1.png"
   },
   {
    "title": "Vixio Global Regulatory Awards 2026",
@@ -635,6 +379,21 @@
    "image": "https://images.lumacdn.com/uploads/kk/2bc9d570-43ba-4df1-bfe3-2f42d6aa2e32.png"
   },
   {
+   "title": "🥐 Antidote Open Day: Deluxe Breakfast Edition",
+   "start": "2026-11-25T09:30+00:00",
+   "end": "2026-11-25T11:00+00:00",
+   "city": "London",
+   "venue": "Antidote",
+   "url": "https://lu.ma/antidote-tttj",
+   "source": "Luma",
+   "organiser": "Antidote Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/event-covers/v9/068b2d45-8598-4f87-9e84-3672cc374981.png"
+  },
+  {
    "title": "Crypto Drinks - Amsterdam",
    "start": "2026-11-25T17:30+00:00",
    "end": "2026-11-25T21:30+00:00",
@@ -710,6 +469,36 @@
    "image": "https://images.lumacdn.com/uploads/27/d97917a6-b1c0-475e-a49c-27aa1a98ddf6.png"
   },
   {
+   "title": "Executive Digital Assets Dinner w/ Halborn",
+   "start": "2026-12-01T19:00+00:00",
+   "end": "2026-12-01T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/HalbornDinnerLDN",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/qj/c8c64207-9720-44a3-a8d3-4f582710e218.jpg"
+  },
+  {
+   "title": "Tokenization was the Beginning. Agentic Capital Markets is the endgame",
+   "start": "2026-12-02T15:00+00:00",
+   "end": "",
+   "city": "London",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-london/events/317457143/",
+   "source": "Meetup",
+   "organiser": "LFDT London",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
+  },
+  {
    "title": "Antidote Presents: News Night",
    "start": "2026-12-02T18:30+00:00",
    "end": "2026-12-02T20:00+00:00",
@@ -770,6 +559,21 @@
    "image": "https://images.lumacdn.com/uploads/9d/45b4e33e-93e2-4a6a-971d-5210b721ffae.png"
   },
   {
+   "title": "House of Sol Workshops: Privacy on Solana for Institutions: SRI x Helius",
+   "start": "2026-12-10T13:00+00:00",
+   "end": "2026-12-10T15:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/sg9w8vcx",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/pw/a8387047-0b2c-432f-be77-ddce4bd27608.png"
+  },
+  {
    "title": "CWC x Sosoul: A Breathwork Evening",
    "start": "2026-12-10T18:30+00:00",
    "end": "2026-12-10T21:00+00:00",
@@ -785,6 +589,21 @@
    "image": "https://images.lumacdn.com/uploads/yt/ca6fd41a-7d2e-4151-b92d-3cc1c53885e8.jpg"
   },
   {
+   "title": "House of Sol: Christmas Party",
+   "start": "2026-12-11T18:00+00:00",
+   "end": "2026-12-11T22:00+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/hos-christmas",
+   "source": "Luma",
+   "organiser": "House of Sol",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/dq/7bd042aa-281b-491a-a975-8ea3070c3a19.png"
+  },
+  {
    "title": "CryptoMondays London",
    "start": "2026-12-14T18:30+00:00",
    "end": "",
@@ -798,6 +617,21 @@
    ],
    "online": false,
    "image": ""
+  },
+  {
+   "title": "Who Will Orchestrate the Tokenized Economy?",
+   "start": "2027-02-02T08:30+00:00",
+   "end": "2027-02-02T11:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/tbw-london-feb",
+   "source": "Luma",
+   "organiser": "TBW's Corporate Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/wa/1d4c69e9-6a22-4f90-b3d5-7e8e0365deec.png"
   },
   {
    "title": "London Blockchain: Institutional Investment Summit",
@@ -888,6 +722,21 @@
    ],
    "online": false,
    "image": ""
+  },
+  {
+   "title": "Is DeFi Only Interesting for Crypto-Native Assets?",
+   "start": "2027-11-10T08:30+00:00",
+   "end": "2027-11-10T11:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/tbw-london-november",
+   "source": "Luma",
+   "organiser": "TBW's Corporate Events",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/01/5062a820-8f23-40a9-aff3-a855608f5c8b.png"
   }
  ]
 }
