@@ -1,67 +1,7 @@
 {
- "fetched_at": "2026-11-16T23:26+00:00",
+ "fetched_at": "2026-11-17T16:18+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Colosseum Builder Zone",
-   "start": "2026-11-16T10:30+00:00",
-   "end": "2026-11-17T19:00+00:00",
-   "city": "London",
-   "venue": "Olympia",
-   "url": "https://lu.ma/colosseum-2xiq",
-   "source": "Luma",
-   "organiser": "Colosseum",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/r9/557dc1d0-7a04-40c4-87e5-a772c962ac07.png"
-  },
-  {
-   "title": "BING BONG AFTER DARK BREAKPOINT powered by PHANTOM",
-   "start": "2026-11-16T21:00+00:00",
-   "end": "2026-11-17T01:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/ketcj6z6",
-   "source": "Luma",
-   "organiser": "Bing Bong",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/lz/33cf9e4a-3c06-4725-8adb-fbd70a3beaf4.png"
-  },
-  {
-   "title": "Head Down 5K × Solana | 445 CREW | 4:45am! Start",
-   "start": "2026-11-17T04:45+00:00",
-   "end": "2026-11-17T05:45+00:00",
-   "city": "London",
-   "venue": "M&S Foodhall",
-   "url": "https://lu.ma/3bwtn4jz",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/dz/1c0d9a23-406a-4a35-aa06-b9864dbb0018.jpg"
-  },
-  {
-   "title": "Metaplex VIP Lunch - Bringing new markets to Solana",
-   "start": "2026-11-17T12:00+00:00",
-   "end": "2026-11-17T15:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/5hdnilau",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/zn/4d75c615-b3f9-4961-8211-8c554ab9fd42.png"
-  },
   {
    "title": "London Happy Hour",
    "start": "2026-11-17T17:00+00:00",
@@ -376,7 +316,7 @@
     "gaming"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/kk/2bc9d570-43ba-4df1-bfe3-2f42d6aa2e32.png"
+   "image": "https://images.lumacdn.com/uploads/m0/83e9e2d7-db8d-45d8-af65-02a26187ded5.png"
   },
   {
    "title": "🥐 Antidote Open Day: Deluxe Breakfast Edition",
