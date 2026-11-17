@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-11-17T16:18+00:00",
+ "fetched_at": "2026-11-17T22:30+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "London Happy Hour",
-   "start": "2026-11-17T17:00+00:00",
-   "end": "2026-11-17T20:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/LondonHappyHour",
-   "source": "Luma",
-   "organiser": "Figment Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/u3/3dc1f74f-8482-431b-9339-aceb4926ae60.png"
-  },
-  {
-   "title": "After Hours with Clocked, MoonPay & Solana",
-   "start": "2026-11-17T17:30+00:00",
-   "end": "2026-11-17T19:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/6d7cm21j",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/f2/e66434df-f9ed-4e30-9f96-f4ce2d64b1f9.png"
-  },
   {
    "title": "Blockchain.com: TYB Party",
    "start": "2026-11-17T20:00+00:00",
@@ -46,21 +16,6 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/gz/576f6fa3-6c7a-45c7-af47-78fb798f8f1a.png"
-  },
-  {
-   "title": "Superteam Brasil Pub Takeover @ The Courtfield",
-   "start": "2026-11-17T20:00+00:00",
-   "end": "2026-11-17T21:00+00:00",
-   "city": "London",
-   "venue": "Courtfield",
-   "url": "https://lu.ma/stbr-pub-night",
-   "source": "Luma",
-   "organiser": "Superteam Brasil",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/7e/338c1cea-ff85-4caa-94ee-ebc0467dbfd1.png"
   },
   {
    "title": "Vixio Global Regulatory Awards 2026",
