@@ -1,52 +1,7 @@
 {
- "fetched_at": "2026-11-18T15:51+00:00",
+ "fetched_at": "2026-11-18T22:10+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Blockchain Meets AI",
-   "start": "2026-11-18T16:30+00:00",
-   "end": "2026-11-18T19:30+00:00",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://lu.ma/hovkpcus",
-   "source": "Luma",
-   "organiser": "AI House Amsterdam Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/z0/a8f55ca1-900d-4ab7-ba3d-146adc359fd1.png"
-  },
-  {
-   "title": "Solana RWA & DeFi VC Drinks",
-   "start": "2026-11-18T19:00+00:00",
-   "end": "2026-11-18T21:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/p8nxhvyh",
-   "source": "Luma",
-   "organiser": "Personal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/6j/45a96fa0-8db9-42ce-bd1b-427ae36b746d.png"
-  },
-  {
-   "title": "QFEX Private Dinner | Solana Breakpoint",
-   "start": "2026-11-18T19:00+00:00",
-   "end": "2026-11-18T22:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/6qnuusnh",
-   "source": "Luma",
-   "organiser": "QFEX Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/m7/d0cc5712-0876-4044-89d2-fd575f9711a8.png"
-  },
   {
    "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
    "start": "2026-11-19T17:00+00:00",
@@ -121,6 +76,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/pz/9389304a-735e-4b32-bdb7-13f6ccb0602e.png"
+  },
+  {
+   "title": "One Trillion Parameters, One Token at a Time",
+   "start": "2026-11-20T13:30+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/ai-performance-engineering-amsterdam/events/317470239/",
+   "source": "Meetup",
+   "organiser": "AI Performance Engineering Meetup (Amsterdam)",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
   },
   {
    "title": "Crypto Dinner - Amsterdam",
@@ -497,6 +467,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/wa/1d4c69e9-6a22-4f90-b3d5-7e8e0365deec.png"
+  },
+  {
+   "title": "Off the Beaten Vine: CWC wine tasting",
+   "start": "2027-02-11T17:30+00:00",
+   "end": "2027-02-11T20:00+00:00",
+   "city": "Amsterdam",
+   "venue": "Keizersgracht 555",
+   "url": "https://lu.ma/gmqfnzrt",
+   "source": "Luma",
+   "organiser": "Crypto Women Collective",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/qa/5f068839-4770-4fa7-a4aa-5af3c6b74f0b.jpg"
   },
   {
    "title": "London Blockchain: Institutional Investment Summit",
