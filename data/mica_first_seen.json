@@ -187,6 +187,10 @@
 "date": "2026-06-26",
 "estimated": true
 },
+"CASP|254900QWGNL1STBZDC19": {
+"date": "2026-11-18",
+"estimated": false
+},
 "CASP|254900S52YR70F0BK713": {
 "date": "2026-06-03",
 "estimated": true
@@ -774,6 +778,10 @@
 "CASP|529900TBT1Z4FKTX5T93": {
 "date": "2026-09-15",
 "estimated": true
+},
+"CASP|529900U2YWMWH2WVJA75": {
+"date": "2026-11-18",
+"estimated": false
 },
 "CASP|529900U7HFGPGXW9JB86": {
 "date": "2026-11-11",
@@ -2406,6 +2414,10 @@
 "Non-compliant|streamherplexnx": {
 "date": "2026-05-18",
 "estimated": true
+},
+"Non-compliant|swipeluxoü": {
+"date": "2026-11-18",
+"estimated": false
 },
 "Non-compliant|sxr922": {
 "date": "2025-06-26",
