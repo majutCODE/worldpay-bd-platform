@@ -1,52 +1,7 @@
 {
- "fetched_at": "2026-11-18T22:10+00:00",
+ "fetched_at": "2026-11-19T22:20+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy",
-   "start": "2026-11-19T17:00+00:00",
-   "end": "2026-11-19T19:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/HoS-Workshops-Alchemy",
-   "source": "Luma",
-   "organiser": "House of Sol",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/zm/d08e94ce-f4f2-4dee-a0e5-b2eb9422dbf5.png"
-  },
-  {
-   "title": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
-   "start": "2026-11-19T17:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/lfdt-london/events/317065039/",
-   "source": "Meetup",
-   "organiser": "LFDT London",
-   "verticals": [
-    "crypto"
-   ],
-   "online": true,
-   "image": ""
-  },
-  {
-   "title": "Xapo Bank Community Event",
-   "start": "2026-11-19T18:00+00:00",
-   "end": "2026-11-19T21:00+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/gpeo2awb",
-   "source": "Luma",
-   "organiser": "Xapo Bank",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/ge/dbd979d1-5349-4b0d-89f5-31e7e5955152.png"
-  },
   {
    "title": "Blockchain Banter Presents: Web3 Poker Club x Wifey - Wolfpack Poker Night",
    "start": "2026-11-19T18:00+00:00",
