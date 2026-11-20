@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-11-20T15:39+00:00",
+ "fetched_at": "2026-11-20T21:53+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Crypto Dinner - Amsterdam",
-   "start": "2026-11-20T17:30+00:00",
-   "end": "2026-11-20T20:00+00:00",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://lu.ma/dinnerAmsterdam",
-   "source": "Luma",
-   "organiser": "CryptoCanal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png"
-  },
-  {
-   "title": "Crypto curious regular meetup",
-   "start": "2026-11-20T18:30+00:00",
-   "end": "",
-   "city": "Amsterdam",
-   "venue": "",
-   "url": "https://www.meetup.com/amsterdam-crypto-curious/events/317383380/",
-   "source": "Meetup",
-   "organiser": "Crypto Curious Amsterdam / Netherlands",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": ""
-  },
   {
    "title": "From Real Assets to Digital Tokens: RWA Tokenisation",
    "start": "2026-11-23T16:30+00:00",
@@ -347,6 +317,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/dq/7bd042aa-281b-491a-a975-8ea3070c3a19.png"
+  },
+  {
+   "title": "Crypto curious regular meetup",
+   "start": "2026-12-11T18:30+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/amsterdam-crypto-curious/events/317383380/",
+   "source": "Meetup",
+   "organiser": "Crypto Curious Amsterdam / Netherlands",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "CryptoMondays London",
