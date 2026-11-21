@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T14:49+00:00",
+ "fetched_at": "2026-11-21T20:36+00:00",
  "failures": [],
  "events": [
   {
@@ -289,6 +289,21 @@
    "image": "https://images.lumacdn.com/uploads/pw/a8387047-0b2c-432f-be77-ddce4bd27608.png"
   },
   {
+   "title": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
+   "start": "2026-12-10T17:00+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/lfdt-netherlands/events/317272162/",
+   "source": "Meetup",
+   "organiser": "LFDT Netherlands",
+   "verticals": [
+    "crypto"
+   ],
+   "online": true,
+   "image": ""
+  },
+  {
    "title": "CWC x Sosoul: A Breathwork Evening",
    "start": "2026-12-10T18:30+00:00",
    "end": "2026-12-10T21:00+00:00",
@@ -363,6 +378,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
+  },
+  {
+   "title": "The Nativity Pub Quiz",
+   "start": "2026-12-21T19:00+00:00",
+   "end": "2026-12-21T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/zvi12pf7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Who Will Orchestrate the Tokenized Economy?",
