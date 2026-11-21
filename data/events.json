@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T21:53+00:00",
+ "fetched_at": "2026-11-21T14:49+00:00",
  "failures": [],
  "events": [
   {
@@ -347,6 +347,22 @@
    ],
    "online": false,
    "image": ""
+  },
+  {
+   "title": "The Jumpers Pub Quiz",
+   "start": "2026-12-14T19:00+00:00",
+   "end": "2026-12-14T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/o12zbni7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/ak/d5ff025a-674b-453e-9d17-3bb0a099925b.jpg"
   },
   {
    "title": "Who Will Orchestrate the Tokenized Economy?",
