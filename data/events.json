@@ -1,22 +1,7 @@
 {
- "fetched_at": "2026-11-24T17:59+00:00",
+ "fetched_at": "2026-11-24T23:33+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "The Knight's Wager: Poker Nights",
-   "start": "2026-11-24T19:00+00:00",
-   "end": "2026-11-24T23:00+00:00",
-   "city": "London",
-   "venue": "Euston Station",
-   "url": "https://lu.ma/19x96hio",
-   "source": "Luma",
-   "organiser": "Transformation",
-   "verticals": [
-    "gaming"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/m0/83e9e2d7-db8d-45d8-af65-02a26187ded5.png"
-  },
   {
    "title": "🥐 Antidote Open Day: Deluxe Breakfast Edition",
    "start": "2026-11-25T09:30+00:00",
@@ -213,6 +198,22 @@
    "image": ""
   },
   {
+   "title": "The Elf Pub Quiz",
+   "start": "2026-12-07T19:00+00:00",
+   "end": "2026-12-07T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/yvjhn5xg",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/gh/d2f71752-23ee-4834-abd4-ae9f498fa387.jpg"
+  },
+  {
    "title": "The W3B Club : The 2027 Outlook for Web3: Funding, Infra Trends & Regulatory Roadmaps",
    "start": "2026-12-09T18:00+00:00",
    "end": "2026-12-09T21:00+00:00",
@@ -333,6 +334,21 @@
    "image": ""
   },
   {
+   "title": "Smart Strategies Digital Assets London - Alleviate Your Fear of Earning Yield Onchain",
+   "start": "2027-02-01T18:00+00:00",
+   "end": "2027-02-01T20:30+00:00",
+   "city": "London",
+   "venue": "SAMBA ROOM",
+   "url": "https://lu.ma/okpr0aac",
+   "source": "Luma",
+   "organiser": "Personal",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/gallery-images/q7/df06078f-53c0-4ad1-a151-15dc8f3e8804.png"
+  },
+  {
    "title": "Who Will Orchestrate the Tokenized Economy?",
    "start": "2027-02-02T08:30+00:00",
    "end": "2027-02-02T11:30+00:00",
@@ -376,6 +392,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/event-covers/bs/de1fb668-996f-405b-8888-58c249543318.png"
+  },
+  {
+   "title": "The MiCA Table @ Amsterdam 🇳🇱",
+   "start": "2027-05-19T17:30+00:00",
+   "end": "2027-05-19T20:30+00:00",
+   "city": "Amsterdam",
+   "venue": "Amsterdam",
+   "url": "https://lu.ma/mz5412kw",
+   "source": "Luma",
+   "organiser": "Capvise Global",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/0w/06b8b622-0e5b-4198-8b04-f9d99794ee2e.png"
   },
   {
    "title": "Impact Amsterdam",
