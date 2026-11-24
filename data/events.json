@@ -1,38 +1,7 @@
 {
- "fetched_at": "2026-11-23T18:32+00:00",
+ "fetched_at": "2026-11-24T01:45+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "From Real Assets to Digital Tokens: RWA Tokenisation",
-   "start": "2026-11-23T16:30+00:00",
-   "end": "2026-11-23T20:30+00:00",
-   "city": "London",
-   "venue": "75 King William St",
-   "url": "https://lu.ma/r5kqfaz0",
-   "source": "Luma",
-   "organiser": "ComTech Swiss in collaboration with XDC Network",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/1b/c2c7648e-0d08-4de6-9c9d-6233253a7eb4.png"
-  },
-  {
-   "title": "The Lady Gaga Pub Quiz with Seb Darke",
-   "start": "2026-11-23T19:30+00:00",
-   "end": "2026-11-23T21:30+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/pmcxckar",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/va/5a940f0c-4612-4925-be73-f2003dad140b.jpg"
-  },
   {
    "title": "The Knight's Wager: Poker Nights",
    "start": "2026-11-24T19:00+00:00",
@@ -244,6 +213,22 @@
    "image": ""
   },
   {
+   "title": "The Elf Pub Quiz",
+   "start": "2026-12-07T19:00+00:00",
+   "end": "2026-12-07T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/yvjhn5xg",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/gh/d2f71752-23ee-4834-abd4-ae9f498fa387.jpg"
+  },
+  {
    "title": "The W3B Club : The 2027 Outlook for Web3: Funding, Infra Trends & Regulatory Roadmaps",
    "start": "2026-12-09T18:00+00:00",
    "end": "2026-12-09T21:00+00:00",
@@ -362,6 +347,22 @@
    ],
    "online": false,
    "image": ""
+  },
+  {
+   "title": "The Nativity Pub Quiz",
+   "start": "2026-12-21T19:00+00:00",
+   "end": "2026-12-21T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/zvi12pf7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Who Will Orchestrate the Tokenized Economy?",
