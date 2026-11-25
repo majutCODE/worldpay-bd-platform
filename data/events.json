@@ -1,67 +1,7 @@
 {
- "fetched_at": "2026-11-25T17:28+00:00",
+ "fetched_at": "2026-11-25T23:11+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Crypto Drinks - Amsterdam",
-   "start": "2026-11-25T17:30+00:00",
-   "end": "2026-11-25T21:30+00:00",
-   "city": "Amsterdam",
-   "venue": "Meet Berlage",
-   "url": "https://lu.ma/o97gbshj",
-   "source": "Luma",
-   "organiser": "CryptoCanal",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/3o/a0f3d083-ded9-49f9-8059-df8218ea9f5d.png"
-  },
-  {
-   "title": "SWC Cup | Crypto Padel League Final",
-   "start": "2026-11-25T17:45+00:00",
-   "end": "2026-11-25T21:45+00:00",
-   "city": "London",
-   "venue": "House of Racquet",
-   "url": "https://lu.ma/p2y6kowo",
-   "source": "Luma",
-   "organiser": "Stand with Crypto in the UK",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/7y/580cf4ec-8493-4b9a-b1b9-fab95709bf8f.png"
-  },
-  {
-   "title": "BitDevs - Socratic Seminar #55",
-   "start": "2026-11-25T18:40+00:00",
-   "end": "2026-11-25T21:00+00:00",
-   "city": "London",
-   "venue": "Antidote",
-   "url": "https://lu.ma/antidote-pswa",
-   "source": "Luma",
-   "organiser": "Antidote Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/o4/30a459d3-91e1-429f-b4c9-bbeced5cc8b0.webp"
-  },
-  {
-   "title": "Discussing Cryptocurrencies and Blockchain",
-   "start": "2026-11-25T19:00+00:00",
-   "end": "",
-   "city": "London",
-   "venue": "",
-   "url": "https://www.meetup.com/meetup-group-gancqlwq/events/317088535/",
-   "source": "Meetup",
-   "organiser": "Discussing Cryptocurrencies and Blockchain",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": ""
-  },
   {
    "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
    "start": "2026-11-27T10:00+00:00",
@@ -121,6 +61,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/4e/c83cd3b7-c974-44a9-8a14-42f3deedf3a2.png"
+  },
+  {
+   "title": "The Gasboss Gatelight Girlkeep Pub Quiz with Abbi Saenz",
+   "start": "2026-11-30T19:30+00:00",
+   "end": "2026-11-30T21:30+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/hcyz63ov",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9z/2fa4fbbb-844a-4c2a-86ed-816f4571a57e.jpg"
   },
   {
    "title": "Digital Finance Executive Connect",
@@ -317,6 +273,22 @@
    ],
    "online": false,
    "image": ""
+  },
+  {
+   "title": "The Nativity Pub Quiz",
+   "start": "2026-12-21T19:00+00:00",
+   "end": "2026-12-21T21:00+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/zvi12pf7",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Smart Strategies Digital Assets London - Alleviate Your Fear of Earning Yield Onchain",
