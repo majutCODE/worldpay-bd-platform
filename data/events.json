@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-11-24T23:33+00:00",
+ "fetched_at": "2026-11-25T17:28+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "🥐 Antidote Open Day: Deluxe Breakfast Edition",
-   "start": "2026-11-25T09:30+00:00",
-   "end": "2026-11-25T11:00+00:00",
-   "city": "London",
-   "venue": "Antidote",
-   "url": "https://lu.ma/antidote-tttj",
-   "source": "Luma",
-   "organiser": "Antidote Events",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/event-covers/v9/068b2d45-8598-4f87-9e84-3672cc374981.png"
-  },
-  {
-   "title": "Rayls Community Meetup: London",
-   "start": "2026-11-25T17:00+00:00",
-   "end": "2026-11-25T19:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/yp556lph",
-   "source": "Luma",
-   "organiser": "Rayls Community Meetups",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
-  },
   {
    "title": "Crypto Drinks - Amsterdam",
    "start": "2026-11-25T17:30+00:00",
@@ -106,6 +76,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/27/d97917a6-b1c0-475e-a49c-27aa1a98ddf6.png"
+  },
+  {
+   "title": "Rayls Community Meetup: London",
+   "start": "2026-11-27T17:00+00:00",
+   "end": "2026-11-27T19:30+00:00",
+   "city": "London",
+   "venue": "",
+   "url": "https://lu.ma/yp556lph",
+   "source": "Luma",
+   "organiser": "Rayls Community Meetups",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
   },
   {
    "title": "WEB3 BUILDERS GATHERING",
