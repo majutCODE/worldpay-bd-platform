@@ -1,37 +1,7 @@
 {
- "fetched_at": "2026-11-26T17:09+00:00",
+ "fetched_at": "2026-11-27T16:52+00:00",
  "failures": [],
  "events": [
-  {
-   "title": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
-   "start": "2026-11-27T10:00+00:00",
-   "end": "2026-11-27T12:00+00:00",
-   "city": "London",
-   "venue": "House of Lords",
-   "url": "https://lu.ma/t7lb04mp",
-   "source": "Luma",
-   "organiser": "Business",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/27/d97917a6-b1c0-475e-a49c-27aa1a98ddf6.png"
-  },
-  {
-   "title": "Rayls Community Meetup: London",
-   "start": "2026-11-27T17:00+00:00",
-   "end": "2026-11-27T19:30+00:00",
-   "city": "London",
-   "venue": "",
-   "url": "https://lu.ma/yp556lph",
-   "source": "Luma",
-   "organiser": "Rayls Community Meetups",
-   "verticals": [
-    "crypto"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
-  },
   {
    "title": "WEB3 BUILDERS GATHERING",
    "start": "2026-11-27T18:00+00:00",
@@ -63,20 +33,19 @@
    "image": "https://images.lumacdn.com/uploads/4e/c83cd3b7-c974-44a9-8a14-42f3deedf3a2.png"
   },
   {
-   "title": "The Gasboss Gatelight Girlkeep Pub Quiz with Abbi Saenz",
-   "start": "2026-11-30T19:30+00:00",
-   "end": "2026-11-30T21:30+00:00",
+   "title": "Rayls Community Meetup: London",
+   "start": "2026-11-30T17:00+00:00",
+   "end": "2026-11-30T19:30+00:00",
    "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/hcyz63ov",
+   "venue": "",
+   "url": "https://lu.ma/yp556lph",
    "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
+   "organiser": "Rayls Community Meetups",
    "verticals": [
-    "gaming",
-    "lottery"
+    "crypto"
    ],
    "online": false,
-   "image": "https://images.lumacdn.com/uploads/9z/2fa4fbbb-844a-4c2a-86ed-816f4571a57e.jpg"
+   "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
   },
   {
    "title": "Digital Finance Executive Connect",
@@ -137,22 +106,6 @@
    ],
    "online": true,
    "image": ""
-  },
-  {
-   "title": "The Elf Pub Quiz",
-   "start": "2026-12-07T19:00+00:00",
-   "end": "2026-12-07T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/yvjhn5xg",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/gh/d2f71752-23ee-4834-abd4-ae9f498fa387.jpg"
   },
   {
    "title": "The W3B Club : The 2027 Outlook for Web3: Funding, Infra Trends & Regulatory Roadmaps",
@@ -273,22 +226,6 @@
    ],
    "online": false,
    "image": ""
-  },
-  {
-   "title": "The Nativity Pub Quiz",
-   "start": "2026-12-21T19:00+00:00",
-   "end": "2026-12-21T21:00+00:00",
-   "city": "London",
-   "venue": "The Harlequin",
-   "url": "https://lu.ma/zvi12pf7",
-   "source": "Luma",
-   "organiser": "The Harlequin* Pub Quiz",
-   "verticals": [
-    "gaming",
-    "lottery"
-   ],
-   "online": false,
-   "image": "https://images.lumacdn.com/uploads/2j/f2e73137-34bc-4460-bf7b-898b054212c0.jpg"
   },
   {
    "title": "Crypto Drinks - Amsterdam",
