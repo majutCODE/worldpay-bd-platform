@@ -387,6 +387,10 @@
 "date": "2026-10-16",
 "estimated": false
 },
+"CASP|5299002L2ADKMUUHYE52": {
+"date": "2026-11-27",
+"estimated": false
+},
 "CASP|5299002PZ7ROI71ZQW56": {
 "date": "2026-09-17",
 "estimated": true
@@ -566,6 +570,10 @@
 "CASP|529900DPOQPLDSF3R482": {
 "date": "2026-07-15",
 "estimated": true
+},
+"CASP|529900DXTOU2U9IZDY54": {
+"date": "2026-11-27",
+"estimated": false
 },
 "CASP|529900E9AS5RG8YBF660": {
 "date": "2026-07-29",
@@ -763,6 +771,10 @@
 "date": "2026-10-16",
 "estimated": false
 },
+"CASP|529900S5P5N8SBXTZG56": {
+"date": "2026-11-27",
+"estimated": false
+},
 "CASP|529900S90ZQ3HED40876": {
 "date": "2026-11-11",
 "estimated": false
@@ -778,6 +790,10 @@
 "CASP|529900TBT1Z4FKTX5T93": {
 "date": "2026-09-15",
 "estimated": true
+},
+"CASP|529900TW43QJ0F6TWD45": {
+"date": "2026-11-27",
+"estimated": false
 },
 "CASP|529900U2YWMWH2WVJA75": {
 "date": "2026-11-18",
@@ -1239,6 +1255,10 @@
 "date": "2026-04-30",
 "estimated": true
 },
+"CASP|95980056YZ3H2T2ADP41": {
+"date": "2026-11-27",
+"estimated": false
+},
 "CASP|9598005WW6HZ4V82BZ26": {
 "date": "2026-08-17",
 "estimated": true
@@ -1426,6 +1446,10 @@
 "CASP|9845004E55FCFA069549": {
 "date": "2026-07-29",
 "estimated": true
+},
+"CASP|984500503M8DF9A49333": {
+"date": "2026-11-27",
+"estimated": false
 },
 "CASP|9845005X9B7N610K0093": {
 "date": "2025-02-06",
@@ -2246,6 +2270,10 @@
 "Non-compliant|m1gqv": {
 "date": "2026-03-25",
 "estimated": true
+},
+"Non-compliant|maturesorio": {
+"date": "2026-11-27",
+"estimated": false
 },
 "Non-compliant|mexcglobal": {
 "date": "2025-09-25",
