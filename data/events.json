@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T22:47+00:00",
+ "fetched_at": "2026-11-28T15:43+00:00",
  "failures": [],
  "events": [
   {
@@ -31,6 +31,22 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/vd/3e5dbda8-aba7-400c-8904-abd245fab855.jpg"
+  },
+  {
+   "title": "The Gasboss Gatelight Girlkeep Pub Quiz with Abbi Saenz",
+   "start": "2026-11-30T19:30+00:00",
+   "end": "2026-11-30T21:30+00:00",
+   "city": "London",
+   "venue": "The Harlequin",
+   "url": "https://lu.ma/hcyz63ov",
+   "source": "Luma",
+   "organiser": "The Harlequin* Pub Quiz",
+   "verticals": [
+    "gaming",
+    "lottery"
+   ],
+   "online": false,
+   "image": "https://images.lumacdn.com/uploads/9z/2fa4fbbb-844a-4c2a-86ed-816f4571a57e.jpg"
   },
   {
    "title": "Digital Finance Executive Connect",
@@ -197,6 +213,21 @@
    ],
    "online": false,
    "image": "https://images.lumacdn.com/uploads/dq/7bd042aa-281b-491a-a975-8ea3070c3a19.png"
+  },
+  {
+   "title": "Crypto curious regular meetup",
+   "start": "2026-12-11T18:30+00:00",
+   "end": "",
+   "city": "Amsterdam",
+   "venue": "",
+   "url": "https://www.meetup.com/amsterdam-crypto-curious/events/317383380/",
+   "source": "Meetup",
+   "organiser": "Crypto Curious Amsterdam / Netherlands",
+   "verticals": [
+    "crypto"
+   ],
+   "online": false,
+   "image": ""
   },
   {
    "title": "CryptoMondays London",
